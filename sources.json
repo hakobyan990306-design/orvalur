@@ -10,7 +10,7 @@
   { "name": "Factor.am", "type": "rss", "url": "https://factor.am/feed" },
   { "name": "Վեոլիա Ջուր", "type": "veolia", "url": "https://www.veolia.am/hy/consumers/jranjatowmner", "digest": true, "kind": "water" },
   { "name": "ՀԷՑ", "type": "ena", "url": "https://www.ena.am/Info.aspx?id=5&lang=1", "digest": true, "kind": "power" },
-  { "name": "Գազպրոմ Արմենիա", "type": "gas", "urls": ["https://armenia-am.gazprom.com/notice/announcement/plan/", "https://armenia-am.gazprom.com/notice/announcement/vtar/"], "digest": true, "kind": "gas" },
+  { "name": "Գազպրոմ Արմենիա", "type": "gas", "urls": ["https://armenia-am.gazprom.com/notice/announcement/plan/", "https://armenia-am.gazprom.com/notice/announcement/vtar/"], "digest": true, "kind": "gas", "enabled": false },
   { "name": "Ազատություն", "type": "rss", "url": "https://www.azatutyun.am/api/zrqiteuuir", "enabled": false },
   { "name": "Նիկոլ Փաշինյան", "type": "telegram", "channel": "ՓՈԽԱՐԻՆԵԼ_ՃԻՇՏ_ԱՆՎԱՄԲ", "enabled": false }
 ]
