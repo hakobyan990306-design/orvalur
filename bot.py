@@ -7,6 +7,7 @@ State (already-seen items) lives in state/seen.json and is committed back by the
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -24,7 +25,9 @@ CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "")  # @mychannel or -100123...
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = os.environ.get("MODEL", "claude-opus-5-5")
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
-MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "4"))
+MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
+GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
+PER_SOURCE = 3  # per run, only the newest few unposted items of each source are considered
 SIGNATURE = os.environ.get("SIGNATURE", "")  # e.g. "👉 @mychannel"
 
 UA = "Mozilla/5.0 (compatible; HyNewsBot/1.0)"
@@ -334,7 +337,10 @@ def main():
             state["seen"].extend(it["id"] for it in new)
             seen.update(it["id"] for it in new)
             continue
-        per_source.append([(src, it) for it in new])  # newest first
+        # Newest first; anything older than the newest few is dropped so we never post stale news.
+        for it in new[PER_SOURCE:]:
+            state["seen"].append(it["id"])
+        per_source.append([(src, it) for it in new[:PER_SOURCE]])
 
     # Round-robin across sources so one busy source doesn't fill the whole run.
     queue = []
@@ -345,9 +351,9 @@ def main():
 
     posted = 0
     for src, item in queue:
-        state["seen"].append(item["id"])
         if posted >= MAX_POSTS:
-            continue  # drop the backlog so the channel never posts stale news
+            break  # left unseen: goes out on the next run if it's still among the newest
+        state["seen"].append(item["id"])
         if is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
             continue
@@ -356,10 +362,18 @@ def main():
         if not text:
             print("    skipped")
             continue
+        if not DRY_RUN:
+            # Space posts out, also across runs, so the channel doesn't get a burst.
+            wait = GAP_MIN * 60 + random.uniform(0, 120) - (time.time() - state.get("last_post", 0))
+            if wait > 0:
+                print(f"    waiting {wait / 60:.1f} min")
+                time.sleep(wait)
         if publish(text, item, src["name"]):
             state["titles"].append(item["title"])
+            state["last_post"] = time.time()
             posted += 1
-            time.sleep(3)
+            if not DRY_RUN:
+                save_state(state)  # so a cancelled run never re-posts
 
     if not DRY_RUN:
         save_state(state)
