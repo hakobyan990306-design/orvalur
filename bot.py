@@ -198,6 +198,63 @@ def fetch_veolia(src):
     return items
 
 
+def _date_of(text):
+    m = re.search(r"(" + "|".join(MONTHS) + r")\s+(\d{1,2})", text)
+    return f"{m.group(1)} {m.group(2)}-ին" if m else ""
+
+
+def fetch_ena(src):
+    """Electricity outages (ENA): planned notices separated by ****,
+    with region headings followed by "11:00–15:00 addresses" lines."""
+    page = http_get(src["url"])
+    items = []
+    # Only the planned section: the emergency table on that page is not kept up to date.
+    planned = page.split('ContentPlaceHolder1_attenbody"', 1)[-1].split("titleVtarayin", 1)[0]
+    for section in [planned]:
+        text = strip_html(re.sub(r"(?i)</p>", "\n", section))
+        for notice in re.split(r"\*{5,}", text):
+            date = _date_of(notice)
+            region, lines = None, {}
+            for line in (l.strip(" ,;") for l in notice.split("\n")):
+                if not line:
+                    continue
+                if re.match(r"^\d{1,2}[:.]\d{2}\s*[–-]", line):
+                    if region:
+                        lines.setdefault(region, []).append(line)
+                elif len(line) < 70 and ("մարզ" in line or "վարչական շրջան" in line):
+                    region = line.rstrip("՝: ")
+            for region, ls in lines.items():
+                where = "; ".join(ls)
+                items.append({
+                    "id": "ena:" + hashlib.md5((date + region + where[:200]).encode()).hexdigest()[:12],
+                    "title": f"{region}, {date}".strip(", "),
+                    "text": where, "link": src["url"], "image": None,
+                    "hours": "", "where": where[:250] + ("…" if len(where) > 250 else ""),
+                })
+    return items
+
+
+def fetch_gas(src):
+    """Gas interruptions (Gazprom Armenia): planned and emergency pages, one sentence per notice."""
+    items = []
+    for url in src["urls"]:
+        page = http_get(url)
+        body = page.split('class="page_text_cont"', 1)[-1].split('<div id="footer"', 1)[0]
+        text = strip_html(re.sub(r"(?i)<br\s*/?>|</div>", "\n", body))
+        for notice in re.findall(r"(?s)նպատակով[՝,]?\s*(.+?գազամատակարարումը)", text):
+            notice = " ".join(notice.split())
+            when = re.match(r"(.+?ժամը\s+[\d:]+[^,]*?)(?:,|\s+կդադարեցվի)", notice)
+            where = re.search(r"կդադարեցվի\s+(.+?)\s+(?:գազասպառողների|գազամատակարարումը)", notice)
+            items.append({
+                "id": "gas:" + hashlib.md5(notice[:300].encode()).hexdigest()[:12],
+                "title": (where.group(1) if where else notice[:80]) + ", " + _date_of(notice),
+                "text": notice, "link": url, "image": None,
+                "hours": when.group(1).strip() if when else "",
+                "where": "",
+            })
+    return items
+
+
 MONTHS = ["հունվարի", "փետրվարի", "մարտի", "ապրիլի", "մայիսի", "հունիսի",
           "հուլիսի", "օգոստոսի", "սեպտեմբերի", "հոկտեմբերի", "նոյեմբերի", "դեկտեմբերի"]
 
@@ -216,6 +273,22 @@ def outage_is_current(title):
         return True
 
 
+KINDS = {  # emoji, headline, "X will be off"
+    "water": ("💧", "Ջրանջատումներ", "Ջուր չի լինի"),
+    "power": ("💡", "Լույսի անջատումներ", "Լույս չի լինի"),
+    "gas": ("🔥", "Գազի անջատումներ", "Գազ չի լինի"),
+}
+
+
+def place_of(text):
+    """("Աջափնյակ", True) for a Yerevan district, ("Հրազդան", False) for a town, ("Կոտայքի մարզ", False) else."""
+    m = re.search(r"Երևան\S*\s+(?:քաղաքի\s+)?(.+?)\s+վարչական", text)
+    if m:
+        return m.group(1), True
+    m = (re.search(r"մարզի\s+(.+?)\s+(?:քաղաք|գյուղ|համայնք|բնակավայր)", text) or re.search(r"(\S+\s+մարզ)", text))
+    return (m.group(1), False) if m else ("", False)
+
+
 def make_digest(src, new):
     """Several outage notices -> one post, so the channel isn't flooded. None if nothing is current."""
     all_new = new
@@ -228,36 +301,35 @@ def make_digest(src, new):
     for it in new[:15]:
         if sum(map(len, lines)) > 3000:  # stay well under Telegram's 4096-char message limit
             break
-        t = re.sub(r"^(Վթարային\s+)?ջրանջատում\s*", "", it["title"], flags=re.I).strip()
+        t = re.sub(r"^(Վթարային\s+)?ջրանջատում\s*", "", it["title"], flags=re.I).strip()[:140]
         line = f"• <b>{html.escape(t)}</b>" + (f", ժ. {html.escape(it['hours'])}" if it["hours"] else "")
         if it["where"]:
-            line += f"\n{html.escape(it['where'][:160])}"
+            line += f"\n{html.escape(it['where'][:250])}"
         lines.append(line)
-        m = (re.search(r"Երևանի\s+(.+?)\s+վարչական", t) or re.search(r"մարզի\s+(.+?)\s+(?:քաղաքում|գյուղում|համայնքում)", t)
-             or re.search(r"(\S+\s+մարզ)ում", t))
-        p = m.group(1) if m else ""
-        bucket = yerevan if t.startswith("Երևան") else others
+        p, is_yerevan = place_of(t)
+        bucket = yerevan if is_yerevan else others
         if p and p not in bucket:
             bucket.append(p)
+    emoji, headline, off = KINDS[src.get("kind", "water")]
     where = "; ".join(filter(None, [("Երևան՝ " + ", ".join(yerevan)) if yerevan else "", ", ".join(others[:6])]))
-    summary = ("Ջուր չի լինի՝ " + where if where else f"{len(new)} ջրանջատում") + "։\n👇 Հասցեներն ու ժամերը՝ ներքևում"
+    summary = (f"{off}՝ {where}" if where else f"{headline}՝ {len(new)}") + "։\n👇 Հասցեներն ու ժամերը՝ ներքևում"
     return {
         "id": "digest:" + new[0]["id"],
         "parts": [it["id"] for it in all_new],
-        "title": "Ջրանջատումներ՝ " + "; ".join(it["title"] for it in new[:3]),
+        "title": f"{headline}՝ " + "; ".join(it["title"] for it in new[:3]),
         "text": "\n".join(lines),
-        "post": "❗️ 💧 Ջրանջատումներ\n\n" + summary,  # plain version for logs
+        "post": f"❗️ {emoji} {headline}\n\n" + summary,  # plain version for logs
         # Short summary visible; the full list is an expandable quote that opens right in the channel.
-        "post_html": f"<b>❗️ 💧 Ջրանջատումներ</b>\n\n{html.escape(summary)}\n\n"
+        "post_html": f"<b>❗️ {emoji} {headline}</b>\n\n{html.escape(summary)}\n\n"
                      f"<blockquote expandable>" + "\n\n".join(lines) + "</blockquote>",
-        "link": src["url"],
+        "link": src.get("url") or new[0]["link"],
         "image": None,
         "score": 10,
         "urgent": True,
     }
 
 
-FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram, "veolia": fetch_veolia}
+FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram, "veolia": fetch_veolia, "ena": fetch_ena, "gas": fetch_gas}
 
 
 # ---------- rewrite ----------
@@ -499,7 +571,7 @@ def main():
         print(f'{src["name"]}: {len(items)} items, {len(new)} new')
 
         # First time we see a source: remember its current items without posting, so the channel isn't flooded.
-        if src["name"] not in state["bootstrapped"] and not DRY_RUN:
+        if src["name"] not in state["bootstrapped"] and not DRY_RUN and not src.get("digest"):
             state["bootstrapped"].append(src["name"])
             state["seen"].extend(it["id"] for it in new)
             seen.update(it["id"] for it in new)
