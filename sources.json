@@ -1,6 +1,10 @@
 [
   { "name": "Shamshyan.com", "type": "telegram", "channel": "shamshyan_com" },
   { "name": "SportToday (FastSport)", "type": "telegram", "channel": "fastsport_am" },
+  { "name": "24News", "type": "telegram", "channel": "twentyfournews" },
+  { "name": "Radar Armenia", "type": "telegram", "channel": "RadarARM" },
+  { "name": "FACTOR TV", "type": "telegram", "channel": "factoram" },
+  { "name": "ՀՀ ՊՆ", "type": "telegram", "channel": "mil_armenia" },
   { "name": "News.am", "type": "rss", "url": "https://news.am/arm/rss/" },
   { "name": "Hetq", "type": "rss", "url": "https://hetq.am/hy/rss" },
   { "name": "Factor.am", "type": "rss", "url": "https://factor.am/feed" },
