@@ -12,7 +12,7 @@
 
 ### 1. Telegram բոտ և կանալ
 1. Telegram-ում գրեք **@BotFather**-ին → `/newbot` → անուն տվեք → կստանաք **token** (`123456:ABC...`)։
-2. Ստեղծեք կանալը (Public, օրինակ `@hay_lurer`)։
+2. Ստեղծեք կանալը (Public, օրինակ `@orvalur`)։
 3. Կանալի Settings → Administrators → ավելացրեք ձեր բոտը, որ կարողանա **Post messages**։
 
 ### 2. GitHub
@@ -23,8 +23,8 @@
      - `TELEGRAM_BOT_TOKEN` — BotFather-ի token-ը
      - `ANTHROPIC_API_KEY` — console.anthropic.com-ից (ցանկության դեպքում, առանց դրա էլ կաշխատի)
    - **Variables** ներդիր.
-     - `TELEGRAM_CHANNEL` — `@hay_lurer`
-     - `SIGNATURE` — ըստ ցանկության, օրինակ `👉 @hay_lurer`
+     - `TELEGRAM_CHANNEL` — `@orvalur`
+     - `SIGNATURE` — ըստ ցանկության, օրինակ `👉 @orvalur`
      - `MODEL` — ըստ ցանկության (տե՛ս ստորև)
      - `MAX_POSTS_PER_RUN` — 15 րոպեում առավելագույնը քանի գրառում (ըստ նախնականի՝ 4)
 
