@@ -217,7 +217,9 @@ def rewrite(item, source_name):
     text = "".join(b.text for b in resp.content if b.type == "text").strip()
     if not text or text.upper().startswith("SKIP"):
         return None
-    return text
+    # Keep at most 2 hashtags, skipping very long ones.
+    tags = iter([t for t in re.findall(r"#\w+", text) if len(t) <= 20][:2])
+    return re.sub(r"#\w+", lambda m: next(tags, ""), text).rstrip(" \n")
 
 
 # ---------- telegram ----------
