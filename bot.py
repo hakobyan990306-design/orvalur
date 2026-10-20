@@ -139,12 +139,18 @@ def fetch_telegram(src):
         if len(text) < 40:  # photo-only / service messages
             continue
         im = re.search(r"tgme_widget_message_photo_wrap[^>]+background-image:url\('([^']+)'\)", block)
+        # Small videos come with a direct file URL; big ones ("Media is too big") only with a thumbnail.
+        vid = re.search(r'<video[^>]+src="([^"]+)"', block)
+        thumb = re.search(r"tgme_widget_message_video_thumb[^>]+background-image:url\('([^']+)'\)", block)
+        dur = re.search(r'message_video_duration[^>]*>([^<]+)<', block)
         items.append({
             "id": f"tg:{post.group(1)}",
             "title": text.split("\n", 1)[0][:200],
             "text": text[:3000],
             "link": f"https://t.me/{post.group(1)}",
-            "image": im.group(1) if im else None,
+            "image": im.group(1) if im else (thumb.group(1) if thumb else None),
+            "video": html.unescape(vid.group(1)) if vid else None,
+            "video_duration": dur.group(1).strip() if (thumb or vid) and dur else None,
         })
     return items[::-1]  # the page lists oldest first; keep newest first like RSS
 
@@ -221,15 +227,28 @@ def tg_call(method, params):
 
 
 def publish(text, item, source_name):
-    footer = f'\n\n🔗 <a href="{html.escape(item["link"])}">{html.escape(source_name)}</a>'
+    video = item.get("video")
+    watch = ""
+    if item.get("video_duration") and not video:  # too big to re-post: show the frame and link to it
+        watch = f'\n\n▶️ <a href="{html.escape(item["link"])}">Դիտել տեսանյութը ({html.escape(item["video_duration"])})</a>'
+    footer = watch + f'\n\n🔗 <a href="{html.escape(item["link"])}">{html.escape(source_name)}</a>'
     if SIGNATURE:
         footer += f"\n{html.escape(SIGNATURE)}"
     body = html.escape(text)
 
     if DRY_RUN:
         print("----- DRY RUN -----")
-        print(text + f'\n\n🔗 {source_name}: {item["link"]}' + (f'\n🖼 {item["image"]}' if item["image"] else ""))
+        print(text + re.sub(r"<[^>]+>", "", watch) + f'\n\n🔗 {source_name}: {item["link"]}'
+              + (f"\n🎬 {video}" if video else "") + (f'\n🖼 {item["image"]}' if item["image"] else ""))
         return True
+
+    if video:
+        caption = body[: 1024 - len(footer)] + footer
+        r = tg_call("sendVideo", {"chat_id": CHANNEL, "video": video, "caption": caption,
+                                  "parse_mode": "HTML", "supports_streaming": "true"})
+        if r.get("ok"):
+            return True
+        print(f'  ! sendVideo failed ({r.get("description")}), sending the frame instead')
 
     if item["image"]:
         caption = body[: 1024 - len(footer)] + footer
