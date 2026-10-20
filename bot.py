@@ -32,6 +32,7 @@ GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, 
 CANDS_PER_SOURCE = 10  # per run, only the newest unposted items of each source are considered
 MIN_SCORE = int(os.environ.get("MIN_SCORE", "5"))  # importance 1-10; below this is never posted
 PENDING_HOURS = 3  # an important item not posted within this time is dropped as stale
+LONG_POST = 280  # stories longer than this (chars) show one sentence and fold the rest
 ARMENIA = timezone(timedelta(hours=4))
 OPEN_WEEKDAY, OPEN_WEEKEND, CLOSE = 8, 9, 23  # posting hours, Yerevan time
 
@@ -477,7 +478,18 @@ def publish(text, item, source_name):
         footer += f"\n{html.escape(SIGNATURE)}"
     head, _, rest = text.strip().partition("\n")
     rest = re.sub(r"\n{3,}", "\n\n", rest.strip())
-    body = item.get("post_html") or (f"<b>{html.escape(head.strip())}</b>" + (f"\n\n{html.escape(rest)}" if rest else ""))
+    plain = f"<b>{html.escape(head.strip())}</b>" + (f"\n\n{html.escape(rest)}" if rest else "")
+    body = item.get("post_html") or plain
+    tags = " ".join(re.findall(r"#\w+", rest))
+    story = re.sub(r"#\w+", "", rest).strip()
+    first = re.match(r"(?s)(.+?[։.!?])\s+(.+)", story)
+    if not item.get("post_html") and len(story) > LONG_POST and first:
+        # Long story: first sentence visible, the rest folds into an expandable quote right in the channel.
+        body = (f"<b>{html.escape(head.strip())}</b>\n\n{html.escape(first.group(1))}\n"
+                f"<blockquote expandable>{html.escape(first.group(2))}</blockquote>" + (f"\n\n{tags}" if tags else ""))
+
+    def fit(limit):  # never cut inside the HTML tags; fall back to the plain layout when too long
+        return body if len(body) + len(footer) <= limit else plain[: limit - len(footer)]
 
     if DRY_RUN:
         print("----- DRY RUN -----")
@@ -486,7 +498,7 @@ def publish(text, item, source_name):
         return True
 
     if video:
-        caption = body[: 1024 - len(footer)] + footer
+        caption = fit(1024) + footer
         r = tg_call("sendVideo", {"chat_id": CHANNEL, "video": video, "caption": caption,
                                   "parse_mode": "HTML", "supports_streaming": "true"})
         if r.get("ok"):
@@ -495,14 +507,14 @@ def publish(text, item, source_name):
 
     photo = framed_photo(item, source_name)
     if photo:
-        caption = body[: 1024 - len(footer)] + footer
+        caption = fit(1024) + footer
         r = tg_upload_photo(photo, {"chat_id": CHANNEL, "caption": caption, "parse_mode": "HTML"})
         if r.get("ok"):
             return True
         print(f'  ! framed sendPhoto failed ({r.get("description")}), trying the original photo')
 
     if item["image"]:
-        caption = body[: 1024 - len(footer)] + footer
+        caption = fit(1024) + footer
         r = tg_call("sendPhoto", {"chat_id": CHANNEL, "photo": item["image"], "caption": caption, "parse_mode": "HTML"})
         if r.get("ok"):
             return True
@@ -510,7 +522,7 @@ def publish(text, item, source_name):
 
     r = tg_call("sendMessage", {
         "chat_id": CHANNEL,
-        "text": body[: 4096 - len(footer)] + footer,
+        "text": fit(4096) + footer,
         "parse_mode": "HTML",
         "disable_web_page_preview": "true",
     })
