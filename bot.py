@@ -161,7 +161,8 @@ def rewrite(item, source_name):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
         title = item["title"]
-        body = re.sub(r"https?://\S+", "", item["text"]).strip()
+        body = re.sub(r"https?://\S+", "", item["text"])
+        body = re.sub(r"(?m)^.*(Կարդալ|Մանրամասն|→|👉).*$", "", body).strip()  # "read more" lines
         if body.startswith(title):
             body = body[len(title):].strip()
         if len(body) > 400:
