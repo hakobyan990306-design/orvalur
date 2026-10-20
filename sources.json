@@ -8,6 +8,7 @@
   { "name": "News.am", "type": "rss", "url": "https://news.am/arm/rss/" },
   { "name": "Hetq", "type": "rss", "url": "https://hetq.am/hy/rss" },
   { "name": "Factor.am", "type": "rss", "url": "https://factor.am/feed" },
+  { "name": "Վեոլիա Ջուր", "type": "veolia", "url": "https://www.veolia.am/hy/consumers/jranjatowmner", "digest": true },
   { "name": "Ազատություն", "type": "rss", "url": "https://www.azatutyun.am/api/zrqiteuuir", "enabled": false },
   { "name": "Նիկոլ Փաշինյան", "type": "telegram", "channel": "ՓՈԽԱՐԻՆԵԼ_ՃԻՇՏ_ԱՆՎԱՄԲ", "enabled": false }
 ]

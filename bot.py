@@ -4,6 +4,7 @@ Runs once per invocation (GitHub Actions cron calls it every ~15 min).
 State (already-seen items) lives in state/seen.json and is committed back by the workflow.
 """
 
+import hashlib
 import html
 import json
 import os
@@ -172,7 +173,53 @@ def fetch_telegram(src):
     return items[::-1]  # the page lists oldest first; keep newest first like RSS
 
 
-FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram}
+def fetch_veolia(src):
+    """Water outage notices: the page has one accordion per day, each with several <strong>-titled notices."""
+    page = http_get(src["url"])
+    items = []
+    for day in page.split('<div class="accordion-item"')[1:3]:  # the two newest days
+        body = day.split('<div class="wysiwyg">', 1)[-1]
+        for chunk in re.split(r"<p>\s*<strong>", body)[1:]:
+            title = strip_html(chunk.split("</strong>", 1)[0])
+            text = strip_html(chunk.split("</strong>", 1)[-1])
+            if not title or "ջրանջատում" not in title.lower():
+                continue
+            hours = re.search(r"ժամը\s*([\d:]+\s*[-–]\s*[\d:]+)", text)
+            where = re.search(r"կդադարեցվի\s+(.+?)\s+ջրամատակարարում", text)
+            items.append({
+                "id": "veolia:" + hashlib.md5((title + text[:200]).encode()).hexdigest()[:12],
+                "title": title,
+                "text": text,
+                "link": src["url"],
+                "image": None,
+                "hours": hours.group(1).replace("-", "–").replace(" ", "") if hours else "",
+                "where": where.group(1) if where else "",
+            })
+    return items
+
+
+def make_digest(src, new):
+    """Several outage notices -> one post, so the channel isn't flooded."""
+    lines = []
+    for it in new[:12]:
+        t = re.sub(r"^(Վթարային\s+)?ջրանջատում\s*", "", it["title"], flags=re.I).strip()
+        line = f"• {t}" + (f", ժ. {it['hours']}" if it["hours"] else "")
+        if it["where"]:
+            line += f"\n   {it['where'][:160]}"
+        lines.append(line)
+    return {
+        "id": "digest:" + new[0]["id"],
+        "parts": [it["id"] for it in new],
+        "title": "Ջրանջատումներ՝ " + "; ".join(it["title"] for it in new[:3]),
+        "text": "\n".join(lines),
+        "post": "❗️ 💧 Ջրանջատումներ\n\n" + "\n\n".join(lines),  # ready text, no AI rewrite
+        "link": src["url"],
+        "image": None,
+        "score": 7,
+    }
+
+
+FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram, "veolia": fetch_veolia}
 
 
 # ---------- rewrite ----------
@@ -383,9 +430,13 @@ def main():
         for sc, (src, it) in sorted(zip(scores, cands), key=lambda x: -x[0]):
             print(f'[{sc:>2}] {"POST" if sc >= MIN_SCORE else "drop"}  {src["name"]}: {it["title"][:80]}')
         for src in sources:
-            item = FETCHERS[src["type"]](src)[0]
-            print(f'\n===== {src["name"]}: {item["title"][:80]}')
-            print(rewrite(item, src["name"]) or "(skipped)")
+            items = FETCHERS[src["type"]](src)
+            if src.get("digest"):
+                print(f'\n===== {src["name"]} (digest of {len(items)})')
+                print(make_digest(src, items)["post"])
+                continue
+            print(f'\n===== {src["name"]}: {items[0]["title"][:80]}')
+            print(rewrite(items[0], src["name"]) or "(skipped)")
         return
 
     if not DRY_RUN and not within_hours():
@@ -411,6 +462,8 @@ def main():
             state["seen"].extend(it["id"] for it in new)
             seen.update(it["id"] for it in new)
             continue
+        if src.get("digest") and new:
+            new = [make_digest(src, new)]
         # Newest first; anything older than the newest few is dropped so we never post stale news.
         for it in new[CANDS_PER_SOURCE:]:
             state["seen"].append(it["id"])
@@ -425,18 +478,21 @@ def main():
 
     # Rank by importance. Each item is scored once; a good one may wait a few runs for its turn,
     # weak or stale ones are dropped.
+    def ids(it):  # a digest stands for several source items
+        return [it["id"], *it.get("parts", [])]
+
     pending = state.setdefault("pending", {})
     now = time.time()
     fresh = [(s, it) for s, it in queue if it["id"] not in pending]
     scores = score_items(fresh)
     if scores is not None:
         for (s, it), sc in zip(fresh, scores):
-            pending[it["id"]] = {"score": sc, "since": now}
+            pending[it["id"]] = {"score": it.get("score", sc), "since": now}
         ranked = []
         for s, it in queue:
             p = pending[it["id"]]
             if p["score"] < MIN_SCORE or now - p["since"] > PENDING_HOURS * 3600:
-                state["seen"].append(it["id"])
+                state["seen"].extend(ids(it))
                 pending.pop(it["id"])
             else:
                 ranked.append((s, it))
@@ -446,7 +502,7 @@ def main():
         queue = ranked
     else:
         for lst_item in queue[MAX_POSTS * 3:]:  # no AI: plain round-robin of the newest
-            state["seen"].append(lst_item[1]["id"])
+            state["seen"].extend(ids(lst_item[1]))
         queue = queue[: MAX_POSTS * 3]
 
     posted = 0
@@ -456,13 +512,13 @@ def main():
             break  # left unseen: competes again next run
         if per_src_count.get(src["name"], 0) >= 2:
             continue  # variety: at most 2 posts per source per run
-        state["seen"].append(item["id"])
+        state["seen"].extend(ids(item))
         pending.pop(item["id"], None)
-        if is_similar(item["title"], state["titles"]):
+        if "post" not in item and is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
             continue
         print(f'  > {src["name"]}: {item["title"][:70]}')
-        text = rewrite(item, src["name"])
+        text = item.get("post") or rewrite(item, src["name"])
         if not text:
             print("    skipped")
             continue
@@ -473,7 +529,8 @@ def main():
                 print(f"    waiting {wait / 60:.1f} min")
                 time.sleep(wait)
             if not within_hours():  # the wait may have crossed closing time
-                state["seen"].pop()  # keep it for tomorrow morning
+                for x in ids(item):  # keep it for tomorrow morning
+                    state["seen"].remove(x)
                 break
         if publish(text, item, src["name"]):
             state["titles"].append(item["title"])
