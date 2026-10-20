@@ -226,6 +226,38 @@ def tg_call(method, params):
         return json.loads(e.read() or b"{}")
 
 
+def tg_upload_photo(photo_bytes, params):
+    boundary = "----orvalur" + os.urandom(8).hex()
+    parts = []
+    for k, v in params.items():
+        parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
+    parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="photo"; filename="photo.jpg"\r\n'
+                 f"Content-Type: image/jpeg\r\n\r\n".encode() + photo_bytes + b"\r\n")
+    parts.append(f"--{boundary}--\r\n".encode())
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto", data=b"".join(parts),
+        headers={"Content-Type": f"multipart/form-data; boundary={boundary}"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        return json.loads(e.read() or b"{}")
+
+
+def framed_photo(item, source_name):
+    """Our branded version of the item's photo, or None if it can't be made."""
+    if not item["image"]:
+        return None
+    try:
+        import frame
+        is_video = item.get("video_duration") is not None and not item.get("video")
+        return frame.render_url(item["image"], source_name, item["video_duration"] if is_video else None)
+    except Exception as e:
+        print(f"  ! frame failed: {e}")
+        return None
+
+
 def publish(text, item, source_name):
     video = item.get("video")
     watch = ""
@@ -249,6 +281,14 @@ def publish(text, item, source_name):
         if r.get("ok"):
             return True
         print(f'  ! sendVideo failed ({r.get("description")}), sending the frame instead')
+
+    photo = framed_photo(item, source_name)
+    if photo:
+        caption = body[: 1024 - len(footer)] + footer
+        r = tg_upload_photo(photo, {"chat_id": CHANNEL, "caption": caption, "parse_mode": "HTML"})
+        if r.get("ok"):
+            return True
+        print(f'  ! framed sendPhoto failed ({r.get("description")}), trying the original photo')
 
     if item["image"]:
         caption = body[: 1024 - len(footer)] + footer
