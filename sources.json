@@ -1,0 +1,9 @@
+[
+  { "name": "Shamshyan.com", "type": "telegram", "channel": "shamshyan_com" },
+  { "name": "SportToday (FastSport)", "type": "telegram", "channel": "fastsport_am" },
+  { "name": "News.am", "type": "rss", "url": "https://news.am/arm/rss/" },
+  { "name": "Hetq", "type": "rss", "url": "https://hetq.am/hy/rss" },
+  { "name": "Factor.am", "type": "rss", "url": "https://factor.am/feed" },
+  { "name": "Ազատություն", "type": "rss", "url": "https://www.azatutyun.am/api/zrqiteuuir", "enabled": false },
+  { "name": "Նիկոլ Փաշինյան", "type": "telegram", "channel": "ՓՈԽԱՐԻՆԵԼ_ՃԻՇՏ_ԱՆՎԱՄԲ", "enabled": false }
+]
