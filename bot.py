@@ -14,6 +14,7 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -28,6 +29,14 @@ DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
 GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
 PER_SOURCE = 3  # per run, only the newest few unposted items of each source are considered
+ARMENIA = timezone(timedelta(hours=4))
+OPEN_WEEKDAY, OPEN_WEEKEND, CLOSE = 8, 9, 23  # posting hours, Yerevan time
+
+
+def within_hours():
+    now = datetime.now(ARMENIA)
+    opens = OPEN_WEEKEND if now.weekday() >= 5 else OPEN_WEEKDAY
+    return opens <= now.hour < CLOSE
 SIGNATURE = os.environ.get("SIGNATURE", "")  # e.g. "👉 @mychannel"
 
 UA = "Mozilla/5.0 (compatible; HyNewsBot/1.0)"
@@ -334,6 +343,10 @@ def main():
             print(rewrite(item, src["name"]) or "(skipped)")
         return
 
+    if not DRY_RUN and not within_hours():
+        print("outside posting hours, nothing to do")
+        return
+
     state = load_state()
     seen = set(state["seen"])
     per_source = []
@@ -384,6 +397,9 @@ def main():
             if wait > 0:
                 print(f"    waiting {wait / 60:.1f} min")
                 time.sleep(wait)
+            if not within_hours():  # the wait may have crossed closing time
+                state["seen"].pop()  # keep it for tomorrow morning
+                break
         if publish(text, item, src["name"]):
             state["titles"].append(item["title"])
             state["last_post"] = time.time()

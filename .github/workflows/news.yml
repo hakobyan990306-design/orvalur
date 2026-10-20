@@ -2,7 +2,9 @@ name: news
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub may delay a few minutes)
+    # every 15 min during posting hours, Yerevan = UTC+4 (bot.py checks the hours too)
+    - cron: "*/15 4-18 * * 1-5"   # Mon-Fri 08:00-23:00
+    - cron: "*/15 5-18 * * 0,6"   # Sat-Sun 09:00-23:00
   workflow_dispatch:
     inputs:
       dry_run:
