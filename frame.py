@@ -8,16 +8,17 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).parent
-LOGO_FILE = ROOT / "brand" / "orvalur-logo-white.png"
+LOGO_FILE = ROOT / "brand" / "orvalur-logo-dark.png"
 FONT_FILES = [  # DejaVu ships with Ubuntu runners and has Armenian glyphs
     "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
     "C:/Windows/Fonts/arial.ttf",
 ]
 
 WIDTH = 1280
-BAR = (17, 17, 17)
+INK = (17, 17, 17)
 ORANGE = (242, 168, 0)
-GRAY = (170, 170, 170)
+BAR = ORANGE
+CREDIT = (70, 45, 0)
 UA = "Mozilla/5.0 (compatible; HyNewsBot/1.0)"
 
 _logo = None
@@ -34,7 +35,15 @@ def _load_logo():
     global _logo
     if _logo is None:
         img = Image.open(LOGO_FILE).convert("RGBA")
-        _logo = img.crop(img.getbbox())  # the PNG has wide transparent margins
+        img = img.crop(img.getbbox())  # the PNG has wide transparent margins
+        # The orange dot would vanish on the orange bar, so make it white.
+        px = img.load()
+        for y in range(img.height):
+            for x in range(img.width):
+                r, g, b, a = px[x, y]
+                if a and r > 150 and r - b > 100:
+                    px[x, y] = (255, 255, 255, a)
+        _logo = img
     return _logo
 
 
@@ -57,7 +66,7 @@ def _fit(img):
 def _play_button(draw, cx, cy, r):
     draw.ellipse((cx - r, cy - r, cx + r, cy + r), fill=ORANGE)
     t = r * 0.42
-    draw.polygon([(cx - t * 0.75, cy - t), (cx - t * 0.75, cy + t), (cx + t * 1.05, cy)], fill=BAR)
+    draw.polygon([(cx - t * 0.75, cy - t), (cx - t * 0.75, cy + t), (cx + t * 1.05, cy)], fill=INK)
 
 
 def render(photo_bytes, credit, video_duration=None):
@@ -75,7 +84,7 @@ def render(photo_bytes, credit, video_duration=None):
             f = _font(30)
             tw = draw.textlength(video_duration, font=f)
             x1, y1 = w - 24, h - 24
-            draw.rounded_rectangle((x1 - tw - 28, y1 - 48, x1, y1), radius=10, fill=BAR)
+            draw.rounded_rectangle((x1 - tw - 28, y1 - 48, x1, y1), radius=10, fill=INK)
             draw.text((x1 - tw - 14, y1 - 42), video_duration, font=f, fill=(255, 255, 255))
 
     logo = _load_logo()
@@ -87,7 +96,7 @@ def render(photo_bytes, credit, video_duration=None):
         f = _font(26)
         text = f"Լուսանկար՝ {credit}"
         tw = draw.textlength(text, font=f)
-        draw.text((w - 36 - tw, h + bar_h // 2), text, font=f, fill=GRAY, anchor="lm")
+        draw.text((w - 36 - tw, h + bar_h // 2), text, font=f, fill=CREDIT, anchor="lm")
 
     buf = io.BytesIO()
     out.save(buf, "JPEG", quality=88, optimize=True)
