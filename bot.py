@@ -239,7 +239,10 @@ def fetch_gas(src):
     """Gas interruptions (Gazprom Armenia): planned and emergency pages, one sentence per notice."""
     items = []
     for url in src["urls"]:
-        page = http_get(url)
+        try:
+            page = http_get(url, timeout=60)
+        except OSError:  # this site is slow from abroad; one more try
+            page = http_get(url, timeout=60)
         body = page.split('class="page_text_cont"', 1)[-1].split('<div id="footer"', 1)[0]
         text = strip_html(re.sub(r"(?i)<br\s*/?>|</div>", "\n", body))
         for notice in re.findall(r"(?s)նպատակով[՝,]?\s*(.+?գազամատակարարումը)", text):
