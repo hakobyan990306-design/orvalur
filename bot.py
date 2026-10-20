@@ -93,7 +93,11 @@ def save_state(state):
 # ---------- fetchers ----------
 
 def fetch_rss(src):
-    root = ET.fromstring(http_get(src["url"]).encode("utf-8"))
+    raw = http_get(src["url"]).strip()
+    end = raw.rfind("</rss>")
+    if end != -1:  # some sites (factor.am) append junk after the feed
+        raw = raw[: end + len("</rss>")]
+    root = ET.fromstring(raw.encode("utf-8"))
     media_ns = "{http://search.yahoo.com/mrss/}"
     content_ns = "{http://purl.org/rss/1.0/modules/content/}"
     items = []
@@ -142,7 +146,7 @@ def fetch_telegram(src):
             "link": f"https://t.me/{post.group(1)}",
             "image": im.group(1) if im else None,
         })
-    return items
+    return items[::-1]  # the page lists oldest first; keep newest first like RSS
 
 
 FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram}
@@ -156,8 +160,13 @@ _client = None
 def rewrite(item, source_name):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
-        excerpt = item["text"][:400].rsplit(" ", 1)[0] if len(item["text"]) > 400 else item["text"]
-        return f'📰 {item["title"]}\n\n{excerpt}' if excerpt != item["title"] else f'📰 {item["title"]}'
+        title = item["title"]
+        body = re.sub(r"https?://\S+", "", item["text"]).strip()
+        if body.startswith(title):
+            body = body[len(title):].strip()
+        if len(body) > 400:
+            body = body[:400].rsplit(" ", 1)[0] + "…"
+        return f"📰 {title}" + (f"\n\n{body}" if body else "")
 
     global _client
     import anthropic
@@ -248,7 +257,7 @@ def main():
     sources = [s for s in json.loads(SOURCES_FILE.read_text(encoding="utf-8")) if s.get("enabled", True)]
     state = load_state()
     seen = set(state["seen"])
-    queue = []
+    per_source = []
 
     for src in sources:
         try:
@@ -265,13 +274,20 @@ def main():
             state["seen"].extend(it["id"] for it in new)
             seen.update(it["id"] for it in new)
             continue
-        queue.extend((src, it) for it in reversed(new))  # oldest first
+        per_source.append([(src, it) for it in new])  # newest first
+
+    # Round-robin across sources so one busy source doesn't fill the whole run.
+    queue = []
+    while any(per_source):
+        for lst in per_source:
+            if lst:
+                queue.append(lst.pop(0))
 
     posted = 0
     for src, item in queue:
-        if posted >= MAX_POSTS:
-            break  # the rest stays unseen and goes out on the next run
         state["seen"].append(item["id"])
+        if posted >= MAX_POSTS:
+            continue  # drop the backlog so the channel never posts stale news
         if is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
             continue
@@ -287,7 +303,7 @@ def main():
 
     if not DRY_RUN:
         save_state(state)
-    print(f"done: {posted} posted, {len(queue) - posted} queued/skipped")
+    print(f"done: {posted} posted, {len(queue) - posted} skipped")
 
 
 if __name__ == "__main__":
