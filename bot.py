@@ -28,7 +28,9 @@ MODEL = os.environ.get("MODEL", "claude-opus-5-5")
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
 GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
-PER_SOURCE = 3  # per run, only the newest few unposted items of each source are considered
+CANDS_PER_SOURCE = 10  # per run, only the newest unposted items of each source are considered
+MIN_SCORE = int(os.environ.get("MIN_SCORE", "5"))  # importance 1-10; below this is never posted
+PENDING_HOURS = 3  # an important item not posted within this time is dropped as stale
 ARMENIA = timezone(timedelta(hours=4))
 OPEN_WEEKDAY, OPEN_WEEKEND, CLOSE = 8, 9, 23  # posting hours, Yerevan time
 
@@ -178,18 +180,8 @@ FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram}
 _client = None
 
 
-def rewrite(item, source_name):
-    """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
-    if not ANTHROPIC_KEY:
-        title = item["title"]
-        body = re.sub(r"https?://\S+", "", item["text"])
-        body = re.sub(r"(?m)^.*(Կարդալ|Մանրամասն|→|👉).*$", "", body).strip()  # "read more" lines
-        if body.startswith(title):
-            body = body[len(title):].strip()
-        if len(body) > 400:
-            body = body[:400].rsplit(" ", 1)[0] + "…"
-        return f"📰 {title}" + (f"\n\n{body}" if body else "")
-
+def ask_claude(system, user, max_tokens=4000):
+    """One Claude call; returns the text, or None on error/refusal."""
     global _client
     import anthropic
 
@@ -198,13 +190,10 @@ def rewrite(item, source_name):
 
     kwargs = dict(
         model=MODEL,
-        max_tokens=4000,
-        system=SYSTEM_PROMPT,
+        max_tokens=max_tokens,
+        system=system,
         output_config={"effort": "low"},
-        messages=[{
-            "role": "user",
-            "content": f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{item["text"]}',
-        }],
+        messages=[{"role": "user", "content": user}],
     )
     try:
         if MODEL.startswith("claude-haiku"):
@@ -223,7 +212,50 @@ def rewrite(item, source_name):
 
     if resp.stop_reason == "refusal":
         return None
-    text = "".join(b.text for b in resp.content if b.type == "text").strip()
+    return "".join(b.text for b in resp.content if b.type == "text").strip()
+
+
+SCORE_PROMPT = """Դու Հայաստանում ապրող լսարանի համար լրատվական կանալի գլխավոր խմբագիր ես։
+Քեզ տրվում է համարակալված լուրերի ցուցակ։ Յուրաքանչյուրին տուր կարևորության գնահատական 1-ից 10.
+10–9՝ մեծ, շտապ լուր, որը հետաքրքրում է գրեթե բոլորին (մահ կամ զոհեր, խոշոր վթար կամ աղետ, սահման և պատերազմ, կառավարության որոշում, որը վերաբերում է բոլորին, մեծ սկանդալ)
+8–7՝ կարևոր ազգային լուր (քաղաքականություն, տնտեսություն, գներ, անջատումներ Երևանում, խոշոր ձերբակալություն, հայկական սպորտի մեծ հաջողություն)
+6–5՝ հետաքրքիր լուր, բայց ոչ շտապ (միջազգային կարևոր լուր, մարզային դեպք, մշակույթ)
+4–3՝ սովորական կամ նեղ լուր (առօրյա պաշտոնական հանդիպումներ, փոքր տեղական դեպք, արտասահմանյան սպորտի սովորական արդյունք)
+2–1՝ անկարևոր (գովազդ, մրցույթ, ուղիղ եթերի հայտարարություն, կրկնություն)
+Եթե երկու լուր նույն իրադարձության մասին են, երկրորդին տուր 1։
+Պատասխանիր միայն տողերով՝ «համար: գնահատական», օրինակ՝
+1: 7
+2: 3"""
+
+
+def score_items(cands):
+    """Asks Claude to rate each (src, item) 1-10. Returns a list of scores, or None without AI."""
+    if not ANTHROPIC_KEY or not cands:
+        return None
+    lines = [f'{i}. [{src["name"]}] {it["title"]}' for i, (src, it) in enumerate(cands, 1)]
+    text = ask_claude(SCORE_PROMPT, "\n".join(lines), max_tokens=2000)
+    if not text:
+        return None
+    scores = [0] * len(cands)
+    for n, s in re.findall(r"(?m)^\s*(\d+)\s*[:.)-]\s*(\d+)", text):
+        if 1 <= int(n) <= len(cands):
+            scores[int(n) - 1] = min(int(s), 10)
+    return scores
+
+
+def rewrite(item, source_name):
+    """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
+    if not ANTHROPIC_KEY:
+        title = item["title"]
+        body = re.sub(r"https?://\S+", "", item["text"])
+        body = re.sub(r"(?m)^.*(Կարդալ|Մանրամասն|→|👉).*$", "", body).strip()  # "read more" lines
+        if body.startswith(title):
+            body = body[len(title):].strip()
+        if len(body) > 400:
+            body = body[:400].rsplit(" ", 1)[0] + "…"
+        return f"📰 {title}" + (f"\n\n{body}" if body else "")
+
+    text = ask_claude(SYSTEM_PROMPT, f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{item["text"]}')
     if not text or text.upper().startswith("SKIP"):
         return None
     # Keep at most 2 hashtags, skipping very long ones.
@@ -337,6 +369,19 @@ def main():
 
     if os.environ.get("TEST_AI") == "1":  # rewrite each source's newest item and print it; posts nothing
         print(f"model: {MODEL}, key set: {bool(ANTHROPIC_KEY)}")
+        fetched = {}
+        for src in sources:
+            try:
+                fetched[src["name"]] = FETCHERS[src["type"]](src)
+            except Exception as e:
+                print(f'! {src["name"]}: {e}')
+        sources = [s for s in sources if fetched.get(s["name"])]
+        FETCHERS["rss"] = FETCHERS["telegram"] = lambda s: fetched[s["name"]]  # reuse below
+        cands = [(src, it) for src in sources for it in fetched[src["name"]][:5]]
+        scores = score_items(cands) or [0] * len(cands)
+        print("\n===== importance ranking (newest 5 per source)")
+        for sc, (src, it) in sorted(zip(scores, cands), key=lambda x: -x[0]):
+            print(f'[{sc:>2}] {"POST" if sc >= MIN_SCORE else "drop"}  {src["name"]}: {it["title"][:80]}')
         for src in sources:
             item = FETCHERS[src["type"]](src)[0]
             print(f'\n===== {src["name"]}: {item["title"][:80]}')
@@ -367,9 +412,9 @@ def main():
             seen.update(it["id"] for it in new)
             continue
         # Newest first; anything older than the newest few is dropped so we never post stale news.
-        for it in new[PER_SOURCE:]:
+        for it in new[CANDS_PER_SOURCE:]:
             state["seen"].append(it["id"])
-        per_source.append([(src, it) for it in new[:PER_SOURCE]])
+        per_source.append([(src, it) for it in new[:CANDS_PER_SOURCE]])
 
     # Round-robin across sources so one busy source doesn't fill the whole run.
     queue = []
@@ -378,11 +423,41 @@ def main():
             if lst:
                 queue.append(lst.pop(0))
 
+    # Rank by importance. Each item is scored once; a good one may wait a few runs for its turn,
+    # weak or stale ones are dropped.
+    pending = state.setdefault("pending", {})
+    now = time.time()
+    fresh = [(s, it) for s, it in queue if it["id"] not in pending]
+    scores = score_items(fresh)
+    if scores is not None:
+        for (s, it), sc in zip(fresh, scores):
+            pending[it["id"]] = {"score": sc, "since": now}
+        ranked = []
+        for s, it in queue:
+            p = pending[it["id"]]
+            if p["score"] < MIN_SCORE or now - p["since"] > PENDING_HOURS * 3600:
+                state["seen"].append(it["id"])
+                pending.pop(it["id"])
+            else:
+                ranked.append((s, it))
+        ranked.sort(key=lambda c: -pending[c[1]["id"]]["score"])  # stable: ties keep round-robin order
+        for s, it in ranked[:8]:
+            print(f'  [{pending[it["id"]]["score"]}] {s["name"]}: {it["title"][:70]}')
+        queue = ranked
+    else:
+        for lst_item in queue[MAX_POSTS * 3:]:  # no AI: plain round-robin of the newest
+            state["seen"].append(lst_item[1]["id"])
+        queue = queue[: MAX_POSTS * 3]
+
     posted = 0
+    per_src_count = {}
     for src, item in queue:
         if posted >= MAX_POSTS:
-            break  # left unseen: goes out on the next run if it's still among the newest
+            break  # left unseen: competes again next run
+        if per_src_count.get(src["name"], 0) >= 2:
+            continue  # variety: at most 2 posts per source per run
         state["seen"].append(item["id"])
+        pending.pop(item["id"], None)
         if is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
             continue
@@ -404,12 +479,16 @@ def main():
             state["titles"].append(item["title"])
             state["last_post"] = time.time()
             posted += 1
+            per_src_count[src["name"]] = per_src_count.get(src["name"], 0) + 1
             if not DRY_RUN:
                 save_state(state)  # so a cancelled run never re-posts
 
+    seen_now = set(state["seen"])
+    for k in [k for k, p in pending.items() if k in seen_now or now - p["since"] > PENDING_HOURS * 3600]:
+        pending.pop(k)
     if not DRY_RUN:
         save_state(state)
-    print(f"done: {posted} posted, {len(queue) - posted} skipped")
+    print(f"done: {posted} posted, {len(pending)} waiting")
 
 
 if __name__ == "__main__":
