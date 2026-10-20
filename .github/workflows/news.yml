@@ -48,4 +48,4 @@ jobs:
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git add state/seen.json
-          git diff --cached --quiet || (git commit -m "state: update seen items" && git push)
+          git diff --cached --quiet || (git commit -m "state: update seen items" && git pull --rebase && git push)
