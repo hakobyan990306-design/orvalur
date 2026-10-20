@@ -224,22 +224,36 @@ def make_digest(src, new):
         return None
     current.sort(key=lambda it: "Երևան" not in it["title"])  # Yerevan first, otherwise page order
     new = current
-    lines = []
-    for it in new[:12]:
+    lines, yerevan, others = [], [], []
+    for it in new[:15]:
+        if sum(map(len, lines)) > 3000:  # stay well under Telegram's 4096-char message limit
+            break
         t = re.sub(r"^(Վթարային\s+)?ջրանջատում\s*", "", it["title"], flags=re.I).strip()
-        line = f"• {t}" + (f", ժ. {it['hours']}" if it["hours"] else "")
+        line = f"• <b>{html.escape(t)}</b>" + (f", ժ. {html.escape(it['hours'])}" if it["hours"] else "")
         if it["where"]:
-            line += f"\n   {it['where'][:160]}"
+            line += f"\n{html.escape(it['where'][:160])}"
         lines.append(line)
+        m = (re.search(r"Երևանի\s+(.+?)\s+վարչական", t) or re.search(r"մարզի\s+(.+?)\s+(?:քաղաքում|գյուղում|համայնքում)", t)
+             or re.search(r"(\S+\s+մարզ)ում", t))
+        p = m.group(1) if m else ""
+        bucket = yerevan if t.startswith("Երևան") else others
+        if p and p not in bucket:
+            bucket.append(p)
+    where = "; ".join(filter(None, [("Երևան՝ " + ", ".join(yerevan)) if yerevan else "", ", ".join(others[:6])]))
+    summary = ("Ջուր չի լինի՝ " + where if where else f"{len(new)} ջրանջատում") + "։\n👇 Հասցեներն ու ժամերը՝ ներքևում"
     return {
         "id": "digest:" + new[0]["id"],
         "parts": [it["id"] for it in all_new],
         "title": "Ջրանջատումներ՝ " + "; ".join(it["title"] for it in new[:3]),
         "text": "\n".join(lines),
-        "post": "❗️ 💧 Ջրանջատումներ\n\n" + "\n\n".join(lines),  # ready text, no AI rewrite
+        "post": "❗️ 💧 Ջրանջատումներ\n\n" + summary,  # plain version for logs
+        # Short summary visible; the full list is an expandable quote that opens right in the channel.
+        "post_html": f"<b>❗️ 💧 Ջրանջատումներ</b>\n\n{html.escape(summary)}\n\n"
+                     f"<blockquote expandable>" + "\n\n".join(lines) + "</blockquote>",
         "link": src["url"],
         "image": None,
-        "score": 7,
+        "score": 10,
+        "urgent": True,
     }
 
 
@@ -391,7 +405,7 @@ def publish(text, item, source_name):
         footer += f"\n{html.escape(SIGNATURE)}"
     head, _, rest = text.strip().partition("\n")
     rest = re.sub(r"\n{3,}", "\n\n", rest.strip())
-    body = f"<b>{html.escape(head.strip())}</b>" + (f"\n\n{html.escape(rest)}" if rest else "")
+    body = item.get("post_html") or (f"<b>{html.escape(head.strip())}</b>" + (f"\n\n{html.escape(rest)}" if rest else ""))
 
     if DRY_RUN:
         print("----- DRY RUN -----")
@@ -461,7 +475,7 @@ def main():
             if src.get("digest"):
                 print(f'\n===== {src["name"]} (digest of {len(items)})')
                 d = make_digest(src, items)
-                print(d["post"] if d else "(nothing current)")
+                print(d["post_html"] if d else "(nothing current)")
                 continue
             print(f'\n===== {src["name"]}: {items[0]["title"][:80]}')
             print(rewrite(items[0], src["name"]) or "(skipped)")
@@ -553,7 +567,7 @@ def main():
         if not text:
             print("    skipped")
             continue
-        if not DRY_RUN:
+        if not DRY_RUN and not item.get("urgent"):  # urgent (water outages) goes out right away
             # Space posts out, also across runs, so the channel doesn't get a burst.
             wait = GAP_MIN * 60 + random.uniform(0, 120) - (time.time() - state.get("last_post", 0))
             if wait > 0:
