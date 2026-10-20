@@ -318,6 +318,15 @@ def main():
         sys.exit("TELEGRAM_BOT_TOKEN and TELEGRAM_CHANNEL are required (or set DRY_RUN=1)")
 
     sources = [s for s in json.loads(SOURCES_FILE.read_text(encoding="utf-8")) if s.get("enabled", True)]
+
+    if os.environ.get("TEST_AI") == "1":  # rewrite each source's newest item and print it; posts nothing
+        print(f"model: {MODEL}, key set: {bool(ANTHROPIC_KEY)}")
+        for src in sources:
+            item = FETCHERS[src["type"]](src)[0]
+            print(f'\n===== {src["name"]}: {item["title"][:80]}')
+            print(rewrite(item, src["name"]) or "(skipped)")
+        return
+
     state = load_state()
     seen = set(state["seen"])
     per_source = []

@@ -8,6 +8,9 @@ on:
       dry_run:
         description: "Only print posts, don't publish (1 = yes)"
         default: "0"
+      test_ai:
+        description: "Test AI rewrite on latest items, post nothing (1 = yes)"
+        default: "0"
 
 permissions:
   contents: write
@@ -40,6 +43,7 @@ jobs:
           SIGNATURE: ${{ vars.SIGNATURE }}
           MIN_GAP_MINUTES: ${{ vars.MIN_GAP_MINUTES || '3' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          TEST_AI: ${{ github.event.inputs.test_ai || '0' }}
         run: python bot.py
 
       - name: Save state
