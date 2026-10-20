@@ -56,7 +56,7 @@ SYSTEM_PROMPT = """Դու հայկական լրատվական Telegram կանա�
   - Սովորական լուրի դեպքում միայն թեմատիկ էմոջին։ Մի չափազանցիր, առավելագույնը 2 էմոջի վերնագրում։
 - Հետո դատարկ տող և 1–4 նախադասություն՝ միայն փաստերը, որոնք կան լրի մեջ։ Ոչինչ մի հորինիր։ Եթե տրված է միայն վերնագիր, գրիր 1 նախադասություն՝ վերնագրի փաստերով։
 - Չեզոք տոն, առանց սեփական կարծիքի և առանց կլիքբեյթի։
-- Մի գրիր աղբյուրի անունը կամ հղումը, դրանք ավելացվում են ավտոմատ։
+- Մի գրիր աղբյուրի անունը կամ հղումը, դրանք ավելացվում են ավտոմատ։ Երբեք մի գրիր «ըստ վերնագրի», «ըստ աղբյուրի», «մանրամասները տեսանյութում» և նման արտահայտություններ. գրիր փաստը ուղղակիորեն։
 - Վերջում դատարկ տող և 1–2 հեշթեգ միայն հայերեն տառերով, առանց բացատի (#Հայաստան, #Սպորտ, #ԱրտակարգԴեպք)։
 - Ընդհանուր երկարությունը՝ մինչև 700 նիշ։
 - Եթե տեքստը լուր չէ (գովազդ, մրցույթ, ուղիղ եթերի հայտարարություն, անհասկանալի), պատասխանիր միայն SKIP բառով։
@@ -198,8 +198,32 @@ def fetch_veolia(src):
     return items
 
 
+MONTHS = ["հունվարի", "փետրվարի", "մարտի", "ապրիլի", "մայիսի", "հունիսի",
+          "հուլիսի", "օգոստոսի", "սեպտեմբերի", "հոկտեմբերի", "նոյեմբերի", "դեկտեմբերի"]
+
+
+def outage_is_current(title):
+    """True if the notice's date ("հոկտեմբերի 21-ին") is today or later, Yerevan time."""
+    m = re.search(r"(" + "|".join(MONTHS) + r")\s+(\d{1,2})", title)
+    if not m:
+        return True
+    today = datetime.now(ARMENIA).date()
+    month, day = MONTHS.index(m.group(1)) + 1, int(m.group(2))
+    year = today.year + (1 if month < today.month - 6 else 0)  # December notice for January
+    try:
+        return datetime(year, month, day).date() >= today
+    except ValueError:
+        return True
+
+
 def make_digest(src, new):
-    """Several outage notices -> one post, so the channel isn't flooded."""
+    """Several outage notices -> one post, so the channel isn't flooded. None if nothing is current."""
+    all_new = new
+    current = [it for it in new if outage_is_current(it["title"])]
+    if not current:
+        return None
+    current.sort(key=lambda it: "Երևան" not in it["title"])  # Yerevan first, otherwise page order
+    new = current
     lines = []
     for it in new[:12]:
         t = re.sub(r"^(Վթարային\s+)?ջրանջատում\s*", "", it["title"], flags=re.I).strip()
@@ -209,7 +233,7 @@ def make_digest(src, new):
         lines.append(line)
     return {
         "id": "digest:" + new[0]["id"],
-        "parts": [it["id"] for it in new],
+        "parts": [it["id"] for it in all_new],
         "title": "Ջրանջատումներ՝ " + "; ".join(it["title"] for it in new[:3]),
         "text": "\n".join(lines),
         "post": "❗️ 💧 Ջրանջատումներ\n\n" + "\n\n".join(lines),  # ready text, no AI rewrite
@@ -269,7 +293,10 @@ SCORE_PROMPT = """Դու Հայաստանում ապրող լսարանի համ
 6–5՝ հետաքրքիր լուր, բայց ոչ շտապ (միջազգային կարևոր լուր, մարզային դեպք, մշակույթ)
 4–3՝ սովորական կամ նեղ լուր (առօրյա պաշտոնական հանդիպումներ, փոքր տեղական դեպք, արտասահմանյան սպորտի սովորական արդյունք)
 2–1՝ անկարևոր (գովազդ, մրցույթ, ուղիղ եթերի հայտարարություն, կրկնություն)
-Եթե երկու լուր նույն իրադարձության մասին են, երկրորդին տուր 1։
+Պարտադիր կանոններ.
+- Հայաստանում ցանկացած վթար, հրդեհ, ավտովթար կամ բռնության դեպք, որում կա տուժած, վիրավոր կամ զոհ, ստանում է առնվազն 6, իսկ զոհերի դեպքում՝ առնվազն 8։
+- Երևանում կամ ամբողջ Հայաստանում ջրի, լույսի կամ գազի անջատումները ստանում են առնվազն 6։
+- Եթե երկու լուր նույն իրադարձության մասին են, երկրորդին տուր 1։
 Պատասխանիր միայն տողերով՝ «համար: գնահատական», օրինակ՝
 1: 7
 2: 3"""
@@ -433,7 +460,8 @@ def main():
             items = FETCHERS[src["type"]](src)
             if src.get("digest"):
                 print(f'\n===== {src["name"]} (digest of {len(items)})')
-                print(make_digest(src, items)["post"])
+                d = make_digest(src, items)
+                print(d["post"] if d else "(nothing current)")
                 continue
             print(f'\n===== {src["name"]}: {items[0]["title"][:80]}')
             print(rewrite(items[0], src["name"]) or "(skipped)")
@@ -463,7 +491,10 @@ def main():
             seen.update(it["id"] for it in new)
             continue
         if src.get("digest") and new:
-            new = [make_digest(src, new)]
+            digest = make_digest(src, new)
+            if not digest:  # only past notices
+                state["seen"].extend(it["id"] for it in new)
+            new = [digest] if digest else []
         # Newest first; anything older than the newest few is dropped so we never post stale news.
         for it in new[CANDS_PER_SOURCE:]:
             state["seen"].append(it["id"])
