@@ -8,11 +8,12 @@
 <style>
   body { margin: 0; padding: 24px; background: #e9e7e1; font-family: 'Noto Sans Armenian', sans-serif; }
   canvas { display: block; margin: 0 0 24px; max-width: 100%; height: auto; background: repeating-conic-gradient(#ddd 0 25%, #fff 0 50%) 0 0 / 20px 20px; }
-  #avatar { border-radius: 50%; width: 320px; }
+  #avatar, .av { border-radius: 50%; width: 320px; }
 </style>
 </head>
 <body>
 <canvas id="avatar" width="1024" height="1024"></canvas>
+<canvas id="avatar-orange" class="av" width="1024" height="1024"></canvas>
 <canvas id="wordmark" width="2000" height="440"></canvas>
 <canvas id="wordmark-white" width="2000" height="440" style="background:#111"></canvas>
 <script>
@@ -31,19 +32,19 @@ function inline(ctx, cx, baseline, size, color) {
   ctx.fillStyle = ORANGE; ctx.beginPath(); ctx.arc(x + dot, baseline - dot, dot, 0, Math.PI * 2); ctx.fill();
 }
 
-function drawAvatar() {
-  const c = document.getElementById('avatar'), ctx = c.getContext('2d'), S = c.width;
-  ctx.fillStyle = INK; ctx.fillRect(0, 0, S, S);   // Telegram crops to a circle itself
+function drawAvatar(id = "avatar", bg = INK, fg = "#ffffff", dotColor = ORANGE) {
+  const c = document.getElementById(id), ctx = c.getContext("2d"), S = c.width;
+  ctx.fillStyle = bg; ctx.fillRect(0, 0, S, S);   // Telegram crops to a circle itself
   ctx.textBaseline = 'alphabetic';
   const top = 'օրվա', bot = 'լուրը';
   ctx.font = `300 230px ${FONT}`; const wt = ctx.measureText(top).width;
   ctx.font = `900 250px ${FONT}`; const wb = ctx.measureText(bot).width;
   const dot = 32, gap = 14;
-  ctx.fillStyle = '#ffffff';
+  ctx.fillStyle = fg;
   ctx.font = `300 230px ${FONT}`; ctx.fillText(top, (S - wt) / 2, 470);
   const x = (S - (wb + gap + dot * 2)) / 2;
   ctx.font = `900 250px ${FONT}`; ctx.fillText(bot, x, 720);
-  ctx.fillStyle = ORANGE; ctx.beginPath(); ctx.arc(x + wb + gap + dot, 720 - dot, dot, 0, Math.PI * 2); ctx.fill();
+  ctx.fillStyle = dotColor; ctx.beginPath(); ctx.arc(x + wb + gap + dot, 720 - dot, dot, 0, Math.PI * 2); ctx.fill();
 }
 
 function drawWordmark(id, color) {
@@ -54,6 +55,7 @@ function drawWordmark(id, color) {
 
 document.fonts.load(`300 100px ${FONT}`, 'օրվա').then(() => document.fonts.load(`900 100px ${FONT}`, 'լուրը')).then(() => {
   drawAvatar();
+  drawAvatar('avatar-orange', ORANGE, INK, '#ffffff');
   drawWordmark('wordmark', INK);
   drawWordmark('wordmark-white', '#ffffff');
   window.LOGO_READY = true;
