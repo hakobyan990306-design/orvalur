@@ -26,8 +26,10 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "")  # @mychannel or -100123...
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = os.environ.get("MODEL", "claude-opus-5-5")  # importance scoring (many short titles)
-REWRITE_MODEL = os.environ.get("REWRITE_MODEL") or "claude-sonnet-5-5"  # writing posts and repeat checks: accuracy matters
-SCORE_MODEL = os.environ.get("SCORE_MODEL") or REWRITE_MODEL  # picking what is important needs judgment too
+REWRITE_MODEL = os.environ.get("REWRITE_MODEL") or "claude-sonnet-5-5"  # writes the top stories (budget-capped below)
+SCORE_MODEL = os.environ.get("SCORE_MODEL") or MODEL  # picking and repeat checks: cheap model + hard rules
+TOP_SCORE = 7  # stories scored this high get the better writer...
+TOP_PER_DAY = int(os.environ.get("TOP_PER_DAY", "15"))  # ...at most this many a day, to stay within ~$10/month
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
 GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
@@ -463,7 +465,7 @@ def is_repeat(title, posted):
     if not ANTHROPIC_KEY or not posted:
         return False
     answer = ask_claude(REPEAT_PROMPT, "Posted:\n" + "\n".join(f"- {t}" for t in posted)
-                        + f"\n\nNew:\n- {title}", max_tokens=1000, model=REWRITE_MODEL)
+                        + f"\n\nNew:\n- {title}", max_tokens=1000, model=SCORE_MODEL)
     return bool(answer) and answer.strip().upper().startswith("YES")
 
 
@@ -479,7 +481,7 @@ def fetch_article(url):
     return text if len(text) > 200 else None
 
 
-def rewrite(item, source_name):
+def rewrite(item, source_name, model=None):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
         title = item["title"]
@@ -495,7 +497,7 @@ def rewrite(item, source_name):
     if len(re.sub(r"https?://\S+", "", body)) < 300 and "t.me/" not in item["link"]:
         body = fetch_article(item["link"]) or body  # headline-only post: read the article itself
     text = ask_claude(SYSTEM_PROMPT, f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{body}',
-                      model=REWRITE_MODEL)
+                      model=model or MODEL)
     if not text or text.upper().startswith("SKIP"):
         return None
     # Keep at most 2 hashtags, skipping very long ones.
@@ -735,7 +737,7 @@ def main():
         if src.get("sport") and per_src_count.get("@sport", 0) >= 1:
             continue  # at most 1 sports post per run
         state["seen"].extend(ids(item))
-        pending.pop(item["id"], None)
+        score = pending.pop(item["id"], {}).get("score", 0)
         if "post" not in item and is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
             continue
@@ -744,7 +746,13 @@ def main():
             print(f'  = same story (AI): {item["title"][:70]}')
             continue
         print(f'  > {src["name"]}: {item["title"][:70]}')
-        text = item.get("post") or rewrite(item, src["name"])
+        # Top stories get the better (pricier) writer, within a daily cap; the rest the cheap one.
+        today = datetime.now(ARMENIA).strftime("%Y-%m-%d")
+        top = state.setdefault("top_used", {})
+        use_top = score >= TOP_SCORE and top.get(today, 0) < TOP_PER_DAY
+        text = item.get("post") or rewrite(item, src["name"], REWRITE_MODEL if use_top else MODEL)
+        if use_top and text and "post" not in item:
+            state["top_used"] = {today: top.get(today, 0) + 1}
         if not text:
             print("    skipped")
             continue
