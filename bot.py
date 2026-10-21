@@ -647,7 +647,7 @@ def main():
         print(f'{src["name"]}: {len(items)} items, {len(new)} new')
 
         # First time we see a source: remember its current items without posting, so the channel isn't flooded.
-        if src["name"] not in state["bootstrapped"] and not DRY_RUN and not src.get("digest"):
+        if src["name"] not in state["bootstrapped"] and not DRY_RUN and not src.get("digest") and not src.get("no_bootstrap"):
             state["bootstrapped"].append(src["name"])
             state["seen"].extend(it["id"] for it in new)
             seen.update(it["id"] for it in new)
