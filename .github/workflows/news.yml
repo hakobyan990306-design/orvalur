@@ -47,9 +47,9 @@ jobs:
           TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MODEL: ${{ vars.MODEL || 'claude-opus-5-5' }}
-          MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '3' }}
+          MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '4' }}
           SIGNATURE: ${{ vars.SIGNATURE }}
-          MIN_GAP_MINUTES: ${{ vars.MIN_GAP_MINUTES || '3' }}
+          MIN_GAP_MINUTES: ${{ vars.MIN_GAP_MINUTES || '2' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
           TEST_AI: ${{ github.event.inputs.test_ai || '0' }}
         run: python bot.py
