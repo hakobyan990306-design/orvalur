@@ -5,6 +5,7 @@
   { "name": "Radar Armenia", "type": "telegram", "channel": "RadarARM" },
   { "name": "FACTOR TV", "type": "telegram", "channel": "factoram" },
   { "name": "ՀՀ ՊՆ", "type": "telegram", "channel": "mil_armenia" },
+  { "name": "Fast Sports", "type": "telegram", "channel": "fastsportstv", "sport": true },
   { "name": "Armsport.am", "type": "rss", "url": "https://www.armsport.am/feed", "no_bootstrap": true, "sport": true },
   { "name": "News.am", "type": "rss", "url": "https://news.am/arm/rss/" },
   { "name": "Hetq", "type": "rss", "url": "https://hetq.am/hy/rss" },
