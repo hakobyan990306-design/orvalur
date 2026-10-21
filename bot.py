@@ -289,7 +289,10 @@ def place_of(text):
     m = re.search(r"Երևան\S*\s+(?:քաղաքի\s+)?(.+?)\s+վարչական", text)
     if m:
         return m.group(1), True
-    m = (re.search(r"մարզի\s+(.+?)\s+(?:քաղաք|գյուղ|համայնք|բնակավայր)", text) or re.search(r"(\S+\s+մարզ)", text))
+    if "Երևան" in text:  # whole city or several districts: "Երևանում, Կոտայքի և ... մարզերում"
+        return "", True
+    m = (re.search(r"մարզի\s+(.+?)\s+(?:քաղաք|գյուղ|համայնք|բնակավայր)", text)
+         or re.search(r"((?:Վայոց\s+ձորի|\S+)\s+մարզ)", text))
     return (m.group(1), False) if m else ("", False)
 
 
@@ -301,7 +304,7 @@ def make_digest(src, new):
         return None
     current.sort(key=lambda it: "Երևան" not in it["title"])  # Yerevan first, otherwise page order
     new = current
-    lines, yerevan, others = [], [], []
+    lines, yerevan, others, yerevan_any = [], [], [], False
     for it in new[:15]:
         if sum(map(len, lines)) > 3000:  # stay well under Telegram's 4096-char message limit
             break
@@ -311,11 +314,14 @@ def make_digest(src, new):
             line += f"\n{html.escape(it['where'][:250])}"
         lines.append(line)
         p, is_yerevan = place_of(t)
+        if is_yerevan:
+            yerevan_any = True
         bucket = yerevan if is_yerevan else others
         if p and p not in bucket:
             bucket.append(p)
     emoji, headline, off = KINDS[src.get("kind", "water")]
-    where = "; ".join(filter(None, [("Երևան՝ " + ", ".join(yerevan)) if yerevan else "", ", ".join(others[:6])]))
+    city = ("Երևան՝ " + ", ".join(yerevan)) if yerevan else ("Երևան" if yerevan_any else "")
+    where = "; ".join(filter(None, [city, ", ".join(others[:6])]))
     summary = (f"{off}՝ {where}" if where else f"{headline}՝ {len(new)}") + "։\n👇 Հասցեներն ու ժամերը՝ ներքևում"
     return {
         "id": "digest:" + new[0]["id"],
