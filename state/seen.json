@@ -1010,7 +1010,41 @@
   "Aravot.am:https://www.aravot.am/?p=1588268",
   "News.am:https://news.am/hy/news/1069370",
   "168.am:https://168.am/?p=2501879",
-  "1in.am:https://www.1in.am/?p=3771041"
+  "1in.am:https://www.1in.am/?p=3771041",
+  "News.am:https://news.am/hy/news/1069354",
+  "tg:twentyfournews/324618",
+  "tg:mil_armenia/19687",
+  "News.am:https://news.am/hy/news/1069380",
+  "Hetq:https://hetq.am/hy/article/184869",
+  "Factor.am:https://factor.am/?p=1072567",
+  "Aravot.am:https://www.aravot.am/?p=1588273",
+  "168.am:https://168.am/?p=2501891",
+  "1in.am:https://www.1in.am/?p=3771116",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/putini-ev-uitkvofi-handipumn-avartvel-e-banakcutjunnery-mvot-3-zham-en-tevel-108390572.html",
+  "tg:twentyfournews/324617",
+  "News.am:https://news.am/hy/news/1069379",
+  "Factor.am:https://factor.am/?p=1072576",
+  "Aravot.am:https://www.aravot.am/?p=1588267",
+  "1in.am:https://www.1in.am/?p=3771088",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/sahmanakhakht-adrbejancin-eghel-e-harbats-adrbejanakan-zlm-108390454.html",
+  "News.am:https://news.am/hy/news/1069378",
+  "tg:twentyfournews/324615",
+  "168.am:https://168.am/?p=2501852",
+  "tg:twentyfournews/324614",
+  "News.am:https://news.am/hy/news/1069373",
+  "tg:twentyfournews/324613",
+  "tg:twentyfournews/324612",
+  "News.am:https://news.am/hy/news/1069377",
+  "News.am:https://news.am/hy/news/1069376",
+  "News.am:https://news.am/hy/news/1069375",
+  "News.am:https://news.am/hy/news/1069355",
+  "News.am:https://news.am/hy/news/1069372",
+  "tg:twentyfournews/324616",
+  "tg:twentyfournews/324611",
+  "Armsport.am:https://armsport.am/?p=611203",
+  "168.am:https://168.am/?p=2501809",
+  "Factor.am:https://factor.am/?p=1072514",
+  "168.am:https://168.am/?p=2501854"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1092,7 +1126,11 @@
   "Զելենսկին համաձայն է խաղաղության համաձայնագրին՝ Ուկրաինայի տարածքի 25%-ի կորստով",
   "«Այո, Ադրբեջանը վերահսկողություն ունի Ջերմուկի հատվածում և այլ հատվածների նկատմամբ, բայց սա չի նշանակում, որ մենք զիջել ենք»․ Միրզոյան",
   "#ՀԻՄԱ. «Ուժեղ Հայաստան» -ի համայնքապետի ձերբակալված թեկնածուն և աջակիցները բերվել են դատարան. #ՈւՂԻՂ",
-  "Ռուսաստանը և Ուկրաինան հայտնել են նոր փոխադարձ հարվածների մասին"
+  "Ռուսաստանը և Ուկրաինան հայտնել են նոր փոխադարձ հարվածների մասին",
+  "ՀԱՊԿ-ում չեն բացառում, որ ՀՀ-ն կվերանայի իր դիրքորոշումը կառույցին անդամակցելու հարցում",
+  "Արթուր Ղարիբյանը՝ հավաքականում խփած գոլի և Սպերցյանի խաղամակարդակի մասին",
+  "Պուտինը Ուիթկոֆին հայտնել է, որ ԱՄՆ-ի հետ դիզելային գործարքի շրջանակում առաջին լցանավերը կմեկնեն երկու-երեք օրից",
+  "Խաղաղության խորհրդի վճարի հետ կապված առնվազն այս պահին չկա փաստաթղթային պարտավորութուն. Միրզոյան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1111,43 +1149,23 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "News.am:https://news.am/hy/news/1069354": {
-   "score": 5,
-   "since": 1792583823.8329616
-  },
   "tg:twentyfournews/324597": {
    "score": 5,
    "since": 1792583823.8329616
-  },
-  "168.am:https://168.am/?p=2501854": {
-   "score": 5,
-   "since": 1792584730.142645
   },
   "Factor.am:https://factor.am/?p=1072470": {
    "score": 5,
    "since": 1792584730.142645
   },
-  "168.am:https://168.am/?p=2501852": {
+  "News.am:https://news.am/hy/news/1069362": {
    "score": 5,
-   "since": 1792584730.142645
-  },
-  "tg:twentyfournews/324611": {
-   "score": 5,
-   "since": 1792585644.2343597
-  },
-  "Armsport.am:https://armsport.am/?p=611203": {
-   "score": 5,
-   "since": 1792585644.2343597
-  },
-  "News.am:https://news.am/hy/news/1069355": {
-   "score": 5,
-   "since": 1792585644.2343597
+   "since": 1792586543.924429
   }
  },
- "last_post": 1792586189.4212115,
+ "last_post": 1792587137.3263137,
  "digest_last": {},
  "top_used": {
   "2026-10-21": 15
  },
- "last_sport": 1792585233.0049958
+ "last_sport": 1792586785.6160345
 }
