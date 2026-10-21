@@ -1380,7 +1380,24 @@
   "168.am:https://168.am/?p=2501918",
   "168.am:https://168.am/?p=2502058",
   "tg:twentyfournews/324668",
-  "News.am:https://news.am/hy/news/1069437"
+  "News.am:https://news.am/hy/news/1069437",
+  "tg:shamshyan_com/55533",
+  "tg:twentyfournews/324671",
+  "News.am:https://news.am/hy/news/1069439",
+  "Factor.am:https://factor.am/?p=1072722",
+  "Aravot.am:https://www.aravot.am/?p=1588341",
+  "168.am:https://168.am/?p=2501897",
+  "1in.am:https://www.1in.am/?p=3771137",
+  "tg:shamshyan_com/55532",
+  "tg:twentyfournews/324670",
+  "Factor.am:https://factor.am/?p=1072588",
+  "168.am:https://168.am/?p=2502066",
+  "1in.am:https://www.1in.am/?p=3771005",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/rusastann-u-chinastany-nakhapatrastvum-en-depi-mars-hamategh-araqelutjany-108400765.html",
+  "tg:shamshyan_com/55531",
+  "News.am:https://news.am/hy/news/1069453",
+  "Armsport.am:https://armsport.am/?p=611244",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/khamenein-ev-ghalibafy-qnnarkel-en-iran-amn-hakamartutjuny-108400878.html"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1524,7 +1541,9 @@
   "«Ուժեղ Հայաստանի» աջակից 2 կանանց նկատմամբ խափանման միջոց է ընտրվել տնային կալանքը",
   "Զելենսկին պատրաստ է ռազմաճակատի գծերի ներկայիս իրավիճակի սառեցմամբ ավարտել պատերազմը",
   "Հորմուզի նեղուցի շրջանում լցանավ է խոցվել",
-  "Բունդեսվերն առաջին անգամ ռուսական դիվերսիաների սպառնալիքը «նշանակալի» է գնահատել"
+  "Բունդեսվերն առաջին անգամ ռուսական դիվերսիաների սպառնալիքը «նշանակալի» է գնահատել",
+  "Կրոսը կազմել է պատմության լավագույն կիսապաշտպանների հնգյակը․ Բարսելոնայիլ լեգենդները զիջել են միայն մեկ ֆուտբոլիստի",
+  "Խամենեին և Ղալիբաֆը քննարկել են Իրան-ԱՄՆ հակամարտությունը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1543,12 +1562,12 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792602453.1809657,
+ "last_post": 1792603133.1359372,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-21": 15
  },
- "last_sport": 1792601430.3975136
+ "last_sport": 1792602953.2103288
 }
