@@ -552,9 +552,8 @@ def framed_photo(item, source_name):
 def publish(text, item, source_name):
     video = item.get("video")
     footer = f'\n\n🔗 <a href="{html.escape(item["link"])}">{html.escape(source_name)}</a>'
-    if item.get("video_link") and not video:  # video we don't re-post: link next to the source
-        dur = f' ({html.escape(item["video_duration"])})' if item.get("video_duration") else ""
-        footer += f' · ▶️ <a href="{html.escape(item["video_link"])}">Տեսանյութ{dur}</a>'
+    if item.get("video_link") and not video:  # video we don't re-post: one link, marked as video
+        footer = f'\n\n▶️ <a href="{html.escape(item["video_link"])}">{html.escape(source_name)}</a>'
     watch = ""
     if SIGNATURE:
         footer += f"\n{html.escape(SIGNATURE)}"
