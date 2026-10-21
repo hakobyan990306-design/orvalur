@@ -545,6 +545,33 @@ SELF_TALK = re.compile(r"(?<![\w])(չեմ|եմ|ես|ինձ|կարող\s+եմ)(?!
                        r"Պատասխանիր|SKIP|հրահանգ|ձևավորել|լուր\s+ձևավոր|բավարար\s+(փաստ|տեղեկ)", re.I)
 
 
+VOCAB = set()  # correctly spelled Armenian words seen in this run's sources (filled in main)
+ARM_WORD = r"[Ա-և]+"
+
+
+def fix_typos(text, source):
+    """The writer sometimes misspells Armenian words ("նախապայում" for "նախապայման"). A word that appears
+    in none of today's source texts but is very close to one that does is replaced by it."""
+    import difflib
+
+    vocab = VOCAB | set(re.findall(ARM_WORD, source))
+    by_len = {}
+    for w in vocab:
+        by_len.setdefault(len(w), []).append(w)
+
+    def fix(m):
+        w = m.group(0)
+        if len(w) < 7 or w in vocab or w.lower() in vocab:
+            return w
+        pool = [c for n in range(len(w) - 1, len(w) + 2) for c in by_len.get(n, [])]
+        best = difflib.get_close_matches(w, pool, n=1, cutoff=0.85)
+        if best and best[0][:3] == w[:3]:
+            print(f"    typo: {w} -> {best[0]}")
+            return best[0]
+        return w
+    return re.sub(ARM_WORD, fix, text)
+
+
 def drop_echo(text):
     """Removes body sentences that just restate the headline ("X. Y" -> "Ըստ Xի՝ Y")."""
     head, _, rest = text.strip().partition("\n")
@@ -591,6 +618,7 @@ def rewrite(item, source_name, model=None):
     if META_TALK.search(text) or SELF_TALK.search(outside_quotes):  # talked about itself/its input, not news
         print("    meta text, skipped")
         return None
+    text = fix_typos(text, item["title"] + " " + body)
     text = drop_echo(text)
     # Keep at most 2 hashtags, skipping very long ones.
     tags = iter([t for t in re.findall(r"#\w+", text) if len(t) <= 20][:2])
@@ -752,6 +780,8 @@ def main():
         except Exception as e:  # one broken source must not stop the others
             print(f'! {src["name"]}: {e}')
             continue
+        for it in items:  # every source text feeds the spelling check
+            VOCAB.update(re.findall(ARM_WORD, it["title"] + " " + it.get("text", "")))
         new = [it for it in items if it["id"] not in seen]
         print(f'{src["name"]}: {len(items)} items, {len(new)} new')
 
