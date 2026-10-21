@@ -1308,7 +1308,23 @@
   "tg:twentyfournews/324658",
   "News.am:https://news.am/hy/news/1069419",
   "1in.am:https://www.1in.am/?p=3771217",
-  "1in.am:https://www.1in.am/?p=3770969"
+  "1in.am:https://www.1in.am/?p=3770969",
+  "168.am:https://168.am/?p=2501755",
+  "tg:twentyfournews/324659",
+  "News.am:https://news.am/hy/news/1069438",
+  "tg:twentyfournews/324656",
+  "tg:twentyfournews/324662",
+  "News.am:https://news.am/hy/news/1069442",
+  "Hetq:https://hetq.am/hy/article/184877",
+  "Factor.am:https://factor.am/?p=1072699",
+  "Aravot.am:https://www.aravot.am/?p=1588337",
+  "168.am:https://168.am/?p=2502040",
+  "1in.am:https://www.1in.am/?p=3771103",
+  "tg:twentyfournews/324661",
+  "News.am:https://news.am/hy/news/1069441",
+  "168.am:https://168.am/?p=2502027",
+  "tg:twentyfournews/324660",
+  "News.am:https://news.am/hy/news/1069423"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1456,12 +1472,7 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:twentyfournews/324656": {
-   "score": 5,
-   "since": 1792597465.8393507
-  }
- },
+ "pending": {},
  "last_post": 1792597985.5586267,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
