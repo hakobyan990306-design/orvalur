@@ -1143,7 +1143,33 @@
   "168.am:https://168.am/?p=2501980",
   "tg:twentyfournews/324632",
   "News.am:https://news.am/hy/news/1069394",
-  "News.am:https://news.am/hy/news/1069392"
+  "News.am:https://news.am/hy/news/1069392",
+  "News.am:https://news.am/hy/news/1069403",
+  "Hetq:https://hetq.am/hy/article/184872",
+  "Factor.am:https://factor.am/?p=1072540",
+  "Aravot.am:https://www.aravot.am/?p=1588309",
+  "1in.am:https://www.1in.am/?p=3771066",
+  "tg:RadarARM/81689",
+  "News.am:https://news.am/hy/news/1069388",
+  "Aravot.am:https://www.aravot.am/?p=1588306",
+  "168.am:https://168.am/?p=2501991",
+  "1in.am:https://www.1in.am/?p=3771214",
+  "tg:twentyfournews/324635",
+  "tg:RadarARM/81688",
+  "News.am:https://news.am/hy/news/1069410",
+  "Aravot.am:https://www.aravot.am/?p=1588305",
+  "168.am:https://168.am/?p=2501983",
+  "tg:RadarARM/81686",
+  "News.am:https://news.am/hy/news/1069397",
+  "Aravot.am:https://www.aravot.am/?p=1588300",
+  "News.am:https://news.am/hy/news/1069391",
+  "168.am:https://168.am/?p=2501951",
+  "News.am:https://news.am/hy/news/1069362",
+  "168.am:https://168.am/?p=2501802",
+  "Armsport.am:https://armsport.am/?p=611216",
+  "tg:RadarARM/81690",
+  "tg:twentyfournews/324636",
+  "tg:twentyfournews/324637"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1245,7 +1271,11 @@
   "ԵԽԽՎ անդամ իտալացի սենատոր Աուրորա Ֆլորիդիան հարգանքի տուրք է մատուցել Հայոց ցեղասպանության զոհերի հիշատակին",
   "Ցավում եմ, որ ձերբակալվել է քաղցկեղով հիվանդ, 3 անչափահաս երեխա ունեցող կին. Լիանա Մանուկյան",
   "Կալինինգրադի մարզում Սու-30 կործանիչ է կործանվել",
-  "TRIPP-ի միջոցով կարգելվի զենքի և զինամթերքի փոխադրումը․ Միրզոյան"
+  "TRIPP-ի միջոցով կարգելվի զենքի և զինամթերքի փոխադրումը․ Միրզոյան",
+  "Պետք չէ անընդհատ հիշեցնել պարտությունների մասին․ Կիվու",
+  "🟨 Լիլիթ Ստեփանյանը վայր կդնի ԱԺ պատգամավորի մանդատը և կնշանակվի Կոտայքի մարզպետ։ Նիկոլ Փաշինյան",
+  "Նոր մեղադրանք՝ Գյումրիի քաղաքապետ Վարդան Ղուկասյանի նկատմամբ",
+  "Մանվել Գրիգորյանի ժառանգներից և փոխկապակցված անձանցից կբռնագանձվի 1,2 միլիարդ դրամի գույք"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1272,37 +1302,9 @@
    "score": 5,
    "since": 1792584730.142645
   },
-  "News.am:https://news.am/hy/news/1069362": {
-   "score": 5,
-   "since": 1792586543.924429
-  },
-  "tg:RadarARM/81686": {
-   "score": 5,
-   "since": 1792589273.369193
-  },
-  "Armsport.am:https://armsport.am/?p=611216": {
-   "score": 5,
-   "since": 1792589273.369193
-  },
-  "News.am:https://news.am/hy/news/1069391": {
-   "score": 5,
-   "since": 1792589273.369193
-  },
-  "Hetq:https://hetq.am/hy/article/184872": {
-   "score": 5,
-   "since": 1792589273.369193
-  },
-  "168.am:https://168.am/?p=2501802": {
-   "score": 5,
-   "since": 1792589273.369193
-  },
   "News.am:https://news.am/hy/news/1069368": {
    "score": 6,
    "since": 1792589273.369193
-  },
-  "News.am:https://news.am/hy/news/1069397": {
-   "score": 5,
-   "since": 1792590191.1824944
   },
   "168.am:https://168.am/?p=2501876": {
    "score": 5,
@@ -1312,21 +1314,21 @@
    "score": 5,
    "since": 1792590191.1824944
   },
-  "168.am:https://168.am/?p=2501951": {
-   "score": 5,
-   "since": 1792590191.1824944
-  },
   "168.am:https://168.am/?p=2501970": {
    "score": 6,
    "since": 1792590191.1824944
+  },
+  "168.am:https://168.am/?p=2501995": {
+   "score": 5,
+   "since": 1792591101.7487452
   }
  },
- "last_post": 1792590871.1637857,
+ "last_post": 1792591616.1486895,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-21": 15
  },
- "last_sport": 1792586785.6160345
+ "last_sport": 1792591122.735079
 }
