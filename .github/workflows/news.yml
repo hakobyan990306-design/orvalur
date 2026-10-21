@@ -5,6 +5,9 @@ on:
     # every 15 min during posting hours, Yerevan = UTC+4 (bot.py checks the hours too)
     - cron: "*/15 4-18 * * 1-5"   # Mon-Fri 08:00-23:00
     - cron: "*/15 5-18 * * 0,6"   # Sat-Sun 09:00-23:00
+  push:  # editing this file (re)starts the self-chaining loop below
+    branches: [main]
+    paths: [".github/workflows/news.yml"]
   workflow_dispatch:
     inputs:
       dry_run:
@@ -16,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # lets a run start the next one
 
 concurrency:
   group: news
@@ -24,8 +28,10 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     steps:
+      - run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v5
 
       - uses: actions/setup-python@v6
@@ -55,3 +61,14 @@ jobs:
           git config user.email "news-bot@users.noreply.github.com"
           git add state/seen.json
           git diff --cached --quiet || (git commit -m "state: update seen items" && git pull --rebase && git push)
+
+      # GitHub's cron above is unreliable, so each run waits until 15 min have passed and starts the next one.
+      # The concurrency group keeps at most one run going and one waiting, so chains never pile up.
+      - name: Start next run
+        if: always() && github.event.inputs.dry_run != '1' && github.event.inputs.test_ai != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          left=$(( 900 - ($(date +%s) - START) ))
+          if [ "$left" -gt 0 ]; then sleep "$left"; fi
+          gh workflow run news.yml --ref main -R "$GITHUB_REPOSITORY"
