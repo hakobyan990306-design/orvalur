@@ -58,6 +58,7 @@ SYSTEM_PROMPT = """Դու հայկական լրատվական Telegram կանա�
   - Սովորական լուրի դեպքում միայն թեմատիկ էմոջին։ Մի չափազանցիր, առավելագույնը 2 էմոջի վերնագրում։
 - Հետո դատարկ տող և 1–4 նախադասություն՝ միայն փաստերը, որոնք կան լրի մեջ։ Ոչինչ մի հորինիր։ Եթե տրված է միայն վերնագիր, գրիր 1 նախադասություն՝ վերնագրի փաստերով։
 - Չեզոք տոն, առանց սեփական կարծիքի և առանց կլիքբեյթի։
+- Երբեք մի բացիր հապավումները (ՀԿԿ, ՔԿ, ԱԱԾ, ՊՆ և այլն) և մի ենթադրիր, թե ինչ են նշանակում. գրիր այնպես, ինչպես աղբյուրում է։ Մի ավելացրու ոչ մի անուն, թիվ կամ փաստ, որը չկա տեքստում։
 - Մի գրիր աղբյուրի անունը կամ հղումը, դրանք ավելացվում են ավտոմատ։ Երբեք մի գրիր «ըստ վերնագրի», «ըստ աղբյուրի», «մանրամասները տեսանյութում» և նման արտահայտություններ. գրիր փաստը ուղղակիորեն։
 - Վերջում դատարկ տող և 1–2 հեշթեգ միայն հայերեն տառերով, առանց բացատի (#Հայաստան, #Սպորտ, #ԱրտակարգԴեպք)։
 - Ընդհանուր երկարությունը՝ մինչև 700 նիշ։
@@ -163,14 +164,22 @@ def fetch_telegram(src):
         vid = re.search(r'<video[^>]+src="([^"]+)"', block)
         thumb = re.search(r"tgme_widget_message_video_thumb[^>]+background-image:url\('([^']+)'\)", block)
         dur = re.search(r'message_video_duration[^>]*>([^<]+)<', block)
+        # Prefer the outlet's own article over its Telegram post; YouTube links mark a video story.
+        links = [html.unescape(u) for u in re.findall(r'href="(https?://[^"]+)"', tm.group(1) if tm else "")]
+        links = [u for u in links if not re.search(r"//(t\.me|telegram\.|(www\.)?(facebook|instagram|tiktok|x|twitter)\.)", u)]
+        youtube = next((u for u in links if re.search(r"youtu\.?be", u)), None)
+        site = next((u for u in links if u != youtube), None)
+        tg_link = f"https://t.me/{post.group(1)}"
+        is_video = bool(thumb or vid or youtube or re.search(r"ՏԵՍԱՆՅՈՒԹ|ՏԵՍԱ\b|\bVIDEO\b", text.upper()))
         items.append({
             "id": f"tg:{post.group(1)}",
             "title": text.split("\n", 1)[0][:200],
             "text": text[:3000],
-            "link": f"https://t.me/{post.group(1)}",
+            "link": site or tg_link,
             "image": im.group(1) if im else (thumb.group(1) if thumb else None),
             "video": html.unescape(vid.group(1)) if vid else None,
-            "video_duration": dur.group(1).strip() if (thumb or vid) and dur else None,
+            "video_duration": (dur.group(1).strip() if dur else "") if is_video else None,
+            "video_link": (youtube or site or tg_link) if is_video else None,
         })
     return items[::-1]  # the page lists oldest first; keep newest first like RSS
 
@@ -501,10 +510,11 @@ def framed_photo(item, source_name):
 
 def publish(text, item, source_name):
     video = item.get("video")
+    footer = f'\n\n🔗 <a href="{html.escape(item["link"])}">{html.escape(source_name)}</a>'
+    if item.get("video_link") and not video:  # video we don't re-post: link next to the source
+        dur = f' ({html.escape(item["video_duration"])})' if item.get("video_duration") else ""
+        footer += f' · ▶️ <a href="{html.escape(item["video_link"])}">Տեսանյութ{dur}</a>'
     watch = ""
-    if item.get("video_duration") and not video:  # too big to re-post: show the frame and link to it
-        watch = f'\n\n▶️ <a href="{html.escape(item["link"])}">Դիտել տեսանյութը ({html.escape(item["video_duration"])})</a>'
-    footer = watch + f'\n\n🔗 <a href="{html.escape(item["link"])}">{html.escape(source_name)}</a>'
     if SIGNATURE:
         footer += f"\n{html.escape(SIGNATURE)}"
     head, _, rest = text.strip().partition("\n")
