@@ -498,8 +498,8 @@ def og_image(url):
         page = http_get(url)
     except Exception:
         return None
-    m = (re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', page)
-         or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', page))
+    m = (re.search(r'<meta[^>]+property\s*=\s*["\']og:image["\'][^>]+content\s*=\s*["\']([^"\']+)', page)
+         or re.search(r'<meta[^>]+content\s*=\s*["\']([^"\']+)["\'][^>]+property\s*=\s*["\']og:image', page))
     return html.unescape(m.group(1)) if m else None
 
 
