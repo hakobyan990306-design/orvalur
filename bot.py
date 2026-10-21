@@ -25,7 +25,8 @@ STATE_FILE = ROOT / "state" / "seen.json"
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "")  # @mychannel or -100123...
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-MODEL = os.environ.get("MODEL", "claude-opus-5-5")
+MODEL = os.environ.get("MODEL", "claude-opus-5-5")  # importance scoring (many short titles)
+REWRITE_MODEL = os.environ.get("REWRITE_MODEL") or "claude-sonnet-5-5"  # writing posts and repeat checks: accuracy matters
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
 GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
@@ -58,6 +59,10 @@ SYSTEM_PROMPT = """Դու հայկական լրատվական Telegram կանա�
   - Սովորական լուրի դեպքում միայն թեմատիկ էմոջին։ Մի չափազանցիր, առավելագույնը 2 էմոջի վերնագրում։
 - Հետո դատարկ տող և 1–4 նախադասություն՝ միայն փաստերը, որոնք կան լրի մեջ։ Ոչինչ մի հորինիր։ Եթե տրված է միայն վերնագիր, գրիր 1 նախադասություն՝ վերնագրի փաստերով։
 - Չեզոք տոն, առանց սեփական կարծիքի և առանց կլիքբեյթի։
+- Ճշգրտությունը ամենակարևորն է. ավելի լավ է կարճ գրառում, քան սխալ փաստ։
+- Անունները, ազգանունները, պաշտոնները, թվերը, ամսաթվերը և վայրերը գրիր ճիշտ այնպես, ինչպես տեքստում են։ Մի փոխիր, թե ով ինչ է արել։
+- Եթե աղբյուրում լուրը ներկայացված է որպես չհաստատված, ենթադրություն, մեղադրանք կամ ինչ-որ մեկի պնդում, այդպես էլ գրիր («ըստ ՔԿ-ի», «մեղադրվում է», «տեղեկություններ կան»)։ Մեղադրանքը մի ներկայացրու որպես ապացուցված փաստ։
+- Տեքստը կարող է պարունակել կայքի այլ մասեր (այլ լուրեր, գովազդ). օգտագործիր միայն վերնագրին վերաբերող տեղեկությունը։
 - Երբեք մի բացիր հապավումները (ՀԿԿ, ՔԿ, ԱԱԾ, ՊՆ և այլն) և մի ենթադրիր, թե ինչ են նշանակում. գրիր այնպես, ինչպես աղբյուրում է։ Մի ավելացրու ոչ մի անուն, թիվ կամ փաստ, որը չկա տեքստում։
 - Մի գրիր աղբյուրի անունը կամ հղումը, դրանք ավելացվում են ավտոմատ։ Երբեք մի գրիր «ըստ վերնագրի», «ըստ աղբյուրի», «մանրամասները տեսանյութում» և նման արտահայտություններ. գրիր փաստը ուղղակիորեն։
 - Վերջում դատարկ տող և 1–2 հեշթեգ միայն հայերեն տառերով, առանց բացատի (#Հայաստան, #Սպորտ, #ԱրտակարգԴեպք)։
@@ -357,23 +362,24 @@ FETCHERS = {"rss": fetch_rss, "telegram": fetch_telegram, "veolia": fetch_veolia
 _client = None
 
 
-def ask_claude(system, user, max_tokens=4000):
+def ask_claude(system, user, max_tokens=4000, model=None):
     """One Claude call; returns the text, or None on error/refusal."""
     global _client
     import anthropic
 
     if _client is None:
         _client = anthropic.Anthropic()
+    model = model or MODEL
 
     kwargs = dict(
-        model=MODEL,
+        model=model,
         max_tokens=max_tokens,
         system=system,
         output_config={"effort": "low"},
         messages=[{"role": "user", "content": user}],
     )
     try:
-        if MODEL.startswith("claude-haiku"):
+        if model.startswith("claude-haiku"):
             resp = _client.messages.create(**kwargs)
         else:
             # Server-side fallback: if the model declines, the API retries on a suitable model in the same call.
@@ -440,8 +446,20 @@ def is_repeat(title, posted):
     if not ANTHROPIC_KEY or not posted:
         return False
     answer = ask_claude(REPEAT_PROMPT, "Posted:\n" + "\n".join(f"- {t}" for t in posted)
-                        + f"\n\nNew:\n- {title}", max_tokens=1000)
+                        + f"\n\nNew:\n- {title}", max_tokens=1000, model=REWRITE_MODEL)
     return bool(answer) and answer.strip().upper().startswith("YES")
+
+
+def fetch_article(url):
+    """Main text of a news article page: its Armenian paragraphs, joined. None if it can't be read."""
+    try:
+        page = http_get(url)
+    except Exception:
+        return None
+    paras = [strip_html(p) for p in re.findall(r"(?s)<p[^>]*>(.*?)</p>", page)]
+    paras = [p for p in paras if len(p) > 60 and re.search(r"[Ա-և]", p)]
+    text = "\n".join(paras)[:4000]
+    return text if len(text) > 200 else None
 
 
 def rewrite(item, source_name):
@@ -456,7 +474,11 @@ def rewrite(item, source_name):
             body = body[:400].rsplit(" ", 1)[0] + "…"
         return f"📰 {title}" + (f"\n\n{body}" if body else "")
 
-    text = ask_claude(SYSTEM_PROMPT, f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{item["text"]}')
+    body = item["text"]
+    if len(re.sub(r"https?://\S+", "", body)) < 300 and "t.me/" not in item["link"]:
+        body = fetch_article(item["link"]) or body  # headline-only post: read the article itself
+    text = ask_claude(SYSTEM_PROMPT, f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{body}',
+                      model=REWRITE_MODEL)
     if not text or text.upper().startswith("SKIP"):
         return None
     # Keep at most 2 hashtags, skipping very long ones.
@@ -581,7 +603,7 @@ def main():
     sources = [s for s in json.loads(SOURCES_FILE.read_text(encoding="utf-8")) if s.get("enabled", True)]
 
     if os.environ.get("TEST_AI") == "1":  # rewrite each source's newest item and print it; posts nothing
-        print(f"model: {MODEL}, key set: {bool(ANTHROPIC_KEY)}")
+        print(f"model: {MODEL}, rewrite: {REWRITE_MODEL}, key set: {bool(ANTHROPIC_KEY)}")
         fetched = {}
         for src in sources:
             try:
