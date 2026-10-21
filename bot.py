@@ -27,6 +27,7 @@ CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "")  # @mychannel or -100123...
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = os.environ.get("MODEL", "claude-opus-5-5")  # importance scoring (many short titles)
 REWRITE_MODEL = os.environ.get("REWRITE_MODEL") or "claude-sonnet-5-5"  # writing posts and repeat checks: accuracy matters
+SCORE_MODEL = os.environ.get("SCORE_MODEL") or REWRITE_MODEL  # picking what is important needs judgment too
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 MAX_POSTS = int(os.environ.get("MAX_POSTS_PER_RUN", "3"))
 GAP_MIN = float(os.environ.get("MIN_GAP_MINUTES", "3"))  # pause between posts, randomized up to +2 min
@@ -425,14 +426,23 @@ def score_items(cands, posted=()):
     prompt = "\n".join(lines)
     if posted:
         prompt = "Արդեն հրապարակված (մի գնահատիր).\n" + "\n".join(f"- {t}" for t in posted) + "\n\nԳնահատիր.\n" + prompt
-    text = ask_claude(SCORE_PROMPT, prompt, max_tokens=2000)
+    text = ask_claude(SCORE_PROMPT, prompt, max_tokens=4000, model=SCORE_MODEL)
     if not text:
         return None
     scores = [0] * len(cands)
     for n, s in re.findall(r"(?m)^\s*(\d+)\s*[:.)-]\s*(\d+)", text):
         if 1 <= int(n) <= len(cands):
             scores[int(n) - 1] = min(int(s), 10)
+    # Hard floor for incidents, so the model can't bury them (it sometimes ignores the prompt rule).
+    # A score of 1 means "repeat of something already posted" and stays.
+    for i, (src, it) in enumerate(cands):
+        if scores[i] != 1 and INCIDENT.search(it["title"]):
+            scores[i] = max(scores[i], 6)
     return scores
+
+
+INCIDENT = re.compile(r"վիրավոր|զոհ|մահաց|սպանվ|սպանութ|կրակոց|կրակել|դանակ|ծեծկռտուք|ծեծի|հրդեհ|վթար|"
+                      r"առևանգ|ձերբակալ|պայթյուն|պայթել|ողբերգ|անհետ|խեղդվ|թունավոր|երկրաշարժ|արտակարգ", re.I)
 
 
 REPEAT_PROMPT = """You check a news channel for repeated stories. You get a list of headlines already posted
