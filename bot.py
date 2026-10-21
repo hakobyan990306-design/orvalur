@@ -33,6 +33,7 @@ CANDS_PER_SOURCE = 10  # per run, only the newest unposted items of each source 
 MIN_SCORE = int(os.environ.get("MIN_SCORE", "5"))  # importance 1-10; below this is never posted
 PENDING_HOURS = 3  # an important item not posted within this time is dropped as stale
 LONG_POST = 280  # stories longer than this (chars) show one sentence and fold the rest
+REGION_EVERY = 2  # hours between regional outage digests (Yerevan ones go out at once)
 ARMENIA = timezone(timedelta(hours=4))
 OPEN_WEEKDAY, OPEN_WEEKEND, CLOSE = 8, 9, 23  # posting hours, Yerevan time
 
@@ -598,9 +599,18 @@ def main():
             seen.update(it["id"] for it in new)
             continue
         if src.get("digest") and new:
-            digest = make_digest(src, new)
-            if not digest:  # only past notices
-                state["seen"].extend(it["id"] for it in new)
+            # Yerevan goes out right away; regional notices are batched at most once per REGION_EVERY hours,
+            # held back (still unseen) until then so the same towns don't repeat all day.
+            yerevan = [it for it in new if place_of(it["title"])[1]]
+            regions = [it for it in new if not place_of(it["title"])[1]]
+            last = state.setdefault("digest_last", {}).get(src["name"], 0)
+            regions_due = regions and time.time() - last >= REGION_EVERY * 3600
+            batch = yerevan + (regions if regions_due else [])
+            digest = make_digest(src, batch) if batch else None
+            if batch and not digest:  # only past notices
+                state["seen"].extend(it["id"] for it in batch)
+            if digest and regions_due:
+                digest["regional_batch"] = src["name"]
             new = [digest] if digest else []
         # Newest first; anything older than the newest few is dropped so we never post stale news.
         for it in new[CANDS_PER_SOURCE:]:
@@ -673,6 +683,8 @@ def main():
         if publish(text, item, src["name"]):
             state["titles"].append(item["title"])
             state["last_post"] = time.time()
+            if item.get("regional_batch"):
+                state.setdefault("digest_last", {})[item["regional_batch"]] = time.time()
             posted += 1
             per_src_count[src["name"]] = per_src_count.get(src["name"], 0) + 1
             if not DRY_RUN:
