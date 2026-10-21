@@ -1044,7 +1044,28 @@
   "Armsport.am:https://armsport.am/?p=611203",
   "168.am:https://168.am/?p=2501809",
   "Factor.am:https://factor.am/?p=1072514",
-  "168.am:https://168.am/?p=2501854"
+  "168.am:https://168.am/?p=2501854",
+  "tg:twentyfournews/324623",
+  "tg:RadarARM/81685",
+  "News.am:https://news.am/hy/news/1069382",
+  "Factor.am:https://factor.am/?p=1072592",
+  "Aravot.am:https://www.aravot.am/?p=1588279",
+  "168.am:https://168.am/?p=2501911",
+  "1in.am:https://www.1in.am/?p=3771060",
+  "tg:shamshyan_com/55515",
+  "tg:twentyfournews/324622",
+  "tg:RadarARM/81684",
+  "News.am:https://news.am/hy/news/1069381",
+  "Factor.am:https://factor.am/?p=1072487",
+  "Aravot.am:https://www.aravot.am/?p=1588277",
+  "168.am:https://168.am/?p=2501887",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ervand-qvochar-bazmachap-hantshary-tbilisum-cucahandes-e-bacvel-108391557.html",
+  "Aravot.am:https://www.aravot.am/?p=1588275",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/matenadarani-harevanutjamb-steghtsveliq-kanach-tshemughineri-himqy-drvec-108391087.html",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hhi-ankakhutjunn-amenakarevvorn-e-mirzvojany-eatmin-andamakcutjuny-sarecnelu-masin-108391833.html",
+  "News.am:https://news.am/hy/news/1069366",
+  "tg:twentyfournews/324619",
+  "tg:shamshyan_com/55516"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1130,7 +1151,11 @@
   "ՀԱՊԿ-ում չեն բացառում, որ ՀՀ-ն կվերանայի իր դիրքորոշումը կառույցին անդամակցելու հարցում",
   "Արթուր Ղարիբյանը՝ հավաքականում խփած գոլի և Սպերցյանի խաղամակարդակի մասին",
   "Պուտինը Ուիթկոֆին հայտնել է, որ ԱՄՆ-ի հետ դիզելային գործարքի շրջանակում առաջին լցանավերը կմեկնեն երկու-երեք օրից",
-  "Խաղաղության խորհրդի վճարի հետ կապված առնվազն այս պահին չկա փաստաթղթային պարտավորութուն. Միրզոյան"
+  "Խաղաղության խորհրդի վճարի հետ կապված առնվազն այս պահին չկա փաստաթղթային պարտավորութուն. Միրզոյան",
+  "ՀՀ–ի անկախությունն ամենակարևորն է. Միրզոյանը` ԵԱՏՄ–ին անդամակցությունը սառեցնելու մասին",
+  "Իրանն աննախադեպ է որակել Հորմուզի նեղուցում նավագնացության վրա ազդելու իր հնարավորությունները",
+  "Ամուսնու կողմից կնոջն ընտանեկան բռնության ենթարկելու վերաբերյալ քրեական վարույթի նախաքննությունն ավարտվել է",
+  "Հայաստան-ԱՄԷ համաձայնագրի նպատակն է ազատականացնել երկրների միջև ծառայությունների, առևտրի և ներդրումների գործընթացը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1160,9 +1185,17 @@
   "News.am:https://news.am/hy/news/1069362": {
    "score": 5,
    "since": 1792586543.924429
+  },
+  "tg:twentyfournews/324621": {
+   "score": 5,
+   "since": 1792587462.9075685
+  },
+  "tg:twentyfournews/324620": {
+   "score": 5,
+   "since": 1792587462.9075685
   }
  },
- "last_post": 1792587137.3263137,
+ "last_post": 1792588083.3336043,
  "digest_last": {},
  "top_used": {
   "2026-10-21": 15
