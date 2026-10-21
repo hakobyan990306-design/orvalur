@@ -874,7 +874,29 @@
   "tg:twentyfournews/324582",
   "Factor.am:https://factor.am/?p=1072442",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hhn-ksubsidavvori-ame-apranqneri-artahanman-tsakhseri-50-y-papvojan-108383955.html",
-  "News.am:https://news.am/hy/news/1069328"
+  "News.am:https://news.am/hy/news/1069328",
+  "tg:shamshyan_com/55509",
+  "tg:twentyfournews/324588",
+  "News.am:https://news.am/hy/news/1069344",
+  "Aravot.am:https://www.aravot.am/?p=1588234",
+  "168.am:https://168.am/?p=2501796",
+  "News.am:https://news.am/hy/news/1069346",
+  "Factor.am:https://factor.am/?p=1072520",
+  "Aravot.am:https://www.aravot.am/?p=1588239",
+  "168.am:https://168.am/?p=2501792",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/rd-n-astanajic-parzabanumner-e-spasum-mutqi-elektrvonajin-tujltvutjan-kargi-veraberjal-108385175.html",
+  "News.am:https://news.am/hy/news/1069345",
+  "168.am:https://168.am/?p=2501785",
+  "tg:fastsport_am/1643",
+  "tg:twentyfournews/324585",
+  "News.am:https://news.am/hy/news/1069337",
+  "tg:twentyfournews/324584",
+  "tg:twentyfournews/324583",
+  "tg:fastsport_am/1639",
+  "tg:fastsport_am/1646",
+  "tg:twentyfournews/324586",
+  "Factor.am:https://factor.am/?p=1072504",
+  "1in.am:https://www.1in.am/?p=3771002"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -934,7 +956,11 @@
   "Քուշները Զելենսկու հետ բանակցությունների ժամանակ ներկայացրել է Թրամփի պահանջներից մեկը. Axios",
   "Տնային կալանքում եմ, սա իմ և իմ կուսակցության նկատմամբ հերթական քաղաքական դրսևորումն է։ ՀՀ-ում քաղբանտարկյալների թիվը մի քանի տասնյակից հասնում է մինչև հարյուրից ավելիի։ Ընդդիմության պայքարը բավարար չ",
   "Լայպցիգի օդանավակայանում դիվերսիայի փորձից հետո Կրեմլը զգուշացրել է Գերմանիային, որ դա վերջին հարձակումը չէ․ WSJ",
-  "ՀՀ–ն կսուբսիդավորի ԱՄԷ ապրանքների արտահանման ծախսերի 50%-ը. Պապոյան"
+  "ՀՀ–ն կսուբսիդավորի ԱՄԷ ապրանքների արտահանման ծախսերի 50%-ը. Պապոյան",
+  "⚽ Paris Saint-Germain FC 4–2 FC Barcelona",
+  "Առաջիկա կիրակի ՀՀ-ում ՏԻՄ ընտրություններ են․ խոշոր համայնքերում որ ուժերը կպայքարեն իրար դեմ",
+  "Կոնգոյում Էբոլայից մահացել է 4602 մարդ․ Հայաստանում տարածման ռիսկը գնահատվում է ցածր․ ՀՎԿԱԿ",
+  "Հայաստանի ՀՆԱ-ի 15,6% անկում. ԵԱՏՄ զեկույցի չհիմնավորված ճշգրտությունը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -953,15 +979,43 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "Factor.am:https://factor.am/?p=1072389": {
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/spitaki-erkrasharzhn-apacucel-e-hajkakan-aek-i-husaliutjuny-zakharvova-108385461.html": {
+   "score": 6,
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1645": {
+   "score": 7,
+   "since": 1792581098.603235
+  },
+  "tg:twentyfournews/324587": {
+   "score": 6,
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1644": {
    "score": 5,
-   "since": 1792570194.6618505
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1642": {
+   "score": 5,
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1641": {
+   "score": 5,
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1640": {
+   "score": 7,
+   "since": 1792581098.603235
+  },
+  "tg:fastsport_am/1638": {
+   "score": 5,
+   "since": 1792581098.603235
   }
  },
- "last_post": 1792580561.9881635,
+ "last_post": 1792581660.9341278,
  "digest_last": {},
  "top_used": {
-  "2026-10-21": 7
+  "2026-10-21": 9
  },
- "last_sport": 1792577820.8492134
+ "last_sport": 1792581117.4349902
 }
