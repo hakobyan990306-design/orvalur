@@ -896,7 +896,36 @@
   "tg:fastsport_am/1646",
   "tg:twentyfournews/324586",
   "Factor.am:https://factor.am/?p=1072504",
-  "1in.am:https://www.1in.am/?p=3771002"
+  "1in.am:https://www.1in.am/?p=3771002",
+  "tg:RadarARM/81681",
+  "tg:factoram/74605",
+  "News.am:https://news.am/hy/news/1069351",
+  "Aravot.am:https://www.aravot.am/?p=1588252",
+  "168.am:https://168.am/?p=2501824",
+  "1in.am:https://www.1in.am/?p=3771097",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/putinn-andzamb-kusumnasiri-ukrainaji-veraberjal-uitkvofi-arajarknery-peskvov-108386313.html",
+  "tg:fastsport_am/1644",
+  "tg:twentyfournews/324592",
+  "News.am:https://news.am/hy/news/1069335",
+  "Factor.am:https://factor.am/?p=1072530",
+  "Aravot.am:https://www.aravot.am/?p=1588250",
+  "168.am:https://168.am/?p=2501817",
+  "1in.am:https://www.1in.am/?p=3771032",
+  "News.am:https://news.am/hy/news/1069348",
+  "Factor.am:https://factor.am/?p=1072358",
+  "Aravot.am:https://www.aravot.am/?p=1588246",
+  "1in.am:https://www.1in.am/?p=3771107",
+  "tg:fastsport_am/1641",
+  "tg:twentyfournews/324590",
+  "News.am:https://news.am/hy/news/1069347",
+  "tg:twentyfournews/324589",
+  "News.am:https://news.am/hy/news/1069338",
+  "tg:fastsport_am/1638",
+  "tg:fastsport_am/1645",
+  "tg:twentyfournews/324593",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/spitaki-erkrasharzhn-apacucel-e-hajkakan-aek-i-husaliutjuny-zakharvova-108385461.html",
+  "tg:twentyfournews/324591",
+  "168.am:https://168.am/?p=2501812"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -960,7 +989,11 @@
   "⚽ Paris Saint-Germain FC 4–2 FC Barcelona",
   "Առաջիկա կիրակի ՀՀ-ում ՏԻՄ ընտրություններ են․ խոշոր համայնքերում որ ուժերը կպայքարեն իրար դեմ",
   "Կոնգոյում Էբոլայից մահացել է 4602 մարդ․ Հայաստանում տարածման ռիսկը գնահատվում է ցածր․ ՀՎԿԱԿ",
-  "Հայաստանի ՀՆԱ-ի 15,6% անկում. ԵԱՏՄ զեկույցի չհիմնավորված ճշգրտությունը"
+  "Հայաստանի ՀՆԱ-ի 15,6% անկում. ԵԱՏՄ զեկույցի չհիմնավորված ճշգրտությունը",
+  "⚽ SSC Napoli 4–3 FK Bodø/Glimt",
+  "Գեղարքունիքում «Kia»-ի ուղևորի մոտ, ով հայտնի բժիշկ-սրտաբան է հայտնաբերվել է մարիխnւանա",
+  "Սպիտակի երկրաշարժն ապացուցել է Հայկական ԱԷԿ-ի հուսալիությունը. Զախարովա",
+  "#ՀԻՄԱ. «ՀՐԱԶԴԱՆ ՑԵՄԵՆՏԻ» ԱՇԽԱՏԱԿԻՑՆԵՐԻ ԲՈՂՈՔԻ ԱԿՑԻԱՆ. #ՈՒՂԻՂ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -979,27 +1012,11 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/spitaki-erkrasharzhn-apacucel-e-hajkakan-aek-i-husaliutjuny-zakharvova-108385461.html": {
-   "score": 6,
-   "since": 1792581098.603235
-  },
-  "tg:fastsport_am/1645": {
-   "score": 7,
-   "since": 1792581098.603235
-  },
   "tg:twentyfournews/324587": {
    "score": 6,
    "since": 1792581098.603235
   },
-  "tg:fastsport_am/1644": {
-   "score": 5,
-   "since": 1792581098.603235
-  },
   "tg:fastsport_am/1642": {
-   "score": 5,
-   "since": 1792581098.603235
-  },
-  "tg:fastsport_am/1641": {
    "score": 5,
    "since": 1792581098.603235
   },
@@ -1007,15 +1024,23 @@
    "score": 7,
    "since": 1792581098.603235
   },
-  "tg:fastsport_am/1638": {
+  "Armsport.am:https://armsport.am/?p=611206": {
+   "score": 7,
+   "since": 1792582014.3341029
+  },
+  "Factor.am:https://factor.am/?p=1072517": {
    "score": 5,
-   "since": 1792581098.603235
+   "since": 1792582014.3341029
+  },
+  "tg:factoram/74604": {
+   "score": 5,
+   "since": 1792582014.3341029
   }
  },
- "last_post": 1792581660.9341278,
+ "last_post": 1792582660.225804,
  "digest_last": {},
  "top_used": {
-  "2026-10-21": 9
+  "2026-10-21": 10
  },
- "last_sport": 1792581117.4349902
+ "last_sport": 1792582028.0191765
 }
