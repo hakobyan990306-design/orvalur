@@ -965,7 +965,33 @@
   "tg:twentyfournews/324602",
   "Factor.am:https://factor.am/?p=1072549",
   "News.am:https://news.am/hy/news/1069350",
-  "Aravot.am:https://www.aravot.am/?p=1588253"
+  "Aravot.am:https://www.aravot.am/?p=1588253",
+  "tg:shamshyan_com/55513",
+  "tg:twentyfournews/324607",
+  "News.am:https://news.am/hy/news/1069364",
+  "Factor.am:https://factor.am/?p=1072560",
+  "1in.am:https://www.1in.am/?p=3771063",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hapk-um-chen-bacarum-vor-hh-n-kveranaji-ir-dirqvorvoshumy-karujcin-andamakcelu-harcum-108388760.html",
+  "tg:twentyfournews/324606",
+  "News.am:https://news.am/hy/news/1069365",
+  "Aravot.am:https://www.aravot.am/?p=1588257",
+  "tg:twentyfournews/324605",
+  "News.am:https://news.am/hy/news/1069363",
+  "Factor.am:https://factor.am/?p=1072533",
+  "Aravot.am:https://www.aravot.am/?p=1588261",
+  "168.am:https://168.am/?p=2501849",
+  "tg:twentyfournews/324604",
+  "News.am:https://news.am/hy/news/1069361",
+  "Factor.am:https://factor.am/?p=1072554",
+  "168.am:https://168.am/?p=2501821",
+  "tg:twentyfournews/324603",
+  "News.am:https://news.am/hy/news/1069360",
+  "tg:twentyfournews/324601",
+  "News.am:https://news.am/hy/news/1069359",
+  "tg:RadarARM/81683",
+  "Aravot.am:https://www.aravot.am/?p=1588263",
+  "Factor.am:https://factor.am/?p=1072501",
+  "tg:fastsport_am/1642"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1039,7 +1065,11 @@
   "⚽ Manchester City FC 5–1 PAE AEK",
   "«ԵԱՏՄ-ից դուրս գալու բացասական էֆեկտը շատ մեծ չէ, այ, գազի գնի փոփոխությունը մեր գնահատականներով՝ կարող է տոկոսներով ազդեցություն ունենալ»․ Գևորգ Պապոյան",
   "Դիլիջան, Իջևան, Նոյեմբերյան․ ովքե՞ր են պայքարում համայնքային իշխանության համար",
-  "Աբովյանում ծեծկռտուքի հետևանքով կա վիրավոր. ոստիկանները որոնում են երկու կասկածյալ անչափահաս տղաներին. Shamshyan.com"
+  "Աբովյանում ծեծկռտուքի հետևանքով կա վիրավոր. ոստիկանները որոնում են երկու կասկածյալ անչափահաս տղաներին. Shamshyan.com",
+  "🟨 ԱԺ Արտաքին հարաբերությունների մշտական հանձնաժողովը դրական եզրակացություն տվեց ՀՀ-ի և ԱՄՆ-ի միջև ԹՐԻՓՓ-ի վերաբերյալ ռազմավարական համագործակցության մասին շրջանակային համաձայնագիրը վավերացնելու մասին օ",
+  "«Ճնշման դեպքեր ՔՊ-ի թեկնածուների կամ նրանց հետ փոխկապակցված անձանց կողմից». «Անկախ դիտորդ»-ի ՝ ՏԻՄ ընտրությունների դիտարկման ամփոփում",
+  "Հոկտեմբերի 22-ին սպասվում են հորդառատ անձրևներ․ օդի ջերմաստիճանը կնվազի 5-7 աստիճանով",
+  "⚽ Liverpool FC 4–3 Villarreal CF"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1058,15 +1088,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1642": {
-   "score": 6,
-   "since": 1792581098.603235
-  },
   "News.am:https://news.am/hy/news/1069354": {
-   "score": 5,
-   "since": 1792583823.8329616
-  },
-  "Factor.am:https://factor.am/?p=1072501": {
    "score": 5,
    "since": 1792583823.8329616
   },
@@ -1074,19 +1096,27 @@
    "score": 5,
    "since": 1792583823.8329616
   },
-  "tg:twentyfournews/324601": {
-   "score": 5,
-   "since": 1792583823.8329616
-  },
   "tg:twentyfournews/324597": {
    "score": 5,
    "since": 1792583823.8329616
+  },
+  "168.am:https://168.am/?p=2501854": {
+   "score": 5,
+   "since": 1792584730.142645
+  },
+  "Factor.am:https://factor.am/?p=1072470": {
+   "score": 5,
+   "since": 1792584730.142645
+  },
+  "168.am:https://168.am/?p=2501852": {
+   "score": 5,
+   "since": 1792584730.142645
   }
  },
- "last_post": 1792584398.3332329,
+ "last_post": 1792585233.0049896,
  "digest_last": {},
  "top_used": {
-  "2026-10-21": 13
+  "2026-10-21": 15
  },
- "last_sport": 1792583838.3874295
+ "last_sport": 1792585233.0049958
 }
