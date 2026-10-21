@@ -925,7 +925,30 @@
   "tg:twentyfournews/324593",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/spitaki-erkrasharzhn-apacucel-e-hajkakan-aek-i-husaliutjuny-zakharvova-108385461.html",
   "tg:twentyfournews/324591",
-  "168.am:https://168.am/?p=2501812"
+  "168.am:https://168.am/?p=2501812",
+  "tg:twentyfournews/324596",
+  "tg:factoram/74604",
+  "Factor.am:https://factor.am/?p=1072515",
+  "Aravot.am:https://www.aravot.am/?p=1588255",
+  "1in.am:https://www.1in.am/?p=3771078",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hrazdan-cementi-gvortsarani-mvot-akcia-e-datarany-dzgdzgum-e-vatsharqi-masin-vorvoshumy--108387617.html",
+  "tg:shamshyan_com/55511",
+  "tg:twentyfournews/324595",
+  "News.am:https://news.am/hy/news/1069356",
+  "Factor.am:https://factor.am/?p=1072517",
+  "Aravot.am:https://www.aravot.am/?p=1588240",
+  "168.am:https://168.am/?p=2501833",
+  "1in.am:https://www.1in.am/?p=3771038",
+  "tg:twentyfournews/324594",
+  "News.am:https://news.am/hy/news/1069353",
+  "168.am:https://168.am/?p=2501831",
+  "News.am:https://news.am/hy/news/1069336",
+  "Armsport.am:https://armsport.am/?p=611206",
+  "168.am:https://168.am/?p=2501827",
+  "168.am:https://168.am/?p=2501829",
+  "News.am:https://news.am/hy/news/1069352",
+  "tg:twentyfournews/324587",
+  "tg:shamshyan_com/55512"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -993,7 +1016,9 @@
   "⚽ SSC Napoli 4–3 FK Bodø/Glimt",
   "Գեղարքունիքում «Kia»-ի ուղևորի մոտ, ով հայտնի բժիշկ-սրտաբան է հայտնաբերվել է մարիխnւանա",
   "Սպիտակի երկրաշարժն ապացուցել է Հայկական ԱԷԿ-ի հուսալիությունը. Զախարովա",
-  "#ՀԻՄԱ. «ՀՐԱԶԴԱՆ ՑԵՄԵՆՏԻ» ԱՇԽԱՏԱԿԻՑՆԵՐԻ ԲՈՂՈՔԻ ԱԿՑԻԱՆ. #ՈՒՂԻՂ"
+  "#ՀԻՄԱ. «ՀՐԱԶԴԱՆ ՑԵՄԵՆՏԻ» ԱՇԽԱՏԱԿԻՑՆԵՐԻ ԲՈՂՈՔԻ ԱԿՑԻԱՆ. #ՈՒՂԻՂ",
+  "Միակն այս դիմակայության պատմության մեջ․ Ինտերը՝ Մխիթարյանի և Շախտյորի դեմ հատուկ խաղի մասին",
+  "Հունաստանում ուսանողական բողոքի ցույցերի ժամանակ 20 մարդ է ձերբակալվել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1012,10 +1037,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:twentyfournews/324587": {
-   "score": 6,
-   "since": 1792581098.603235
-  },
   "tg:fastsport_am/1642": {
    "score": 5,
    "since": 1792581098.603235
@@ -1023,24 +1044,12 @@
   "tg:fastsport_am/1640": {
    "score": 7,
    "since": 1792581098.603235
-  },
-  "Armsport.am:https://armsport.am/?p=611206": {
-   "score": 7,
-   "since": 1792582014.3341029
-  },
-  "Factor.am:https://factor.am/?p=1072517": {
-   "score": 5,
-   "since": 1792582014.3341029
-  },
-  "tg:factoram/74604": {
-   "score": 5,
-   "since": 1792582014.3341029
   }
  },
- "last_post": 1792582660.225804,
+ "last_post": 1792583092.520122,
  "digest_last": {},
  "top_used": {
-  "2026-10-21": 10
+  "2026-10-21": 11
  },
- "last_sport": 1792582028.0191765
+ "last_sport": 1792582930.2489853
 }
