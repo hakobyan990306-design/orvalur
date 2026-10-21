@@ -508,6 +508,12 @@ META_TALK = re.compile(r"տեքստում\s+(նշված|չի|չկա|ներկայ
                        r"տեսանյութում\s+(երևում|ներկայացված)|ըստ\s+վերնագրի", re.I)
 
 
+# The writer refusing or explaining itself ("Նման գրառում չեմ կազմում, քանի որ տրված տեքստը..."):
+# first person, mentions of "the given text", "post", the prompt's own words.
+SELF_TALK = re.compile(r"(?<![\w])(չեմ|եմ|ես|ինձ|կարող\s+եմ)(?![\w])|տրված\s+տեքստ|տրված\s+նյութ|գրառում|"
+                       r"Պատասխանիր|SKIP|հրահանգ|ձևավորել|լուր\s+ձևավոր|բավարար\s+(փաստ|տեղեկ)", re.I)
+
+
 def rewrite(item, source_name, model=None):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
@@ -527,7 +533,8 @@ def rewrite(item, source_name, model=None):
                       model=model or MODEL)
     if not text or text.upper().startswith("SKIP"):
         return None
-    if META_TALK.search(text):  # the model talked about its input instead of writing news
+    outside_quotes = re.sub(r"«[^»]*»|\"[^\"]*\"", "", text)
+    if META_TALK.search(text) or SELF_TALK.search(outside_quotes):  # talked about itself/its input, not news
         print("    meta text, skipped")
         return None
     # Keep at most 2 hashtags, skipping very long ones.
