@@ -394,17 +394,22 @@ SCORE_PROMPT = """Դու Հայաստանում ապրող լսարանի համ
 - Հայաստանում ցանկացած վթար, հրդեհ, ավտովթար կամ բռնության դեպք, որում կա տուժած, վիրավոր կամ զոհ, ստանում է առնվազն 6, իսկ զոհերի դեպքում՝ առնվազն 8։
 - Երևանում կամ ամբողջ Հայաստանում ջրի, լույսի կամ գազի անջատումները ստանում են առնվազն 6։
 - Եթե երկու լուր նույն իրադարձության մասին են, երկրորդին տուր 1։
+- Եթե լուրը նույն իրադարձության մասին է, ինչ «Արդեն հրապարակված» ցուցակի որևէ լուր (նույնիսկ այլ բառերով, այլ աղբյուրից կամ մի փոքր նոր մանրամասնով), տուր 1։ Բացառություն՝ միայն էական նոր զարգացումը (օրինակ՝ զոհերի թվի աճ, մեղադրանք, դատարանի որոշում)։
 Պատասխանիր միայն տողերով՝ «համար: գնահատական», օրինակ՝
 1: 7
 2: 3"""
 
 
-def score_items(cands):
-    """Asks Claude to rate each (src, item) 1-10. Returns a list of scores, or None without AI."""
+def score_items(cands, posted=()):
+    """Asks Claude to rate each (src, item) 1-10, knowing what was already posted (to catch repeats
+    across runs). Returns a list of scores, or None without AI."""
     if not ANTHROPIC_KEY or not cands:
         return None
     lines = [f'{i}. [{src["name"]}] {it["title"]}' for i, (src, it) in enumerate(cands, 1)]
-    text = ask_claude(SCORE_PROMPT, "\n".join(lines), max_tokens=2000)
+    prompt = "\n".join(lines)
+    if posted:
+        prompt = "Արդեն հրապարակված (մի գնահատիր).\n" + "\n".join(f"- {t}" for t in posted) + "\n\nԳնահատիր.\n" + prompt
+    text = ask_claude(SCORE_PROMPT, prompt, max_tokens=2000)
     if not text:
         return None
     scores = [0] * len(cands)
@@ -632,7 +637,8 @@ def main():
     pending = state.setdefault("pending", {})
     now = time.time()
     fresh = [(s, it) for s, it in queue if it["id"] not in pending]
-    scores = score_items(fresh)
+    recent = [t for t in state["titles"][-40:] if not t.startswith(("Ջրանջատումներ", "Լույսի", "Գազի"))]
+    scores = score_items(fresh, recent)
     if scores is not None:
         for (s, it), sc in zip(fresh, scores):
             pending[it["id"]] = {"score": it.get("score", sc), "since": now}
