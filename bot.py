@@ -419,6 +419,22 @@ def score_items(cands, posted=()):
     return scores
 
 
+REPEAT_PROMPT = """You check a news channel for repeated stories. You get a list of headlines already posted
+and one new headline (all in Armenian). Answer YES if the new headline reports the same event or story as any
+posted one, even if worded differently or from another outlet, and even with small new details. Answer NO only if
+it is a different event, or a major new development (charges filed, court ruling, new casualties).
+Reply with exactly one word: YES or NO."""
+
+
+def is_repeat(title, posted):
+    """One focused AI check right before posting; scoring alone misses same-run repeats."""
+    if not ANTHROPIC_KEY or not posted:
+        return False
+    answer = ask_claude(REPEAT_PROMPT, "Posted:\n" + "\n".join(f"- {t}" for t in posted)
+                        + f"\n\nNew:\n- {title}", max_tokens=1000)
+    return bool(answer) and answer.strip().upper().startswith("YES")
+
+
 def rewrite(item, source_name):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
@@ -671,6 +687,10 @@ def main():
         pending.pop(item["id"], None)
         if "post" not in item and is_similar(item["title"], state["titles"]):
             print(f'  = duplicate: {item["title"][:70]}')
+            continue
+        news_posted = [t for t in state["titles"][-30:] if not t.startswith(("Ջրանջատումներ", "Լույսի", "Գազի"))]
+        if "post" not in item and is_repeat(item["title"], news_posted):
+            print(f'  = same story (AI): {item["title"][:70]}')
             continue
         print(f'  > {src["name"]}: {item["title"][:70]}')
         text = item.get("post") or rewrite(item, src["name"])
