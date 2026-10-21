@@ -69,7 +69,7 @@ SYSTEM_PROMPT = """Դու հայկական լրատվական Telegram կանա�
 - Լեզուն՝ բնական, մաքուր գրական հայերեն, ինչպես գրում են հայկական լավ լրատվամիջոցները։ Մի թարգմանիր ռուսերենից կամ անգլերենից բառացի (ոչ «կենտրոնական հանդիպում», «սկսել է գործել», «հանդիսանում է», «իրականացնել միջոցառում» տիպի կալկաներ). գրիր այնպես, ինչպես հայը կասեր։
 - Օտար անունները և հապավումները գրիր միայն հայերեն տառերով՝ ընդունված ձևով (ՊՍԺ, Ռեալ, ՆԱՏՕ, ԱՄՆ, ԵԱՏՄ, ԵՄ, ՀԱՊԿ, ՄԱԿ, ՌԴ), երբեք լատինատառ կամ ռուսերեն տառերով (ոչ PSG, ոչ ЕАЭС/ЄАТМ)։
 - Սպորտային լուրերում երբեք մի դիր 🔴, ⚡️ կամ ❗️, միայն թեմատիկ էմոջի (⚽ 🏀 🥊 🏆 և այլն)։ Խաղի համար գրիր «խաղ», «հանդիպում», «կարևոր խաղ»։
-- Տեքստը չպետք է կրկնի վերնագիրը նույն բառերով. ավելացրու նոր մանրամասն (ինչպես, երբ, ինչու)։
+- Տեքստը չպետք է կրկնի վերնագիրը, նույնիսկ այլ բառերով («Ըստ Xի՝ …» նույն միտքը). ավելացրու միայն նոր մանրամասն (ինչպես, երբ, ինչու, ով, թվեր)։ Եթե վերնագրից բացի նոր մանրամասն չկա, տեքստ մի գրիր, թող միայն վերնագիրը և հեշթեգերը։
 - Հետո դատարկ տող և 1–4 նախադասություն՝ միայն փաստերը, որոնք կան լրի մեջ։ Ոչինչ մի հորինիր։ Եթե տրված է միայն վերնագիր, գրիր 1 նախադասություն՝ վերնագրի փաստերով։
 - Չեզոք տոն, առանց սեփական կարծիքի և առանց կլիքբեյթի։
 - Ճշգրտությունը ամենակարևորն է. ավելի լավ է կարճ գրառում, քան սխալ փաստ։
@@ -545,6 +545,25 @@ SELF_TALK = re.compile(r"(?<![\w])(չեմ|եմ|ես|ինձ|կարող\s+եմ)(?!
                        r"Պատասխանիր|SKIP|հրահանգ|ձևավորել|լուր\s+ձևավոր|բավարար\s+(փաստ|տեղեկ)", re.I)
 
 
+def drop_echo(text):
+    """Removes body sentences that just restate the headline ("X. Y" -> "Ըստ Xի՝ Y")."""
+    head, _, rest = text.strip().partition("\n")
+    head_words = {w[:5] for w in re.findall(r"\w{3,}", head.lower())}  # stems: Armenian endings vary
+    if not rest or len(head_words) < 3:
+        return text
+    kept = []
+    for line in rest.split("\n"):
+        sentences = re.split(r"(?<=[։:.!?])\s+", line)
+        good = []
+        for s in sentences:
+            words = {w[:5] for w in re.findall(r"\w{3,}", s.lower())}
+            if s.lstrip().startswith("#") or not words or len(words & head_words) / len(words) < 0.6:
+                good.append(s)
+        kept.append(" ".join(good))
+    body = re.sub(r"\n{3,}", "\n\n", "\n".join(kept)).strip()
+    return head + ("\n\n" + body if body else "")
+
+
 def rewrite(item, source_name, model=None):
     """Returns post text, or None to skip. Without an API key, falls back to title + excerpt."""
     if not ANTHROPIC_KEY:
@@ -572,6 +591,7 @@ def rewrite(item, source_name, model=None):
     if META_TALK.search(text) or SELF_TALK.search(outside_quotes):  # talked about itself/its input, not news
         print("    meta text, skipped")
         return None
+    text = drop_echo(text)
     # Keep at most 2 hashtags, skipping very long ones.
     tags = iter([t for t in re.findall(r"#\w+", text) if len(t) <= 20][:2])
     return re.sub(r"#\w+", lambda m: next(tags, ""), text).rstrip(" \n")
