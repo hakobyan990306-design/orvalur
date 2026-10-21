@@ -636,12 +636,13 @@ def main():
 
     pending = state.setdefault("pending", {})
     now = time.time()
-    fresh = [(s, it) for s, it in queue if it["id"] not in pending]
+    # Everything waiting is re-scored each run, so an item that became a repeat of a newer post gets dropped.
     recent = [t for t in state["titles"][-40:] if not t.startswith(("Ջրանջատումներ", "Լույսի", "Գազի"))]
-    scores = score_items(fresh, recent)
+    scores = score_items(queue, recent)
     if scores is not None:
-        for (s, it), sc in zip(fresh, scores):
-            pending[it["id"]] = {"score": it.get("score", sc), "since": now}
+        for (s, it), sc in zip(queue, scores):
+            since = pending.get(it["id"], {}).get("since", now)
+            pending[it["id"]] = {"score": it.get("score", sc), "since": since}
         ranked = []
         for s, it in queue:
             p = pending[it["id"]]
