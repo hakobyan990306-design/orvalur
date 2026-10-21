@@ -1238,7 +1238,24 @@
   "tg:shamshyan_com/55519",
   "tg:RadarARM/81694",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/rdn-patrast-e-nvojemberin-versksel-ukrainaji-harcvov-erakvoghm-banakcutjunnery-ushakvov-108396244.html",
-  "News.am:https://news.am/hy/news/1069405"
+  "News.am:https://news.am/hy/news/1069405",
+  "tg:shamshyan_com/55522",
+  "tg:twentyfournews/324649",
+  "tg:RadarARM/81695",
+  "News.am:https://news.am/hy/news/1069430",
+  "Hetq:https://hetq.am/hy/article/184876",
+  "Factor.am:https://factor.am/?p=1072635",
+  "168.am:https://168.am/?p=2501900",
+  "1in.am:https://www.1in.am/?p=3771085",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/manvel-grigvorjani-zharangneric-12-miliard-drami-gujq-ev-dramakan-mijvoc-kbrnagandzen-108396893.html",
+  "tg:shamshyan_com/55521",
+  "tg:twentyfournews/324648",
+  "News.am:https://news.am/hy/news/1069429",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/irann-uni-aveli-hzvor-rumb-qan-amerikjan-bvolvor-rumberi-majry-zejnivand-108396788.html",
+  "tg:shamshyan_com/55520",
+  "News.am:https://news.am/hy/news/1069411",
+  "News.am:https://news.am/hy/news/1069428",
+  "Factor.am:https://factor.am/?p=1072679"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1356,7 +1373,8 @@
   "Խոշոր ավտովթար՝ Սյունիքի մարզում․ Երևան-Մեղրի ավտոճանապարհին բախվել են «Shacman» բեռնատարը և «Opel»-ը․ հայր ու որդի տեղափոխվել են հիվանդանոց․ ՖՈՏՈՌԵՊՈՐՏԱԺ",
   "🟨 Դոնալդ Թրամփը հույս ունի դեկտեմբերին՝ G20-ի գագաթնաժողովի ընթացքում, հասնել Ռուսաստանի և Ուկրաինայի միջև խաղաղ համաձայնագրի կնքմանը։ ",
   "ՌԴ–ն պատրաստ է նոյեմբերին վերսկսել Ուկրաինայի հարցով եռակողմ բանակցությունները. Ուշակով",
-  "Արգենտինայի նախագահը Մադրիդ այցի ընթացքում Իսպանիայի վարչապետին «բռնապետ» և «գող» է անվանել"
+  "Արգենտինայի նախագահը Մադրիդ այցի ընթացքում Իսպանիայի վարչապետին «բռնապետ» և «գող» է անվանել",
+  "Հայ բռնցքամարտիկները ևս մեկ մեդալ են ապահովել Թուրքիայում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1375,16 +1393,12 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:twentyfournews/324597": {
-   "score": 5,
-   "since": 1792583823.8329616
-  },
   "Factor.am:https://factor.am/?p=1072470": {
    "score": 5,
    "since": 1792584730.142645
   }
  },
- "last_post": 1792594417.6354334,
+ "last_post": 1792594738.6454937,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
