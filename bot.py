@@ -67,7 +67,7 @@ SYSTEM_PROMPT = """Դու հայկական լրատվական Telegram կանա�
   - Եթե խոսքը մեջբերում է, կարելի է սկսել մեջբերումով և վերջում դնել անունը. «Հորմուզի նեղուցը փակ կմնա». Իրանի ԱԳ նախարար։
   - Առանց կլիքբեյթի և առանց բառերի, որոնք չկան աղբյուրում։
 - Լեզուն՝ բնական, մաքուր գրական հայերեն, ինչպես գրում են հայկական լավ լրատվամիջոցները։ Մի թարգմանիր ռուսերենից կամ անգլերենից բառացի (ոչ «կենտրոնական հանդիպում», «սկսել է գործել», «հանդիսանում է», «իրականացնել միջոցառում» տիպի կալկաներ). գրիր այնպես, ինչպես հայը կասեր։
-- Օտար անունները գրիր հայատառ՝ ընդունված ձևով (ՊՍԺ, Ռեալ, Բարսելոնա, ՆԱՏՕ, ԱՄՆ), ոչ լատինատառ։
+- Օտար անունները և հապավումները գրիր միայն հայերեն տառերով՝ ընդունված ձևով (ՊՍԺ, Ռեալ, ՆԱՏՕ, ԱՄՆ, ԵԱՏՄ, ԵՄ, ՀԱՊԿ, ՄԱԿ, ՌԴ), երբեք լատինատառ կամ ռուսերեն տառերով (ոչ PSG, ոչ ЕАЭС/ЄАТМ)։
 - Սպորտային լուրերում երբեք մի դիր 🔴, ⚡️ կամ ❗️, միայն թեմատիկ էմոջի (⚽ 🏀 🥊 🏆 և այլն)։ Խաղի համար գրիր «խաղ», «հանդիպում», «կարևոր խաղ»։
 - Տեքստը չպետք է կրկնի վերնագիրը նույն բառերով. ավելացրու նոր մանրամասն (ինչպես, երբ, ինչու)։
 - Հետո դատարկ տող և 1–4 նախադասություն՝ միայն փաստերը, որոնք կան լրի մեջ։ Ոչինչ մի հորինիր։ Եթե տրված է միայն վերնագիր, գրիր 1 նախադասություն՝ վերնագրի փաստերով։
@@ -508,6 +508,25 @@ META_TALK = re.compile(r"տեքստում\s+(նշված|չի|չկա|ներկայ
                        r"տեսանյութում\s+(երևում|ներկայացված)|ըստ\s+վերնագրի", re.I)
 
 
+ABBR = {"ЕАЭС": "ԵԱՏՄ", "ЄАЭС": "ԵԱՏՄ", "ЕАТМ": "ԵԱՏՄ", "ЄАТМ": "ԵԱՏՄ", "ОДКБ": "ՀԱՊԿ", "США": "ԱՄՆ",
+        "ЕС": "ԵՄ", "НАТО": "ՆԱՏՕ", "ООН": "ՄԱԿ", "СНГ": "ԱՊՀ", "РФ": "ՌԴ"}
+# Cyrillic letters that look like Armenian ones, used by mistake inside Armenian words.
+LOOKALIKE = str.maketrans({"Є": "Ե", "Е": "Ե", "А": "Ա", "Т": "Տ", "М": "Մ", "О": "Օ", "о": "օ"})
+
+
+def fix_script(text):
+    """Known Russian abbreviations -> Armenian; lone Cyrillic lookalikes inside Armenian words -> Armenian."""
+    for ru, hy in ABBR.items():
+        text = re.sub(rf"(?<![\w]){ru}(?![\w])", hy, text)
+
+    def word(m):
+        w = m.group(0)
+        if re.search(r"[Ա-և]", w) and re.search(r"[Ѐ-ӿ]", w):
+            w = w.translate(LOOKALIKE)
+        return w
+    return re.sub(r"[\w\-]+", word, text)
+
+
 # The writer refusing or explaining itself ("Նման գրառում չեմ կազմում, քանի որ տրված տեքստը..."):
 # first person, mentions of "the given text", "post", the prompt's own words.
 SELF_TALK = re.compile(r"(?<![\w])(չեմ|եմ|ես|ինձ|կարող\s+եմ)(?![\w])|տրված\s+տեքստ|տրված\s+նյութ|գրառում|"
@@ -532,6 +551,10 @@ def rewrite(item, source_name, model=None):
     text = ask_claude(SYSTEM_PROMPT, f'Աղբյուր՝ {source_name}\nՎերնագիր՝ {item["title"]}\n\nՏեքստ՝\n{body}',
                       model=model or MODEL)
     if not text or text.upper().startswith("SKIP"):
+        return None
+    text = fix_script(text)
+    if re.search(r"[Ѐ-ӿ]", text):  # Cyrillic left inside an Armenian post: something went wrong
+        print("    cyrillic in text, skipped")
         return None
     outside_quotes = re.sub(r"«[^»]*»|\"[^\"]*\"", "", text)
     if META_TALK.search(text) or SELF_TALK.search(outside_quotes):  # talked about itself/its input, not news
