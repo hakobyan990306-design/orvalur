@@ -811,7 +811,32 @@
   "News.am:https://news.am/hy/news/1069304",
   "tg:RadarARM/81676",
   "Armsport.am:https://armsport.am/?p=611225",
-  "tg:shamshyan_com/55504"
+  "tg:shamshyan_com/55504",
+  "tg:shamshyan_com/55506",
+  "tg:twentyfournews/324576",
+  "tg:RadarARM/81678",
+  "Factor.am:https://factor.am/?p=1072458",
+  "Aravot.am:https://www.aravot.am/?p=1588222",
+  "168.am:https://168.am/?p=2501742",
+  "1in.am:https://www.1in.am/?p=3770976",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ete-gnacqy-khapanvi-erevany-te-baqun-e-nvorvogelu-tripp-i-shrjanakum-mirzvojani-pataskhany-108382365.html",
+  "tg:shamshyan_com/55503",
+  "tg:twentyfournews/324575",
+  "tg:RadarARM/81677",
+  "News.am:https://news.am/hy/news/1069332",
+  "Factor.am:https://factor.am/?p=1072489",
+  "Aravot.am:https://www.aravot.am/?p=1588223",
+  "168.am:https://168.am/?p=2501739",
+  "1in.am:https://www.1in.am/?p=3771048",
+  "tg:twentyfournews/324574",
+  "168.am:https://168.am/?p=2501736",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/adrbejani-agnn-turqiaji-31-qaghaqacu-argelel-e-mutq-gvortsel-ir-taratsq-108380565.html",
+  "tg:twentyfournews/324573",
+  "168.am:https://168.am/?p=2501734",
+  "168.am:https://168.am/?p=2501731",
+  "168.am:https://168.am/?p=2501728",
+  "News.am:https://news.am/hy/news/1069325",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/rusakan-zinuzhy-verahskvoghutjun-e-hastatel-julevka-bnakavajri-nkatmamb-pn-108380933.html"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -862,7 +887,9 @@
   "TRIPP-ի ճանապարհին եթե վթար լինի, ո՞վ է զբաղվելու դրանով. հարց Միրզոյանին",
   "🟨 Թուրքիայի 31 քաղաքացի Ադրբեջանում հայտարարվել է «անցանկալի անձ», նրանց մուտքը երկիր արգելվել է։",
   "Չեմ կարծում, թե որևէ մեկին ստվերում եմ թողել․ Դուեն ակնարկել է Յամալին",
-  "Կաթի սուբսիդավորման ծրագրի փոխհատուցումները կսկսվեն հաջորդ շաբաթվանից և կավարտվեն դեկտեմբերին․ Գևորգ Պապոյան"
+  "Կաթի սուբսիդավորման ծրագրի փոխհատուցումները կսկսվեն հաջորդ շաբաթվանից և կավարտվեն դեկտեմբերին․ Գևորգ Պապոյան",
+  "Իսրայելը ծրագիր է պատրաստել Իրանի լայնածավալ ռմբակոծությունները վերսկսելու համար",
+  "Ռուսական զինուժը վերահսկողություն է հաստատել Յուլևկա բնակավայրի նկատմամբ. ՊՆ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -884,13 +911,9 @@
   "Factor.am:https://factor.am/?p=1072389": {
    "score": 5,
    "since": 1792570194.6618505
-  },
-  "tg:shamshyan_com/55503": {
-   "score": 5,
-   "since": 1792577461.1584692
   }
  },
- "last_post": 1792578029.9518929,
+ "last_post": 1792578514.491443,
  "digest_last": {},
  "top_used": {
   "2026-10-21": 6
