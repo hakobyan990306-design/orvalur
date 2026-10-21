@@ -1200,7 +1200,28 @@
   "News.am:https://news.am/hy/news/1069384",
   "News.am:https://news.am/hy/news/1069368",
   "tg:factoram/74607",
-  "168.am:https://168.am/?p=2501876"
+  "168.am:https://168.am/?p=2501876",
+  "Armsport.am:https://armsport.am/?p=611219",
+  "News.am:https://news.am/hy/news/1069422",
+  "Hetq:https://hetq.am/hy/article/184874",
+  "Factor.am:https://factor.am/?p=1072654",
+  "Aravot.am:https://www.aravot.am/?p=1588328",
+  "1in.am:https://www.1in.am/?p=3771158",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/vardan-ghukasjanin-nvor-meghadranq-e-arajadrvel-nran-tarel-en-hh-hakakvorupcivon-kvomite-108395556.html",
+  "tg:twentyfournews/324645",
+  "tg:RadarARM/81693",
+  "tg:factoram/74610",
+  "News.am:https://news.am/hy/news/1069421",
+  "Factor.am:https://factor.am/?p=1072647",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ishkhanutjuny-vakhecav-spasvvogh-partutjunic-tigran-abrahamjany-stepanavani-depqeri-masin-108395393.html",
+  "tg:twentyfournews/324644",
+  "News.am:https://news.am/hy/news/1069412",
+  "tg:twentyfournews/324646",
+  "News.am:https://news.am/hy/news/1069420",
+  "tg:factoram/74611",
+  "Aravot.am:https://www.aravot.am/?p=1588323",
+  "News.am:https://news.am/hy/news/1069401",
+  "News.am:https://news.am/hy/news/1069371"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1310,7 +1331,11 @@
   "Փոխհրաձգություն Իրանի բենզալցակայանում. մեկ մարդ սպանվել է, երկուսը դիմել են փախուստի",
   "Մակրոնը մտադիր չէ Ֆրանսիայում արտակարգ դրություն հայտարարել բողոքի ակցիաների և անկարգությունների պատճառով",
   "Բաքուն Թուրքիայի 31 քաղաքացու, այդ թվում՝ իշխանական գործիչների, ներառել է անցանկալի անձանց ցուցակում և արգելել մուտքը երկիր",
-  "Հութիները հայտարարել են Ադենում Սաուդյան Արաբիայի բանակի շտաբին հարվածելու մասին"
+  "Հութիները հայտարարել են Ադենում Սաուդյան Արաբիայի բանակի շտաբին հարվածելու մասին",
+  "41.8 մլն դրամ՝ վարչապետի աշխատակազմի պարգևավճարների ու աշխատավարձերի համար, ևս 40 մլն դրամ՝ գործուղումներին",
+  "Կենտրոնում և Արաբկիրում օդում փոշու պարունակությունը գերազանցել է սահմանային թույլատրելի կոնցենտրացիան",
+  "Փարիզում ջարդերից հետո ձերբակալվածների թիվը հասել է 557-ի․ նրանցից 433-ը չափահաս են",
+  "Ավստրալիայում հավանության է արժանացել մահացած մարդկանց մարմինները կոմպոստի վերածելու մասին օրինագիծը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1336,9 +1361,17 @@
   "Factor.am:https://factor.am/?p=1072470": {
    "score": 5,
    "since": 1792584730.142645
+  },
+  "tg:RadarARM/81694": {
+   "score": 5,
+   "since": 1792592918.267356
+  },
+  "168.am:https://168.am/?p=2501989": {
+   "score": 5,
+   "since": 1792592918.267356
   }
  },
- "last_post": 1792592626.3581858,
+ "last_post": 1792593533.390801,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
