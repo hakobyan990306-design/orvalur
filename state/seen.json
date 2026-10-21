@@ -372,7 +372,45 @@
   "veolia:b9b032d1f722",
   "veolia:8c2b6afc2618",
   "Hetq:https://hetq.am/hy/article/184861",
-  "News.am:https://news.am/hy/news/1069272"
+  "News.am:https://news.am/hy/news/1069272",
+  "tg:shamshyan_com/55482",
+  "News.am:https://news.am/hy/news/1069267",
+  "News.am:https://news.am/hy/news/1069257",
+  "Hetq:https://hetq.am/hy/article/184862",
+  "Factor.am:https://factor.am/?p=1072370",
+  "tg:shamshyan_com/55492",
+  "tg:twentyfournews/324521",
+  "tg:RadarARM/81665",
+  "tg:factoram/74585",
+  "News.am:https://news.am/hy/news/1069273",
+  "Hetq:https://hetq.am/hy/article/184858",
+  "Factor.am:https://factor.am/?p=1072380",
+  "tg:shamshyan_com/55491",
+  "tg:twentyfournews/324520",
+  "News.am:https://news.am/hy/news/1069274",
+  "Factor.am:https://factor.am/?p=1072327",
+  "tg:shamshyan_com/55490",
+  "tg:twentyfournews/324519",
+  "News.am:https://news.am/hy/news/1069270",
+  "Factor.am:https://factor.am/?p=1072348",
+  "tg:shamshyan_com/55489",
+  "tg:twentyfournews/324518",
+  "News.am:https://news.am/hy/news/1069271",
+  "Factor.am:https://factor.am/?p=1072336",
+  "tg:shamshyan_com/55487",
+  "tg:twentyfournews/324516",
+  "News.am:https://news.am/hy/news/1069269",
+  "tg:shamshyan_com/55486",
+  "tg:twentyfournews/324515",
+  "News.am:https://news.am/hy/news/1069262",
+  "tg:shamshyan_com/55485",
+  "News.am:https://news.am/hy/news/1069261",
+  "tg:shamshyan_com/55483",
+  "News.am:https://news.am/hy/news/1069265",
+  "tg:shamshyan_com/55494",
+  "tg:twentyfournews/324523",
+  "tg:RadarARM/81667",
+  "tg:factoram/74587"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -380,7 +418,11 @@
   "Ձերբակալվել է «Ուժեղ Հայաստան» կուսակցության Ստեփանավան համայնքի ղեկավարի թեկնածուն",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Արարատի մարզի Մասիս քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին",
   "Խմբի կազմում ընտրակաշառք տալու, դրան օժանդակելու, ինչպես նաև ընտրակաշառք ստանալու մեղադրանքներով ձերբակալվել է 14 անձ․ Հակակոռուպցիոն կոմիտե",
-  "Ստեփանավանում 14 անձ ձերբակալվել է ընտրակաշառքի գործով. ՀԿԿ-ն մանրամասներ է հայտնել (վիդեո)"
+  "Ստեփանավանում 14 անձ ձերբակալվել է ընտրակաշառքի գործով. ՀԿԿ-ն մանրամասներ է հայտնել (վիդեո)",
+  "Ադրբեջանցի հովիվ է հատել ՀՀ սահմանը. որտեղ է նա հիմա",
+  "Եթե ԱԱԾ-ն խնդիր գտնի, ո՞նց է ԱՄԷ-ն մեզ բջջային կապի ծառայություն մատուցելու կամ հակառակը. Մանուկյան",
+  "🟧 Մամուլում լուրեր են տարածվում, որ ադրբեջանցի հովիվ է անցել սահմանը և ներկայումս տարվել է Բերդ համայնքի ՌՈ բաժին:",
+  "ՀԿԿ-ն գաղտնի տեսագրություն է հրապարակել Ստեփանավանից․ «Վեկալ, ասըմ եմ դիր ջեբդ, ձեռդ մի պահի»․ ՏԵՍԱՆՅՈՒԹ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -394,122 +436,18 @@
   "ՀՀ ՊՆ"
  ],
  "pending": {
-  "tg:shamshyan_com/55491": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "News.am:https://news.am/hy/news/1069262": {
-   "score": 5,
-   "since": 1792566557.5873754
-  },
-  "Factor.am:https://factor.am/?p=1072348": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55490": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "News.am:https://news.am/hy/news/1069261": {
-   "score": 5,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55489": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "Hetq:https://hetq.am/hy/article/184858": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "Factor.am:https://factor.am/?p=1072336": {
-   "score": 7,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55487": {
-   "score": 5,
-   "since": 1792566557.5873754
-  },
-  "News.am:https://news.am/hy/news/1069257": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55486": {
-   "score": 5,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55485": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
   "Factor.am:https://factor.am/?p=1072332": {
    "score": 5,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55483": {
-   "score": 7,
    "since": 1792566557.5873754
   },
   "Factor.am:https://factor.am/?p=1072325": {
    "score": 6,
    "since": 1792566557.5873754
   },
-  "tg:shamshyan_com/55482": {
-   "score": 6,
-   "since": 1792566557.5873754
-  },
-  "tg:shamshyan_com/55492": {
-   "score": 6,
-   "since": 1792567463.0080433
-  },
-  "tg:twentyfournews/324518": {
-   "score": 5,
-   "since": 1792567463.0080433
-  },
   "tg:RadarARM/81666": {
-   "score": 5,
-   "since": 1792567463.0080433
-  },
-  "News.am:https://news.am/hy/news/1069270": {
-   "score": 6,
-   "since": 1792567463.0080433
-  },
-  "Factor.am:https://factor.am/?p=1072380": {
-   "score": 5,
-   "since": 1792567463.0080433
-  },
-  "tg:RadarARM/81665": {
-   "score": 7,
-   "since": 1792567463.0080433
-  },
-  "Factor.am:https://factor.am/?p=1072327": {
-   "score": 6,
-   "since": 1792567463.0080433
-  },
-  "tg:twentyfournews/324516": {
-   "score": 5,
-   "since": 1792567463.0080433
-  },
-  "News.am:https://news.am/hy/news/1069271": {
-   "score": 6,
-   "since": 1792567463.0080433
-  },
-  "tg:twentyfournews/324515": {
-   "score": 7,
-   "since": 1792567463.0080433
-  },
-  "News.am:https://news.am/hy/news/1069269": {
-   "score": 6,
-   "since": 1792567463.0080433
-  },
-  "News.am:https://news.am/hy/news/1069265": {
-   "score": 5,
-   "since": 1792567463.0080433
-  },
-  "News.am:https://news.am/hy/news/1069267": {
    "score": 5,
    "since": 1792567463.0080433
   }
  },
- "last_post": 1792567973.6943746
+ "last_post": 1792568849.539562
 }
