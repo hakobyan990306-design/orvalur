@@ -38,6 +38,7 @@ MIN_SCORE = int(os.environ.get("MIN_SCORE", "5"))  # importance 1-10; below this
 PENDING_HOURS = 3  # an important item not posted within this time is dropped as stale
 LONG_POST = 280  # stories longer than this (chars) show one sentence and fold the rest
 REGION_EVERY = 2  # hours between regional outage digests (Yerevan ones go out at once)
+SPORT_EVERY = 1  # hours: the best top sports story gets a guaranteed slot this often
 ARMENIA = timezone(timedelta(hours=4))
 OPEN_WEEKDAY, OPEN_WEEKEND, CLOSE = 8, 9, 23  # posting hours, Yerevan time
 
@@ -446,7 +447,13 @@ def score_items(cands, posted=()):
     for i, (src, it) in enumerate(cands):
         if scores[i] != 1 and INCIDENT.search(it["title"]):
             scores[i] = max(scores[i], 6)
+        if scores[i] != 1 and src.get("sport") and TOP_SPORT.search(it["title"]):
+            scores[i] = max(scores[i], MIN_SCORE)
     return scores
+
+
+TOP_SPORT = re.compile(r"ՉԼ|Չեմպիոնների\s+լիգա|ԵԼ\b|Եվրոպայի\s+լիգա|Կոնֆերենցիաների|Աշխարհի\s+առաջնություն|"
+                       r"Եվրոպայի\s+առաջնություն|ԱԱ\b|ԵԱ\b|հավաքական|մեդալ|չեմպիոն|Օլիմպիական", re.I)
 
 
 INCIDENT = re.compile(r"վիրավոր|զոհ|մահաց|սպանվ|սպանութ|կրակոց|կրակել|դանակ|ծեծկռտուք|ծեծի|հրդեհ|վթար|"
@@ -718,6 +725,13 @@ def main():
             else:
                 ranked.append((s, it))
         ranked.sort(key=lambda c: -pending[c[1]["id"]]["score"])  # stable: ties keep round-robin order
+        # Sports rarely outscores hard news, so it gets its own slot: the best sports story jumps
+        # the queue once every SPORT_EVERY hours.
+        if time.time() - state.get("last_sport", 0) >= SPORT_EVERY * 3600:
+            best = next((c for c in ranked if c[0].get("sport")), None)
+            if best:
+                ranked.remove(best)
+                ranked.insert(0, best)
         for s, it in ranked[:8]:
             print(f'  [{pending[it["id"]]["score"]}] {s["name"]}: {it["title"][:70]}')
         queue = ranked
@@ -774,6 +788,7 @@ def main():
             per_src_count[src["name"]] = per_src_count.get(src["name"], 0) + 1
             if src.get("sport"):
                 per_src_count["@sport"] = per_src_count.get("@sport", 0) + 1
+                state["last_sport"] = time.time()
             if not DRY_RUN:
                 save_state(state)  # so a cancelled run never re-posts
 
