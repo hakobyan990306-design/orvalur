@@ -1582,7 +1582,22 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/amn-n-u-israjely-patrastvum-en-iranin-harvatsner-hascnel-yntrutjunneric-hetvo-zlm-108408030.html",
   "Aravot.am:https://www.aravot.am/?p=1588365",
   "Armsport.am:https://armsport.am/?p=611232",
-  "Aravot.am:https://www.aravot.am/?p=1588391"
+  "Aravot.am:https://www.aravot.am/?p=1588391",
+  "tg:twentyfournews/324703",
+  "News.am:https://news.am/hy/news/1069491",
+  "Aravot.am:https://www.aravot.am/?p=1588402",
+  "1in.am:https://www.1in.am/?p=3771291",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/trampn-iratesakan-e-hamarum-ukrainaji-harcvov-gvortsarqy-108408312.html",
+  "tg:twentyfournews/324702",
+  "News.am:https://news.am/hy/news/1069485",
+  "News.am:https://news.am/hy/news/1069495",
+  "tg:twentyfournews/324700",
+  "News.am:https://news.am/hy/news/1069484",
+  "News.am:https://news.am/hy/news/1069493",
+  "News.am:https://news.am/hy/news/1069490",
+  "Armsport.am:https://armsport.am/?p=611261",
+  "1in.am:https://www.1in.am/?p=3771273",
+  "tg:twentyfournews/324701"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1755,7 +1770,10 @@
   "Մեկ մարդ զոհվել է, ութը տուժել են Սաուդյան Արաբիայում օդանավակայանի վրա հարձակման հետևանքով",
   "ԱՄՆ-ն ու Իսրայելը պատրաստվում են Իրանին հարվածներ հասցնել ընտրություններից հետո. ԶԼՄ",
   "🎥 ՉԼ. 10 հոգով մնացած Ինտերը հաղթեց Շախտյորին․ Մխիթարյանը՝ գոլային փոխանցման հեղինակ",
-  "Իսրայելի նախագահը դատապարտել է Երուսաղեմի հայ համայնքի դեմ հարձակումները"
+  "Իսրայելի նախագահը դատապարտել է Երուսաղեմի հայ համայնքի դեմ հարձակումները",
+  "ԱՄՆ Պետդեպարտամենտը կարգադրել է մի շարք պետական ծառայողների և նրանց ընտանիքների անդամներին լքել Սաուդյան Արաբիան",
+  "Անսպասելի խոստովանություն․ Արսենալի դարպասապահը ցանկություն է հայտնել տեղափոխվել Լա լիգա",
+  "Մինչև ե՞րբ կգործի կենսաթոշակի հետվճարի համակարգը. «Փաստ»"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1774,25 +1792,17 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "Armsport.am:https://armsport.am/?p=611261": {
-   "score": 5,
-   "since": 1792641978.3436487
-  },
   "Armsport.am:https://armsport.am/?p=611263": {
-   "score": 5,
-   "since": 1792641978.3436487
-  },
-  "1in.am:https://www.1in.am/?p=3771273": {
    "score": 5,
    "since": 1792641978.3436487
   }
  },
- "last_post": 1792644342.6425807,
+ "last_post": 1792645175.9654744,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
-  "2026-10-22": 4
+  "2026-10-22": 5
  },
- "last_sport": 1792644220.4608274
+ "last_sport": 1792644966.42935
 }
