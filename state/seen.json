@@ -2025,7 +2025,27 @@
   "tg:shamshyan_com/55564",
   "Aravot.am:https://www.aravot.am/?p=1588500",
   "News.am:https://news.am/hy/news/1069592",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rdn-ev-ukrainan-zinvvorakanneri-marminner-en-pvokhanakel-zlm-108426184.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rdn-ev-ukrainan-zinvvorakanneri-marminner-en-pvokhanakel-zlm-108426184.html",
+  "tg:RadarARM/81723",
+  "News.am:https://news.am/hy/news/1069602",
+  "Factor.am:https://factor.am/?p=1072881",
+  "168.am:https://168.am/?p=2502296",
+  "1in.am:https://www.1in.am/?p=3771385",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/kartsum-em-shutvov-amen-inch-klutsvi-eth-nakharary-hajastani-bvoghvoqi-masin-108428294.html",
+  "tg:twentyfournews/324790",
+  "tg:RadarARM/81722",
+  "News.am:https://news.am/hy/news/1069596",
+  "Factor.am:https://factor.am/?p=1072858",
+  "Aravot.am:https://www.aravot.am/?p=1588505",
+  "168.am:https://168.am/?p=2502299",
+  "tg:twentyfournews/324789",
+  "News.am:https://news.am/hy/news/1069598",
+  "tg:twentyfournews/324788",
+  "News.am:https://news.am/hy/news/1069601",
+  "Armsport.am:https://armsport.am/?p=611291",
+  "Aravot.am:https://www.aravot.am/?p=1588506",
+  "1in.am:https://www.1in.am/?p=3771392",
+  "168.am:https://168.am/?p=2502294"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2265,7 +2285,11 @@
   "ԵՄ երկրները քննարկում են ՌԴ-ի հետ ուկրաինական կարգավորման շուրջ բանակցողի թեկնածությունը. Politico",
   "Ռուսական զինուժը վերահսկողության տակ է վերցրել Միրովկա բնակավայրը",
   "Ժաննա Անդրեասյանը հերթական այցն է կատարել Հայոց ցեղասպանության զոհերի հուշահամալիր՝ հետևելու բարեկարգման աշխատանքներին",
-  "Վրաստանի դատախազությունը պետական դավաճանության մեղադրանքով լրագրող է ձերբակալել"
+  "Վրաստանի դատախազությունը պետական դավաճանության մեղադրանքով լրագրող է ձերբակալել",
+  "Վինիսիուսը մտահոգիչ հակառեկորդ է սահմանել",
+  "Սիլվա Ադամյանը հիշել է՝ ինչպես Արսեն Թորոսյանի հայրը վիրավորեց ու դուրս շպրտեց Ամուլսարի թեմայով զեկույց ներկայացնող բնապահպաններին",
+  "Իրանը հայտնել է Պարսից ծոցի հյուսիսում չորս նավի վրա հարձակման մասին",
+  "Ռուսական կողմը ուկրաինական կողմին է փոխանցել 252 մարմին, իսկ Ուկրաինան՝ 25"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2283,13 +2307,18 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792664032.0736525,
+ "pending": {
+  "tg:twentyfournews/324791": {
+   "score": 5,
+   "since": 1792664718.1264656
+  }
+ },
+ "last_post": 1792665225.7079456,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792661095.1808
+ "last_sport": 1792664737.6413147
 }
