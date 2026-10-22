@@ -2716,7 +2716,16 @@
   "Hetq:https://hetq.am/hy/article/184912",
   "Factor.am:https://factor.am/?p=1073037",
   "tg:twentyfournews/324909",
-  "1in.am:https://www.1in.am/?p=3771646"
+  "1in.am:https://www.1in.am/?p=3771646",
+  "tg:RadarARM/81743",
+  "News.am:https://news.am/hy/news/1069717",
+  "Factor.am:https://factor.am/?p=1073168",
+  "1in.am:https://www.1in.am/?p=3771649",
+  "News.am:https://news.am/hy/news/1069726",
+  "Factor.am:https://factor.am/?p=1073159",
+  "168.am:https://168.am/?p=2502669",
+  "168.am:https://168.am/?p=2502583",
+  "tg:twentyfournews/324912"
  ],
  "titles": [
   "Կյանքից հեռացել է ՀՀ արվեստի վաստակավոր գործիչ, կինոգետ Դավիթ Մուրադյանը",
@@ -3040,6 +3049,18 @@
   "1in.am:https://www.1in.am/?p=3771629": {
    "score": 5,
    "since": 1792693802.3715398
+  },
+  "168.am:https://168.am/?p=2502671": {
+   "score": 5,
+   "since": 1792695616.3861506
+  },
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/trampy-khndrel-e-maskin-hanel-starlinki-sahmanapakumnery-ukrainaji-hamar-zlm-108447953.html": {
+   "score": 5,
+   "since": 1792695616.3861506
+  },
+  "tg:twentyfournews/324911": {
+   "score": 5,
+   "since": 1792695616.3861506
   }
  },
  "last_post": 1792695338.0812976,
