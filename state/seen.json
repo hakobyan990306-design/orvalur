@@ -1922,7 +1922,35 @@
   "tg:RadarARM/81718",
   "tg:twentyfournews/324763",
   "Factor.am:https://factor.am/?p=1072756",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/tenum-ein-mard-a-galis-krakein-pashinjany-sahmany-hatats-adrbejanci-hvovvi-masin-108421642.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/tenum-ein-mard-a-galis-krakein-pashinjany-sahmany-hatats-adrbejanci-hvovvi-masin-108421642.html",
+  "tg:twentyfournews/324776",
+  "tg:RadarARM/81720",
+  "tg:factoram/74630",
+  "News.am:https://news.am/hy/news/1069578",
+  "Factor.am:https://factor.am/?p=1072887",
+  "168.am:https://168.am/?p=2502267",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/2027--2028-tt-in-khaghaghutjan-pajmanagiry-petq-e-stvoragrenq-pashinjan-108422537.html",
+  "tg:fastsport_am/1652",
+  "tg:twentyfournews/324775",
+  "tg:factoram/74629",
+  "Aravot.am:https://www.aravot.am/?p=1588463",
+  "168.am:https://168.am/?p=2502263",
+  "1in.am:https://www.1in.am/?p=3771441",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/karvogh-enq-artahert-yntrutjunner-anel-nikvol-pashinjan-108422032.html",
+  "tg:fastsport_am/1651",
+  "tg:twentyfournews/324774",
+  "168.am:https://168.am/?p=2502260",
+  "News.am:https://news.am/hy/news/1069579",
+  "168.am:https://168.am/?p=2502200",
+  "tg:twentyfournews/324772",
+  "News.am:https://news.am/hy/news/1069574",
+  "168.am:https://168.am/?p=2502257",
+  "News.am:https://news.am/hy/news/1069549",
+  "168.am:https://168.am/?p=2502254",
+  "tg:fastsport_am/1653",
+  "News.am:https://news.am/hy/news/1069580",
+  "tg:twentyfournews/324773",
+  "News.am:https://news.am/hy/news/1069567"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2146,7 +2174,11 @@
   "Գազ չի լինի. հասցեներ",
   "2027-2028 թթ-ին խաղաղության պայմանագիրը պետք ա ստորագրենք, էս տարի դժվար հասցնենք. Փաշինյան",
   "Լեհաստանում հերքել են Ուկրաինային ռազմական օգնությունը դադարեցնելու մասին տեղեկությունը",
-  "«Տենում էին՝ մարդ ա գալիս, կրակեի՞ն»․ Փաշինյանը՝ սահմանը հատած ադրբեջանցի հովվի մասին"
+  "«Տենում էին՝ մարդ ա գալիս, կրակեի՞ն»․ Փաշինյանը՝ սահմանը հատած ադրբեջանցի հովվի մասին",
+  "Կվարացխելիայի վնասվածքը. ՊՍԺ-ի աստղը խաչաձև կապանների պատռվածք է ստացել",
+  "Արմավիրի ոստիկանները ապoրինի պահվող զինшմթերք են հայտնաբերել․ երեք անձ ձերբակալվել է (վիդեո)",
+  "Ոչ, չկա երաշխիք, որ գազի գինը չի թանկանա, ինչի առաջ կա՞ր, գազը պարբերաբար թանկացել ա. Փաշինյան",
+  "Իշխանությունները մտադիր են խստացնել ճանապարհային երթևեկության կանոնները"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2168,14 +2200,30 @@
   "168.am:https://168.am/?p=2502250": {
    "score": 5,
    "since": 1792659248.5761404
+  },
+  "Aravot.am:https://www.aravot.am/?p=1588467": {
+   "score": 5,
+   "since": 1792660167.136376
+  },
+  "1in.am:https://www.1in.am/?p=3771395": {
+   "score": 5,
+   "since": 1792660167.136376
+  },
+  "Factor.am:https://factor.am/?p=1072879": {
+   "score": 5,
+   "since": 1792660167.136376
+  },
+  "News.am:https://news.am/hy/news/1069566": {
+   "score": 5,
+   "since": 1792660167.136376
   }
  },
- "last_post": 1792659854.4946373,
+ "last_post": 1792660814.0163088,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
-  "2026-10-22": 14
+  "2026-10-22": 15
  },
- "last_sport": 1792650692.1428792
+ "last_sport": 1792660185.0916762
 }
