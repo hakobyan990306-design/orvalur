@@ -2229,7 +2229,41 @@
   "168.am:https://168.am/?p=2502409",
   "tg:fastsport_am/1659",
   "tg:shamshyan_com/55578",
-  "tg:RadarARM/81726"
+  "tg:RadarARM/81726",
+  "tg:twentyfournews/324827",
+  "tg:factoram/74634",
+  "News.am:https://news.am/hy/news/1069642",
+  "Hetq:https://hetq.am/hy/article/184898",
+  "Factor.am:https://factor.am/?p=1073003",
+  "Aravot.am:https://www.aravot.am/?p=1588552",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/vostikannery-hhum-tmramijvoc-ogtagvortsats-varvordnerin-kstugen-teghum-ev-arag--108432974.html",
+  "tg:twentyfournews/324826",
+  "News.am:https://news.am/hy/news/1069641",
+  "Hetq:https://hetq.am/hy/article/184895",
+  "Factor.am:https://factor.am/?p=1072988",
+  "Aravot.am:https://www.aravot.am/?p=1588540",
+  "168.am:https://168.am/?p=2502363",
+  "tg:twentyfournews/324825",
+  "News.am:https://news.am/hy/news/1069636",
+  "Hetq:https://hetq.am/hy/article/184894",
+  "168.am:https://168.am/?p=2502423",
+  "tg:twentyfournews/324824",
+  "News.am:https://news.am/hy/news/1069627",
+  "168.am:https://168.am/?p=2502388",
+  "tg:twentyfournews/324823",
+  "News.am:https://news.am/hy/news/1069640",
+  "168.am:https://168.am/?p=2502345",
+  "tg:twentyfournews/324822",
+  "News.am:https://news.am/hy/news/1069638",
+  "tg:twentyfournews/324821",
+  "News.am:https://news.am/hy/news/1069633",
+  "168.am:https://168.am/?p=2502395",
+  "News.am:https://news.am/hy/news/1069629",
+  "tg:fastsport_am/1657",
+  "168.am:https://168.am/?p=2502427",
+  "1in.am:https://www.1in.am/?p=3771486",
+  "168.am:https://168.am/?p=2502406",
+  "tg:factoram/74633"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2498,7 +2532,11 @@
   "Ադրբեջանցիներն արցախցի հովիվին ուղղակի գնդակահարեցին, ով մոլորվել էր ու անցել սահմանը. Հակոբյան",
   "🤝 FC Bayern München 2–2 Arsenal FC",
   "Վրաերթ՝ Գեղարքունիքի մարզում․ Ներքին Գետաշենում 48-ամյա վարորդը «Opel Astra»-ով վրաերթի է ենթարկել 9-ամյա աղջնակի․ վերջինը տեղափոխվել է հիվանդանոց․ ՖՈՏՈՌԵՊՈՐՏԱԺ",
-  "🟨 Աբու Դաբին ներկայումս դիտարկվում է որպես Ռուսաստանի, ԱՄՆ-ի և Ուկրաինայի միջև եռակողմ հանդիպման վայր։"
+  "🟨 Աբու Դաբին ներկայումս դիտարկվում է որպես Ռուսաստանի, ԱՄՆ-ի և Ուկրաինայի միջև եռակողմ հանդիպման վայր։",
+  "⚽ Real Madrid CF 4–1 RB Leipzig",
+  "Ապօրինի զինամթերքի գործով 3 անձ ձերբակալվել է",
+  "Մահացել է «Armenian Observer» շաբաթաթերթի հիմնադիր, վետերան լրագրող Օշին Քեշիշեանը",
+  "Կառավարությունը սահմանել է ՄԻԵԴ վճիռներով նախատեսված փոխհատուցումների տրամադրման կարգը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2517,10 +2555,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1657": {
-   "score": 7,
-   "since": 1792667437.6120446
-  },
   "tg:fastsport_am/1656": {
    "score": 7,
    "since": 1792667437.6120446
@@ -2529,32 +2563,12 @@
    "score": 7,
    "since": 1792667437.6120446
   },
-  "Aravot.am:https://www.aravot.am/?p=1588540": {
-   "score": 6,
-   "since": 1792670162.9558609
-  },
-  "tg:twentyfournews/324821": {
-   "score": 5,
-   "since": 1792671079.8559568
-  },
-  "tg:factoram/74633": {
-   "score": 5,
-   "since": 1792671079.8559568
-  },
-  "Hetq:https://hetq.am/hy/article/184894": {
-   "score": 6,
-   "since": 1792671079.8559568
-  },
-  "168.am:https://168.am/?p=2502406": {
-   "score": 6,
-   "since": 1792671079.8559568
-  },
-  "168.am:https://168.am/?p=2502395": {
-   "score": 6,
-   "since": 1792671079.8559568
+  "Armsport.am:https://armsport.am/?p=611306": {
+   "score": 7,
+   "since": 1792671982.1610081
   }
  },
- "last_post": 1792671658.356409,
+ "last_post": 1792672520.9978194,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082,
   "Վեոլիա Ջուր": 1792670171.5913098
@@ -2562,5 +2576,5 @@
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792671338.2523084
+ "last_sport": 1792671991.7280197
 }
