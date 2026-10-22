@@ -2071,7 +2071,29 @@
   "tg:RadarARM/81724",
   "News.am:https://news.am/hy/news/1069531",
   "168.am:https://168.am/?p=2502301",
-  "tg:twentyfournews/324791"
+  "tg:twentyfournews/324791",
+  "tg:twentyfournews/324798",
+  "News.am:https://news.am/hy/news/1069604",
+  "Hetq:https://hetq.am/hy/article/184891",
+  "Factor.am:https://factor.am/?p=1072933",
+  "Aravot.am:https://www.aravot.am/?p=1588519",
+  "168.am:https://168.am/?p=2502317",
+  "1in.am:https://www.1in.am/?p=3771429",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/fransiajum-shamvondaji-virusic-mard-e-mahacel-108429525.html",
+  "tg:twentyfournews/324797",
+  "News.am:https://news.am/hy/news/1069607",
+  "Factor.am:https://factor.am/?p=1072929",
+  "Aravot.am:https://www.aravot.am/?p=1588518",
+  "168.am:https://168.am/?p=2502314",
+  "1in.am:https://www.1in.am/?p=3771432",
+  "tg:twentyfournews/324796",
+  "Factor.am:https://factor.am/?p=1072925",
+  "Aravot.am:https://www.aravot.am/?p=1588513",
+  "News.am:https://news.am/hy/news/1069606",
+  "Aravot.am:https://www.aravot.am/?p=1588511",
+  "News.am:https://news.am/hy/news/1069605",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/putiny-uitkvofi-mijvocvov-ukrainaji-harcvov-gravvor-arajarkner-chi-pvokhancelkreml-108429382.html",
+  "168.am:https://168.am/?p=2502304"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2317,7 +2339,10 @@
   "Իրանը հայտնել է Պարսից ծոցի հյուսիսում չորս նավի վրա հարձակման մասին",
   "Ռուսական կողմը ուկրաինական կողմին է փոխանցել 252 մարմին, իսկ Ուկրաինան՝ 25",
   "Պենտագոնը զորքեր է տեղափոխում Իրանի սահման՝ սպասելով Թրամփի «կանաչ լույսին»",
-  "Ֆրանսիայում գրանցվել է Շամոնի վիրուսից առաջին մահը"
+  "Ֆրանսիայում գրանցվել է Շամոնի վիրուսից առաջին մահը",
+  "Հայաստանը կարող է քայլեր ձեռնարկել՝ ՄԱԿ-ի կլիմայի փոփոխության ամենամեծ համաժողովը հյուրընկալելու համար․ Փաշինյան",
+  "Պուտինը Ուիտկոֆի միջոցով Ուկրաինայի հարցով գրավոր առաջարկներ չի փոխանցել․Կրեմլ",
+  "Դանիան պատմության մեջ առաջին անգամ հեռահար հրթիռներ կպատվիրի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2336,7 +2361,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792665836.3174858,
+ "last_post": 1792666915.6529412,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
