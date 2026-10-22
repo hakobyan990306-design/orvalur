@@ -1871,7 +1871,31 @@
   "1in.am:https://www.1in.am/?p=3771367",
   "News.am:https://news.am/hy/news/1069564",
   "tg:twentyfournews/324758",
-  "tg:shamshyan_com/55555"
+  "tg:shamshyan_com/55555",
+  "tg:twentyfournews/324766",
+  "News.am:https://news.am/hy/news/1069568",
+  "Factor.am:https://factor.am/?p=1072860",
+  "Aravot.am:https://www.aravot.am/?p=1588452",
+  "168.am:https://168.am/?p=2502247",
+  "1in.am:https://www.1in.am/?p=3771420",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/kaprenq-ktesnenq-pashinjany-eatm-4-andamneri-erkrneri-zekujci-masin-108420994.html",
+  "News.am:https://news.am/hy/news/1069563",
+  "Aravot.am:https://www.aravot.am/?p=1588395",
+  "tg:twentyfournews/324764",
+  "News.am:https://news.am/hy/news/1069569",
+  "tg:twentyfournews/324762",
+  "News.am:https://news.am/hy/news/1069553",
+  "tg:twentyfournews/324761",
+  "tg:twentyfournews/324760",
+  "tg:twentyfournews/324759",
+  "tg:twentyfournews/324765",
+  "Factor.am:https://factor.am/?p=1072778",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/inchn-e-khangarum-hajturqakan-sahmani-bacmany-pashinjani-pataskhany-108420842.html",
+  "tg:twentyfournews/324753",
+  "168.am:https://168.am/?p=2502244",
+  "1in.am:https://www.1in.am/?p=3771435",
+  "1in.am:https://www.1in.am/?p=3771423",
+  "News.am:https://news.am/hy/news/1069543"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2087,7 +2111,11 @@
   "Իշխանությունները մտադիր են փոխել զինծառայողների կյանքին կամ առողջությանը պատճառված վնասների հատուցման մասին օրենքը",
   "Սաուդյան Արաբիայի օդանավակայաններից մեկի վրա հարձակման հետևանքով կա 1 զոհ, 8 վիրավոր",
   "Ուկրաինան 600-ից ավելի ԱԹՍ-ով գրոհել է Մոսկվայի երկինքը, 2 երեխա է զոհվել ԿրասնոդարումI ԼՈՒՐԵՐI12:00",
-  "Հոկտեմբերի 23-ից Տերյան և Սայաթ-Նովա փողոցների որոշ հատվածներում կանգառն արգելվելու է"
+  "Հոկտեմբերի 23-ից Տերյան և Սայաթ-Նովա փողոցների որոշ հատվածներում կանգառն արգելվելու է",
+  "❗️Ընդդիմության մեր գործընկերներին կփորձենք համոզել, որ Սահմանադրության փոփոխությունը կարևոր է, եթե չստացվեց՝ կարող է գնանք արտահերթ ընտրությունների. Նիկոլ Փաշինյան",
+  "Ի՞նչն է խանգարում հայ–թուրքական սահմանի բացմանը․ Փաշինյանի պատասխանը",
+  "❗️️Ադրբեջանը վերապահում ունի, որ հայ-թուրքական սահմանը բացվի, այսօր պրոցեսները գտնվում են այդ կետում. Նիկոլ Փաշինյան",
+  "Meta-ին տուգանել են 25 մլրդ դոլարով՝ Facebook-ի օգտատերերի տվյալները Թրամփի նախընտրական շտաբի հետ աշխատած ընկերությանը փոխանցելու համար"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2106,29 +2134,21 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "1in.am:https://www.1in.am/?p=3771423": {
-   "score": 5,
-   "since": 1792657435.9824514
-  },
-  "News.am:https://news.am/hy/news/1069553": {
-   "score": 5,
-   "since": 1792657435.9824514
-  },
-  "tg:twentyfournews/324753": {
-   "score": 5,
-   "since": 1792657435.9824514
-  },
   "tg:twentyfournews/324752": {
    "score": 5,
    "since": 1792657435.9824514
+  },
+  "tg:twentyfournews/324763": {
+   "score": 5,
+   "since": 1792658344.6234338
   }
  },
- "last_post": 1792657880.7540588,
+ "last_post": 1792658783.325291,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
-  "2026-10-22": 12
+  "2026-10-22": 13
  },
  "last_sport": 1792650692.1428792
 }
