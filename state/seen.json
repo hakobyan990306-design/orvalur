@@ -1790,7 +1790,34 @@
   "tg:twentyfournews/324740",
   "News.am:https://news.am/hy/news/1069514",
   "tg:RadarARM/81715",
-  "News.am:https://news.am/hy/news/1069526"
+  "News.am:https://news.am/hy/news/1069526",
+  "tg:shamshyan_com/55553",
+  "News.am:https://news.am/hy/news/1069546",
+  "Factor.am:https://factor.am/?p=1072837",
+  "Aravot.am:https://www.aravot.am/?p=1588436",
+  "168.am:https://168.am/?p=2502186",
+  "tg:shamshyan_com/55549",
+  "tg:twentyfournews/324742",
+  "News.am:https://news.am/hy/news/1069541",
+  "Factor.am:https://factor.am/?p=1072814",
+  "1in.am:https://www.1in.am/?p=3771361",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/mher-grigvorjany-patmel-e-te-sjuniqum-tripp-i-het-kapvats-inch-e-arvel-108418626.html",
+  "tg:shamshyan_com/55546",
+  "News.am:https://news.am/hy/news/1069548",
+  "Factor.am:https://factor.am/?p=1072833",
+  "168.am:https://168.am/?p=2502178",
+  "News.am:https://news.am/hy/news/1069544",
+  "168.am:https://168.am/?p=2502226",
+  "News.am:https://news.am/hy/news/1069542",
+  "168.am:https://168.am/?p=2502158",
+  "News.am:https://news.am/hy/news/1069538",
+  "News.am:https://news.am/hy/news/1069537",
+  "News.am:https://news.am/hy/news/1069536",
+  "tg:twentyfournews/324743",
+  "1in.am:https://www.1in.am/?p=3771364",
+  "168.am:https://168.am/?p=2502229",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/pashinjany-eatmi-het-haraberutjunnern-anvanec-yntacik-shrjanum-erevacvogh-martahraver-108418743.html",
+  "News.am:https://news.am/hy/news/1069507"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1995,7 +2022,11 @@
   "ՌԴ-ն հարվածել է Կիևին. տուժածների թիվը հասել է 15-ի",
   "Brent-ը թանկացել է՝ մեկ բարելի համար հասնելով 111 դոլարի",
   "🟨 TRIPP նախագծման աշխատանքները ճիշտ ենք համարում սկսել այսօրվանից, և շուտով ավելի կոնկրետ էսքիզները կներկայացնենք քննարկման։",
-  "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը"
+  "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը",
+  "Կարող ենք հեռանալ, բայց ցանկանում ենք համոզվել. Թրամփ",
+  "Խաղաղության պայմանագրի ստորագրումը մինչև 2031 կամ 2029 թ. ձգելը մեր պլանների մեջ չի մտնում. Փաշինյան",
+  "Փաշինյանը ԵԱՏՄ–ի հետ հարաբերություններն անվանեց «ընթացիկ շրջանում երևացող մարտահրավեր»",
+  "ՆԱՏՕ-ն թույլ կտա Ուկրաինային ավելի արագ և ավելի էժան զենք ստանալ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2013,13 +2044,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "News.am:https://news.am/hy/news/1069507": {
-   "score": 5,
-   "since": 1792654701.569764
-  }
- },
- "last_post": 1792655237.480427,
+ "pending": {},
+ "last_post": 1792656119.3733819,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
