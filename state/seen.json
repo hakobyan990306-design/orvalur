@@ -2301,7 +2301,38 @@
   "168.am:https://168.am/?p=2502403",
   "tg:fastsport_am/1655",
   "tg:twentyfournews/324832",
-  "tg:factoram/74635"
+  "tg:factoram/74635",
+  "tg:twentyfournews/324837",
+  "tg:RadarARM/81728",
+  "News.am:https://news.am/hy/news/1069645",
+  "Hetq:https://hetq.am/hy/article/184903",
+  "Factor.am:https://factor.am/?p=1073032",
+  "Aravot.am:https://www.aravot.am/?p=1588569",
+  "1in.am:https://www.1in.am/?p=3771518",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/gegharvestakan-patmvatsqneri-havaqatsu-e-aram-orbeljany-rvobert-qvocharjani-gvortsi-masin-108435862.html",
+  "tg:twentyfournews/324836",
+  "tg:RadarARM/81727",
+  "News.am:https://news.am/hy/news/1069639",
+  "168.am:https://168.am/?p=2502420",
+  "1in.am:https://www.1in.am/?p=3771492",
+  "News.am:https://news.am/hy/news/1069655",
+  "Aravot.am:https://www.aravot.am/?p=1588566",
+  "168.am:https://168.am/?p=2502393",
+  "1in.am:https://www.1in.am/?p=3771515",
+  "tg:twentyfournews/324834",
+  "News.am:https://news.am/hy/news/1069658",
+  "Aravot.am:https://www.aravot.am/?p=1588564",
+  "168.am:https://168.am/?p=2502473",
+  "tg:twentyfournews/324833",
+  "News.am:https://news.am/hy/news/1069660",
+  "168.am:https://168.am/?p=2502469",
+  "168.am:https://168.am/?p=2502417",
+  "News.am:https://news.am/hy/news/1069657",
+  "News.am:https://news.am/hy/news/1069643",
+  "Armsport.am:https://armsport.am/?p=611306",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/hutinery-hajtararel-en-saudjan-arabiaji-pashtpanutjan-nakhararutjan-vra-hardzakman-masin-108434330.html",
+  "News.am:https://news.am/hy/news/1069637",
+  "tg:shamshyan_com/55581"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2579,7 +2610,11 @@
   "Հակակոռուպցիոն դատարանում քննվում է Ռոբերտ Քոչարյանի կալանքի ժամկետը երկարաձգելու միջնորդությունը",
   "Այնթապում կասեցվել է «Սուլուգունի» պանրի արտադրությունը. ՍԱՏՄ",
   "⚽ Como 1907 4–1 Manchester United FC",
-  "Երևանում մեքենաների հայելիների ապակիները գողացել և Telegram-ի հասցե են թողել․ երկու երիտասարդ է ձերբակալվել"
+  "Երևանում մեքենաների հայելիների ապակիները գողացել և Telegram-ի հասցե են թողել․ երկու երիտասարդ է ձերբակալվել",
+  "Պիկեն կանխատեսել է առաջիկա Էլ Կլասիկոյի հաշիվը",
+  "Հութիները հայտարարել են Սաուդյան Արաբիայի պաշտպանության նախարարության վրա հարձակման մասին",
+  "Թուրքիայում ձերբակալել են Էրդողանի նախկին խորհրդականին",
+  "Հյուսիսային ավտոկայանի դիմաց, որն ավելի շատ հայտնի է որպես «մահվան անցում», ՏԿԵ նախարար Դավիթ Խուդաթյանի միջամտությունից հետո մրցույթը շահած ընկերությունը սկսել է վերգետնյա անցումի կառուցումը. ՖՈՏՈՌԵՊ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2598,36 +2633,20 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "Armsport.am:https://armsport.am/?p=611306": {
-   "score": 7,
-   "since": 1792671982.1610081
-  },
-  "News.am:https://news.am/hy/news/1069643": {
+  "168.am:https://168.am/?p=2502479": {
    "score": 5,
-   "since": 1792672897.190814
+   "since": 1792674715.5492496
   },
-  "tg:shamshyan_com/55581": {
+  "Aravot.am:https://www.aravot.am/?p=1588567": {
    "score": 5,
-   "since": 1792673800.7047575
+   "since": 1792674715.5492496
   },
-  "tg:RadarARM/81727": {
+  "tg:twentyfournews/324835": {
    "score": 5,
-   "since": 1792673800.7047575
-  },
-  "1in.am:https://www.1in.am/?p=3771515": {
-   "score": 5,
-   "since": 1792673800.7047575
-  },
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/hutinery-hajtararel-en-saudjan-arabiaji-pashtpanutjan-nakhararutjan-vra-hardzakman-masin-108434330.html": {
-   "score": 6,
-   "since": 1792673800.7047575
-  },
-  "News.am:https://news.am/hy/news/1069637": {
-   "score": 6,
-   "since": 1792673800.7047575
+   "since": 1792674715.5492496
   }
  },
- "last_post": 1792673997.5792098,
+ "last_post": 1792675233.6270506,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082,
   "Վեոլիա Ջուր": 1792670171.5913098
@@ -2635,5 +2654,5 @@
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792673814.4424732
+ "last_sport": 1792674737.7648425
 }
