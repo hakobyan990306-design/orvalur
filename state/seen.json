@@ -2093,7 +2093,30 @@
   "Aravot.am:https://www.aravot.am/?p=1588511",
   "News.am:https://news.am/hy/news/1069605",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/putiny-uitkvofi-mijvocvov-ukrainaji-harcvov-gravvor-arajarkner-chi-pvokhancelkreml-108429382.html",
-  "168.am:https://168.am/?p=2502304"
+  "168.am:https://168.am/?p=2502304",
+  "tg:shamshyan_com/55572",
+  "tg:twentyfournews/324804",
+  "News.am:https://news.am/hy/news/1069614",
+  "Factor.am:https://factor.am/?p=1072924",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/artik-qkhum-buzhqujry-pvordzel-e-argelvats-irer-pvokhancel-datapartjalin-108429782.html",
+  "tg:twentyfournews/324803",
+  "News.am:https://news.am/hy/news/1069608",
+  "Aravot.am:https://www.aravot.am/?p=1588523",
+  "168.am:https://168.am/?p=2502319",
+  "tg:shamshyan_com/55570",
+  "tg:twentyfournews/324802",
+  "News.am:https://news.am/hy/news/1069612",
+  "Aravot.am:https://www.aravot.am/?p=1588522",
+  "tg:twentyfournews/324801",
+  "News.am:https://news.am/hy/news/1069613",
+  "tg:fastsport_am/1660",
+  "tg:twentyfournews/324800",
+  "tg:twentyfournews/324799",
+  "tg:fastsport_am/1658",
+  "tg:fastsport_am/1664",
+  "tg:shamshyan_com/55571",
+  "Aravot.am:https://www.aravot.am/?p=1588521",
+  "168.am:https://168.am/?p=2502339"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2342,7 +2365,11 @@
   "Ֆրանսիայում գրանցվել է Շամոնի վիրուսից առաջին մահը",
   "Հայաստանը կարող է քայլեր ձեռնարկել՝ ՄԱԿ-ի կլիմայի փոփոխության ամենամեծ համաժողովը հյուրընկալելու համար․ Փաշինյան",
   "Պուտինը Ուիտկոֆի միջոցով Ուկրաինայի հարցով գրավոր առաջարկներ չի փոխանցել․Կրեմլ",
-  "Դանիան պատմության մեջ առաջին անգամ հեռահար հրթիռներ կպատվիրի"
+  "Դանիան պատմության մեջ առաջին անգամ հեռահար հրթիռներ կպատվիրի",
+  "⚽ Levante UD 3–1 Athletic Club",
+  "Արտառոց դեպք՝ Սյունիքի մարզում․ 16 և 15 տարեկան տղաները 9-ամյա երեխայի խաղալիք ատրճանակով կրակել են նրա ոտքին ու գլխին, ապա դանակով սպառնացել",
+  "Ժորա Սիմոնյանը չեմպիոնական գոտի է նվաճել",
+  "Դատարանը հաստատեց Մայր Աթոռի դիրքորոշումը․ Տեր Եսայի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2360,13 +2387,50 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792666915.6529412,
+ "pending": {
+  "1in.am:https://www.1in.am/?p=3771398": {
+   "score": 5,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1663": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "Factor.am:https://factor.am/?p=1072922": {
+   "score": 5,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1662": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1661": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1659": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1657": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1656": {
+   "score": 7,
+   "since": 1792667437.6120446
+  },
+  "tg:fastsport_am/1655": {
+   "score": 7,
+   "since": 1792667437.6120446
+  }
+ },
+ "last_post": 1792668060.1525111,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792664737.6413147
+ "last_sport": 1792667455.29112
 }
