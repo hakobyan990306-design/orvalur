@@ -2355,7 +2355,34 @@
   "168.am:https://168.am/?p=2502500",
   "tg:twentyfournews/324835",
   "tg:twentyfournews/324841",
-  "Armsport.am:https://armsport.am/?p=611248"
+  "Armsport.am:https://armsport.am/?p=611248",
+  "tg:shamshyan_com/55584",
+  "tg:twentyfournews/324844",
+  "tg:mil_armenia/19695",
+  "News.am:https://news.am/hy/news/1069648",
+  "Factor.am:https://factor.am/?p=1073028",
+  "168.am:https://168.am/?p=2502538",
+  "1in.am:https://www.1in.am/?p=3771495",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/inchu-e-turqiajum-gazy-tank-bajc-lvoliky-ezhan-pvordzageti-kartsiqy-108437325.html",
+  "tg:shamshyan_com/55583",
+  "News.am:https://news.am/hy/news/1069671",
+  "Factor.am:https://factor.am/?p=1073020",
+  "Aravot.am:https://www.aravot.am/?p=1588573",
+  "168.am:https://168.am/?p=2502526",
+  "1in.am:https://www.1in.am/?p=3771521",
+  "tg:shamshyan_com/55582",
+  "News.am:https://news.am/hy/news/1069670",
+  "Factor.am:https://factor.am/?p=1073012",
+  "Aravot.am:https://www.aravot.am/?p=1588574",
+  "168.am:https://168.am/?p=2502522",
+  "News.am:https://news.am/hy/news/1069668",
+  "168.am:https://168.am/?p=2502530",
+  "News.am:https://news.am/hy/news/1069669",
+  "tg:twentyfournews/324843",
+  "tg:factoram/74636",
+  "Aravot.am:https://www.aravot.am/?p=1588578",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/masis-hamajnqi-ghekavari-qpakan-teknatsui-depqvov-qreakan-varujt-e-nakhadzernvel-kvomite-108437666.html",
+  "tg:twentyfournews/324842"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2641,7 +2668,11 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում հոկտեմբերի 22-ին",
   "Գերմանիայում լրտեսության կասկածանքով ձերբակալվել է Ուկրաինայի քաղաքացի․ նրան կասկածում են Ռուսաստանի օգտին գործելու մեջ",
   "Երեխաներին մեքենայով տեղափոխելու կանոնների խախտման տուգանքը կդառնա 20 հազար դրամ",
-  "Երեխաներ, մի՛ կրկնեք սա․ Մբապեն բացահայտել է մանկությունից եկող տարօրինակ սովորությունը, որից չի կարողանում հրաժարվել մինչ օրս"
+  "Երեխաներ, մի՛ կրկնեք սա․ Մբապեն բացահայտել է մանկությունից եկող տարօրինակ սովորությունը, որից չի կարողանում հրաժարվել մինչ օրս",
+  "Քրեական ոստիկանները ձերբակալել են թրաֆիքինգով զբաղվող օտարերկրացի տղամարդու․ նա կալանավորվել է",
+  "Եվրախորհրդարանը Սախարովի անվան մրցանակը շնորհել է Միջազգային քրեական դատարանին",
+  "Եռակողմ հանդիպումների վերսկսում, դիզելային գործարք. ինչ են քննարկել Պուտինն ու Ուիթքոֆը",
+  "Իսպանիան և Իտալիան դադարեցրել են փոխադարձ սահմանային վերահսկողությունը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2659,13 +2690,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Factor.am:https://factor.am/?p=1073012": {
-   "score": 5,
-   "since": 1792675620.6705697
-  }
- },
- "last_post": 1792676134.378232,
+ "pending": {},
+ "last_post": 1792677117.4907436,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082,
   "Վեոլիա Ջուր": 1792670171.5913098
