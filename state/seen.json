@@ -2045,7 +2045,33 @@
   "Armsport.am:https://armsport.am/?p=611291",
   "Aravot.am:https://www.aravot.am/?p=1588506",
   "1in.am:https://www.1in.am/?p=3771392",
-  "168.am:https://168.am/?p=2502294"
+  "168.am:https://168.am/?p=2502294",
+  "tg:shamshyan_com/55569",
+  "tg:factoram/74631",
+  "Hetq:https://hetq.am/hy/article/184889",
+  "Factor.am:https://factor.am/?p=1072932",
+  "Aravot.am:https://www.aravot.am/?p=1588512",
+  "168.am:https://168.am/?p=2502307",
+  "1in.am:https://www.1in.am/?p=3771417",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sa-aveli-e-amrapndum-pashtpanakan-martavarutjan-himqy-pastabany-sarvojani-gvortsi-masin-108429059.html",
+  "tg:shamshyan_com/55568",
+  "tg:twentyfournews/324794",
+  "News.am:https://news.am/hy/news/1069599",
+  "Factor.am:https://factor.am/?p=1072919",
+  "Aravot.am:https://www.aravot.am/?p=1588508",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/hajastani-sahmany-hatats-hvovivy-veradardzvel-e-adrbejanakan-zlm--108428830.html",
+  "tg:shamshyan_com/55567",
+  "tg:twentyfournews/324793",
+  "News.am:https://news.am/hy/news/1069603",
+  "Factor.am:https://factor.am/?p=1072890",
+  "Aravot.am:https://www.aravot.am/?p=1588507",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/aragatsum-arden-dzmer-e-gagik-surenjany-tesanjut-e-hraparakel-108428685.html",
+  "Factor.am:https://factor.am/?p=1072951",
+  "tg:twentyfournews/324795",
+  "tg:RadarARM/81724",
+  "News.am:https://news.am/hy/news/1069531",
+  "168.am:https://168.am/?p=2502301",
+  "tg:twentyfournews/324791"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2289,7 +2315,9 @@
   "Վինիսիուսը մտահոգիչ հակառեկորդ է սահմանել",
   "Սիլվա Ադամյանը հիշել է՝ ինչպես Արսեն Թորոսյանի հայրը վիրավորեց ու դուրս շպրտեց Ամուլսարի թեմայով զեկույց ներկայացնող բնապահպաններին",
   "Իրանը հայտնել է Պարսից ծոցի հյուսիսում չորս նավի վրա հարձակման մասին",
-  "Ռուսական կողմը ուկրաինական կողմին է փոխանցել 252 մարմին, իսկ Ուկրաինան՝ 25"
+  "Ռուսական կողմը ուկրաինական կողմին է փոխանցել 252 մարմին, իսկ Ուկրաինան՝ 25",
+  "Պենտագոնը զորքեր է տեղափոխում Իրանի սահման՝ սպասելով Թրամփի «կանաչ լույսին»",
+  "Ֆրանսիայում գրանցվել է Շամոնի վիրուսից առաջին մահը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2307,13 +2335,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:twentyfournews/324791": {
-   "score": 5,
-   "since": 1792664718.1264656
-  }
- },
- "last_post": 1792665225.7079456,
+ "pending": {},
+ "last_post": 1792665836.3174858,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
