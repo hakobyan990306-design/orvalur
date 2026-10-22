@@ -1609,7 +1609,19 @@
   "tg:RadarARM/81704",
   "Aravot.am:https://www.aravot.am/?p=1588403",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sevani-bnapahpanakan-hamakargy-pashtpanelu-hamar-rd-n-patrast-e-kisvel-bajkali-pvordzvov-108402097.html",
-  "tg:twentyfournews/324704"
+  "tg:twentyfournews/324704",
+  "tg:twentyfournews/324710",
+  "News.am:https://news.am/hy/news/1069499",
+  "Aravot.am:https://www.aravot.am/?p=1588404",
+  "168.am:https://168.am/?p=2502143",
+  "1in.am:https://www.1in.am/?p=3771303",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sahmany-hatats-adrbejancin-58-tarekan-e-aatsn-manramasner-e-hajtnum-108409522.html",
+  "tg:twentyfournews/324709",
+  "tg:twentyfournews/324708",
+  "tg:twentyfournews/324707",
+  "tg:RadarARM/81706",
+  "News.am:https://news.am/hy/news/1069494",
+  "Armsport.am:https://armsport.am/?p=611263"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1786,7 +1798,9 @@
   "ԱՄՆ Պետդեպարտամենտը կարգադրել է մի շարք պետական ծառայողների և նրանց ընտանիքների անդամներին լքել Սաուդյան Արաբիան",
   "Անսպասելի խոստովանություն․ Արսենալի դարպասապահը ցանկություն է հայտնել տեղափոխվել Լա լիգա",
   "Մինչև ե՞րբ կգործի կենսաթոշակի հետվճարի համակարգը. «Փաստ»",
-  "Փաշինյանին են փոխանցվել քաղաքական ազատումների կոնկրետ անուններ. «Փաստ»"
+  "Փաշինյանին են փոխանցվել քաղաքական ազատումների կոնկրետ անուններ. «Փաստ»",
+  "Պենտագոնը Մերձավոր Արևելքի օբյեկտներից դուրս է բերում զինծառայողների մի մասին",
+  "La Gazzetta dello Sport․ Ինձագին կարող է կրկին եվրոպական գրանդ գլխավորել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1804,18 +1818,13 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Armsport.am:https://armsport.am/?p=611263": {
-   "score": 5,
-   "since": 1792641978.3436487
-  }
- },
- "last_post": 1792645620.2758958,
+ "pending": {},
+ "last_post": 1792646685.734404,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
-  "2026-10-22": 5
+  "2026-10-22": 6
  },
- "last_sport": 1792644966.42935
+ "last_sport": 1792646685.7344089
 }
