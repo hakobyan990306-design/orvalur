@@ -1733,7 +1733,33 @@
   "News.am:https://news.am/hy/news/1069521",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/emi-het-hh-arevtri-atshi-veraberjal-kankhatesumnery-spekuljativ-bnujt-unen-evg-108414562.html",
   "tg:twentyfournews/324726",
-  "News.am:https://news.am/hy/news/1069506"
+  "News.am:https://news.am/hy/news/1069506",
+  "tg:RadarARM/81713",
+  "Armsport.am:https://armsport.am/?p=611283",
+  "News.am:https://news.am/hy/news/1069528",
+  "Factor.am:https://factor.am/?p=1072828",
+  "Aravot.am:https://www.aravot.am/?p=1588419",
+  "1in.am:https://www.1in.am/?p=3771355",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sevana-ltshum-sigi-ardjunagvortsakan-vorsi-qanaky-kavelacvi-720-tvonnajvov-108397081.html",
+  "tg:twentyfournews/324733",
+  "News.am:https://news.am/hy/news/1069529",
+  "Factor.am:https://factor.am/?p=1072815",
+  "Aravot.am:https://www.aravot.am/?p=1588421",
+  "168.am:https://168.am/?p=2502171",
+  "1in.am:https://www.1in.am/?p=3771352",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/qpn-eghegisi-hamajnqapetin-patzhel-e-ynddimadir-uzhi-het-khagher-talu-hamar-zhvoghvovurd-108416535.html",
+  "tg:twentyfournews/324732",
+  "Factor.am:https://factor.am/?p=1072821",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/hhum-zvoracrvats-gvortsazurk-andzinq-lghic-teghahanvatsnery-2027t-evs-kstanan-krtakan-vaucher-108398877.html",
+  "tg:twentyfournews/324731",
+  "News.am:https://news.am/hy/news/1069524",
+  "168.am:https://168.am/?p=2502169",
+  "News.am:https://news.am/hy/news/1069523",
+  "tg:twentyfournews/324734",
+  "168.am:https://168.am/?p=2502193",
+  "168.am:https://168.am/?p=2502195",
+  "News.am:https://news.am/hy/news/1069525",
+  "tg:twentyfournews/324730"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1930,7 +1956,11 @@
   "Մհեր Գրիգորյանն ու Դավիթ Խուդաթյանն այցելել են Սյունիք՝ TRIPP-ի ենթակառուցվածքների նախագծման աշխատանքների մեկնարկի հետ կապված մի շարք հարցեր տեղում քննարկելու նպատակով",
   "ՀՀ տարածքում ավտոճանապարհներն անցանելի են",
   "Խաղաղությունը մոտ է․ Թրամփը հրաժարվել է խստացնել Ռուսաստանի դեմ պատժամիջոցները",
-  "Հայր և որդի Քոչարյանների գործով նախաքննությանը խոչընդոտելու վտանգի հիմնավորումները բացակայում են"
+  "Հայր և որդի Քոչարյանների գործով նախաքննությանը խոչընդոտելու վտանգի հիմնավորումները բացակայում են",
+  "Նոր ռեկորդ. սեպտեմբերին 15 000-ով աշխատատեղերը ավելացել են, նախորդ սեպտեմբերի համեմատ` 39 751-ով",
+  "Հայաստանն ու Չեխիան քննարկել են ռազմատեխնիկական համագործակցության հարցեր",
+  "Հայաստանում չեղարկվել է արտահանողների ծախսերի փոխհատուցման ծրագրերից մեկը",
+  "Թրամփը հայտարարել է, որ չի զղջում Իրանի դեմ պատերազմ սկսելու համար"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1949,7 +1979,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792652147.708434,
+ "last_post": 1792654259.2409022,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
