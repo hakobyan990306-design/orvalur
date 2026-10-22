@@ -1759,7 +1759,38 @@
   "168.am:https://168.am/?p=2502193",
   "168.am:https://168.am/?p=2502195",
   "News.am:https://news.am/hy/news/1069525",
-  "tg:twentyfournews/324730"
+  "tg:twentyfournews/324730",
+  "tg:shamshyan_com/55552",
+  "News.am:https://news.am/hy/news/1069540",
+  "Factor.am:https://factor.am/?p=1072752",
+  "Aravot.am:https://www.aravot.am/?p=1588429",
+  "168.am:https://168.am/?p=2502224",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/arjery-ergum-en-irenc-khndirneri-masin-khvorhrdanshakan-akcia-erevanum-108418357.html",
+  "tg:shamshyan_com/55551",
+  "tg:RadarARM/81714",
+  "Aravot.am:https://www.aravot.am/?p=1588420",
+  "168.am:https://168.am/?p=2502219",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rdn-zangvatsajin-harvats-e-hascrel-ukrainaji-razmardjunaberakan-hamaliri-objektnerin-108418003.html",
+  "tg:twentyfournews/324739",
+  "News.am:https://news.am/hy/news/1069535",
+  "168.am:https://168.am/?p=2502220",
+  "tg:twentyfournews/324738",
+  "News.am:https://news.am/hy/news/1069534",
+  "168.am:https://168.am/?p=2502213",
+  "tg:twentyfournews/324737",
+  "News.am:https://news.am/hy/news/1069532",
+  "168.am:https://168.am/?p=2502216",
+  "tg:twentyfournews/324736",
+  "News.am:https://news.am/hy/news/1069527",
+  "168.am:https://168.am/?p=2502210",
+  "tg:twentyfournews/324735",
+  "168.am:https://168.am/?p=2502203",
+  "tg:twentyfournews/324741",
+  "1in.am:https://www.1in.am/?p=3771358",
+  "tg:twentyfournews/324740",
+  "News.am:https://news.am/hy/news/1069514",
+  "tg:RadarARM/81715",
+  "News.am:https://news.am/hy/news/1069526"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1960,7 +1991,11 @@
   "Նոր ռեկորդ. սեպտեմբերին 15 000-ով աշխատատեղերը ավելացել են, նախորդ սեպտեմբերի համեմատ` 39 751-ով",
   "Հայաստանն ու Չեխիան քննարկել են ռազմատեխնիկական համագործակցության հարցեր",
   "Հայաստանում չեղարկվել է արտահանողների ծախսերի փոխհատուցման ծրագրերից մեկը",
-  "Թրամփը հայտարարել է, որ չի զղջում Իրանի դեմ պատերազմ սկսելու համար"
+  "Թրամփը հայտարարել է, որ չի զղջում Իրանի դեմ պատերազմ սկսելու համար",
+  "ՌԴ-ն հարվածել է Կիևին. տուժածների թիվը հասել է 15-ի",
+  "Brent-ը թանկացել է՝ մեկ բարելի համար հասնելով 111 դոլարի",
+  "🟨 TRIPP նախագծման աշխատանքները ճիշտ ենք համարում սկսել այսօրվանից, և շուտով ավելի կոնկրետ էսքիզները կներկայացնենք քննարկման։",
+  "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1978,8 +2013,13 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792654259.2409022,
+ "pending": {
+  "News.am:https://news.am/hy/news/1069507": {
+   "score": 5,
+   "since": 1792654701.569764
+  }
+ },
+ "last_post": 1792655237.480427,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
