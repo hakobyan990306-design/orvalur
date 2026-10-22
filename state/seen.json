@@ -2116,7 +2116,34 @@
   "tg:fastsport_am/1664",
   "tg:shamshyan_com/55571",
   "Aravot.am:https://www.aravot.am/?p=1588521",
-  "168.am:https://168.am/?p=2502339"
+  "168.am:https://168.am/?p=2502339",
+  "tg:shamshyan_com/55573",
+  "tg:twentyfournews/324809",
+  "tg:RadarARM/81725",
+  "Armsport.am:https://armsport.am/?p=611293",
+  "News.am:https://news.am/hy/news/1069617",
+  "Hetq:https://hetq.am/hy/article/184888",
+  "Factor.am:https://factor.am/?p=1072962",
+  "Aravot.am:https://www.aravot.am/?p=1588530",
+  "168.am:https://168.am/?p=2502347",
+  "1in.am:https://www.1in.am/?p=3771483",
+  "tg:twentyfournews/324808",
+  "Hetq:https://hetq.am/hy/article/184893",
+  "Factor.am:https://factor.am/?p=1072973",
+  "168.am:https://168.am/?p=2502333",
+  "1in.am:https://www.1in.am/?p=3771450",
+  "tg:twentyfournews/324807",
+  "News.am:https://news.am/hy/news/1069616",
+  "Hetq:https://hetq.am/hy/article/184892",
+  "Factor.am:https://factor.am/?p=1072969",
+  "tg:twentyfournews/324806",
+  "Factor.am:https://factor.am/?p=1072954",
+  "tg:twentyfournews/324805",
+  "tg:fastsport_am/1663",
+  "Factor.am:https://factor.am/?p=1072922",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/amn-i-harvatsneri-depqum-energaobjektnery-karvogh-en-irani-tirakh-darnal-rezaji-108430394.html",
+  "News.am:https://news.am/hy/news/1069609",
+  "168.am:https://168.am/?p=2502336"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2369,7 +2396,11 @@
   "⚽ Levante UD 3–1 Athletic Club",
   "Արտառոց դեպք՝ Սյունիքի մարզում․ 16 և 15 տարեկան տղաները 9-ամյա երեխայի խաղալիք ատրճանակով կրակել են նրա ոտքին ու գլխին, ապա դանակով սպառնացել",
   "Ժորա Սիմոնյանը չեմպիոնական գոտի է նվաճել",
-  "Դատարանը հաստատեց Մայր Աթոռի դիրքորոշումը․ Տեր Եսայի"
+  "Դատարանը հաստատեց Մայր Աթոռի դիրքորոշումը․ Տեր Եսայի",
+  "⚽ Real Betis Balompié 1–0 Feyenoord Rotterdam",
+  "ԱՄՆ-ի հարվածների դեպքում էներգաօբյեկտները կարող են Իրանի թիրախ դառնալ. Ռեզայի",
+  "Պուտինն ու Թրամփը միմյանց հավաստիացնում են, որ պատրաստ են խոսել ցանկացած պահի․ Պեսկով",
+  "Ալիևը պաշտոնից ազատել է Ստեփանակերտում իր հատուկ ներկայացուցչին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2389,14 +2420,6 @@
  ],
  "pending": {
   "1in.am:https://www.1in.am/?p=3771398": {
-   "score": 5,
-   "since": 1792667437.6120446
-  },
-  "tg:fastsport_am/1663": {
-   "score": 7,
-   "since": 1792667437.6120446
-  },
-  "Factor.am:https://factor.am/?p=1072922": {
    "score": 5,
    "since": 1792667437.6120446
   },
@@ -2425,12 +2448,12 @@
    "since": 1792667437.6120446
   }
  },
- "last_post": 1792668060.1525111,
+ "last_post": 1792668904.6350167,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792667455.29112
+ "last_sport": 1792668371.2602327
 }
