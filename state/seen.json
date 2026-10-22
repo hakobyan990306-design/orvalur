@@ -2143,7 +2143,29 @@
   "Factor.am:https://factor.am/?p=1072922",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/amn-i-harvatsneri-depqum-energaobjektnery-karvogh-en-irani-tirakh-darnal-rezaji-108430394.html",
   "News.am:https://news.am/hy/news/1069609",
-  "168.am:https://168.am/?p=2502336"
+  "168.am:https://168.am/?p=2502336",
+  "tg:shamshyan_com/55574",
+  "Factor.am:https://factor.am/?p=1072976",
+  "Aravot.am:https://www.aravot.am/?p=1588537",
+  "1in.am:https://www.1in.am/?p=3771501",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/adelia-petrvosjany-tshapvoniaji-gran-prii-pulin-masnakcelu-hraver-e-stacel-108431026.html",
+  "News.am:https://news.am/hy/news/1069622",
+  "Aravot.am:https://www.aravot.am/?p=1588534",
+  "168.am:https://168.am/?p=2502353",
+  "1in.am:https://www.1in.am/?p=3771456",
+  "tg:twentyfournews/324810",
+  "News.am:https://news.am/hy/news/1069621",
+  "Aravot.am:https://www.aravot.am/?p=1588526",
+  "168.am:https://168.am/?p=2502349",
+  "News.am:https://news.am/hy/news/1069619",
+  "1in.am:https://www.1in.am/?p=3771398",
+  "News.am:https://news.am/hy/news/1069620",
+  "tg:fastsport_am/1662",
+  "tg:twentyfournews/324812",
+  "News.am:https://news.am/hy/news/1069615",
+  "168.am:https://168.am/?p=2502356",
+  "tg:twentyfournews/324811",
+  "1in.am:https://www.1in.am/?p=3771459"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2400,7 +2422,11 @@
   "⚽ Real Betis Balompié 1–0 Feyenoord Rotterdam",
   "ԱՄՆ-ի հարվածների դեպքում էներգաօբյեկտները կարող են Իրանի թիրախ դառնալ. Ռեզայի",
   "Պուտինն ու Թրամփը միմյանց հավաստիացնում են, որ պատրաստ են խոսել ցանկացած պահի․ Պեսկով",
-  "Ալիևը պաշտոնից ազատել է Ստեփանակերտում իր հատուկ ներկայացուցչին"
+  "Ալիևը պաշտոնից ազատել է Ստեփանակերտում իր հատուկ ներկայացուցչին",
+  "⚽ Sporting Clube de Portugal 2–3 LASK Linz",
+  "Մակրոնն արգելել է առաջիկա օրերին ցույցեր կազմակերպել",
+  "Թուրքիայի Կենտրոնական բանկն առաջին անգամ վերջին ինը ամսվա ընթացքում նվազեցրել է հիմնական տոկոսադրույքը",
+  "Եգիպտոսը կպաշտպանի Սաուդյան Արաբիայի տարածքը, բայց չի հարձակվի Եմենի վրա. Աս-Սիսի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2419,14 +2445,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "1in.am:https://www.1in.am/?p=3771398": {
-   "score": 5,
-   "since": 1792667437.6120446
-  },
-  "tg:fastsport_am/1662": {
-   "score": 7,
-   "since": 1792667437.6120446
-  },
   "tg:fastsport_am/1661": {
    "score": 7,
    "since": 1792667437.6120446
@@ -2448,12 +2466,12 @@
    "since": 1792667437.6120446
   }
  },
- "last_post": 1792668904.6350167,
+ "last_post": 1792669801.5771806,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792668371.2602327
+ "last_sport": 1792669292.0310786
 }
