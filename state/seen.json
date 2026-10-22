@@ -1597,7 +1597,19 @@
   "News.am:https://news.am/hy/news/1069490",
   "Armsport.am:https://armsport.am/?p=611261",
   "1in.am:https://www.1in.am/?p=3771273",
-  "tg:twentyfournews/324701"
+  "tg:twentyfournews/324701",
+  "tg:twentyfournews/324706",
+  "tg:RadarARM/81705",
+  "News.am:https://news.am/hy/news/1069492",
+  "Aravot.am:https://www.aravot.am/?p=1588393",
+  "168.am:https://168.am/?p=2502136",
+  "1in.am:https://www.1in.am/?p=3771300",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/datarany-kartshel-e-arman-sarvojanin-masjacvotni-temi-arajnvordi-pashtvonum-verakangnelu-gvortsy-108409134.html",
+  "tg:twentyfournews/324705",
+  "tg:RadarARM/81704",
+  "Aravot.am:https://www.aravot.am/?p=1588403",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sevani-bnapahpanakan-hamakargy-pashtpanelu-hamar-rd-n-patrast-e-kisvel-bajkali-pvordzvov-108402097.html",
+  "tg:twentyfournews/324704"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -1773,7 +1785,8 @@
   "Իսրայելի նախագահը դատապարտել է Երուսաղեմի հայ համայնքի դեմ հարձակումները",
   "ԱՄՆ Պետդեպարտամենտը կարգադրել է մի շարք պետական ծառայողների և նրանց ընտանիքների անդամներին լքել Սաուդյան Արաբիան",
   "Անսպասելի խոստովանություն․ Արսենալի դարպասապահը ցանկություն է հայտնել տեղափոխվել Լա լիգա",
-  "Մինչև ե՞րբ կգործի կենսաթոշակի հետվճարի համակարգը. «Փաստ»"
+  "Մինչև ե՞րբ կգործի կենսաթոշակի հետվճարի համակարգը. «Փաստ»",
+  "Փաշինյանին են փոխանցվել քաղաքական ազատումների կոնկրետ անուններ. «Փաստ»"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -1797,7 +1810,7 @@
    "since": 1792641978.3436487
   }
  },
- "last_post": 1792645175.9654744,
+ "last_post": 1792645620.2758958,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082
  },
