@@ -2263,7 +2263,28 @@
   "168.am:https://168.am/?p=2502427",
   "1in.am:https://www.1in.am/?p=3771486",
   "168.am:https://168.am/?p=2502406",
-  "tg:factoram/74633"
+  "tg:factoram/74633",
+  "tg:shamshyan_com/55580",
+  "tg:twentyfournews/324830",
+  "Hetq:https://hetq.am/hy/article/184902",
+  "Factor.am:https://factor.am/?p=1072986",
+  "Aravot.am:https://www.aravot.am/?p=1588559",
+  "168.am:https://168.am/?p=2502450",
+  "1in.am:https://www.1in.am/?p=3771507",
+  "tg:shamshyan_com/55579",
+  "tg:twentyfournews/324829",
+  "News.am:https://news.am/hy/news/1069632",
+  "Factor.am:https://factor.am/?p=1073008",
+  "Aravot.am:https://www.aravot.am/?p=1588556",
+  "168.am:https://168.am/?p=2502444",
+  "tg:twentyfournews/324828",
+  "Aravot.am:https://www.aravot.am/?p=1588555",
+  "168.am:https://168.am/?p=2502412",
+  "Aravot.am:https://www.aravot.am/?p=1588550",
+  "tg:fastsport_am/1656",
+  "Hetq:https://hetq.am/hy/article/184901",
+  "News.am:https://news.am/hy/news/1069533",
+  "News.am:https://news.am/hy/news/1069644"
  ],
  "titles": [
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանում, Կոտայքի և Արագածոտնի մարզերում հոկտեմբերի 21/22-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 21-ին; Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 21-ին",
@@ -2536,7 +2557,10 @@
   "⚽ Real Madrid CF 4–1 RB Leipzig",
   "Ապօրինի զինամթերքի գործով 3 անձ ձերբակալվել է",
   "Մահացել է «Armenian Observer» շաբաթաթերթի հիմնադիր, վետերան լրագրող Օշին Քեշիշեանը",
-  "Կառավարությունը սահմանել է ՄԻԵԴ վճիռներով նախատեսված փոխհատուցումների տրամադրման կարգը"
+  "Կառավարությունը սահմանել է ՄԻԵԴ վճիռներով նախատեսված փոխհատուցումների տրամադրման կարգը",
+  "⚽ Lille OSC 2–4 Galatasaray SK",
+  "Հակակոռուպցիոն դատարանում քննվում է Ռոբերտ Քոչարյանի կալանքի ժամկետը երկարաձգելու միջնորդությունը",
+  "Այնթապում կասեցվել է «Սուլուգունի» պանրի արտադրությունը. ՍԱՏՄ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -2555,10 +2579,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1656": {
-   "score": 7,
-   "since": 1792667437.6120446
-  },
   "tg:fastsport_am/1655": {
    "score": 7,
    "since": 1792667437.6120446
@@ -2566,9 +2586,13 @@
   "Armsport.am:https://armsport.am/?p=611306": {
    "score": 7,
    "since": 1792671982.1610081
+  },
+  "News.am:https://news.am/hy/news/1069643": {
+   "score": 5,
+   "since": 1792672897.190814
   }
  },
- "last_post": 1792672520.9978194,
+ "last_post": 1792673229.5668418,
  "digest_last": {
   "ՀԷՑ": 1792589288.6307082,
   "Վեոլիա Ջուր": 1792670171.5913098
@@ -2576,5 +2600,5 @@
  "top_used": {
   "2026-10-22": 15
  },
- "last_sport": 1792671991.7280197
+ "last_sport": 1792672911.7636025
 }
