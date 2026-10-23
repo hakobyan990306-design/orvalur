@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:shamshyan_com/55478",
-  "tg:shamshyan_com/55477",
-  "tg:shamshyan_com/55476",
-  "tg:shamshyan_com/55475",
-  "tg:shamshyan_com/55474",
-  "tg:shamshyan_com/55473",
-  "tg:shamshyan_com/55472",
-  "tg:shamshyan_com/55471",
-  "tg:shamshyan_com/55470",
-  "tg:shamshyan_com/55469",
-  "tg:shamshyan_com/55468",
-  "tg:shamshyan_com/55467",
-  "tg:shamshyan_com/55466",
-  "tg:shamshyan_com/55465",
-  "tg:shamshyan_com/55464",
-  "tg:shamshyan_com/55463",
-  "tg:shamshyan_com/55462",
-  "tg:shamshyan_com/55461",
   "tg:shamshyan_com/55460",
   "tg:shamshyan_com/55459",
   "tg:fastsport_am/1633",
@@ -2998,11 +2980,28 @@
   "News.am:https://news.am/hy/news/1069764",
   "Factor.am:https://factor.am/?p=1073231",
   "tg:twentyfournews/324958",
-  "Factor.am:https://factor.am/?p=1073235"
+  "Factor.am:https://factor.am/?p=1073235",
+  "tg:RadarARM/81753",
+  "News.am:https://news.am/hy/news/1069765",
+  "Factor.am:https://factor.am/?p=1073224",
+  "Aravot.am:https://www.aravot.am/?p=1588671",
+  "168.am:https://168.am/?p=2502735",
+  "1in.am:https://www.1in.am/?p=3771710",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/inch-en-nshanakum-datarani-vorvoshumnery-kargalujts-qahananeri-gvortsery-kartshelu-veraberjal-108455564.html",
+  "tg:twentyfournews/324961",
+  "News.am:https://news.am/hy/news/1069794",
+  "168.am:https://168.am/?p=2502724",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/amnn-14-mln-dvolari-transpvortajin-mijvocner-ev-sarqavvorumner-e-nviraberel-hh-aatsin-108455435.html",
+  "tg:twentyfournews/324960",
+  "News.am:https://news.am/hy/news/1069796",
+  "News.am:https://news.am/hy/news/1069795",
+  "digest:veolia:a510d8a4e68c",
+  "veolia:a510d8a4e68c",
+  "veolia:da4f45106e9a",
+  "veolia:a6e49fc39653",
+  "tg:twentyfournews/324962"
  ],
  "titles": [
-  "Ռուսաստանը և Ուկրաինան հայտնել են նոր փոխադարձ հարվածների մասին",
-  "ՀԱՊԿ-ում չեն բացառում, որ ՀՀ-ն կվերանայի իր դիրքորոշումը կառույցին անդամակցելու հարցում",
   "Արթուր Ղարիբյանը՝ հավաքականում խփած գոլի և Սպերցյանի խաղամակարդակի մասին",
   "Պուտինը Ուիթկոֆին հայտնել է, որ ԱՄՆ-ի հետ դիզելային գործարքի շրջանակում առաջին լցանավերը կմեկնեն երկու-երեք օրից",
   "Խաղաղության խորհրդի վճարի հետ կապված առնվազն այս պահին չկա փաստաթղթային պարտավորութուն. Միրզոյան",
@@ -3300,7 +3299,9 @@
   "Մահացած սենատոր Գրեհեմին մեղադրել են անչափահասի հետ կապերի մեջ",
   "ԹՐԻՓՓ-ի վերաբերյալ Հայաստան-ԱՄՆ համաձայնագիրը հոկտեմբերի 27-ին կքննարկվի ԱԺ լիագումար նիստում",
   "Քրեական ոստիկանները հայտնաբերել են սպանության փորձի և խուլիգանության հատկանիշներով հետախուզվող 22 և 23 տարեկան երիտասարդներին ",
-  "Հայաստանը և ԱՄՆ-ն քննարկել են նոր միջուկային էներգաբլոկի կառուցման հարցը"
+  "Հայաստանը և ԱՄՆ-ն քննարկել են նոր միջուկային էներգաբլոկի կառուցման հարցը",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Վայոց Ձորի մարզի Վայք քաղաքում հոկտեմբերի 23-ին; Վթարային ջրանջատում Լոռու և Տավուշի մարզերում հոկտեմբերի 23/24-ին; Վթարային ջրանջատում Արմավիրի մարզի Մեծամոր քաղաքում հոկտեմբերի 23-ին",
+  "imID-ում կատարվում են աշխատանքներ՝ արագ համակարգի բնականոն ռեժիմով աշխատանքի վերականգնման համար"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792739778.6227899,
+ "last_post": 1792740333.028268,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
-  "Վեոլիա Ջուր": 1792732875.4478986
+  "Վեոլիա Ջուր": 1792740141.743924
  },
  "top_used": {
   "2026-10-23": 3
