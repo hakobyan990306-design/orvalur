@@ -1,16 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771035",
-  "168.am:https://168.am/?p=2501689",
-  "tg:shamshyan_com/55505",
-  "tg:twentyfournews/324571",
-  "tg:mil_armenia/19676",
-  "News.am:https://news.am/hy/news/1069324",
-  "Factor.am:https://factor.am/?p=1072447",
-  "Aravot.am:https://www.aravot.am/?p=1588219",
-  "168.am:https://168.am/?p=2501725",
-  "1in.am:https://www.1in.am/?p=3770957",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hh-petakan-hamakargi-urtshacum-ynddimadirnery-khndir-en-tesnum-nvor-kvomiteneri-harcum-108380239.html",
   "Aravot.am:https://www.aravot.am/?p=1588216",
   "168.am:https://168.am/?p=2501723",
   "tg:twentyfournews/324569",
@@ -2999,10 +2988,20 @@
   "168.am:https://168.am/?p=2503212",
   "News.am:https://news.am/hy/news/1069917",
   "168.am:https://168.am/?p=2503046",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/shaqium-viravvorum-stacats-knvojy-der-chen-karvoghanum-virahatel-khndirner-en-i-hajt-ekel-zlm-108488579.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/shaqium-viravvorum-stacats-knvojy-der-chen-karvoghanum-virahatel-khndirner-en-i-hajt-ekel-zlm-108488579.html",
+  "tg:twentyfournews/325079",
+  "Armsport.am:https://armsport.am/?p=611478",
+  "News.am:https://news.am/hy/news/1069949",
+  "Factor.am:https://factor.am/?p=1073560",
+  "Aravot.am:https://www.aravot.am/?p=1588828",
+  "168.am:https://168.am/?p=2502927",
+  "tg:twentyfournews/325078",
+  "News.am:https://news.am/hy/news/1069894",
+  "168.am:https://168.am/?p=2503217",
+  "1in.am:https://www.1in.am/?p=3771998",
+  "1in.am:https://www.1in.am/?p=3771984"
  ],
  "titles": [
-  "Brent-ը թանկացել է՝ մեկ բարելի համար հասնելով 111 դոլարի",
   "🟨 TRIPP նախագծման աշխատանքները ճիշտ ենք համարում սկսել այսօրվանից, և շուտով ավելի կոնկրետ էսքիզները կներկայացնենք քննարկման։",
   "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը",
   "Կարող ենք հեռանալ, բայց ցանկանում ենք համոզվել. Թրամփ",
@@ -3301,7 +3300,8 @@
   "Փաշինյանը նոր ընտրության կարող է գնալ, Սահմանադրության հարցից է կախված նրա քաղաքական ապագան",
   "Կլոդ Մոնեի «Հիրիկներ» կտավը Փարիզում վաճառվել է ռեկորդային՝ 50 միլիոն եվրոյով",
   "Ֆրանսիայում սպասվող նոր բողոքի ակցիաների կապակցությամբ երկրում կտեղակայվի շուրջ 70 000 իրավապահ",
-  "Շաքիում վիրավորում ստացած կնոջը դեռ չեն կարողանում վիրահատել, խնդիրներ են ի հայտ եկել. ԶԼՄ"
+  "Շաքիում վիրավորում ստացած կնոջը դեռ չեն կարողանում վիրահատել, խնդիրներ են ի հայտ եկել. ԶԼՄ",
+  "Թրամփը խոստացել է լուծել Կիևի հետ հետախուզական տվյալներով կիսվելու հարցը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792778331.5255606,
+ "last_post": 1792779240.020712,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792773769.2149005
