@@ -1,25 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069254",
-  "News.am:https://news.am/hy/news/1069253",
-  "News.am:https://news.am/hy/news/1069251",
-  "News.am:https://news.am/hy/news/1069252",
-  "News.am:https://news.am/hy/news/1069238",
-  "News.am:https://news.am/hy/news/1069250",
-  "News.am:https://news.am/hy/news/1069242",
-  "News.am:https://news.am/hy/news/1069249",
-  "News.am:https://news.am/hy/news/1069247",
-  "News.am:https://news.am/hy/news/1069243",
-  "News.am:https://news.am/hy/news/1069223",
-  "News.am:https://news.am/hy/news/1069248",
-  "News.am:https://news.am/hy/news/1069246",
-  "News.am:https://news.am/hy/news/1069245",
-  "News.am:https://news.am/hy/news/1069237",
-  "News.am:https://news.am/hy/news/1069222",
-  "News.am:https://news.am/hy/news/1069236",
-  "News.am:https://news.am/hy/news/1069221",
-  "News.am:https://news.am/hy/news/1069235",
-  "News.am:https://news.am/hy/news/1069220",
   "News.am:https://news.am/hy/news/1069234",
   "News.am:https://news.am/hy/news/1069219",
   "News.am:https://news.am/hy/news/1069233",
@@ -2999,10 +2979,29 @@
   "Hetq:https://hetq.am/hy/article/184922",
   "Aravot.am:https://www.aravot.am/?p=1588724",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hakazhvoghvovrdavarakan-e-uzhegh-hajastany-hamajnqapeti-teknatsui-kalanavvorman-masin-108469005.html",
-  "News.am:https://news.am/hy/news/1069814"
+  "News.am:https://news.am/hy/news/1069814",
+  "tg:shamshyan_com/55620",
+  "tg:RadarARM/81761",
+  "News.am:https://news.am/hy/news/1069817",
+  "Factor.am:https://factor.am/?p=1073354",
+  "Aravot.am:https://www.aravot.am/?p=1588727",
+  "168.am:https://168.am/?p=2502889",
+  "1in.am:https://www.1in.am/?p=3771777",
+  "tg:shamshyan_com/55610",
+  "tg:twentyfournews/325001",
+  "News.am:https://news.am/hy/news/1069849",
+  "Factor.am:https://factor.am/?p=1073330",
+  "Aravot.am:https://www.aravot.am/?p=1588721",
+  "168.am:https://168.am/?p=2502885",
+  "1in.am:https://www.1in.am/?p=3771759",
+  "News.am:https://news.am/hy/news/1069851",
+  "1in.am:https://www.1in.am/?p=3771852",
+  "News.am:https://news.am/hy/news/1069845",
+  "News.am:https://news.am/hy/news/1069850",
+  "tg:twentyfournews/325002",
+  "tg:factoram/74657"
  ],
  "titles": [
-  "Նիգերիայում հաստատվել է էբոլայով վարակման առաջին դեպքը",
   "Ստեփանավանի համայնքապետի թեկնածու Արսեն Գևորգյանը երկու ամսով կալանավորվեց",
   "Թանկ գնով տրված հաղթանակ․ Խվիչայից հետո ՊՍԺ-ն կորցրել է ևս երկու առաջատարի",
   "Հաղորդակցությունները, որոնք կբացվեն, կգործարկվեն, կվերագործարկվեն, կկառուցվեն զրոյից, կենսական հանգույց կդառնան Արևելք-Արևմուտք ուղևորային և բեռնափոխադրումների համար. Արարատ Միրզոյան",
@@ -3301,7 +3300,8 @@
   "Փարիզի մերձակայքում տղամարդը մեքենայից կրակ է բացել. մեկ մարդ զոհվել է, չորսը՝ վիրավորվել",
   "Ստեփանավանում ևս 10 անձ է ձերբակալվել",
   "Փարիզի քաղաքապետարանի ներկայացուցիչները հարգանքի տուրք են մատուցել Հայոց ցեղասպանության զոհերի հիշատակին",
-  "Ուկրաինան հարվածել է Նիժնի Նովգորոդի մարզի հարկային ծառայության տվյալների մշակման կենտրոնին և Պերմի պայթուցիկների բաղադրիչների գործարանին"
+  "Ուկրաինան հարվածել է Նիժնի Նովգորոդի մարզի հարկային ծառայության տվյալների մշակման կենտրոնին և Պերմի պայթուցիկների բաղադրիչների գործարանին",
+  "Զանգվածային ընտրախախտում Մարտունիում․ ԿԸՀ-ն մատնված է անգործության"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792752398.1312606,
+ "last_post": 1792752870.9395819,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792747409.949996
