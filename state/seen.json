@@ -1,25 +1,5 @@
 {
  "seen": [
-  "ena:09e1a0cb4645",
-  "ena:a3f8d2f00c2d",
-  "ena:44b789e867cb",
-  "Hetq:https://hetq.am/hy/article/184859",
-  "tg:twentyfournews/324517",
-  "Factor.am:https://factor.am/?p=1072352",
-  "tg:twentyfournews/324514",
-  "digest:veolia:b9b032d1f722",
-  "veolia:b9b032d1f722",
-  "veolia:8c2b6afc2618",
-  "Hetq:https://hetq.am/hy/article/184861",
-  "News.am:https://news.am/hy/news/1069272",
-  "tg:shamshyan_com/55482",
-  "News.am:https://news.am/hy/news/1069267",
-  "News.am:https://news.am/hy/news/1069257",
-  "Hetq:https://hetq.am/hy/article/184862",
-  "Factor.am:https://factor.am/?p=1072370",
-  "tg:shamshyan_com/55492",
-  "tg:twentyfournews/324521",
-  "tg:RadarARM/81665",
   "tg:factoram/74585",
   "News.am:https://news.am/hy/news/1069273",
   "Hetq:https://hetq.am/hy/article/184858",
@@ -2999,10 +2979,29 @@
   "tg:twentyfournews/325011",
   "Factor.am:https://factor.am/?p=1073392",
   "Aravot.am:https://www.aravot.am/?p=1588746",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/fransian-ev-britanian-1-in-angam-mijukajin-zspman-uzheri-hamategh-zvoravarzhutjun-en-anum-108472616.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/fransian-ev-britanian-1-in-angam-mijukajin-zspman-uzheri-hamategh-zvoravarzhutjun-en-anum-108472616.html",
+  "tg:twentyfournews/325014",
+  "tg:RadarARM/81764",
+  "tg:factoram/74659",
+  "News.am:https://news.am/hy/news/1069832",
+  "Hetq:https://hetq.am/hy/article/184924",
+  "Factor.am:https://factor.am/?p=1073370",
+  "Aravot.am:https://www.aravot.am/?p=1588750",
+  "168.am:https://168.am/?p=2502922",
+  "1in.am:https://www.1in.am/?p=3771792",
+  "tg:twentyfournews/325013",
+  "News.am:https://news.am/hy/news/1069866",
+  "Factor.am:https://factor.am/?p=1073373",
+  "Aravot.am:https://www.aravot.am/?p=1588748",
+  "tg:twentyfournews/325012",
+  "News.am:https://news.am/hy/news/1069867",
+  "Aravot.am:https://www.aravot.am/?p=1588747",
+  "News.am:https://news.am/hy/news/1069865",
+  "News.am:https://news.am/hy/news/1069862",
+  "tg:shamshyan_com/55625",
+  "tg:factoram/74658"
  ],
  "titles": [
-  "Կրոսը կազմել է պատմության լավագույն կիսապաշտպանների հնգյակը․ Բարսելոնայիլ լեգենդները զիջել են միայն մեկ ֆուտբոլիստի",
   "Խամենեին և Ղալիբաֆը քննարկել են Իրան-ԱՄՆ հակամարտությունը",
   "Ուիտկոֆը Պուտինի հետ բանակցությունները կառուցողական է անվանել և հայտարարել Ուկրաինայի հարցով հետագա երկխոսության մասին",
   "«Պատրանքներին կփոխարինի ցավոտ իրականությունը»․ ԵԱՏՄ–ից հեռանալու հետևանքների մասին",
@@ -3301,7 +3300,8 @@
   "15 տոկոս գնաճ, ՀՆԱ-ի 15 տոկոս անկում․ ի՞նչ կարժենա ՀՀ-ին գազի թանկացումը",
   "Ընտրակաշառքի գործով ձերբակալվել է ևս 10 անձ․ մեղադրյալների թիվը հասել է 24-ի",
   "«Երեք տարի ֆռռացնում ես ու էսօր ասում ես մեղավոր չե՞մ». Ազատ գյուղի զինվորական կացարանում այրված զինվորների հարազատները վրդովվեցին",
-  "Ֆրանսիան և Բրիտանիան 1-ին անգամ միջուկային զսպման ուժերի համատեղ զորավարժություն են անում"
+  "Ֆրանսիան և Բրիտանիան 1-ին անգամ միջուկային զսպման ուժերի համատեղ զորավարժություն են անում",
+  "Ավտովթար՝ Գեղարքունիքի մարզում․ Ձորագյուղում բախվել են «Lexus»-ը և «Լադա»-ն․ «Lexus»-ը մասամբ հայտնվել է դաշտում․ ՖՈՏՈՌԵՊՈՐՏԱԺ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,25 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:shamshyan_com/55625": {
-   "score": 6,
-   "since": 1792756483.3543518
-  },
-  "tg:factoram/74659": {
-   "score": 6,
-   "since": 1792756483.3543518
-  },
-  "tg:factoram/74658": {
-   "score": 6,
-   "since": 1792756483.3543518
-  },
-  "News.am:https://news.am/hy/news/1069862": {
-   "score": 6,
-   "since": 1792756483.3543518
-  }
- },
- "last_post": 1792757011.4680219,
+ "pending": {},
+ "last_post": 1792757405.1940048,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792754676.0647104
