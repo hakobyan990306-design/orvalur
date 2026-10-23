@@ -1,20 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74590",
-  "Factor.am:https://factor.am/?p=1072404",
-  "tg:twentyfournews/324525",
-  "tg:factoram/74589",
-  "News.am:https://news.am/hy/news/1069279",
-  "Factor.am:https://factor.am/?p=1072395",
-  "News.am:https://news.am/hy/news/1069275",
-  "tg:twentyfournews/324522",
-  "News.am:https://news.am/hy/news/1069277",
-  "tg:shamshyan_com/55495",
-  "tg:twentyfournews/324526",
-  "tg:twentyfournews/324524",
-  "tg:RadarARM/81666",
-  "tg:twentyfournews/324534",
-  "tg:RadarARM/81668",
   "Armsport.am:https://armsport.am/?p=611194",
   "tg:twentyfournews/324533",
   "Armsport.am:https://armsport.am/?p=611187",
@@ -2999,10 +2984,24 @@
   "tg:twentyfournews/325021",
   "News.am:https://news.am/hy/news/1069872",
   "168.am:https://168.am/?p=2502937",
-  "tg:twentyfournews/325024"
+  "tg:twentyfournews/325024",
+  "tg:twentyfournews/325027",
+  "Hetq:https://hetq.am/hy/article/184929",
+  "Aravot.am:https://www.aravot.am/?p=1588769",
+  "168.am:https://168.am/?p=2502960",
+  "1in.am:https://www.1in.am/?p=3771841",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/erevanum-avtvobusi-vtaric-tuzhatsneric-meki-vitshaky-tsanr-e-erkusiny-mijin-tsanrutjan-108474877.html",
+  "tg:twentyfournews/325026",
+  "News.am:https://news.am/hy/news/1069873",
+  "Factor.am:https://factor.am/?p=1073313",
+  "Aravot.am:https://www.aravot.am/?p=1588766",
+  "168.am:https://168.am/?p=2502940",
+  "1in.am:https://www.1in.am/?p=3771832",
+  "Aravot.am:https://www.aravot.am/?p=1588765",
+  "News.am:https://news.am/hy/news/1069856",
+  "Factor.am:https://factor.am/?p=1073358"
  ],
  "titles": [
-  "Մակրոնն այցով մեկնել է Սաուդյան Արաբիա․ Ֆրանսիան ռազմական միջոցներ կուղարկի նավթային տերմինալը պաշտպանելու համար",
   "Արտառոց դեպք՝ Կոտայքի մարզի գյուղերից մեկում. 13-ամյա տղան ընկերների հետ պահմտոցի խաղալիս մտել է էլեկտրակայան, որտեղ էլ հոսանքահարվել ու տեղափոխվել է «Այրվածքաբանության ազգային կենտրոն»",
   "Երևան, Ալավերդի, Վանաձոր քաղաքների մի շարք հասցեներում, Դարպաս բնակավայրում վթարային գազանջատում կլինի",
   "Իրաքը փակել է Իրանի հետ հարավային սահմանային անցակետերից մեկը՝ ԱՄՆ-ի ճնշման ֆոնին",
@@ -3301,7 +3300,8 @@
   "Ֆրանսիական «Mirage 2000D» կործանիչի վթարի հետևանքով զոհված օդաչուներից մեկը հայ է",
   "Իրանի դեմ հարվածները վերսկսելու օպերատիվ անհրաժեշտություն չկա. Իսրայելի բանակ",
   "Փաշինյանի գլխավորությամբ հաստատվել են ճանապարհների, թունելների և ջրային համակարգերի զարգացման ծրագրերը 📖 ԿԱՐԴԱԼ ԱՎԵԼԻՆ",
-  "Հորդանանում եկեղեցում հրաձգության հետևանքով զոհվել է առնվազն 7, վիրավորվել 10 մարդ"
+  "Հորդանանում եկեղեցում հրաձգության հետևանքով զոհվել է առնվազն 7, վիրավորվել 10 մարդ",
+  "Ադրբեջանի ազգային հերոսը ձերբակալվել է Թբիլիսիի օդանավակայանում․ նա տարիներ շարունակ պնդում է, իբր, ինքն է սպանել Մոնթեին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792759227.698002,
+ "last_post": 1792760145.5462444,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792754676.0647104
