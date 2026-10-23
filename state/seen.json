@@ -1,19 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069304",
-  "tg:RadarARM/81676",
-  "Armsport.am:https://armsport.am/?p=611225",
-  "tg:shamshyan_com/55504",
-  "tg:shamshyan_com/55506",
-  "tg:twentyfournews/324576",
-  "tg:RadarARM/81678",
-  "Factor.am:https://factor.am/?p=1072458",
-  "Aravot.am:https://www.aravot.am/?p=1588222",
-  "168.am:https://168.am/?p=2501742",
-  "1in.am:https://www.1in.am/?p=3770976",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ete-gnacqy-khapanvi-erevany-te-baqun-e-nvorvogelu-tripp-i-shrjanakum-mirzvojani-pataskhany-108382365.html",
-  "tg:shamshyan_com/55503",
-  "tg:twentyfournews/324575",
   "tg:RadarARM/81677",
   "News.am:https://news.am/hy/news/1069332",
   "Factor.am:https://factor.am/?p=1072489",
@@ -2999,10 +2985,23 @@
   "168.am:https://168.am/?p=2503222",
   "168.am:https://168.am/?p=2503220",
   "Factor.am:https://factor.am/?p=1073563",
-  "Factor.am:https://factor.am/?p=1073465"
+  "Factor.am:https://factor.am/?p=1073465",
+  "tg:twentyfournews/325085",
+  "tg:RadarARM/81779",
+  "Armsport.am:https://armsport.am/?p=611485",
+  "News.am:https://news.am/hy/news/1069951",
+  "Aravot.am:https://www.aravot.am/?p=1588824",
+  "168.am:https://168.am/?p=2503225",
+  "1in.am:https://www.1in.am/?p=3771883",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/erevanjan-avtvobusum-teghi-unecats-mijadepi-masnakic-tghamardy-chi-kalanavvorvi--108489442.html",
+  "tg:twentyfournews/325084",
+  "News.am:https://news.am/hy/news/1069893",
+  "168.am:https://168.am/?p=2503228",
+  "1in.am:https://www.1in.am/?p=3771950",
+  "168.am:https://168.am/?p=2503070",
+  "tg:twentyfournews/325083"
  ],
  "titles": [
-  "🟨 TRIPP նախագծման աշխատանքները ճիշտ ենք համարում սկսել այսօրվանից, և շուտով ավելի կոնկրետ էսքիզները կներկայացնենք քննարկման։",
   "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը",
   "Կարող ենք հեռանալ, բայց ցանկանում ենք համոզվել. Թրամփ",
   "Խաղաղության պայմանագրի ստորագրումը մինչև 2031 կամ 2029 թ. ձգելը մեր պլանների մեջ չի մտնում. Փաշինյան",
@@ -3301,7 +3300,8 @@
   "Կլոդ Մոնեի «Հիրիկներ» կտավը Փարիզում վաճառվել է ռեկորդային՝ 50 միլիոն եվրոյով",
   "Ֆրանսիայում սպասվող նոր բողոքի ակցիաների կապակցությամբ երկրում կտեղակայվի շուրջ 70 000 իրավապահ",
   "Շաքիում վիրավորում ստացած կնոջը դեռ չեն կարողանում վիրահատել, խնդիրներ են ի հայտ եկել. ԶԼՄ",
-  "Թրամփը խոստացել է լուծել Կիևի հետ հետախուզական տվյալներով կիսվելու հարցը"
+  "Թրամփը խոստացել է լուծել Կիևի հետ հետախուզական տվյալներով կիսվելու հարցը",
+  "Իրանի նախագահ Մասուդ Փեզեշքիանը հաջորդ շաբաթ կայցելի Ռուսաստան և կհանդիպի ՌԴ նախագահ Վլադիմիր Պուտինի հետ։ Այս մասին հայտնել է Իրանի արտգործնախարար Աբբաս Արաղչին։"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792779240.020712,
+ "last_post": 1792781039.098227,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792773769.2149005
