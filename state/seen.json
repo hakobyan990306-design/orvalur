@@ -2910,7 +2910,34 @@
   "tg:twentyfournews/324943",
   "tg:RadarARM/81750",
   "1in.am:https://www.1in.am/?p=3771567",
-  "Factor.am:https://factor.am/?p=1073195"
+  "Factor.am:https://factor.am/?p=1073195",
+  "tg:RadarARM/81752",
+  "tg:factoram/74650",
+  "News.am:https://news.am/hy/news/1069761",
+  "Hetq:https://hetq.am/hy/article/184914",
+  "Factor.am:https://factor.am/?p=1073205",
+  "Aravot.am:https://www.aravot.am/?p=1588660",
+  "168.am:https://168.am/?p=2502728",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/sedrak-qvocharjani-kalanqi-zhamkety-erkaradzgvec-2-amsvov-108434841.html",
+  "tg:shamshyan_com/55604",
+  "tg:twentyfournews/324947",
+  "tg:RadarARM/81751",
+  "News.am:https://news.am/hy/news/1069768",
+  "Aravot.am:https://www.aravot.am/?p=1588659",
+  "168.am:https://168.am/?p=2502760",
+  "1in.am:https://www.1in.am/?p=3771707",
+  "tg:twentyfournews/324946",
+  "News.am:https://news.am/hy/news/1069771",
+  "Aravot.am:https://www.aravot.am/?p=1588658",
+  "168.am:https://168.am/?p=2502746",
+  "tg:twentyfournews/324945",
+  "News.am:https://news.am/hy/news/1069770",
+  "168.am:https://168.am/?p=2502718",
+  "News.am:https://news.am/hy/news/1069769",
+  "tg:shamshyan_com/55605",
+  "tg:twentyfournews/324948",
+  "1in.am:https://www.1in.am/?p=3771704",
+  "tg:twentyfournews/324944"
  ],
  "titles": [
   "Հունաստանում ուսանողական բողոքի ցույցերի ժամանակ 20 մարդ է ձերբակալվել",
@@ -3230,12 +3257,7 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "168.am:https://168.am/?p=2502718": {
-   "score": 5,
-   "since": 1792735588.1757061
-  }
- },
+ "pending": {},
  "last_post": 1792736044.9127302,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
