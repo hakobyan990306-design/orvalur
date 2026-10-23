@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74580",
-  "tg:factoram/74579",
-  "tg:factoram/74578",
-  "tg:factoram/74577",
-  "tg:factoram/74576",
-  "tg:factoram/74575",
-  "tg:factoram/74574",
-  "tg:factoram/74573",
-  "tg:factoram/74572",
-  "tg:factoram/74571",
-  "tg:factoram/74570",
-  "tg:factoram/74569",
-  "tg:factoram/74568",
-  "tg:factoram/74567",
-  "tg:factoram/74566",
-  "tg:factoram/74565",
-  "tg:mil_armenia/19675",
-  "tg:mil_armenia/19656",
   "News.am:https://news.am/hy/news/1069254",
   "News.am:https://news.am/hy/news/1069253",
   "News.am:https://news.am/hy/news/1069251",
@@ -2999,12 +2981,27 @@
   "News.am:https://news.am/hy/news/1069834",
   "1in.am:https://www.1in.am/?p=3771750",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/rusastan--amn--ukraina-banakcutjunnery-kkajanan-nvojemberin-abu-dabium-peskvov-108467883.html",
-  "News.am:https://news.am/hy/news/1069839"
+  "News.am:https://news.am/hy/news/1069839",
+  "tg:shamshyan_com/55619",
+  "tg:twentyfournews/325000",
+  "Factor.am:https://factor.am/?p=1073270",
+  "168.am:https://168.am/?p=2502883",
+  "1in.am:https://www.1in.am/?p=3771774",
+  "tg:twentyfournews/324999",
+  "News.am:https://news.am/hy/news/1069844",
+  "Factor.am:https://factor.am/?p=1073344",
+  "Aravot.am:https://www.aravot.am/?p=1588719",
+  "News.am:https://news.am/hy/news/1069843",
+  "Factor.am:https://factor.am/?p=1073345",
+  "Aravot.am:https://www.aravot.am/?p=1588628",
+  "News.am:https://news.am/hy/news/1069842",
+  "Aravot.am:https://www.aravot.am/?p=1588717",
+  "Hetq:https://hetq.am/hy/article/184922",
+  "Aravot.am:https://www.aravot.am/?p=1588724",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hakazhvoghvovrdavarakan-e-uzhegh-hajastany-hamajnqapeti-teknatsui-kalanavvorman-masin-108469005.html",
+  "News.am:https://news.am/hy/news/1069814"
  ],
  "titles": [
-  "Արտակարգ դեպք՝ Կոտայքի մարզում. Գետամեջ գյուղում գործող «Աթենք» մսամթերքի գործարանից 25-ամյա աշխատակիցը տեղափոխվել է հիվանդանոց",
-  "Էրդողանը և Ալիևը հեռախոսազրույց են ունեցել։ ",
-  "Ֆրանսիայի փոխառությունների արժեքը հասել է 24 տարվա առավելագույնին՝ ցույցերի և բյուջեի շուրջ մտավախությունների ֆոնին",
   "Նիգերիայում հաստատվել է էբոլայով վարակման առաջին դեպքը",
   "Ստեփանավանի համայնքապետի թեկնածու Արսեն Գևորգյանը երկու ամսով կալանավորվեց",
   "Թանկ գնով տրված հաղթանակ․ Խվիչայից հետո ՊՍԺ-ն կորցրել է ևս երկու առաջատարի",
@@ -3301,7 +3298,10 @@
   "Հունաստանի խորհրդարանը հավանություն է տվել երեխաների և դեռահասների համար սոցցանցերի արգելքին",
   "Երևանում հայտնաբերվել են սպանության փորձի և խուլիգանության համար հետախոզվող իջևանցի երիտասարդներ",
   "Ռուսաստան – ԱՄՆ – Ուկրաինա բանակցությունները կկայանան նոյեմբերին Աբու Դաբիում. Պեսկով",
-  "Փարիզի մերձակայքում տղամարդը մեքենայից կրակ է բացել. մեկ մարդ զոհվել է, չորսը՝ վիրավորվել"
+  "Փարիզի մերձակայքում տղամարդը մեքենայից կրակ է բացել. մեկ մարդ զոհվել է, չորսը՝ վիրավորվել",
+  "Ստեփանավանում ևս 10 անձ է ձերբակալվել",
+  "Փարիզի քաղաքապետարանի ներկայացուցիչները հարգանքի տուրք են մատուցել Հայոց ցեղասպանության զոհերի հիշատակին",
+  "Ուկրաինան հարվածել է Նիժնի Նովգորոդի մարզի հարկային ծառայության տվյալների մշակման կենտրոնին և Պերմի պայթուցիկների բաղադրիչների գործարանին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792751433.0656717,
+ "last_post": 1792752398.1312606,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792747409.949996
