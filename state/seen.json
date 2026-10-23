@@ -2867,10 +2867,22 @@
   "digest:veolia:7d1ecfadd54b",
   "veolia:7d1ecfadd54b",
   "tg:twentyfournews/324936",
-  "News.am:https://news.am/hy/news/1069754"
+  "News.am:https://news.am/hy/news/1069754",
+  "tg:shamshyan_com/55600",
+  "tg:twentyfournews/324938",
+  "tg:RadarARM/81749",
+  "Factor.am:https://factor.am/?p=1073183",
+  "Aravot.am:https://www.aravot.am/?p=1588647",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/asatrjanin-ev-takhmazjanin-kargalujts-hrchakelu-harci-varujtnery-kartshvel-en-108451410.html",
+  "tg:shamshyan_com/55598",
+  "tg:twentyfournews/324937",
+  "News.am:https://news.am/hy/news/1069760",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/sd-nakhagahi-yntrutjan-shurj-kharnashpvot-e-zhvoghvovurd-108451309.html",
+  "tg:shamshyan_com/55597",
+  "News.am:https://news.am/hy/news/1069755",
+  "1in.am:https://www.1in.am/?p=3771591"
  ],
  "titles": [
-  "Առաջիկա կիրակի ՀՀ-ում ՏԻՄ ընտրություններ են․ խոշոր համայնքերում որ ուժերը կպայքարեն իրար դեմ",
   "Կոնգոյում Էբոլայից մահացել է 4602 մարդ․ Հայաստանում տարածման ռիսկը գնահատվում է ցածր․ ՀՎԿԱԿ",
   "Հայաստանի ՀՆԱ-ի 15,6% անկում. ԵԱՏՄ զեկույցի չհիմնավորված ճշգրտությունը",
   "⚽ SSC Napoli 4–3 FK Bodø/Glimt",
@@ -3169,7 +3181,8 @@
   "ՀՀ կառավարությունը COP 17-ի ֆոնին միջազգային կոնվենցիաներին հակասող նախագիծ է շրջանառում",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում հոկտեմբերի 23-ին",
   "RAF-ի մրցաշարում գոտեմարտից առաջ Դիլոն Դենիսը Արմանի ներկայությամբ վիրավորել է Համզատ Չիմայևին, ինչից հետո Արման Ծառուկյանը հարձակվել է Դիլոնի վրա։",
-  "Պենտագոնը սկսել է Global Thunder ռազմավարական միջուկային ուժերի զորավարժությունները"
+  "Պենտագոնը սկսել է Global Thunder ռազմավարական միջուկային ուժերի զորավարժությունները",
+  "Գազի գնի վերաբերյալ համաձայնագրի խախտումը նաև «Գազպրոմի» վրա է բացասաբար ազդելու"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3188,7 +3201,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792733186.8732421,
+ "last_post": 1792733805.387291,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792732875.4478986
