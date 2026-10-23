@@ -1,25 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324508",
-  "tg:twentyfournews/324507",
-  "tg:twentyfournews/324506",
-  "tg:twentyfournews/324505",
-  "tg:twentyfournews/324504",
-  "tg:twentyfournews/324503",
-  "tg:twentyfournews/324502",
-  "tg:twentyfournews/324501",
-  "tg:twentyfournews/324500",
-  "tg:twentyfournews/324499",
-  "tg:twentyfournews/324498",
-  "tg:twentyfournews/324497",
-  "tg:twentyfournews/324496",
-  "tg:twentyfournews/324495",
-  "tg:twentyfournews/324494",
-  "tg:RadarARM/81664",
-  "tg:RadarARM/81663",
-  "tg:RadarARM/81662",
-  "tg:RadarARM/81661",
-  "tg:RadarARM/81660",
   "tg:RadarARM/81659",
   "tg:RadarARM/81658",
   "tg:RadarARM/81657",
@@ -2999,13 +2979,29 @@
   "tg:fastsport_am/1669",
   "News.am:https://news.am/hy/news/1069808",
   "Factor.am:https://factor.am/?p=1073301",
-  "Aravot.am:https://www.aravot.am/?p=1588705"
+  "Aravot.am:https://www.aravot.am/?p=1588705",
+  "tg:shamshyan_com/55618",
+  "News.am:https://news.am/hy/news/1069809",
+  "Factor.am:https://factor.am/?p=1073319",
+  "Aravot.am:https://www.aravot.am/?p=1588709",
+  "168.am:https://168.am/?p=2502877",
+  "tg:twentyfournews/324995",
+  "tg:RadarARM/81759",
+  "Aravot.am:https://www.aravot.am/?p=1588454",
+  "tg:twentyfournews/324994",
+  "News.am:https://news.am/hy/news/1069833",
+  "Aravot.am:https://www.aravot.am/?p=1588704",
+  "News.am:https://news.am/hy/news/1069798",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/tsarukjany-asulisi-zhamanak-hardzakvel-e-denisi-vra-108467425.html",
+  "News.am:https://news.am/hy/news/1069838",
+  "1in.am:https://www.1in.am/?p=3771673",
+  "tg:shamshyan_com/55617",
+  "Factor.am:https://factor.am/?p=1073303",
+  "tg:twentyfournews/324996",
+  "tg:RadarARM/81760",
+  "168.am:https://168.am/?p=2502846"
  ],
  "titles": [
-  "📷 Բարսելոնան բողոք է ներկայացրել ՈւԵՖԱ-ին՝ ՊՍԺ-ի երկրպագուների սկանդալային պաստառի պատճառով",
-  "Չինաստանը զբաղվում է ՉԺՀ, Ռուսաստանի և ԱՄՆ ղեկավարների հանդիպման նախապատրաստությամբ",
-  "«Լայքի համար ընդդիմադիր թեկնածուի հորաքրոջ աղջկան դպրոցից հանում են». Խաչատրյան",
-  "«Մեկ ազգ, երկու պետություն»․ Բաքուն սահման է գծում Անկարայի առաջ",
   "Քաջարանում բախվել են «Կամազ»-ը և «Kia Forte»․ կա վիրшվոր",
   "Ֆոդենի հեթ-տրիկը. «Մանչեսթեր Սիթին» ջախջախեց ԱԵԿ-ին Չեմպիոնների լիգայում",
   "Օրինական ուժի մեջ է մտել Մանվել Գրիգորյանի ժառանգներից գույքի բռնագանձման վճիռը",
@@ -3301,7 +3297,11 @@
   "«Ուժեղ Հայաստանի» ևս 10 անդամի տներ են խուզարկել. ահազանգում է Անդրանիկ Գևորգյանը",
   "Գողացել էին մեքենայի կողային հայելիների ապակիները. 18 և 19-ամյա երիտասարդները ձերբակալվել են",
   "«Մանչեսթեր Յունայթեդը» որոշել է Բրունու Ֆերնանդեշի ճակատագիրը՝ հարցազրույցից հետո",
-  "ԱՄՆ-ն 1,4 միլիոն ԱՄՆ դոլարի սարքավորումներ է նվիրաբերել Հայաստանի սահմանային անվտանգության ամրապնդման համար"
+  "ԱՄՆ-ն 1,4 միլիոն ԱՄՆ դոլարի սարքավորումներ է նվիրաբերել Հայաստանի սահմանային անվտանգության ամրապնդման համար",
+  "Սյունիքի անտառներում կորած անչափահաս երեխաները գտնվել են",
+  "Հայաստանն ինքը արդեն փաստացի դուրս է եկել ՀԱՊԿ-ից. Թաալաթբեկ Մասադիկով",
+  "Հնդկաստանը ողջունում է Հայաստանի և Ադրբեջանի միջև արձանագրված առաջընթացը․ ԱԳ նախարար",
+  "Հունաստանի խորհրդարանը հավանություն է տվել երեխաների և դեռահասների համար սոցցանցերի արգելքին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,17 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "News.am:https://news.am/hy/news/1069798": {
-   "score": 5,
-   "since": 1792746491.6313405
-  },
-  "168.am:https://168.am/?p=2502846": {
-   "score": 5,
-   "since": 1792747399.6363904
-  }
- },
- "last_post": 1792749867.3054976,
+ "pending": {},
+ "last_post": 1792750690.109387,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792747409.949996
