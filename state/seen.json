@@ -1,19 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069213",
-  "News.am:https://news.am/hy/news/1069201",
-  "News.am:https://news.am/hy/news/1069151",
-  "News.am:https://news.am/hy/news/1069194",
-  "News.am:https://news.am/hy/news/1069212",
-  "News.am:https://news.am/hy/news/1069192",
-  "News.am:https://news.am/hy/news/1069191",
-  "News.am:https://news.am/hy/news/1069195",
-  "News.am:https://news.am/hy/news/1069210",
-  "News.am:https://news.am/hy/news/1069188",
-  "News.am:https://news.am/hy/news/1069209",
-  "News.am:https://news.am/hy/news/1069208",
-  "News.am:https://news.am/hy/news/1069186",
-  "News.am:https://news.am/hy/news/1069206",
   "News.am:https://news.am/hy/news/1069205",
   "News.am:https://news.am/hy/news/1069203",
   "News.am:https://news.am/hy/news/1069184",
@@ -2999,10 +2985,23 @@
   "Armsport.am:https://armsport.am/?p=611421",
   "Aravot.am:https://www.aravot.am/?p=1588668",
   "168.am:https://168.am/?p=2502750",
-  "Factor.am:https://factor.am/?p=1073211"
+  "Factor.am:https://factor.am/?p=1073211",
+  "tg:shamshyan_com/55612",
+  "tg:twentyfournews/324968",
+  "tg:RadarARM/81755",
+  "News.am:https://news.am/hy/news/1069804",
+  "Hetq:https://hetq.am/hy/article/184918",
+  "Factor.am:https://factor.am/?p=1073266",
+  "Aravot.am:https://www.aravot.am/?p=1588456",
+  "168.am:https://168.am/?p=2502789",
+  "tg:twentyfournews/324967",
+  "News.am:https://news.am/hy/news/1069778",
+  "Aravot.am:https://www.aravot.am/?p=1588676",
+  "168.am:https://168.am/?p=2502744",
+  "Aravot.am:https://www.aravot.am/?p=1588677",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/rdn-harvatsner-e-hascrel-pvoltavaji-marzum-ev-odesaji-mvot-gtnvvogh-razmakan-tirakhnerin-108461033.html"
  ],
  "titles": [
-  "«Անին պետք է վիրահատվի. Կրծքավանդակի հատվածում ցավեր ունի՝ թե՛ ստացած հարվածներից, թե՛ իր երկար պառկած վիճակից». Արփի Ավետիսյան",
   "Քննարկվել է ԹՐԻՓՓ նախագծի իրականացմանն առնչվող օրենքի նախագիծը",
   "Բաքվից մանրամասներ են հայտնել ՀՀ տարածք անցած ադրբեջանցի հովվի մասին",
   "Պետական գույքի կառավարման և Ջրային կոմիտեները կվերանվանվեն և կանցնեն Կառավարության ենթակայության տակ",
@@ -3301,7 +3300,8 @@
   "Իրանը վերջնագիր է ներկայացրել Մերձավոր Արևելքի երկրներին",
   "📷 Լիվերպուլը հրատարակել է ողբերգական ավտովթարից զոհված Ժոտայի կենսագրական գիրքը",
   "Թուրքիայում լույս տեսած նոր դասագրքում ՀՀ տարածքը ներկայացվում է որպես թուրքական կամ ադրբեջանական բնակատեղի. «Ազգ»",
-  "Պուտինը հայտարարել է, թե ՌԴ-ն «չի ցանկանում պատերազմել» Ուկրաինայի հետ, և որ գենետիկ հետազոտությունների համաձայն՝ «ռուսներն ու ուկրաինացիները մեկ ժողովուրդ են»"
+  "Պուտինը հայտարարել է, թե ՌԴ-ն «չի ցանկանում պատերազմել» Ուկրաինայի հետ, և որ գենետիկ հետազոտությունների համաձայն՝ «ռուսներն ու ուկրաինացիները մեկ ժողովուրդ են»",
+  "ՌԴ–ն հարվածներ է հասցրել Պոլտավայի մարզում և Օդեսայի մոտ գտնվող ռազմական թիրախներին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792742354.7081466,
+ "last_post": 1792742869.7843013,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792740141.743924
