@@ -1,26 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069205",
-  "News.am:https://news.am/hy/news/1069203",
-  "News.am:https://news.am/hy/news/1069184",
-  "News.am:https://news.am/hy/news/1069202",
-  "News.am:https://news.am/hy/news/1069182",
-  "News.am:https://news.am/hy/news/1069200",
-  "News.am:https://news.am/hy/news/1069177",
-  "News.am:https://news.am/hy/news/1069198",
-  "News.am:https://news.am/hy/news/1069199",
-  "News.am:https://news.am/hy/news/1069197",
-  "News.am:https://news.am/hy/news/1069196",
-  "News.am:https://news.am/hy/news/1069176",
-  "News.am:https://news.am/hy/news/1069175",
-  "News.am:https://news.am/hy/news/1069193",
-  "News.am:https://news.am/hy/news/1069174",
-  "News.am:https://news.am/hy/news/1069190",
-  "News.am:https://news.am/hy/news/1069173",
-  "News.am:https://news.am/hy/news/1069187",
-  "News.am:https://news.am/hy/news/1069185",
-  "News.am:https://news.am/hy/news/1069172",
-  "News.am:https://news.am/hy/news/1069183",
   "News.am:https://news.am/hy/news/1069170",
   "News.am:https://news.am/hy/news/1069181",
   "News.am:https://news.am/hy/news/1069180",
@@ -2999,13 +2978,30 @@
   "Aravot.am:https://www.aravot.am/?p=1588676",
   "168.am:https://168.am/?p=2502744",
   "Aravot.am:https://www.aravot.am/?p=1588677",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/rdn-harvatsner-e-hascrel-pvoltavaji-marzum-ev-odesaji-mvot-gtnvvogh-razmakan-tirakhnerin-108461033.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/rdn-harvatsner-e-hascrel-pvoltavaji-marzum-ev-odesaji-mvot-gtnvvogh-razmakan-tirakhnerin-108461033.html",
+  "tg:shamshyan_com/55614",
+  "tg:twentyfournews/324971",
+  "Hetq:https://hetq.am/hy/article/184919",
+  "Aravot.am:https://www.aravot.am/?p=1588680",
+  "168.am:https://168.am/?p=2502799",
+  "1in.am:https://www.1in.am/?p=3771471",
+  "tg:twentyfournews/324970",
+  "News.am:https://news.am/hy/news/1069806",
+  "Factor.am:https://factor.am/?p=1073271",
+  "Aravot.am:https://www.aravot.am/?p=1588679",
+  "168.am:https://168.am/?p=2502809",
+  "1in.am:https://www.1in.am/?p=3771729",
+  "tg:twentyfournews/324969",
+  "168.am:https://168.am/?p=2502804",
+  "168.am:https://168.am/?p=2502791",
+  "168.am:https://168.am/?p=2502797",
+  "168.am:https://168.am/?p=2502793",
+  "Armsport.am:https://armsport.am/?p=611423",
+  "News.am:https://news.am/hy/news/1069790",
+  "Factor.am:https://factor.am/?p=1073246",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/avstrian-chvors-rus-divanageti-hajtararel-e-persona-non-grata-zlm-108461444.html"
  ],
  "titles": [
-  "Քննարկվել է ԹՐԻՓՓ նախագծի իրականացմանն առնչվող օրենքի նախագիծը",
-  "Բաքվից մանրամասներ են հայտնել ՀՀ տարածք անցած ադրբեջանցի հովվի մասին",
-  "Պետական գույքի կառավարման և Ջրային կոմիտեները կվերանվանվեն և կանցնեն Կառավարության ենթակայության տակ",
-  "Լույսի անջատումներ՝ Երևանի Քանաքեռ-Զեյթուն վարչական շրջան, հոկտեմբերի 22-ին; Երևանի Դավթաշեն վարչական շրջան, հոկտեմբերի 23-ին; Երևանի Մալաթիա Սեբաստիա վարչական շրջան, հոկտեմբերի 23-ին",
   "Պուտինի և Ուիթքոֆի բանակցություններն ավարտվել են. ՌԴ-ն ազատ է արձակել Հաբբարդին",
   "Ամուսինը երկու անգամ բռնության է ենթարկել կնոջը և սպառնացել սպանել․ ՔԿ",
   "Զելենսկին հայտարարել է ներկայիս շփման գծով պատերազմը սառեցնելու պատրաստակամության մասին",
@@ -3301,7 +3297,11 @@
   "📷 Լիվերպուլը հրատարակել է ողբերգական ավտովթարից զոհված Ժոտայի կենսագրական գիրքը",
   "Թուրքիայում լույս տեսած նոր դասագրքում ՀՀ տարածքը ներկայացվում է որպես թուրքական կամ ադրբեջանական բնակատեղի. «Ազգ»",
   "Պուտինը հայտարարել է, թե ՌԴ-ն «չի ցանկանում պատերազմել» Ուկրաինայի հետ, և որ գենետիկ հետազոտությունների համաձայն՝ «ռուսներն ու ուկրաինացիները մեկ ժողովուրդ են»",
-  "ՌԴ–ն հարվածներ է հասցրել Պոլտավայի մարզում և Օդեսայի մոտ գտնվող ռազմական թիրախներին"
+  "ՌԴ–ն հարվածներ է հասցրել Պոլտավայի մարզում և Օդեսայի մոտ գտնվող ռազմական թիրախներին",
+  "Յամա՞լ, թե՞ Քեյն․ Marca-ն ներկայացրել է լավագույնին․ Սպերցյանը ցուցակում է",
+  "NHK-ը հայտնել է ուկրաինական բեռնատար ինքնաթիռի բռնկման մասին Ճապոնիայում վայրէջք կատարելիս",
+  "Դնեպրոպետրովսկի և Սումիի վրա ռուսական հարձակումների հետևանքով չորս մարդ է տուժել",
+  "Ավստրիան չորս ռուս դիվանագետի հայտարարել է persona non grata. ԶԼՄ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,14 +3319,23 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792742869.7843013,
+ "pending": {
+  "tg:shamshyan_com/55613": {
+   "score": 5,
+   "since": 1792743775.4072785
+  },
+  "168.am:https://168.am/?p=2502806": {
+   "score": 5,
+   "since": 1792743775.4072785
+  }
+ },
+ "last_post": 1792744324.1515174,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792740141.743924
  },
  "top_used": {
-  "2026-10-23": 4
+  "2026-10-23": 5
  },
- "last_sport": 1792741977.5922923
+ "last_sport": 1792743789.4236176
 }
