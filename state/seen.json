@@ -1,27 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069127",
-  "News.am:https://news.am/hy/news/1069128",
-  "News.am:https://news.am/hy/news/1069082",
-  "News.am:https://news.am/hy/news/1069126",
-  "News.am:https://news.am/hy/news/1069124",
-  "News.am:https://news.am/hy/news/1069121",
-  "News.am:https://news.am/hy/news/1069122",
-  "News.am:https://news.am/hy/news/1069079",
-  "News.am:https://news.am/hy/news/1069078",
-  "News.am:https://news.am/hy/news/1069118",
-  "News.am:https://news.am/hy/news/1069076",
-  "News.am:https://news.am/hy/news/1069117",
-  "News.am:https://news.am/hy/news/1069116",
-  "News.am:https://news.am/hy/news/1069115",
-  "Hetq:https://hetq.am/hy/article/184855",
-  "Hetq:https://hetq.am/hy/article/184854",
-  "Hetq:https://hetq.am/hy/article/184853",
-  "Hetq:https://hetq.am/hy/article/184849",
-  "Hetq:https://hetq.am/hy/article/184852",
-  "Hetq:https://hetq.am/hy/article/184851",
-  "Hetq:https://hetq.am/hy/article/184850",
-  "Hetq:https://hetq.am/hy/article/184847",
   "Hetq:https://hetq.am/hy/article/184846",
   "Hetq:https://hetq.am/hy/article/184845",
   "Hetq:https://hetq.am/hy/article/184844",
@@ -2999,13 +2977,31 @@
   "tg:twentyfournews/324978",
   "Aravot.am:https://www.aravot.am/?p=1588694",
   "Factor.am:https://factor.am/?p=1073281",
-  "tg:twentyfournews/324976"
+  "tg:twentyfournews/324976",
+  "tg:twentyfournews/324980",
+  "Hetq:https://hetq.am/hy/article/184920",
+  "Factor.am:https://factor.am/?p=1073257",
+  "Aravot.am:https://www.aravot.am/?p=1588700",
+  "168.am:https://168.am/?p=2502824",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/erevanum-kvoghashrjvats-avtvobusi-ughevvorneri-mi-masy-hndikner-en-inch-vitshakum-en-nranq-108462172.html",
+  "tg:twentyfournews/324979",
+  "News.am:https://news.am/hy/news/1069818",
+  "Factor.am:https://factor.am/?p=1073262",
+  "Aravot.am:https://www.aravot.am/?p=1588458",
+  "News.am:https://news.am/hy/news/1069816",
+  "Factor.am:https://factor.am/?p=1073306",
+  "Aravot.am:https://www.aravot.am/?p=1588698",
+  "168.am:https://168.am/?p=2502830",
+  "News.am:https://news.am/hy/news/1069815",
+  "digest:veolia:f26dd62890ec",
+  "veolia:f26dd62890ec",
+  "168.am:https://168.am/?p=2502835",
+  "News.am:https://news.am/hy/news/1069812",
+  "tg:fastsport_am/1670",
+  "News.am:https://news.am/hy/news/1069802",
+  "1in.am:https://www.1in.am/?p=3771753"
  ],
  "titles": [
-  "🟨 Լիլիթ Ստեփանյանը վայր կդնի ԱԺ պատգամավորի մանդատը և կնշանակվի Կոտայքի մարզպետ։ Նիկոլ Փաշինյան",
-  "Նոր մեղադրանք՝ Գյումրիի քաղաքապետ Վարդան Ղուկասյանի նկատմամբ",
-  "Մանվել Գրիգորյանի ժառանգներից և փոխկապակցված անձանցից կբռնագանձվի 1,2 միլիարդ դրամի գույք",
-  "Փոխհրաձգություն Իրանի բենզալցակայանում. մեկ մարդ սպանվել է, երկուսը դիմել են փախուստի",
   "Մակրոնը մտադիր չէ Ֆրանսիայում արտակարգ դրություն հայտարարել բողոքի ակցիաների և անկարգությունների պատճառով",
   "Բաքուն Թուրքիայի 31 քաղաքացու, այդ թվում՝ իշխանական գործիչների, ներառել է անցանկալի անձանց ցուցակում և արգելել մուտքը երկիր",
   "Հութիները հայտարարել են Ադենում Սաուդյան Արաբիայի բանակի շտաբին հարվածելու մասին",
@@ -3301,7 +3297,11 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում հոկտեմբերի 23-ին",
   "ՃՏՊ Աճառյան փողոցում, կան տուժածներ",
   "Ծառայողական թռիչքի ընթացքում տեղի ունեցած ավիավթարի հետևանքով զոհվել են փոխգնդապետ Անդրանիկ Սարգսյանը և լեյտենանտ Քվենտին Կլիզը",
-  "Մեքսիկայում աղջիկը մահացել է՝ դուրս թռչելով «Ճոճանակ» ատրակցիոնից:"
+  "Մեքսիկայում աղջիկը մահացել է՝ դուրս թռչելով «Ճոճանակ» ատրակցիոնից:",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Նորք Մարաշ վարչական շրջանում հոկտեմբերի 23-ին",
+  "Թուրքիայում երկու մարդ զոհվել է հանքավայրում պայթյունի հետևանքով",
+  "Ջովանին նախազգուշացրել է «Ռոմային». «Նապոլին ուժեղ է և կարող է հաղթել»",
+  "Իրանի ծովային շրջափակման 100 օրվա ընթացքում ԱՄՆ ուժերը կանխել են 25 մլրդ դոլարի նավթի արտահանումը. CENTCOM"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,30 +3320,30 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "1in.am:https://www.1in.am/?p=3771753": {
-   "score": 5,
-   "since": 1792745584.9768224
-  },
   "tg:twentyfournews/324977": {
    "score": 5,
    "since": 1792745584.9768224
   },
-  "168.am:https://168.am/?p=2502835": {
+  "Armsport.am:https://armsport.am/?p=611429": {
    "score": 5,
-   "since": 1792745584.9768224
+   "since": 1792746491.6313405
   },
-  "168.am:https://168.am/?p=2502830": {
+  "tg:fastsport_am/1669": {
    "score": 5,
-   "since": 1792745584.9768224
+   "since": 1792746491.6313405
+  },
+  "News.am:https://news.am/hy/news/1069798": {
+   "score": 5,
+   "since": 1792746491.6313405
   }
  },
- "last_post": 1792746092.8571017,
+ "last_post": 1792746944.092294,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792740141.743924
  },
  "top_used": {
-  "2026-10-23": 7
+  "2026-10-23": 8
  },
- "last_sport": 1792743789.4236176
+ "last_sport": 1792746786.311877
 }
