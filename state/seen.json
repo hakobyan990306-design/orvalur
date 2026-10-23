@@ -1,20 +1,5 @@
 {
  "seen": [
-  "Armsport.am:https://armsport.am/?p=611194",
-  "tg:twentyfournews/324533",
-  "Armsport.am:https://armsport.am/?p=611187",
-  "News.am:https://news.am/hy/news/1069291",
-  "Factor.am:https://factor.am/?p=1072418",
-  "tg:twentyfournews/324532",
-  "tg:factoram/74591",
-  "Armsport.am:https://armsport.am/?p=611197",
-  "News.am:https://news.am/hy/news/1069288",
-  "Factor.am:https://factor.am/?p=1072366",
-  "tg:twentyfournews/324531",
-  "Armsport.am:https://armsport.am/?p=611191",
-  "News.am:https://news.am/hy/news/1069287",
-  "tg:twentyfournews/324530",
-  "Armsport.am:https://armsport.am/?p=611161",
   "News.am:https://news.am/hy/news/1069292",
   "News.am:https://news.am/hy/news/1069289",
   "Armsport.am:https://armsport.am/?p=611176",
@@ -2999,12 +2984,24 @@
   "1in.am:https://www.1in.am/?p=3771832",
   "Aravot.am:https://www.aravot.am/?p=1588765",
   "News.am:https://news.am/hy/news/1069856",
-  "Factor.am:https://factor.am/?p=1073358"
+  "Factor.am:https://factor.am/?p=1073358",
+  "tg:shamshyan_com/55627",
+  "tg:twentyfournews/325030",
+  "tg:RadarARM/81767",
+  "News.am:https://news.am/hy/news/1069875",
+  "Factor.am:https://factor.am/?p=1073381",
+  "Aravot.am:https://www.aravot.am/?p=1588775",
+  "1in.am:https://www.1in.am/?p=3771835",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/pashinjani-hertakan-trjukn-e-hdkn-eatmi-ev-hh-sahmanadrutjan-hanraqvei-masin--108475210.html",
+  "News.am:https://news.am/hy/news/1069874",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/krakvocner-hvordanani-ekeghecineric-mekum-kan-zvoher-ev-viravvorner-108475104.html",
+  "tg:twentyfournews/325028",
+  "tg:twentyfournews/325029",
+  "tg:RadarARM/81766",
+  "168.am:https://168.am/?p=2502951",
+  "168.am:https://168.am/?p=2502974"
  ],
  "titles": [
-  "Արտառոց դեպք՝ Կոտայքի մարզի գյուղերից մեկում. 13-ամյա տղան ընկերների հետ պահմտոցի խաղալիս մտել է էլեկտրակայան, որտեղ էլ հոսանքահարվել ու տեղափոխվել է «Այրվածքաբանության ազգային կենտրոն»",
-  "Երևան, Ալավերդի, Վանաձոր քաղաքների մի շարք հասցեներում, Դարպաս բնակավայրում վթարային գազանջատում կլինի",
-  "Իրաքը փակել է Իրանի հետ հարավային սահմանային անցակետերից մեկը՝ ԱՄՆ-ի ճնշման ֆոնին",
   "Պատահականորեն չենք նվաճել չեմպիոնական տիտղոսը. վաղը խաղադաշտ ենք դուրս գալու իրավիճակը շտկելու նպատակով․ Տուլիպան՝ ԱԶ Ալկմարի դեմ խաղի մասին",
   "Սերբիայում ձերբակալել են ընտրությունների ժամանակ բռնություն նախապատրաստելու մեջ կասկածվող վեց անձի",
   "Հարստացված ուրանը դուրս չի բերվի Իրանից. Ռեզայի",
@@ -3301,7 +3298,10 @@
   "Իրանի դեմ հարվածները վերսկսելու օպերատիվ անհրաժեշտություն չկա. Իսրայելի բանակ",
   "Փաշինյանի գլխավորությամբ հաստատվել են ճանապարհների, թունելների և ջրային համակարգերի զարգացման ծրագրերը 📖 ԿԱՐԴԱԼ ԱՎԵԼԻՆ",
   "Հորդանանում եկեղեցում հրաձգության հետևանքով զոհվել է առնվազն 7, վիրավորվել 10 մարդ",
-  "Ադրբեջանի ազգային հերոսը ձերբակալվել է Թբիլիսիի օդանավակայանում․ նա տարիներ շարունակ պնդում է, իբր, ինքն է սպանել Մոնթեին"
+  "Ադրբեջանի ազգային հերոսը ձերբակալվել է Թբիլիսիի օդանավակայանում․ նա տարիներ շարունակ պնդում է, իբր, ինքն է սպանել Մոնթեին",
+  "Թուրքիայում կոռուպցիայի գործով քաղաքապետ է ձերբակալվել",
+  "Ռումինիայի ափերի մոտ ԱԹՍ-ի հարվածից հետո ևս մեկ նավ է խորտակվել․ 1 նավաստի զոհվել է, 3-ը՝ անհետ կորել",
+  "Սենատոր Բլյումենթալը հետաքննություն է նախաձեռնում Ուկրաինայում Starlink-ի աշխատանքի սահմանափակումների վերաբերյալ․ Le Monde"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792760145.5462444,
+ "last_post": 1792761419.4284198,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792754676.0647104
