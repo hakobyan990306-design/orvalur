@@ -1,20 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324515",
-  "News.am:https://news.am/hy/news/1069262",
-  "tg:shamshyan_com/55485",
-  "News.am:https://news.am/hy/news/1069261",
-  "tg:shamshyan_com/55483",
-  "News.am:https://news.am/hy/news/1069265",
-  "tg:shamshyan_com/55494",
-  "tg:twentyfournews/324523",
-  "tg:RadarARM/81667",
-  "tg:factoram/74587",
-  "tg:twentyfournews/324527",
-  "News.am:https://news.am/hy/news/1069239",
-  "Hetq:https://hetq.am/hy/article/184863",
-  "Factor.am:https://factor.am/?p=1072347",
-  "tg:shamshyan_com/55493",
   "tg:factoram/74590",
   "Factor.am:https://factor.am/?p=1072404",
   "tg:twentyfournews/324525",
@@ -2999,10 +2984,24 @@
   "Armsport.am:https://armsport.am/?p=611441",
   "tg:twentyfournews/325020",
   "1in.am:https://www.1in.am/?p=3771829",
-  "tg:twentyfournews/325016"
+  "tg:twentyfournews/325016",
+  "tg:twentyfournews/325025",
+  "News.am:https://news.am/hy/news/1069841",
+  "Hetq:https://hetq.am/hy/article/184927",
+  "Factor.am:https://factor.am/?p=1073422",
+  "Aravot.am:https://www.aravot.am/?p=1588756",
+  "1in.am:https://www.1in.am/?p=3771838",
+  "Factor.am:https://factor.am/?p=1073261",
+  "Aravot.am:https://www.aravot.am/?p=1588759",
+  "tg:twentyfournews/325023",
+  "Factor.am:https://factor.am/?p=1073420",
+  "tg:twentyfournews/325022",
+  "tg:twentyfournews/325021",
+  "News.am:https://news.am/hy/news/1069872",
+  "168.am:https://168.am/?p=2502937",
+  "tg:twentyfournews/325024"
  ],
  "titles": [
-  "Աբբաս Արաղչին բացահայտել է ԱՄՆ-ի հետ պատերազմը յոթ օրում դադարեցնելու Իրանի ծրագիրը",
   "Մակրոնն այցով մեկնել է Սաուդյան Արաբիա․ Ֆրանսիան ռազմական միջոցներ կուղարկի նավթային տերմինալը պաշտպանելու համար",
   "Արտառոց դեպք՝ Կոտայքի մարզի գյուղերից մեկում. 13-ամյա տղան ընկերների հետ պահմտոցի խաղալիս մտել է էլեկտրակայան, որտեղ էլ հոսանքահարվել ու տեղափոխվել է «Այրվածքաբանության ազգային կենտրոն»",
   "Երևան, Ալավերդի, Վանաձոր քաղաքների մի շարք հասցեներում, Դարպաս բնակավայրում վթարային գազանջատում կլինի",
@@ -3301,7 +3300,8 @@
   "Երբեք չեմ դադարել փորձել. Ինչպիսի՞ն է ցանկանում մնալ պատմության մեջ Լիոնել Մեսսին",
   "Ֆրանսիական «Mirage 2000D» կործանիչի վթարի հետևանքով զոհված օդաչուներից մեկը հայ է",
   "Իրանի դեմ հարվածները վերսկսելու օպերատիվ անհրաժեշտություն չկա. Իսրայելի բանակ",
-  "Փաշինյանի գլխավորությամբ հաստատվել են ճանապարհների, թունելների և ջրային համակարգերի զարգացման ծրագրերը 📖 ԿԱՐԴԱԼ ԱՎԵԼԻՆ"
+  "Փաշինյանի գլխավորությամբ հաստատվել են ճանապարհների, թունելների և ջրային համակարգերի զարգացման ծրագրերը 📖 ԿԱՐԴԱԼ ԱՎԵԼԻՆ",
+  "Հորդանանում եկեղեցում հրաձգության հետևանքով զոհվել է առնվազն 7, վիրավորվել 10 մարդ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792758835.94207,
+ "last_post": 1792759227.698002,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792754676.0647104
