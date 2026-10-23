@@ -1,30 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069292",
-  "News.am:https://news.am/hy/news/1069289",
-  "Armsport.am:https://armsport.am/?p=611176",
-  "Armsport.am:https://armsport.am/?p=611156",
-  "News.am:https://news.am/hy/news/1069290",
-  "Armsport.am:https://armsport.am/?p=611154",
-  "Armsport.am:https://armsport.am/?p=611147",
-  "digest:veolia:c67e82b103c4",
-  "veolia:c67e82b103c4",
-  "veolia:caa7ef89125a",
-  "tg:twentyfournews/324528",
-  "tg:factoram/74593",
-  "tg:factoram/74592",
-  "Armsport.am:https://armsport.am/?p=611200",
-  "News.am:https://news.am/hy/news/1069293",
-  "Factor.am:https://factor.am/?p=1072415",
-  "tg:shamshyan_com/55497",
-  "tg:twentyfournews/324538",
-  "Factor.am:https://factor.am/?p=1072354",
-  "tg:twentyfournews/324537",
-  "tg:twentyfournews/324529",
-  "tg:shamshyan_com/55498",
-  "tg:twentyfournews/324539",
-  "tg:factoram/74586",
-  "Armsport.am:https://armsport.am/?p=611165",
   "tg:fastsportstv/27168",
   "tg:fastsportstv/27167",
   "tg:fastsportstv/27165",
@@ -2999,11 +2974,34 @@
   "tg:twentyfournews/325029",
   "tg:RadarARM/81766",
   "168.am:https://168.am/?p=2502951",
-  "168.am:https://168.am/?p=2502974"
+  "168.am:https://168.am/?p=2502974",
+  "tg:shamshyan_com/55629",
+  "tg:RadarARM/81768",
+  "News.am:https://news.am/hy/news/1069890",
+  "Hetq:https://hetq.am/hy/article/184926",
+  "Factor.am:https://factor.am/?p=1073428",
+  "Aravot.am:https://www.aravot.am/?p=1588779",
+  "168.am:https://168.am/?p=2503000",
+  "1in.am:https://www.1in.am/?p=3771844",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/mvoskvaji-sheremetevvo-odanavakajanum-odajin-tagnap-e-hajtararvel-108476504.html",
+  "tg:twentyfournews/325031",
+  "Factor.am:https://factor.am/?p=1073436",
+  "Aravot.am:https://www.aravot.am/?p=1588781",
+  "168.am:https://168.am/?p=2502997",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/kievn-ajlevs-sepakan-elektraenergiaji-artadrutjun-chi-apahvovum-qaghaqapet-108475761.html",
+  "News.am:https://news.am/hy/news/1069888",
+  "Aravot.am:https://www.aravot.am/?p=1588777",
+  "168.am:https://168.am/?p=2502993",
+  "168.am:https://168.am/?p=2502988",
+  "168.am:https://168.am/?p=2502985",
+  "168.am:https://168.am/?p=2502981",
+  "168.am:https://168.am/?p=2502934",
+  "digest:veolia:ab7fb4762746",
+  "veolia:ab7fb4762746",
+  "News.am:https://news.am/hy/news/1069883",
+  "tg:twentyfournews/325032"
  ],
  "titles": [
-  "Պատահականորեն չենք նվաճել չեմպիոնական տիտղոսը. վաղը խաղադաշտ ենք դուրս գալու իրավիճակը շտկելու նպատակով․ Տուլիպան՝ ԱԶ Ալկմարի դեմ խաղի մասին",
-  "Սերբիայում ձերբակալել են ընտրությունների ժամանակ բռնություն նախապատրաստելու մեջ կասկածվող վեց անձի",
   "Հարստացված ուրանը դուրս չի բերվի Իրանից. Ռեզայի",
   "Երևանի Կենտրոն վարչական շրջանի մեծ մասը հոսանքազրկված է",
   "Հայաստանի մի շարք հասցեներում էլեկտրաէներգիայի անջատումներ կլինեն",
@@ -3301,7 +3299,9 @@
   "Ադրբեջանի ազգային հերոսը ձերբակալվել է Թբիլիսիի օդանավակայանում․ նա տարիներ շարունակ պնդում է, իբր, ինքն է սպանել Մոնթեին",
   "Թուրքիայում կոռուպցիայի գործով քաղաքապետ է ձերբակալվել",
   "Ռումինիայի ափերի մոտ ԱԹՍ-ի հարվածից հետո ևս մեկ նավ է խորտակվել․ 1 նավաստի զոհվել է, 3-ը՝ անհետ կորել",
-  "Սենատոր Բլյումենթալը հետաքննություն է նախաձեռնում Ուկրաինայում Starlink-ի աշխատանքի սահմանափակումների վերաբերյալ․ Le Monde"
+  "Սենատոր Բլյումենթալը հետաքննություն է նախաձեռնում Ուկրաինայում Starlink-ի աշխատանքի սահմանափակումների վերաբերյալ․ Le Monde",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Քարաշամբ գյուղում հոկտեմբերի 23-ին",
+  "Մոսկվայի 4 օդանավակայանները փակվել են, «Շերեմետևո»-ում տարհանում են իրականացնում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792761419.4284198,
+ "last_post": 1792762263.6890626,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
-  "Վեոլիա Ջուր": 1792754676.0647104
+  "Վեոլիա Ջուր": 1792762065.687073
  },
  "top_used": {
   "2026-10-23": 15
