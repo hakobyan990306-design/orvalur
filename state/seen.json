@@ -1,19 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771014",
-  "tg:twentyfournews/324564",
-  "News.am:https://news.am/hy/news/1069322",
-  "Factor.am:https://factor.am/?p=1072471",
-  "168.am:https://168.am/?p=2501705",
-  "tg:twentyfournews/324557",
-  "Factor.am:https://factor.am/?p=1072430",
-  "168.am:https://168.am/?p=2501668",
-  "168.am:https://168.am/?p=2501693",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/spasenq-haj-rusakan-khmbi-ashkhatanqin-mirzvojany-erkatughu-kvoncesiaji-masin-108379117.html",
-  "tg:fastsport_am/1634",
-  "News.am:https://news.am/hy/news/1069321",
-  "Factor.am:https://factor.am/?p=1072481",
-  "News.am:https://news.am/hy/news/1069314",
   "1in.am:https://www.1in.am/?p=3771035",
   "168.am:https://168.am/?p=2501689",
   "tg:shamshyan_com/55505",
@@ -2999,10 +2985,23 @@
   "Armsport.am:https://armsport.am/?p=611473",
   "tg:twentyfournews/325072",
   "168.am:https://168.am/?p=2503206",
-  "1in.am:https://www.1in.am/?p=3771917"
+  "1in.am:https://www.1in.am/?p=3771917",
+  "tg:shamshyan_com/55647",
+  "tg:twentyfournews/325077",
+  "News.am:https://news.am/hy/news/1069948",
+  "Hetq:https://hetq.am/hy/article/184933",
+  "Factor.am:https://factor.am/?p=1073529",
+  "Aravot.am:https://www.aravot.am/?p=1588826",
+  "168.am:https://168.am/?p=2503213",
+  "1in.am:https://www.1in.am/?p=3771926",
+  "tg:twentyfournews/325076",
+  "News.am:https://news.am/hy/news/1069947",
+  "168.am:https://168.am/?p=2503212",
+  "News.am:https://news.am/hy/news/1069917",
+  "168.am:https://168.am/?p=2503046",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/shaqium-viravvorum-stacats-knvojy-der-chen-karvoghanum-virahatel-khndirner-en-i-hajt-ekel-zlm-108488579.html"
  ],
  "titles": [
-  "ՌԴ-ն հարվածել է Կիևին. տուժածների թիվը հասել է 15-ի",
   "Brent-ը թանկացել է՝ մեկ բարելի համար հասնելով 111 դոլարի",
   "🟨 TRIPP նախագծման աշխատանքները ճիշտ ենք համարում սկսել այսօրվանից, և շուտով ավելի կոնկրետ էսքիզները կներկայացնենք քննարկման։",
   "Հայաստանում սահմանվել է ՄԻԵԴ-ի վճիռներով փոխհատուցումների վճարման կարգը",
@@ -3301,7 +3300,8 @@
   "Ռեալի նախկին խաղացողը կիսվել է իր կանխատեսմամբ առաջիկա Էլ Կլասիկոյի վերաբերյալ",
   "Փաշինյանը նոր ընտրության կարող է գնալ, Սահմանադրության հարցից է կախված նրա քաղաքական ապագան",
   "Կլոդ Մոնեի «Հիրիկներ» կտավը Փարիզում վաճառվել է ռեկորդային՝ 50 միլիոն եվրոյով",
-  "Ֆրանսիայում սպասվող նոր բողոքի ակցիաների կապակցությամբ երկրում կտեղակայվի շուրջ 70 000 իրավապահ"
+  "Ֆրանսիայում սպասվող նոր բողոքի ակցիաների կապակցությամբ երկրում կտեղակայվի շուրջ 70 000 իրավապահ",
+  "Շաքիում վիրավորում ստացած կնոջը դեռ չեն կարողանում վիրահատել, խնդիրներ են ի հայտ եկել. ԶԼՄ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792777924.4536917,
+ "last_post": 1792778331.5255606,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792773769.2149005
