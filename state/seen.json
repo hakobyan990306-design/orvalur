@@ -1,21 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2502094",
-  "tg:twentyfournews/324678",
-  "News.am:https://news.am/hy/news/1069402",
-  "168.am:https://168.am/?p=2502080",
-  "News.am:https://news.am/hy/news/1069463",
-  "168.am:https://168.am/?p=2502059",
-  "News.am:https://news.am/hy/news/1069448",
-  "tg:shamshyan_com/55535",
-  "Factor.am:https://factor.am/?p=1072720",
-  "1in.am:https://www.1in.am/?p=3771069",
-  "tg:twentyfournews/324681",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/uitkvofy-hajtararel-e-tekhnikakan-makardakvov-rd-i-amn-i-ev-ukrainaji-arajika-shpman-masin-108401649.html",
-  "1in.am:https://www.1in.am/?p=3771146",
-  "Armsport.am:https://armsport.am/?p=611256",
-  "News.am:https://news.am/hy/news/1069450",
-  "168.am:https://168.am/?p=2501902",
   "1in.am:https://www.1in.am/?p=3771187",
   "tg:twentyfournews/324684",
   "tg:RadarARM/81701",
@@ -2999,11 +2983,25 @@
   "Factor.am:https://factor.am/?p=1073697",
   "tg:twentyfournews/325178",
   "Factor.am:https://factor.am/?p=1073696",
-  "tg:twentyfournews/325179"
+  "tg:twentyfournews/325179",
+  "tg:twentyfournews/325183",
+  "Armsport.am:https://armsport.am/?p=611555",
+  "News.am:https://news.am/hy/news/1070087",
+  "168.am:https://168.am/?p=2503673",
+  "1in.am:https://www.1in.am/?p=3772088",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/marmnamarzik-artur-avetisjann-ashkharhi-arajnutjan-brvonze-medal-nvatshec-108511414.html",
+  "tg:shamshyan_com/55697",
+  "tg:twentyfournews/325182",
+  "Armsport.am:https://armsport.am/?p=611551",
+  "News.am:https://news.am/hy/news/1070072",
+  "1in.am:https://www.1in.am/?p=3772085",
+  "tg:twentyfournews/325181",
+  "1in.am:https://www.1in.am/?p=3772082",
+  "1in.am:https://www.1in.am/?p=3772076",
+  "tg:shamshyan_com/55698",
+  "1in.am:https://www.1in.am/?p=3772079"
  ],
  "titles": [
-  "Կասեցվել է «պանիր «Սուլուգունի» արտադրատեսակի արտադրությունը",
-  "Սարփիից մինչև Սադախլո կգործի անընդհատ քառաշերտ ավտոմայրուղի",
   "ԱՄՆ նախագահ Դոնալդ Թրամփը մեղադրել է Իրանին՝ ԱՄՆ-ում միջանկյալ ընտրությունների նախաշեմին նավթի գներն արհեստականորեն բարձրացնելու փորձերի մեջ։",
   "Սահմանահատում՝ առանց քրեական վարույթի․ ի՞նչ ընթացակարգով կվերադարձվի ադրբեջանցին. ՏԵՍԱՆՅՈՒԹ",
   "Նեթանյահուն հերքում է, որ Թրամփը հոկտեմբերի սկզբին կանգնեցրել է Իսրայելի հարվածը Իրանին",
@@ -3301,7 +3299,9 @@
   "🎥 Չեմպիոնական մրցավազքը թեժանում է. Արսենալը վստահ հաղթանակ տարավ Էվերթոնի նկատմամբ",
   "Օմսկում Ozon-ի լոգիստիկ կենտրոնը բռնկվել է անօդաչուի գրոհից հետո",
   "Մարմնամարզիկ Արթուր Ավետիսյանը՝ աշխարհի առաջնության բրոնզե մեդալակիր",
-  "Թուրքիայում ավտովթարի հետևանքով վեց մարդ է մահացել, այդ թվում՝ չորս երեխա"
+  "Թուրքիայում ավտովթարի հետևանքով վեց մարդ է մահացել, այդ թվում՝ չորս երեխա",
+  "Ողբերգական ավտովթար՝ Արագածոտնի մարզում․ բախվել են «Opel Zafira»-ն և «ՄԱԶ» բեռնատարը․ կան զոհեր․ 5 վիրավորներին, որոնցից 4-ը երեխաներ են, հիվանդանոց են տեղափոխել քաղաքացիական և ոստիկանության գվարդիայի",
+  "160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականները"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792859409.3271847,
+ "last_post": 1792860267.587983,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
