@@ -1,19 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771187",
-  "tg:twentyfournews/324684",
-  "tg:RadarARM/81701",
-  "tg:factoram/74617",
-  "Aravot.am:https://www.aravot.am/?p=1588359",
-  "168.am:https://168.am/?p=2502082",
-  "1in.am:https://www.1in.am/?p=3771250",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hajastany-karvogh-e-divanagitvoren-ogtvel-turqiaadrbejan-larumic-turqaget-108390103.html",
-  "tg:shamshyan_com/55536",
-  "tg:twentyfournews/324682",
-  "tg:factoram/74616",
-  "News.am:https://news.am/hy/news/1069469",
-  "Aravot.am:https://www.aravot.am/?p=1588362",
-  "168.am:https://168.am/?p=2502100",
   "tg:factoram/74615",
   "168.am:https://168.am/?p=2501940",
   "1in.am:https://www.1in.am/?p=3771244",
@@ -2999,10 +2985,23 @@
   "1in.am:https://www.1in.am/?p=3772082",
   "1in.am:https://www.1in.am/?p=3772076",
   "tg:shamshyan_com/55698",
-  "1in.am:https://www.1in.am/?p=3772079"
+  "1in.am:https://www.1in.am/?p=3772079",
+  "tg:shamshyan_com/55699",
+  "tg:twentyfournews/325185",
+  "tg:RadarARM/81799",
+  "tg:factoram/74675",
+  "Factor.am:https://factor.am/?p=1073704",
+  "Aravot.am:https://www.aravot.am/?p=1588942",
+  "168.am:https://168.am/?p=2503374",
+  "1in.am:https://www.1in.am/?p=3772091",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/voghbergakan-vtar-aragatsvotni-marzum-2-zvoh-ka-tuzhatsneric-4y-erekhaner-en-108511686.html",
+  "tg:twentyfournews/325184",
+  "News.am:https://news.am/hy/news/1070088",
+  "1in.am:https://www.1in.am/?p=3772288",
+  "News.am:https://news.am/hy/news/1070086",
+  "News.am:https://news.am/hy/news/1070074"
  ],
  "titles": [
-  "ԱՄՆ նախագահ Դոնալդ Թրամփը մեղադրել է Իրանին՝ ԱՄՆ-ում միջանկյալ ընտրությունների նախաշեմին նավթի գներն արհեստականորեն բարձրացնելու փորձերի մեջ։",
   "Սահմանահատում՝ առանց քրեական վարույթի․ ի՞նչ ընթացակարգով կվերադարձվի ադրբեջանցին. ՏԵՍԱՆՅՈՒԹ",
   "Նեթանյահուն հերքում է, որ Թրամփը հոկտեմբերի սկզբին կանգնեցրել է Իսրայելի հարվածը Իրանին",
   "Ադրբեջանի բնակավայրերից մեկում հիջաբի արգելքի դեմ բողոքի ակցիաների պատճառով շուրջ 90 մարդ է ձերբակալվել",
@@ -3301,7 +3300,8 @@
   "Մարմնամարզիկ Արթուր Ավետիսյանը՝ աշխարհի առաջնության բրոնզե մեդալակիր",
   "Թուրքիայում ավտովթարի հետևանքով վեց մարդ է մահացել, այդ թվում՝ չորս երեխա",
   "Ողբերգական ավտովթար՝ Արագածոտնի մարզում․ բախվել են «Opel Zafira»-ն և «ՄԱԶ» բեռնատարը․ կան զոհեր․ 5 վիրավորներին, որոնցից 4-ը երեխաներ են, հիվանդանոց են տեղափոխել քաղաքացիական և ոստիկանության գվարդիայի",
-  "160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականները"
+  "160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականները",
+  "Իրանը պատասխանել է ԱՄՆ սպառնալիքներին. «Մենք ինքնապաշտպանության համար թույլտվություն չենք խնդրելու»"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792860267.587983,
+ "last_post": 1792861022.9261494,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
