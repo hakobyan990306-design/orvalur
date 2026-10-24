@@ -1,13 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1072647",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ishkhanutjuny-vakhecav-spasvvogh-partutjunic-tigran-abrahamjany-stepanavani-depqeri-masin-108395393.html",
-  "tg:twentyfournews/324644",
-  "News.am:https://news.am/hy/news/1069412",
-  "tg:twentyfournews/324646",
-  "News.am:https://news.am/hy/news/1069420",
-  "tg:factoram/74611",
-  "Aravot.am:https://www.aravot.am/?p=1588323",
   "News.am:https://news.am/hy/news/1069401",
   "News.am:https://news.am/hy/news/1069371",
   "tg:twentyfournews/324647",
@@ -2999,10 +2991,17 @@
   "Aravot.am:https://www.aravot.am/?p=1588916",
   "168.am:https://168.am/?p=2503307",
   "News.am:https://news.am/hy/news/1070017",
-  "News.am:https://news.am/hy/news/1070041"
+  "News.am:https://news.am/hy/news/1070041",
+  "tg:shamshyan_com/55677",
+  "tg:twentyfournews/325139",
+  "News.am:https://news.am/hy/news/1070025",
+  "Factor.am:https://factor.am/?p=1073653",
+  "168.am:https://168.am/?p=2503372",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/80y-shantazh-e-20y-artaherti-scenar-grigvorjany-pashinjani-hajtararutjan-masin-108492718.html",
+  "168.am:https://168.am/?p=2503520",
+  "tg:twentyfournews/325138"
  ],
  "titles": [
-  "Այնթապում կասեցվել է «Սուլուգունի» պանրի արտադրությունը. ՍԱՏՄ",
   "⚽ Como 1907 4–1 Manchester United FC",
   "Երևանում մեքենաների հայելիների ապակիները գողացել և Telegram-ի հասցե են թողել․ երկու երիտասարդ է ձերբակալվել",
   "Պիկեն կանխատեսել է առաջիկա Էլ Կլասիկոյի հաշիվը",
@@ -3301,7 +3300,8 @@
   "⚽ Torino FC 3–2 AC Monza",
   "❗❗Բավարիայում հրդեհի հետևանքով ավերվել է Ադոլֆ Հիտլերի թեյատունը։",
   "Ֆերմինը Լոպեսը նշել է Ռեալի այն երկու աստղերին, որոնց կհեռացներ Էլ Կլասիկոյից",
-  "Ուկրաինայի զինուժը ԼԺՀ-ում հարված է հասցրել բնակելի տանը. տուժածներ կան"
+  "Ուկրաինայի զինուժը ԼԺՀ-ում հարված է հասցրել բնակելի տանը. տուժածներ կան",
+  "Հորդանանում եկեղեցու վրա հարձակման հետևանքով զոհերի թիվը հասել է ութի "
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792841236.313306,
+ "last_post": 1792842854.6786704,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
