@@ -1,19 +1,5 @@
 {
  "seen": [
-  "tg:shamshyan_com/55518",
-  "tg:twentyfournews/324629",
-  "168.am:https://168.am/?p=2501965",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/dvomus-i-masnatshjugheric-meky-kaparaknqvel-e-teschakan-marminy-hajtnel-e-pattshary-108393568.html",
-  "Aravot.am:https://www.aravot.am/?p=1588287",
-  "168.am:https://168.am/?p=2501956",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/andzamb-es-chem-patkeracnum-te-inchpes-e-hajastany-veradarnalu-hapk-mirzvojan--108393463.html",
-  "168.am:https://168.am/?p=2501947",
-  "168.am:https://168.am/?p=2501943",
-  "168.am:https://168.am/?p=2501927",
-  "digest:ena:9ff45bd7e379",
-  "ena:9ff45bd7e379",
-  "ena:604495a500b8",
-  "ena:1592fcd7fe2c",
   "ena:e7611510522b",
   "ena:aacc1bc6d0af",
   "ena:a9024a111ab5",
@@ -2999,13 +2985,23 @@
   "tg:twentyfournews/325125",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/hardzakum-rdi-vra-orjvolum-zvoher-kan-tvoljatium-ardjunaberakan-objektner-en-vnasvel-108499575.html",
   "168.am:https://168.am/?p=2503290",
-  "News.am:https://news.am/hy/news/1069991"
+  "News.am:https://news.am/hy/news/1069991",
+  "tg:fastsport_am/1680",
+  "tg:twentyfournews/325126",
+  "tg:RadarARM/81787",
+  "News.am:https://news.am/hy/news/1070001",
+  "Factor.am:https://factor.am/?p=1073608",
+  "Aravot.am:https://www.aravot.am/?p=1588883",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/berman-en-entarkvel-eghegnadzvori-hamajnqapety-pvokhhamajnqapety-ev-avaganu-3-teknatsuner---108500316.html",
+  "Aravot.am:https://www.aravot.am/?p=1588861",
+  "168.am:https://168.am/?p=2503332",
+  "tg:fastsport_am/1677",
+  "Armsport.am:https://armsport.am/?p=611519",
+  "Factor.am:https://factor.am/?p=1073627",
+  "168.am:https://168.am/?p=2503389",
+  "1in.am:https://www.1in.am/?p=3772148"
  ],
  "titles": [
-  "Պուտինը Ուիտկոֆի միջոցով Ուկրաինայի հարցով գրավոր առաջարկներ չի փոխանցել․Կրեմլ",
-  "Դանիան պատմության մեջ առաջին անգամ հեռահար հրթիռներ կպատվիրի",
-  "⚽ Levante UD 3–1 Athletic Club",
-  "Արտառոց դեպք՝ Սյունիքի մարզում․ 16 և 15 տարեկան տղաները 9-ամյա երեխայի խաղալիք ատրճանակով կրակել են նրա ոտքին ու գլխին, ապա դանակով սպառնացել",
   "Ժորա Սիմոնյանը չեմպիոնական գոտի է նվաճել",
   "Դատարանը հաստատեց Մայր Աթոռի դիրքորոշումը․ Տեր Եսայի",
   "⚽ Real Betis Balompié 1–0 Feyenoord Rotterdam",
@@ -3301,7 +3297,11 @@
   "Ռուսաստանն ու Ուկրաինան հայտնել են հոկտեմբերի 24-ի գիշերը ԱԹՍ-ների հարձակումների մասին",
   "Բերման են ենթարկվել Եղեգնաձորի համայնքապետը, փոխքաղաքապետը և ավագանու 3 անդամ ",
   "Ռուսաստանը դիզելային վառելիք տեղափոխող իր առաջին երեք լցանավերն է ուղարկել ԱՄՆ",
-  "Առաջին աշնանային փոթորիկը հարվածել է Գերմանիային․ կան տուժածներ, խափանվել են էլեկտրամատակարարումն ու գնացքների երթևեկությունը"
+  "Առաջին աշնանային փոթորիկը հարվածել է Գերմանիային․ կան տուժածներ, խափանվել են էլեկտրամատակարարումն ու գնացքների երթևեկությունը",
+  "Ծանրամարտի ԱԱ․ Հայաստանի հավաքականների մրցելույթների ժամանակացույցը",
+  "Փաստաբան Կրոմվել Գրիգորյանին մեղադրանք է առաջադրվել, նա տնային կալանքի տակ է. Factor TV-ին նոր մանրամասներ են հայտնի դարձել",
+  "Ռուսական հարվածների հետևանքով Ուկրաինայում երկու զոհ և ավելի քան 30 վիրավոր կա",
+  "Ֆրանսիայում սահմանափակվել են բողոքի ակցիաները․ անվտանգության ապահովման համար կներգրավվի մինչև 70 հազար ոստիկան ու ժանդարմ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,14 +3319,27 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792833279.1374555,
+ "pending": {
+  "tg:fastsport_am/1679": {
+   "score": 5,
+   "since": 1792833763.0812273
+  },
+  "tg:RadarARM/81786": {
+   "score": 5,
+   "since": 1792833763.0812273
+  },
+  "tg:fastsport_am/1678": {
+   "score": 5,
+   "since": 1792833763.0812273
+  }
+ },
+ "last_post": 1792834354.9382012,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
  },
  "top_used": {
-  "2026-10-24": 8
+  "2026-10-24": 10
  },
- "last_sport": 1792830135.19085
+ "last_sport": 1792833780.169027
 }
