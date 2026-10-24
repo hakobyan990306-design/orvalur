@@ -1,19 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324634",
-  "tg:RadarARM/81687",
-  "tg:factoram/74608",
-  "Factor.am:https://factor.am/?p=1072608",
-  "Aravot.am:https://www.aravot.am/?p=1588301",
-  "1in.am:https://www.1in.am/?p=3771178",
-  "tg:twentyfournews/324633",
-  "News.am:https://news.am/hy/news/1069395",
-  "Factor.am:https://factor.am/?p=1072610",
-  "Factor.am:https://factor.am/?p=1072602",
-  "Aravot.am:https://www.aravot.am/?p=1588293",
-  "tg:twentyfournews/324631",
-  "Factor.am:https://factor.am/?p=1072595",
-  "Aravot.am:https://www.aravot.am/?p=1588294",
   "tg:twentyfournews/324627",
   "Aravot.am:https://www.aravot.am/?p=1588288",
   "News.am:https://news.am/hy/news/1069398",
@@ -2999,12 +2985,23 @@
   "168.am:https://168.am/?p=2503413",
   "News.am:https://news.am/hy/news/1070019",
   "News.am:https://news.am/hy/news/1070016",
-  "tg:fastsport_am/1679"
+  "tg:fastsport_am/1679",
+  "ena:e62165a81b05",
+  "ena:e25b6b737087",
+  "ena:a12ce6ac7f9d",
+  "ena:bd12c1fbda49",
+  "tg:twentyfournews/325129",
+  "Factor.am:https://factor.am/?p=1073636",
+  "168.am:https://168.am/?p=2503433",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/dasakan-qaghaqakan-hetapndum-e-hhk-n-martunium-irakanacvats-dzerbakalutjunneri-masin-108500825.html",
+  "tg:twentyfournews/325128",
+  "168.am:https://168.am/?p=2503391",
+  "News.am:https://news.am/hy/news/1070023",
+  "tg:fastsport_am/1678",
+  "News.am:https://news.am/hy/news/1070007",
+  "News.am:https://news.am/hy/news/1070024"
  ],
  "titles": [
-  "Դատարանը հաստատեց Մայր Աթոռի դիրքորոշումը․ Տեր Եսայի",
-  "⚽ Real Betis Balompié 1–0 Feyenoord Rotterdam",
-  "ԱՄՆ-ի հարվածների դեպքում էներգաօբյեկտները կարող են Իրանի թիրախ դառնալ. Ռեզայի",
   "Պուտինն ու Թրամփը միմյանց հավաստիացնում են, որ պատրաստ են խոսել ցանկացած պահի․ Պեսկով",
   "Ալիևը պաշտոնից ազատել է Ստեփանակերտում իր հատուկ ներկայացուցչին",
   "⚽ Sporting Clube de Portugal 2–3 LASK Linz",
@@ -3301,7 +3298,10 @@
   "Փաստաբան Կրոմվել Գրիգորյանին մեղադրանք է առաջադրվել, նա տնային կալանքի տակ է. Factor TV-ին նոր մանրամասներ են հայտնի դարձել",
   "Ռուսական հարվածների հետևանքով Ուկրաինայում երկու զոհ և ավելի քան 30 վիրավոր կա",
   "Ֆրանսիայում սահմանափակվել են բողոքի ակցիաները․ անվտանգության ապահովման համար կներգրավվի մինչև 70 հազար ոստիկան ու ժանդարմ",
-  "«Նոայի» հայցը մերժվել է. լեգեոներների կանոնակարգը մնում է ուժի մեջ"
+  "«Նոայի» հայցը մերժվել է. լեգեոներների կանոնակարգը մնում է ուժի մեջ",
+  "Բորնմութը ծաղրել է Միլանին՝ Եվրոպայի լիգայում 3-0 հաշվով հաղթելուց հետո",
+  "Կիմ Չեն Ընը Չինաստան է այցելել 12 տարի անց բացված նոր կամրջով․ Yonhap",
+  "«Արդեն բավական է». զայրացած ցուցարարները փորձել են ներխուժել Չեխիայի խորհրդարան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,19 +3319,14 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:fastsport_am/1678": {
-   "score": 5,
-   "since": 1792833763.0812273
-  }
- },
- "last_post": 1792834666.7009668,
+ "pending": {},
+ "last_post": 1792836026.35381,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
  },
  "top_used": {
-  "2026-10-24": 11
+  "2026-10-24": 12
  },
- "last_sport": 1792834666.7009706
+ "last_sport": 1792835580.213959
 }
