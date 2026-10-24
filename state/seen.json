@@ -1,15 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771103",
-  "tg:twentyfournews/324661",
-  "News.am:https://news.am/hy/news/1069441",
-  "168.am:https://168.am/?p=2502027",
-  "tg:twentyfournews/324660",
-  "News.am:https://news.am/hy/news/1069423",
-  "tg:twentyfournews/324663",
-  "Hetq:https://hetq.am/hy/article/184878",
-  "Factor.am:https://factor.am/?p=1072617",
-  "1in.am:https://www.1in.am/?p=3771122",
   "News.am:https://news.am/hy/news/1069427",
   "Factor.am:https://factor.am/?p=1072464",
   "168.am:https://168.am/?p=2502046",
@@ -2999,10 +2989,19 @@
   "tg:twentyfournews/325158",
   "168.am:https://168.am/?p=2503305",
   "Armsport.am:https://armsport.am/?p=611522",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/turqiajum-nerdrumajin-fvonderi-hetaqnnutjan-shrjanakum-aveli-qan-110-mard-e-dzerbakalvel-108508042.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/turqiajum-nerdrumajin-fvonderi-hetaqnnutjan-shrjanakum-aveli-qan-110-mard-e-dzerbakalvel-108508042.html",
+  "tg:shamshyan_com/55691",
+  "tg:twentyfournews/325161",
+  "Factor.am:https://factor.am/?p=1073663",
+  "Aravot.am:https://www.aravot.am/?p=1588931",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/parizi-arvardzanum-krak-bacats-tghamardy-hajtararel-e-vor-vrezh-e-lutsel-zlm-108508184.html",
+  "tg:shamshyan_com/55690",
+  "tg:twentyfournews/325160",
+  "News.am:https://news.am/hy/news/1070070",
+  "tg:shamshyan_com/55689",
+  "News.am:https://news.am/hy/news/1070071"
  ],
  "titles": [
-  "🟨 Հունաստանում տասնյակ հազարավոր ուսանողներ ու դպրոցականներ բողոքի ցույցեր են անցկացնում՝ պահանջելով ավելացնել կրթության ֆինանսավորումը, բարեփոխումներ իրականացնել և մատչելի դարձնել բնակարանները։ ",
   "Կիբեռանվտանգության գլոբալ խոցելիությունը շարքից հանել է Մեծ Բրիտանիայի 32 պետական ծառայություն",
   "Սեդրակ Քոչարյանի հարցով քննությունն ավարտվեց. որոշումը կհրապարակվի վաղը՝ ժամը 10.00-ին. Կոչուբաև",
   "Մակրոնը հայտարարել է, որ առաջիկա օրերին «անօրինական» ցույցերը կարգելվեն",
@@ -3301,7 +3300,8 @@
   "«Անկախ դիտորդ»-ը հայտարարություն է տարածել ընտրություններին նախորդող օրերին թեկնածուների ձերբակալությունների վերաբերյալ",
   "Մերձավոր Արևելքում իրավիճակի սրման ֆոնին Brent-ը թանկացել է՝ հասնելով գրեթե կես տարվա առավելագույնին",
   "Եթե դու նվաճես Ոսկե գնդակը, ոմանք կասեն, որ դա անարդար է․ Անրին դիմել է մրցանակի գլխավոր հավակնորդներից մեկին",
-  "Թուրքիայում ներդրումային ֆոնդերի հետաքննության շրջանակում ավելի քան 110 մարդ է ձերբակալվել"
+  "Թուրքիայում ներդրումային ֆոնդերի հետաքննության շրջանակում ավելի քան 110 մարդ է ձերբակալվել",
+  "«Բավական է, մենք այլևս չենք կարող շնչել». Թուրքիայում հազարավոր մարդիկ դուրս են եկել բողոքի ցույցերի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792852151.537214,
+ "last_post": 1792852838.434209,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
