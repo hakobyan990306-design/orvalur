@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Hetq:https://hetq.am/hy/article/184881",
-  "Factor.am:https://factor.am/?p=1072738",
-  "168.am:https://168.am/?p=2502130",
-  "1in.am:https://www.1in.am/?p=3771270",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/kvotajqi-marzum-13amja-tghan-hvosanqaharvel-u-ajrvatsqnervov-teghapvokhvel-e-hivandanvoc-108402846.html",
-  "tg:twentyfournews/324691",
-  "tg:factoram/74623",
-  "News.am:https://news.am/hy/news/1069479",
-  "Factor.am:https://factor.am/?p=1072694",
-  "168.am:https://168.am/?p=2502128",
-  "1in.am:https://www.1in.am/?p=3771279",
   "tg:twentyfournews/324690",
   "tg:factoram/74622",
   "News.am:https://news.am/hy/news/1069296",
@@ -2999,11 +2988,20 @@
   "Aravot.am:https://www.aravot.am/?p=1588952",
   "1in.am:https://www.1in.am/?p=3772291",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/erevangjumri-tshanaparhin-vtaric-tuzhats-erekhaneric-3-i-vitshaky-tsajrahegh-tsanr-e-108513350.html",
-  "tg:twentyfournews/325201"
+  "tg:twentyfournews/325201",
+  "tg:shamshyan_com/55703",
+  "tg:twentyfournews/325204",
+  "Armsport.am:https://armsport.am/?p=611578",
+  "News.am:https://news.am/hy/news/1070085",
+  "Aravot.am:https://www.aravot.am/?p=1588953",
+  "168.am:https://168.am/?p=2503695",
+  "1in.am:https://www.1in.am/?p=3772109",
+  "News.am:https://news.am/hy/news/1070098",
+  "Armsport.am:https://armsport.am/?p=611575",
+  "1in.am:https://www.1in.am/?p=3772301",
+  "News.am:https://news.am/hy/news/1070101"
  ],
  "titles": [
-  "«Ուժեղ Հայաստանի»՝ ընտրակաշառքի գործերով անազատության մեջ հայտնվածների մեծ մասն ազատության մեջ է",
-  "Թուրքիան հյուրընկալի եվրոպական ու Մերձավորարևելյան երկրներին ԱԳ նախարարներին՝ քննարկելու հակամարտությունները",
   "Եվրոպա լիգա, 3-րդ տուր",
   "Հայաստանում աշխատատեղերի թիվը մեկ ամսում աճել է 15 000-ով",
   "Brent տեսակի նավթի գինը շարունակում է աճել՝ մայիսից ի վեր առաջին անգամ մեկ բարելի դիմաց գերազանցելով 113 դոլարը։",
@@ -3301,7 +3299,9 @@
   "Թրամփը հակված է Իրանի դեմ ռազմական գործողությունները վերսկսելուն",
   "🎥 Խելահեղ 3:3՝ Մարադոնայի անվան մարզադաշտում. Ալեգրին հեռացվեց խաղադաշտից",
   "Աճող տնտեսության աղքատ քաղաքացիները. Համաշխարհային բանկի անհարմար թվերը",
-  "Եղեգնաձորի համայնքապետը, փոխհամայնքապետը և ավագանու 3 թեկնածուներն ազատ են արձակվել"
+  "Եղեգնաձորի համայնքապետը, փոխհամայնքապետը և ավագանու 3 թեկնածուներն ազատ են արձակվել",
+  "🎥 Ինքնագոլ, հեռացում և 0:2. Չելսին սեփական հարկի տակ զիջեց Տոտենհեմին",
+  "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792866157.9336674,
+ "last_post": 1792867570.660052,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-24": 15
  },
- "last_sport": 1792865759.2420309
+ "last_sport": 1792867380.1071804
 }
