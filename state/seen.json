@@ -1,16 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771041",
-  "News.am:https://news.am/hy/news/1069354",
-  "tg:twentyfournews/324618",
-  "tg:mil_armenia/19687",
-  "News.am:https://news.am/hy/news/1069380",
-  "Hetq:https://hetq.am/hy/article/184869",
-  "Factor.am:https://factor.am/?p=1072567",
-  "Aravot.am:https://www.aravot.am/?p=1588273",
-  "168.am:https://168.am/?p=2501891",
-  "1in.am:https://www.1in.am/?p=3771116",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/putini-ev-uitkvofi-handipumn-avartvel-e-banakcutjunnery-mvot-3-zham-en-tevel-108390572.html",
   "tg:twentyfournews/324617",
   "News.am:https://news.am/hy/news/1069379",
   "Factor.am:https://factor.am/?p=1072576",
@@ -2999,11 +2988,20 @@
   "tg:shamshyan_com/55660",
   "tg:twentyfournews/325116",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/rd-zinuzhy-harvatsner-e-hascrel-odesaji-ev-chernvomvorski-navahangistnerin-pn-108494909.html",
-  "Aravot.am:https://www.aravot.am/?p=1588851"
+  "Aravot.am:https://www.aravot.am/?p=1588851",
+  "tg:shamshyan_com/55661",
+  "tg:twentyfournews/325117",
+  "News.am:https://news.am/hy/news/1069998",
+  "Aravot.am:https://www.aravot.am/?p=1588853",
+  "168.am:https://168.am/?p=2503322",
+  "1in.am:https://www.1in.am/?p=3772052",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/artikum-berman-en-entarkel-aprelu-erkir-ev-hajreniq-kusakcutjunneri-andamnerin--108495167.html",
+  "News.am:https://news.am/hy/news/1069993",
+  "168.am:https://168.am/?p=2503363",
+  "Factor.am:https://factor.am/?p=1073595",
+  "168.am:https://168.am/?p=2503354"
  ],
  "titles": [
-  "Կալանք է դրվում բնապահպանների հաշիվների վրա 3-4 տարի, սա ևս լռեցնելու փորձ է․ Նվարդ Մարգարյան․ ՏԵՍԱՆՅՈՒԹ",
-  "Թեհրանը մերժել է Վաշինգտոնի պահանջները՝ կապված միջուկային ծրագրի հետ, չնայած նոր լայնածավալ ամերիկյան հարվածի հնարավորության մասին նախազգուշացումներին",
   "1998–2007թթ. հաշմանդամություն ստացած զինծառայողները դրամական նոր աջակցություն կստանան",
   "Ինդոնեզիայում ցուցարարների և ոստիկանության միջև բախումներ են տեղի ունեցել",
   "Տեխնիկական խնդիր է եղել, հարկային հաշվետվությունների ուշացման համար տուգանքներ չեն լինի․ Էդուարդ Հակոբյան",
@@ -3301,7 +3299,9 @@
   "«Ոչ մի պարագայում». Իրանը հայտարարել է, որ ԱՄՆ նավերին թույլ չի տա կրկին մտնել Պարսից ծոց",
   "Մալաթիայում բախվել են «Toyota»-ն և «Mercedes»-ը. վերջինը բախվել է երկաթե էլեկտրասյանը. կա վիրավոր ",
   "ՌԴ զինուժը հարվածներ Է հասցրել Օդեսայի և Չեռնոմորսկի նավահանգիստներին. ՊՆ",
-  "Մալխաս Ամոյանը աշխարհի առաջնությունում մեկնարկեց հաղթանակով"
+  "Մալխաս Ամոյանը աշխարհի առաջնությունում մեկնարկեց հաղթանակով",
+  "Վթարային ջրանջատում Կապանում",
+  "Ըմբիշ Սուրեն Աղաջանյանն ԱԱ-ի մեկնարկում հաղթեց վրացի մարզիկին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792826774.8577185,
+ "last_post": 1792827619.4561698,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792773769.2149005
