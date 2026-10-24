@@ -1,18 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2502078",
-  "1in.am:https://www.1in.am/?p=3771162",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/5000-drami-pvokharen-20-000-dram-ngn-n-el-aveli-kkhstacni-tuganqnery-108401161.html",
-  "tg:twentyfournews/324675",
-  "Factor.am:https://factor.am/?p=1072649",
-  "1in.am:https://www.1in.am/?p=3771020",
-  "News.am:https://news.am/hy/news/1069443",
-  "tg:twentyfournews/324680",
-  "tg:RadarARM/81700",
-  "tg:mil_armenia/19688",
-  "Armsport.am:https://armsport.am/?p=611250",
-  "News.am:https://news.am/hy/news/1069464",
-  "Aravot.am:https://www.aravot.am/?p=1588358",
   "168.am:https://168.am/?p=2502094",
   "tg:twentyfournews/324678",
   "News.am:https://news.am/hy/news/1069402",
@@ -2999,11 +2986,22 @@
   "tg:twentyfournews/325175",
   "168.am:https://168.am/?p=2503560",
   "Armsport.am:https://armsport.am/?p=611548",
-  "News.am:https://news.am/hy/news/1070081"
+  "News.am:https://news.am/hy/news/1070081",
+  "tg:shamshyan_com/55696",
+  "tg:twentyfournews/325180",
+  "tg:RadarARM/81798",
+  "tg:mil_armenia/19717",
+  "News.am:https://news.am/hy/news/1070058",
+  "Aravot.am:https://www.aravot.am/?p=1588949",
+  "168.am:https://168.am/?p=2503691",
+  "1in.am:https://www.1in.am/?p=3772294",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/hhum-tunaqimikatneri-voch-graget-ogtagvortsumy-hangecnum-e-hivandutjunneri-pvordzaget-108394054.html",
+  "Factor.am:https://factor.am/?p=1073697",
+  "tg:twentyfournews/325178",
+  "Factor.am:https://factor.am/?p=1073696",
+  "tg:twentyfournews/325179"
  ],
  "titles": [
-  "Ադրբեջանը՝ Եվրոպայի էներգետիկ գործընկեր․ Ալիևի այցը Բեռլին և Բաքվի ռազմավարական հաշվարկները",
-  "ՉԼ․ Տուրի լավագույն ֆուտբոլիստը",
   "Կասեցվել է «պանիր «Սուլուգունի» արտադրատեսակի արտադրությունը",
   "Սարփիից մինչև Սադախլո կգործի անընդհատ քառաշերտ ավտոմայրուղի",
   "ԱՄՆ նախագահ Դոնալդ Թրամփը մեղադրել է Իրանին՝ ԱՄՆ-ում միջանկյալ ընտրությունների նախաշեմին նավթի գներն արհեստականորեն բարձրացնելու փորձերի մեջ։",
@@ -3301,7 +3299,9 @@
   "Ֆրանսիայում ռազմական ինքնաթիռի կործանման հետևանքով հայազգի օդաչու է զոհվել",
   "Ադրբեջանին՝ հրետանային համակարգեր և համատեղ գործարան, Հայաստանին՝ Skyfox-ներ․ Չեխիայի ռազմական «խաղը» Երևանի և Բաքվի միջև",
   "🎥 Չեմպիոնական մրցավազքը թեժանում է. Արսենալը վստահ հաղթանակ տարավ Էվերթոնի նկատմամբ",
-  "Օմսկում Ozon-ի լոգիստիկ կենտրոնը բռնկվել է անօդաչուի գրոհից հետո"
+  "Օմսկում Ozon-ի լոգիստիկ կենտրոնը բռնկվել է անօդաչուի գրոհից հետո",
+  "Մարմնամարզիկ Արթուր Ավետիսյանը՝ աշխարհի առաջնության բրոնզե մեդալակիր",
+  "Թուրքիայում ավտովթարի հետևանքով վեց մարդ է մահացել, այդ թվում՝ չորս երեխա"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792858636.2342203,
+ "last_post": 1792859409.3271847,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
