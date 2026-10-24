@@ -1,15 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069476",
-  "News.am:https://news.am/hy/news/1069470",
-  "News.am:https://news.am/hy/news/1069467",
-  "News.am:https://news.am/hy/news/1069465",
-  "News.am:https://news.am/hy/news/1069475",
-  "News.am:https://news.am/hy/news/1069474",
-  "News.am:https://news.am/hy/news/1069462",
-  "News.am:https://news.am/hy/news/1069461",
-  "News.am:https://news.am/hy/news/1069473",
-  "News.am:https://news.am/hy/news/1069472",
   "News.am:https://news.am/hy/news/1069460",
   "News.am:https://news.am/hy/news/1069459",
   "News.am:https://news.am/hy/news/1069455",
@@ -2999,10 +2989,19 @@
   "168.am:https://168.am/?p=2503706",
   "1in.am:https://www.1in.am/?p=3772179",
   "168.am:https://168.am/?p=2503604",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/mer-hamajnqy-dashinqi-hamajnqapeti-teknatsu-aram-karapetjanin-azat-en-ardzakel-108512262.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/mer-hamajnqy-dashinqi-hamajnqapeti-teknatsu-aram-karapetjanin-azat-en-ardzakel-108512262.html",
+  "tg:shamshyan_com/55701",
+  "News.am:https://news.am/hy/news/1070077",
+  "168.am:https://168.am/?p=2503287",
+  "1in.am:https://www.1in.am/?p=3772320",
+  "tg:twentyfournews/325192",
+  "tg:twentyfournews/325191",
+  "tg:twentyfournews/325190",
+  "tg:twentyfournews/325188",
+  "tg:twentyfournews/325187",
+  "tg:twentyfournews/325193"
  ],
  "titles": [
-  "Նեթանյահուն հերքում է, որ Թրամփը հոկտեմբերի սկզբին կանգնեցրել է Իսրայելի հարվածը Իրանին",
   "Ադրբեջանի բնակավայրերից մեկում հիջաբի արգելքի դեմ բողոքի ակցիաների պատճառով շուրջ 90 մարդ է ձերբակալվել",
   "Ոսկե Գնդակ․ The Athletic-ի՝ մրցանակի ֆավորիտների վերաբերյալ հարցման արդյունքները",
   "ԵԱՏՄ-ն կբարձրացնի հագուստի և էլեկտրոնիկայի որոշ տեսակների ներմուծման մաքսատուրքերը",
@@ -3301,7 +3300,8 @@
   "Ողբերգական ավտովթար՝ Արագածոտնի մարզում․ բախվել են «Opel Zafira»-ն և «ՄԱԶ» բեռնատարը․ կան զոհեր․ 5 վիրավորներին, որոնցից 4-ը երեխաներ են, հիվանդանոց են տեղափոխել քաղաքացիական և ոստիկանության գվարդիայի",
   "160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականները",
   "Իրանը պատասխանել է ԱՄՆ սպառնալիքներին. «Մենք ինքնապաշտպանության համար թույլտվություն չենք խնդրելու»",
-  "«Մեր համայնքը» դաշինքի համայնքապետի թեկնածու Արամ Կարապետյանին ազատ են արձակել"
+  "«Մեր համայնքը» դաշինքի համայնքապետի թեկնածու Արամ Կարապետյանին ազատ են արձակել",
+  "«Հայրենիք» կուսակցության ավագանու թեկնածու Զեփյուռ Աբգարյանն ազատ արձակվեց դատարանի դահլիճից։ Դատարանը ամբողջությամբ մերժեց քննիչի միջնորդությունը։"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792861929.382289,
+ "last_post": 1792862836.2801309,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
