@@ -1,16 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069401",
-  "News.am:https://news.am/hy/news/1069371",
-  "tg:twentyfournews/324647",
-  "News.am:https://news.am/hy/news/1069426",
-  "Hetq:https://hetq.am/hy/article/184875",
-  "Factor.am:https://factor.am/?p=1072669",
-  "Aravot.am:https://www.aravot.am/?p=1588332",
-  "168.am:https://168.am/?p=2501989",
-  "1in.am:https://www.1in.am/?p=3771150",
-  "News.am:https://news.am/hy/news/1069425",
-  "Factor.am:https://factor.am/?p=1072587",
   "Aravot.am:https://www.aravot.am/?p=1588334",
   "1in.am:https://www.1in.am/?p=3771081",
   "Aravot.am:https://www.aravot.am/?p=1588325",
@@ -2999,11 +2988,20 @@
   "168.am:https://168.am/?p=2503372",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/80y-shantazh-e-20y-artaherti-scenar-grigvorjany-pashinjani-hajtararutjan-masin-108492718.html",
   "168.am:https://168.am/?p=2503520",
-  "tg:twentyfournews/325138"
+  "tg:twentyfournews/325138",
+  "tg:shamshyan_com/55680",
+  "tg:twentyfournews/325140",
+  "News.am:https://news.am/hy/news/1070046",
+  "Factor.am:https://factor.am/?p=1073650",
+  "Aravot.am:https://www.aravot.am/?p=1588917",
+  "168.am:https://168.am/?p=2503526",
+  "1in.am:https://www.1in.am/?p=3772160",
+  "tg:shamshyan_com/55679",
+  "168.am:https://168.am/?p=2503377",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/svofiajum-spanel-en-bulghariaji-olimpiakan-kvomitei-pvokhnakhagahin-108504819.html",
+  "tg:shamshyan_com/55678"
  ],
  "titles": [
-  "⚽ Como 1907 4–1 Manchester United FC",
-  "Երևանում մեքենաների հայելիների ապակիները գողացել և Telegram-ի հասցե են թողել․ երկու երիտասարդ է ձերբակալվել",
   "Պիկեն կանխատեսել է առաջիկա Էլ Կլասիկոյի հաշիվը",
   "Հութիները հայտարարել են Սաուդյան Արաբիայի պաշտպանության նախարարության վրա հարձակման մասին",
   "Թուրքիայում ձերբակալել են Էրդողանի նախկին խորհրդականին",
@@ -3301,7 +3299,9 @@
   "❗❗Բավարիայում հրդեհի հետևանքով ավերվել է Ադոլֆ Հիտլերի թեյատունը։",
   "Ֆերմինը Լոպեսը նշել է Ռեալի այն երկու աստղերին, որոնց կհեռացներ Էլ Կլասիկոյից",
   "Ուկրաինայի զինուժը ԼԺՀ-ում հարված է հասցրել բնակելի տանը. տուժածներ կան",
-  "Հորդանանում եկեղեցու վրա հարձակման հետևանքով զոհերի թիվը հասել է ութի "
+  "Հորդանանում եկեղեցու վրա հարձակման հետևանքով զոհերի թիվը հասել է ութի ",
+  "Սոֆիայում սպանել են Բուլղարիայի օլիմպիական կոմիտեի փոխնախագահին",
+  "Խոշոր ավտովթար՝ Վայոց ձորի մարզում․ Արենիում բախվել են «Kia»-ն և «Mercedes»-ը․ վերջինը բախվել է բետոնե էլեկտրասյանը և կայանված «ՎԱԶ 2106»-ին․ 2 վիրավորին ավտոմեքենայից դուրս են բերել փրկարարները՝ օգտա"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792842854.6786704,
+ "last_post": 1792843963.28838,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
