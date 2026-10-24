@@ -1,15 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324690",
-  "tg:factoram/74622",
-  "News.am:https://news.am/hy/news/1069296",
-  "Factor.am:https://factor.am/?p=1072732",
-  "Aravot.am:https://www.aravot.am/?p=1588369",
-  "168.am:https://168.am/?p=2502125",
-  "1in.am:https://www.1in.am/?p=3771276",
-  "tg:twentyfournews/324689",
-  "tg:factoram/74621",
-  "News.am:https://news.am/hy/news/1069286",
   "168.am:https://168.am/?p=2496690",
   "tg:twentyfournews/324688",
   "tg:factoram/74620",
@@ -2999,11 +2989,19 @@
   "News.am:https://news.am/hy/news/1070098",
   "Armsport.am:https://armsport.am/?p=611575",
   "1in.am:https://www.1in.am/?p=3772301",
-  "News.am:https://news.am/hy/news/1070101"
+  "News.am:https://news.am/hy/news/1070101",
+  "tg:shamshyan_com/55704",
+  "tg:twentyfournews/325206",
+  "168.am:https://168.am/?p=2503669",
+  "1in.am:https://www.1in.am/?p=3772112",
+  "tg:twentyfournews/325205",
+  "News.am:https://news.am/hy/news/1070103",
+  "1in.am:https://www.1in.am/?p=3772357",
+  "News.am:https://news.am/hy/news/1070102",
+  "News.am:https://news.am/hy/news/1070089",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/samvel-tadevvosjann-arzhanacel-e-voske-glvobusi-beacon-award-mrcanakin-108513818.html"
  ],
  "titles": [
-  "Եվրոպա լիգա, 3-րդ տուր",
-  "Հայաստանում աշխատատեղերի թիվը մեկ ամսում աճել է 15 000-ով",
   "Brent տեսակի նավթի գինը շարունակում է աճել՝ մայիսից ի վեր առաջին անգամ մեկ բարելի դիմաց գերազանցելով 113 դոլարը։",
   "Տիբեթում 7,1 մագնիտուդով երկրաշարժ է տեղի ունեցել",
   "Եվրամիությունը 2026 թվականի Սախարովի մրցանակը շնորհեց Միջազգային քրեական դատարանին",
@@ -3301,7 +3299,9 @@
   "Աճող տնտեսության աղքատ քաղաքացիները. Համաշխարհային բանկի անհարմար թվերը",
   "Եղեգնաձորի համայնքապետը, փոխհամայնքապետը և ավագանու 3 թեկնածուներն ազատ են արձակվել",
   "🎥 Ինքնագոլ, հեռացում և 0:2. Չելսին սեփական հարկի տակ զիջեց Տոտենհեմին",
-  "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր"
+  "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր",
+  "Իսրայելը և Հունաստանը Թուրքիայի հետ լարվածության ֆոնին համատեղ ռազմածովային զորավարժություններ են անցկացրել",
+  "Սամվել Թադևոսյանն արժանացել է «Ոսկե գլոբուսի» Beacon Award մրցանակին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792867570.660052,
+ "last_post": 1792868401.1400397,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
