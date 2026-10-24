@@ -1,14 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1072679",
-  "tg:fastsport_am/1650",
-  "tg:RadarARM/81696",
-  "tg:factoram/74614",
-  "Hetq:https://hetq.am/hy/article/184860",
-  "Aravot.am:https://www.aravot.am/?p=1588335",
-  "168.am:https://168.am/?p=2502020",
-  "1in.am:https://www.1in.am/?p=3771168",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/trampy-cankanum-e-ukrainaji-harcvov-hamadzajnagir-knqel-g20i-gagatnazhvoghvovum-zlm-108397508.html",
   "tg:fastsport_am/1649",
   "tg:twentyfournews/324650",
   "News.am:https://news.am/hy/news/1069413",
@@ -2999,11 +2990,18 @@
   "tg:twentyfournews/325145",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/rusastanci-masnagetnerin-busheri-aekic-tarhanelu-lury-keghts-e-despanutjun-108505709.html",
   "News.am:https://news.am/hy/news/1070031",
-  "News.am:https://news.am/hy/news/1070026"
+  "News.am:https://news.am/hy/news/1070026",
+  "tg:twentyfournews/325146",
+  "tg:RadarARM/81793",
+  "News.am:https://news.am/hy/news/1070060",
+  "Factor.am:https://factor.am/?p=1073656",
+  "168.am:https://168.am/?p=2503587",
+  "Aravot.am:https://www.aravot.am/?p=1588921",
+  "168.am:https://168.am/?p=2503519",
+  "Aravot.am:https://www.aravot.am/?p=1588923",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/jrheghegh-argentinajum-aveli-qan-2000-mard-e-tarhanvel-108506292.html"
  ],
  "titles": [
-  "Քրեական ոստիկանները ձերբակալել են թրաֆիքինգով զբաղվող օտարերկրացի տղամարդու․ նա կալանավորվել է",
-  "Եվրախորհրդարանը Սախարովի անվան մրցանակը շնորհել է Միջազգային քրեական դատարանին",
   "Եռակողմ հանդիպումների վերսկսում, դիզելային գործարք. ինչ են քննարկել Պուտինն ու Ուիթքոֆը",
   "Իսպանիան և Իտալիան դադարեցրել են փոխադարձ սահմանային վերահսկողությունը",
   "Լույսի անջատումներ՝ Երևանի Արաբկիր վարչական շրջան, հոկտեմբերի 23-ին; Երևանի Մալաթիա Սեբաստիա վարչական շրջան, հոկտեմբերի 23-ին; Երևանի Շենգավիթ վարչական շրջան, հոկտեմբերի 23-ին",
@@ -3301,7 +3299,9 @@
   "Որակին ուշադիր եղեք, թունավոր բան-ման չլինի, խայտառակ չլինենք. Փաշինյանը՝ մածունավաճառին ",
   "Ռուսաստանցի մասնագետներին Բուշերի ԱԷԿ–ից տարհանելու լուրը կեղծ է. դեսպանություն",
   "Բրիտանիայի վարչապետը Թրամփին խնդրել է ապահովել Ուկրաինայի լիարժեք հասանելիությունը Starlink-ին",
-  "Volkswagen-ը ևս 12 հազար աշխատատեղ կկրճատի՝ աշխատակիցներին առաջարկելով նոր աշխատանք փնտրել հատուկ ընկերությունների միջոցով"
+  "Volkswagen-ը ևս 12 հազար աշխատատեղ կկրճատի՝ աշխատակիցներին առաջարկելով նոր աշխատանք փնտրել հատուկ ընկերությունների միջոցով",
+  "Արթուր Աստոյանն ազատ է արձակվել",
+  "Ջրհեղեղ Արգենտինայում. ավելի քան 2000 մարդ է տարհանվել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792846089.2545207,
+ "last_post": 1792846621.8265572,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
