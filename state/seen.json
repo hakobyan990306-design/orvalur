@@ -1,13 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069384",
-  "News.am:https://news.am/hy/news/1069368",
-  "tg:factoram/74607",
-  "168.am:https://168.am/?p=2501876",
-  "Armsport.am:https://armsport.am/?p=611219",
-  "News.am:https://news.am/hy/news/1069422",
-  "Hetq:https://hetq.am/hy/article/184874",
-  "Factor.am:https://factor.am/?p=1072654",
   "Aravot.am:https://www.aravot.am/?p=1588328",
   "1in.am:https://www.1in.am/?p=3771158",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/vardan-ghukasjanin-nvor-meghadranq-e-arajadrvel-nran-tarel-en-hh-hakakvorupcivon-kvomite-108395556.html",
@@ -2999,11 +2991,17 @@
   "digest:veolia:b22c1f446783",
   "veolia:b22c1f446783",
   "tg:fastsport_am/1683",
-  "tg:shamshyan_com/55675"
+  "tg:shamshyan_com/55675",
+  "tg:twentyfournews/325136",
+  "Factor.am:https://factor.am/?p=1073644",
+  "Aravot.am:https://www.aravot.am/?p=1588912",
+  "168.am:https://168.am/?p=2503509",
+  "168.am:https://168.am/?p=2503510",
+  "Armsport.am:https://armsport.am/?p=611525",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/ukrainaji-zinuzhy-lzhh-um-harvats-e-hascrel-bnakeli-tany-tuzhatsner-kan-108503497.html",
+  "168.am:https://168.am/?p=2503279"
  ],
  "titles": [
-  "⚽ Lille OSC 2–4 Galatasaray SK",
-  "Հակակոռուպցիոն դատարանում քննվում է Ռոբերտ Քոչարյանի կալանքի ժամկետը երկարաձգելու միջնորդությունը",
   "Այնթապում կասեցվել է «Սուլուգունի» պանրի արտադրությունը. ՍԱՏՄ",
   "⚽ Como 1907 4–1 Manchester United FC",
   "Երևանում մեքենաների հայելիների ապակիները գողացել և Telegram-ի հասցե են թողել․ երկու երիտասարդ է ձերբակալվել",
@@ -3301,7 +3299,9 @@
   "Մարտունիում ընտրություններին մասնակցող «Մեր համայնքը» դաշինքի ցուցակը գլխավորող Արամ Կարապետյանը որպես վկա հարցաքննվելուց հետո դուրս է եկել ՀԿԿ-ից",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Մալաթիա Սեբաստիա վարչական շրջանում հոկտեմբերի 24-ին",
   "⚽ Torino FC 3–2 AC Monza",
-  "❗❗Բավարիայում հրդեհի հետևանքով ավերվել է Ադոլֆ Հիտլերի թեյատունը։"
+  "❗❗Բավարիայում հրդեհի հետևանքով ավերվել է Ադոլֆ Հիտլերի թեյատունը։",
+  "Ֆերմինը Լոպեսը նշել է Ռեալի այն երկու աստղերին, որոնց կհեռացներ Էլ Կլասիկոյից",
+  "Ուկրաինայի զինուժը ԼԺՀ-ում հարված է հասցրել բնակելի տանը. տուժածներ կան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792840552.811461,
+ "last_post": 1792841236.313306,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-24": 15
  },
- "last_sport": 1792840328.5528522
+ "last_sport": 1792841031.5162292
 }
