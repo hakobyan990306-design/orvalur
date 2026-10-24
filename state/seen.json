@@ -1,17 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069427",
-  "Factor.am:https://factor.am/?p=1072464",
-  "168.am:https://168.am/?p=2502046",
-  "1in.am:https://www.1in.am/?p=3771231",
-  "News.am:https://news.am/hy/news/1069444",
-  "168.am:https://168.am/?p=2502043",
-  "168.am:https://168.am/?p=2502028",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/stepanavani-hamajnqapeti-teknatsu-arsen-gevvorgjany-erku-amsvov-kalanavvorvec-108399573.html",
-  "Armsport.am:https://armsport.am/?p=611238",
-  "News.am:https://news.am/hy/news/1069445",
-  "Aravot.am:https://www.aravot.am/?p=1588342",
-  "168.am:https://168.am/?p=2502048",
   "tg:twentyfournews/324666",
   "News.am:https://news.am/hy/news/1069447",
   "Hetq:https://hetq.am/hy/article/184879",
@@ -2999,10 +2987,21 @@
   "tg:twentyfournews/325160",
   "News.am:https://news.am/hy/news/1070070",
   "tg:shamshyan_com/55689",
-  "News.am:https://news.am/hy/news/1070071"
+  "News.am:https://news.am/hy/news/1070071",
+  "tg:twentyfournews/325163",
+  "News.am:https://news.am/hy/news/1070073",
+  "Factor.am:https://factor.am/?p=1073693",
+  "Aravot.am:https://www.aravot.am/?p=1588940",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/marmnamarzik-hamlet-manukjany-nvatshel-e-ashkharhi-chempivoni-titghvosy-108508643.html",
+  "tg:twentyfournews/325162",
+  "News.am:https://news.am/hy/news/1070059",
+  "Factor.am:https://factor.am/?p=1073688",
+  "Aravot.am:https://www.aravot.am/?p=1588939",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/hamashkharhajin-paratvonajin-asvociacian-arcakhi-hamujtneri-temajvov-hratap-nist-e-gumarel-108508563.html",
+  "Aravot.am:https://www.aravot.am/?p=1588934",
+  "tg:RadarARM/81795"
  ],
  "titles": [
-  "Կիբեռանվտանգության գլոբալ խոցելիությունը շարքից հանել է Մեծ Բրիտանիայի 32 պետական ծառայություն",
   "Սեդրակ Քոչարյանի հարցով քննությունն ավարտվեց. որոշումը կհրապարակվի վաղը՝ ժամը 10.00-ին. Կոչուբաև",
   "Մակրոնը հայտարարել է, որ առաջիկա օրերին «անօրինական» ցույցերը կարգելվեն",
   "Հիջաբ կրելու դե ֆակտո արգելքը. Արդյո՞ք կրոնական հարցը կթշնամացնի Ադրբեջանին և Թուրքիային",
@@ -3301,7 +3300,8 @@
   "Մերձավոր Արևելքում իրավիճակի սրման ֆոնին Brent-ը թանկացել է՝ հասնելով գրեթե կես տարվա առավելագույնին",
   "Եթե դու նվաճես Ոսկե գնդակը, ոմանք կասեն, որ դա անարդար է․ Անրին դիմել է մրցանակի գլխավոր հավակնորդներից մեկին",
   "Թուրքիայում ներդրումային ֆոնդերի հետաքննության շրջանակում ավելի քան 110 մարդ է ձերբակալվել",
-  "«Բավական է, մենք այլևս չենք կարող շնչել». Թուրքիայում հազարավոր մարդիկ դուրս են եկել բողոքի ցույցերի"
+  "«Բավական է, մենք այլևս չենք կարող շնչել». Թուրքիայում հազարավոր մարդիկ դուրս են եկել բողոքի ցույցերի",
+  "🟩 Հայ մարմնամարզիկ Համլետ Մանուկյանը Նիդերլանդներում հռչակվել է աշխարհի չեմպիոն։"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792852838.434209,
+ "last_post": 1792853744.0706265,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
