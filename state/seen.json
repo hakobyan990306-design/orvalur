@@ -1,21 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1072588",
-  "168.am:https://168.am/?p=2502066",
-  "1in.am:https://www.1in.am/?p=3771005",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/rusastann-u-chinastany-nakhapatrastvum-en-depi-mars-hamategh-araqelutjany-108400765.html",
-  "tg:shamshyan_com/55531",
-  "News.am:https://news.am/hy/news/1069453",
-  "Armsport.am:https://armsport.am/?p=611244",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/khamenein-ev-ghalibafy-qnnarkel-en-iran-amn-hakamartutjuny-108400878.html",
-  "tg:twentyfournews/324674",
-  "Aravot.am:https://www.aravot.am/?p=1588350",
-  "168.am:https://168.am/?p=2501930",
-  "1in.am:https://www.1in.am/?p=3771154",
-  "tg:twentyfournews/324673",
-  "News.am:https://news.am/hy/news/1069457",
-  "168.am:https://168.am/?p=2502075",
-  "News.am:https://news.am/hy/news/1069456",
   "168.am:https://168.am/?p=2502072",
   "168.am:https://168.am/?p=2502070",
   "168.am:https://168.am/?p=2502068",
@@ -2999,11 +2983,25 @@
   "tg:twentyfournews/325169",
   "1in.am:https://www.1in.am/?p=3772246",
   "Armsport.am:https://armsport.am/?p=611507",
-  "1in.am:https://www.1in.am/?p=3772255"
+  "1in.am:https://www.1in.am/?p=3772255",
+  "tg:shamshyan_com/55695",
+  "tg:twentyfournews/325174",
+  "tg:RadarARM/81797",
+  "Armsport.am:https://armsport.am/?p=611545",
+  "News.am:https://news.am/hy/news/1070068",
+  "168.am:https://168.am/?p=2503383",
+  "1in.am:https://www.1in.am/?p=3772279",
+  "tg:twentyfournews/325173",
+  "1in.am:https://www.1in.am/?p=3772276",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/aljvoshkium-iravitshaky-der-chi-pvokhvel-mirvoshnik-108510586.html",
+  "1in.am:https://www.1in.am/?p=3772282",
+  "1in.am:https://www.1in.am/?p=3772270",
+  "1in.am:https://www.1in.am/?p=3772267",
+  "Aravot.am:https://www.aravot.am/?p=1588945",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/fransiajum-razmakan-inqnatiri-kvortsanman-hetevanqvov-hajazgi-odachu-e-zvohvel-108510875.html",
+  "1in.am:https://www.1in.am/?p=3772273"
  ],
  "titles": [
-  "ԵԼ․ Արարատ-Արմենիա – ԱԶ Ալկմար. մեկնարկային կազմեր",
-  "Դատարանը հերքեց Սեդրակ Քոչարյանի առնչությունը մեղսագրվող դրվագներից 7-ից 5-ով. Կոչուբաև",
   "Ֆրանսիացի ուսանողներն ու ավագ դպրոցի սաները դուրս եկան հինգ քաղաքների փողոցներ. Գրենոբլում բախումներ ոստիկանության հետ",
   "«Ադամ» փոթորիկը Ֆրանսիայում մահաբեր ջրհեղեղներ է առաջացրել․ 4 մարդ է զոհվել",
   "ՉԼ․ 3-րդ տուրի խորհրդանշական հավաքականը",
@@ -3301,7 +3299,9 @@
   "Ծեծկռտուք՝ Արտաշատում. ՊԵԿ պաշտոնյա է ձերբակալվել․ «Իշխանություն»",
   "Գերմանիայում գիշերը մարել են «Արծվի բույն» պատմական շենքի հրդեհը․ մեկ անձ ձերբակալվել է",
   "Կոնֆլիկտը շարունակվում է. Ժեզուշը խիստ պայմաններ է առաջադրել Ռոնալդուի վերադարձի համար",
-  "Վարչապետը ներկայացրել է Աջափնյակում բնակիչների համաձայնությամբ նոր թաղամաս կառուցելու գաղափարը"
+  "Վարչապետը ներկայացրել է Աջափնյակում բնակիչների համաձայնությամբ նոր թաղամաս կառուցելու գաղափարը",
+  "Զեփյուռ Աբգարյանին 3 ամսով կալանավորեցին",
+  "Ֆրանսիայում ռազմական ինքնաթիռի կործանման հետևանքով հայազգի օդաչու է զոհվել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792857028.4780853,
+ "last_post": 1792857586.566053,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
