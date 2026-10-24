@@ -1,14 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324600",
-  "168.am:https://168.am/?p=2501837",
-  "tg:twentyfournews/324599",
-  "tg:twentyfournews/324598",
-  "tg:fastsport_am/1640",
-  "Aravot.am:https://www.aravot.am/?p=1588259",
-  "tg:twentyfournews/324602",
-  "Factor.am:https://factor.am/?p=1072549",
-  "News.am:https://news.am/hy/news/1069350",
   "Aravot.am:https://www.aravot.am/?p=1588253",
   "tg:shamshyan_com/55513",
   "tg:twentyfournews/324607",
@@ -2999,10 +2990,18 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/arman-tsarukjany-jakhjakhec-mrcakcin-ev-nvatshec-rafi-chempivonakan-titghvosy-108493365.html",
   "Aravot.am:https://www.aravot.am/?p=1588840",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/hajastanum-amen-inchi-qartez-kkazmen-vovqer-hasaneliutjun-kunenan-108472416.html",
-  "168.am:https://168.am/?p=2503261"
+  "168.am:https://168.am/?p=2503261",
+  "tg:shamshyan_com/55653",
+  "tg:twentyfournews/325111",
+  "tg:RadarARM/81783",
+  "News.am:https://news.am/hy/news/1069975",
+  "Aravot.am:https://www.aravot.am/?p=1588844",
+  "Aravot.am:https://www.aravot.am/?p=1588843",
+  "168.am:https://168.am/?p=2503309",
+  "Armsport.am:https://armsport.am/?p=611499",
+  "1in.am:https://www.1in.am/?p=3771994"
  ],
  "titles": [
-  "Լեհաստանում հերքել են Ուկրաինային ռազմական օգնությունը դադարեցնելու մասին տեղեկությունը",
   "«Տենում էին՝ մարդ ա գալիս, կրակեի՞ն»․ Փաշինյանը՝ սահմանը հատած ադրբեջանցի հովվի մասին",
   "Կվարացխելիայի վնասվածքը. ՊՍԺ-ի աստղը խաչաձև կապանների պատռվածք է ստացել",
   "Արմավիրի ոստիկանները ապoրինի պահվող զինшմթերք են հայտնաբերել․ երեք անձ ձերբակալվել է (վիդեո)",
@@ -3301,7 +3300,8 @@
   "Առափիում բնակարանային գողություն է բացահայտվել. մեկ անձ ձերբակալվել է",
   "Աննախադեպ նվաճում․ Ռոնալդուն պատմության մեջ է մտել որպես 2 միլիարդ դոլար վաստակած առաջին ֆուտբոլիստ",
   "Հայաստանում «ամեն ինչի քարտեզ» կկազմեն. ովքե՞ր հասանելիություն կունենան",
-  "Թրամփը չի բացառել, որ 200-տոկոսանոց մաքսատուրքեր կսահմանի Ռուսաստանից և Ուկրաինայից ներկրվող ապրանքների նկատմամբ"
+  "Թրամփը չի բացառել, որ 200-տոկոսանոց մաքսատուրքեր կսահմանի Ռուսաստանից և Ուկրաինայից ներկրվող ապրանքների նկատմամբ",
+  "Հայտնի է՝ ով կարող է փոխարինել վնասվածք ստացած Խվիչային ՊՍԺ-ում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792822064.7269855,
+ "last_post": 1792822850.874706,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792773769.2149005
  },
  "top_used": {
-  "2026-10-24": 4
+  "2026-10-24": 5
  },
- "last_sport": 1792821625.15856
+ "last_sport": 1792822850.8747106
 }
