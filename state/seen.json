@@ -1,16 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2502072",
-  "168.am:https://168.am/?p=2502070",
-  "168.am:https://168.am/?p=2502068",
-  "News.am:https://news.am/hy/news/1069458",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/patranqnerin-kpvokharini-cavvot-irakanutjuny-eatmic-heranalu-hetevanqneri-masin-108398454.html",
-  "tg:twentyfournews/324672",
-  "News.am:https://news.am/hy/news/1069440",
-  "tg:shamshyan_com/55534",
-  "tg:twentyfournews/324677",
-  "Factor.am:https://factor.am/?p=1072574",
-  "Aravot.am:https://www.aravot.am/?p=1588348",
   "168.am:https://168.am/?p=2502078",
   "1in.am:https://www.1in.am/?p=3771162",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/5000-drami-pvokharen-20-000-dram-ngn-n-el-aveli-kkhstacni-tuganqnery-108401161.html",
@@ -2999,12 +2988,20 @@
   "1in.am:https://www.1in.am/?p=3772267",
   "Aravot.am:https://www.aravot.am/?p=1588945",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/fransiajum-razmakan-inqnatiri-kvortsanman-hetevanqvov-hajazgi-odachu-e-zvohvel-108510875.html",
-  "1in.am:https://www.1in.am/?p=3772273"
+  "1in.am:https://www.1in.am/?p=3772273",
+  "tg:twentyfournews/325177",
+  "tg:factoram/74674",
+  "News.am:https://news.am/hy/news/1070069",
+  "Aravot.am:https://www.aravot.am/?p=1588947",
+  "168.am:https://168.am/?p=2503486",
+  "1in.am:https://www.1in.am/?p=3772285",
+  "tg:twentyfournews/325176",
+  "tg:twentyfournews/325175",
+  "168.am:https://168.am/?p=2503560",
+  "Armsport.am:https://armsport.am/?p=611548",
+  "News.am:https://news.am/hy/news/1070081"
  ],
  "titles": [
-  "Ֆրանսիացի ուսանողներն ու ավագ դպրոցի սաները դուրս եկան հինգ քաղաքների փողոցներ. Գրենոբլում բախումներ ոստիկանության հետ",
-  "«Ադամ» փոթորիկը Ֆրանսիայում մահաբեր ջրհեղեղներ է առաջացրել․ 4 մարդ է զոհվել",
-  "ՉԼ․ 3-րդ տուրի խորհրդանշական հավաքականը",
   "Ադրբեջանը՝ Եվրոպայի էներգետիկ գործընկեր․ Ալիևի այցը Բեռլին և Բաքվի ռազմավարական հաշվարկները",
   "ՉԼ․ Տուրի լավագույն ֆուտբոլիստը",
   "Կասեցվել է «պանիր «Սուլուգունի» արտադրատեսակի արտադրությունը",
@@ -3301,7 +3298,10 @@
   "Կոնֆլիկտը շարունակվում է. Ժեզուշը խիստ պայմաններ է առաջադրել Ռոնալդուի վերադարձի համար",
   "Վարչապետը ներկայացրել է Աջափնյակում բնակիչների համաձայնությամբ նոր թաղամաս կառուցելու գաղափարը",
   "Զեփյուռ Աբգարյանին 3 ամսով կալանավորեցին",
-  "Ֆրանսիայում ռազմական ինքնաթիռի կործանման հետևանքով հայազգի օդաչու է զոհվել"
+  "Ֆրանսիայում ռազմական ինքնաթիռի կործանման հետևանքով հայազգի օդաչու է զոհվել",
+  "Ադրբեջանին՝ հրետանային համակարգեր և համատեղ գործարան, Հայաստանին՝ Skyfox-ներ․ Չեխիայի ռազմական «խաղը» Երևանի և Բաքվի միջև",
+  "🎥 Չեմպիոնական մրցավազքը թեժանում է. Արսենալը վստահ հաղթանակ տարավ Էվերթոնի նկատմամբ",
+  "Օմսկում Ozon-ի լոգիստիկ կենտրոնը բռնկվել է անօդաչուի գրոհից հետո"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792857586.566053,
+ "last_post": 1792858636.2342203,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-24": 15
  },
- "last_sport": 1792856855.2621312
+ "last_sport": 1792858429.63548
 }
