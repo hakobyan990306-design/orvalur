@@ -1,16 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324622",
-  "tg:RadarARM/81684",
-  "News.am:https://news.am/hy/news/1069381",
-  "Factor.am:https://factor.am/?p=1072487",
-  "Aravot.am:https://www.aravot.am/?p=1588277",
-  "168.am:https://168.am/?p=2501887",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/ervand-qvochar-bazmachap-hantshary-tbilisum-cucahandes-e-bacvel-108391557.html",
-  "Aravot.am:https://www.aravot.am/?p=1588275",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/matenadarani-harevanutjamb-steghtsveliq-kanach-tshemughineri-himqy-drvec-108391087.html",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/hhi-ankakhutjunn-amenakarevvorn-e-mirzvojany-eatmin-andamakcutjuny-sarecnelu-masin-108391833.html",
-  "News.am:https://news.am/hy/news/1069366",
   "tg:twentyfournews/324619",
   "tg:shamshyan_com/55516",
   "tg:shamshyan_com/55517",
@@ -2999,11 +2988,20 @@
   "tg:shamshyan_com/55663",
   "tg:twentyfournews/325118",
   "News.am:https://news.am/hy/news/1070005",
-  "168.am:https://168.am/?p=2503380"
+  "168.am:https://168.am/?p=2503380",
+  "tg:shamshyan_com/55665",
+  "tg:twentyfournews/325121",
+  "tg:RadarARM/81784",
+  "News.am:https://news.am/hy/news/1070006",
+  "Factor.am:https://factor.am/?p=1073611",
+  "1in.am:https://www.1in.am/?p=3772067",
+  "tg:twentyfournews/325120",
+  "1in.am:https://www.1in.am/?p=3772064",
+  "Armsport.am:https://armsport.am/?p=611514",
+  "Aravot.am:https://www.aravot.am/?p=1588855",
+  "168.am:https://168.am/?p=2503357"
  ],
  "titles": [
-  "Վրաստանի դատախազությունը պետական դավաճանության մեղադրանքով լրագրող է ձերբակալել",
-  "Վինիսիուսը մտահոգիչ հակառեկորդ է սահմանել",
   "Սիլվա Ադամյանը հիշել է՝ ինչպես Արսեն Թորոսյանի հայրը վիրավորեց ու դուրս շպրտեց Ամուլսարի թեմայով զեկույց ներկայացնող բնապահպաններին",
   "Իրանը հայտնել է Պարսից ծոցի հյուսիսում չորս նավի վրա հարձակման մասին",
   "Ռուսական կողմը ուկրաինական կողմին է փոխանցել 252 մարմին, իսկ Ուկրաինան՝ 25",
@@ -3301,7 +3299,9 @@
   "Ծառուկյանի էժան գնով ձեռք բերված հողերը ճանաչվել են իրեղեն ապացույց",
   "ԱԱԾ-ն ուսանողներին Կիրանց է տարել․ ներկայացվել են սահմանապահ ծառայության պայմանները ",
   "Իրանը հարվածել է քրդական PJAK խմբավորման մարզումների խոշորագույն կենտրոններից մեկին. ԻՀՊԿ",
-  "Նիցցայի քաղաքապետը մտադիր է առաջարկել 20 հայ պատանդներին շնորհել պատվավոր քաղաքացու կոչում՝ պահանջելով Ադրբեջանից անհապաղ ազատ արձակել"
+  "Նիցցայի քաղաքապետը մտադիր է առաջարկել 20 հայ պատանդներին շնորհել պատվավոր քաղաքացու կոչում՝ պահանջելով Ադրբեջանից անհապաղ ազատ արձակել",
+  "Ըմբշամարտի ԱԱ. Մալխաս Ամոյանն ու Սուրեն Աղաջանյանը պարտվեցին 1/8 եզրափակչում",
+  "Ի՞նչ է կատարվում նախընտրական Արթիկում․ լռության օրը ձերբակալել են ընդդիմադիր թեկնածուների"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792829537.358695,
+ "last_post": 1792830370.7496889,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
  },
  "top_used": {
-  "2026-10-24": 5
+  "2026-10-24": 7
  },
- "last_sport": 1792822850.8747106
+ "last_sport": 1792830135.19085
 }
