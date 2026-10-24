@@ -1,27 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324664",
-  "tg:shamshyan_com/55530",
-  "tg:RadarARM/81699",
-  "Hetq:https://hetq.am/hy/article/184880",
-  "Factor.am:https://factor.am/?p=1072660",
-  "168.am:https://168.am/?p=2502053",
-  "1in.am:https://www.1in.am/?p=3771184",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/shenzhenum-kajanaliq-putin-si-tramp-handipman-hamar-amen-inch-patrast-e-ushakvov-108400227.html",
-  "News.am:https://news.am/hy/news/1069449",
-  "Factor.am:https://factor.am/?p=1072603",
-  "168.am:https://168.am/?p=2501975",
-  "1in.am:https://www.1in.am/?p=3771125",
-  "News.am:https://news.am/hy/news/1069434",
-  "Aravot.am:https://www.aravot.am/?p=1588344",
-  "Armsport.am:https://armsport.am/?p=611240",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261021/uzhegh-hajastani-ajakic-2-kananc-nkatmamb-khapanman-mijvoc-e-yntrvel-tnajin-kalanqy-108400121.html",
-  "tg:twentyfournews/324669",
-  "Factor.am:https://factor.am/?p=1072667",
-  "Aravot.am:https://www.aravot.am/?p=1588346",
-  "1in.am:https://www.1in.am/?p=3771128",
-  "News.am:https://news.am/hy/news/1069451",
-  "168.am:https://168.am/?p=2502064",
   "News.am:https://news.am/hy/news/1069400",
   "168.am:https://168.am/?p=2502055",
   "168.am:https://168.am/?p=2501918",
@@ -2999,10 +2977,31 @@
   "1in.am:https://www.1in.am/?p=3772216",
   "News.am:https://news.am/hy/news/1070061",
   "News.am:https://news.am/hy/news/1070062",
-  "1in.am:https://www.1in.am/?p=3772213"
+  "1in.am:https://www.1in.am/?p=3772213",
+  "tg:shamshyan_com/55694",
+  "tg:twentyfournews/325168",
+  "Hetq:https://hetq.am/hy/article/184938",
+  "Factor.am:https://factor.am/?p=1073685",
+  "168.am:https://168.am/?p=2503682",
+  "1in.am:https://www.1in.am/?p=3772231",
+  "tg:shamshyan_com/55693",
+  "tg:fastsport_am/1686",
+  "tg:twentyfournews/325167",
+  "News.am:https://news.am/hy/news/1070075",
+  "168.am:https://168.am/?p=2503697",
+  "1in.am:https://www.1in.am/?p=3772234",
+  "tg:shamshyan_com/55676",
+  "tg:twentyfournews/325166",
+  "168.am:https://168.am/?p=2503687",
+  "1in.am:https://www.1in.am/?p=3772228",
+  "168.am:https://168.am/?p=2503674",
+  "1in.am:https://www.1in.am/?p=3772222",
+  "1in.am:https://www.1in.am/?p=3772225",
+  "1in.am:https://www.1in.am/?p=3772219",
+  "tg:fastsport_am/1687",
+  "News.am:https://news.am/hy/news/1070063"
  ],
  "titles": [
-  "Ասթոն Վիլլա - Վիկինգ. Բարկլին և Բուենդիան՝ Չեմպիոնների լիգայի հաղթանակում",
   "Ռազմական գործողություններին զուգահեռ Մոսկվան և Կիևը աճյուններ են փոխանակել",
   "Կառլոս Աուգուստոն 10 հոգով «Ինտերին» տարավ ՉԼ կարևոր հաղթանակի",
   "Վրաստանում լրագրող է ձերբակալվել հայրենիքի դավաճանության մեղադրանքով՝ Դավիթ Գարեջիի հետ կապված Կոբախիձեի և Ալիևի միջև «գաղտնի գործարքի» լուրերի համար",
@@ -3301,7 +3300,8 @@
   "🟩 Հայ մարմնամարզիկ Համլետ Մանուկյանը Նիդերլանդներում հռչակվել է աշխարհի չեմպիոն։",
   "ՌԴ Հրեական ինքնավար մարզում միկրոավտոբուսը դուրս է եկել երկաթգծի վրա և բախվել գնացին. զոհվել է վեց մարդ",
   "Փեզեշքիանը կոչ է արել Իրանը դուրս բերել «ո՛չ պատերազմ, ո՛չ խաղաղություն» վիճակից",
-  "Կիմ Չեն Ընը ժամանել է Չինաստանի սահմանամերձ Դանդուն քաղաք"
+  "Կիմ Չեն Ընը ժամանել է Չինաստանի սահմանամերձ Դանդուն քաղաք",
+  "Վինսենթ Կոմպանին վարակվել է վիրուսով և բաց կթողնի մի քանի շաբաթ․ «Բավարիա»"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,13 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792855010.3393688,
+ "pending": {
+  "Armsport.am:https://armsport.am/?p=611507": {
+   "score": 5,
+   "since": 1792855548.2671208
+  }
+ },
+ "last_post": 1792855560.5287657,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
@@ -3328,5 +3333,5 @@
  "top_used": {
   "2026-10-24": 15
  },
- "last_sport": 1792851932.0023515
+ "last_sport": 1792855560.5287697
 }
