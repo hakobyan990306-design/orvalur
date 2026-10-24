@@ -1,17 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74615",
-  "168.am:https://168.am/?p=2501940",
-  "1in.am:https://www.1in.am/?p=3771244",
-  "News.am:https://news.am/hy/news/1069452",
-  "168.am:https://168.am/?p=2502098",
-  "News.am:https://news.am/hy/news/1069466",
-  "tg:shamshyan_com/55537",
-  "Factor.am:https://factor.am/?p=1072730",
-  "Factor.am:https://factor.am/?p=1072686",
-  "Armsport.am:https://armsport.am/?p=611230",
-  "News.am:https://news.am/hy/news/1069477",
-  "News.am:https://news.am/hy/news/1069471",
   "News.am:https://news.am/hy/news/1069476",
   "News.am:https://news.am/hy/news/1069470",
   "News.am:https://news.am/hy/news/1069467",
@@ -2999,10 +2987,21 @@
   "News.am:https://news.am/hy/news/1070088",
   "1in.am:https://www.1in.am/?p=3772288",
   "News.am:https://news.am/hy/news/1070086",
-  "News.am:https://news.am/hy/news/1070074"
+  "News.am:https://news.am/hy/news/1070074",
+  "tg:shamshyan_com/55700",
+  "tg:twentyfournews/325186",
+  "tg:RadarARM/81800",
+  "Armsport.am:https://armsport.am/?p=611562",
+  "News.am:https://news.am/hy/news/1070076",
+  "168.am:https://168.am/?p=2503685",
+  "1in.am:https://www.1in.am/?p=3772094",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/omskum-lvogistik-kentrvon-e-hardzakman-entarkvel-khvocenkvo-108512391.html",
+  "168.am:https://168.am/?p=2503706",
+  "1in.am:https://www.1in.am/?p=3772179",
+  "168.am:https://168.am/?p=2503604",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/mer-hamajnqy-dashinqi-hamajnqapeti-teknatsu-aram-karapetjanin-azat-en-ardzakel-108512262.html"
  ],
  "titles": [
-  "Սահմանահատում՝ առանց քրեական վարույթի․ ի՞նչ ընթացակարգով կվերադարձվի ադրբեջանցին. ՏԵՍԱՆՅՈՒԹ",
   "Նեթանյահուն հերքում է, որ Թրամփը հոկտեմբերի սկզբին կանգնեցրել է Իսրայելի հարվածը Իրանին",
   "Ադրբեջանի բնակավայրերից մեկում հիջաբի արգելքի դեմ բողոքի ակցիաների պատճառով շուրջ 90 մարդ է ձերբակալվել",
   "Ոսկե Գնդակ․ The Athletic-ի՝ մրցանակի ֆավորիտների վերաբերյալ հարցման արդյունքները",
@@ -3301,7 +3300,8 @@
   "Թուրքիայում ավտովթարի հետևանքով վեց մարդ է մահացել, այդ թվում՝ չորս երեխա",
   "Ողբերգական ավտովթար՝ Արագածոտնի մարզում․ բախվել են «Opel Zafira»-ն և «ՄԱԶ» բեռնատարը․ կան զոհեր․ 5 վիրավորներին, որոնցից 4-ը երեխաներ են, հիվանդանոց են տեղափոխել քաղաքացիական և ոստիկանության գվարդիայի",
   "160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականները",
-  "Իրանը պատասխանել է ԱՄՆ սպառնալիքներին. «Մենք ինքնապաշտպանության համար թույլտվություն չենք խնդրելու»"
+  "Իրանը պատասխանել է ԱՄՆ սպառնալիքներին. «Մենք ինքնապաշտպանության համար թույլտվություն չենք խնդրելու»",
+  "«Մեր համայնքը» դաշինքի համայնքապետի թեկնածու Արամ Կարապետյանին ազատ են արձակել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792861022.9261494,
+ "last_post": 1792861929.382289,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792828307.7174094
