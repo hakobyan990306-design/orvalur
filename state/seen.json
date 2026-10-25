@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/adelia-petrvosjany-tshapvoniaji-gran-prii-pulin-masnakcelu-hraver-e-stacel-108431026.html",
-  "News.am:https://news.am/hy/news/1069622",
-  "Aravot.am:https://www.aravot.am/?p=1588534",
-  "168.am:https://168.am/?p=2502353",
-  "1in.am:https://www.1in.am/?p=3771456",
-  "tg:twentyfournews/324810",
-  "News.am:https://news.am/hy/news/1069621",
-  "Aravot.am:https://www.aravot.am/?p=1588526",
-  "168.am:https://168.am/?p=2502349",
-  "News.am:https://news.am/hy/news/1069619",
-  "1in.am:https://www.1in.am/?p=3771398",
   "News.am:https://news.am/hy/news/1069620",
   "tg:fastsport_am/1662",
   "tg:twentyfournews/324812",
@@ -2999,11 +2988,20 @@
   "Factor.am:https://factor.am/?p=1073872",
   "tg:shamshyan_com/55744",
   "Aravot.am:https://www.aravot.am/?p=1589092",
-  "Aravot.am:https://www.aravot.am/?p=1589090"
+  "Aravot.am:https://www.aravot.am/?p=1589090",
+  "tg:factoram/74693",
+  "Factor.am:https://factor.am/?p=1073875",
+  "Aravot.am:https://www.aravot.am/?p=1589095",
+  "168.am:https://168.am/?p=2503919",
+  "1in.am:https://www.1in.am/?p=3772348",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/irani-pvokhnakhagahy-hijabvov-adrbejanci-usanvoghnerin-arajarkel-e-iranakan-buherum-svovvorel-108529923.html",
+  "tg:twentyfournews/325322",
+  "Aravot.am:https://www.aravot.am/?p=1589093",
+  "168.am:https://168.am/?p=2503916",
+  "tg:twentyfournews/325323",
+  "News.am:https://news.am/hy/news/1070201"
  ],
  "titles": [
-  "Մահացել է հայտնի ծաղրանկարիչ Վլադիմիր Աբրոյանը",
-  "Ինչո՞ւ է ավտոբուսը կողաշրջվել Երևանում. վարորդը մանրամասներ է պատմում",
   "Նարեկ Ապիտոնյանը և ԱՄՆ պետքարտուղարի փոխտեղակալը անդրադարձել են ՀՀ-ում նոր միջուկային էներգաբլոկի կառուցմանը",
   "Ավստրիան հայտարարել է 4 ռուսաստանցի դիվանագետի արտաքսման մասին",
   "15 տոկոս գնաճ, ՀՆԱ-ի 15 տոկոս անկում․ ի՞նչ կարժենա ՀՀ-ին գազի թանկացումը",
@@ -3301,7 +3299,9 @@
   "Երևան–Աշտարակ ճանապարհի ողբերգական ավտովթարի հետևանքով մահացել է նաև երեխաներից մեկը",
   "Խոշոր ու շղթայական ավտովթար՝ «Չայնիի» ոլորանների սկզբնամասում. բախվել են «Lamborghini Urus»-ը, «BYD»-ն, «Toyota Land Cruiser»-ը և «Hongqi»-ն․ 4 վիրավորներից մեկն անչափահաս է, խցանումն էլ հասնում է մի ",
   "Ձերբակալություններ Արթիկում՝ տարեց հարևանուհուն դեղ հասցնելու համար․ մանրամասնում է «Հայրենիք» կուսակցության համայնքապետի թեկնածուն",
-  "Մեկ ծրարում՝ երկու քվեաթերթիկ"
+  "Մեկ ծրարում՝ երկու քվեաթերթիկ",
+  "Հրդեհ Աշխաբադի փողոցում․ այրվել են կենցաղային իրեր",
+  "Ալժիրի խորհրդարանը հավանություն է տվել էներգետիկ օբյեկտները պաշտպանելու համար Նիգեր զորքեր ուղարկելուն"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792939664.4969397,
+ "last_post": 1792940248.7350442,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
