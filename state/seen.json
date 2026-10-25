@@ -1,21 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069620",
-  "tg:fastsport_am/1662",
-  "tg:twentyfournews/324812",
-  "News.am:https://news.am/hy/news/1069615",
-  "168.am:https://168.am/?p=2502356",
-  "tg:twentyfournews/324811",
-  "1in.am:https://www.1in.am/?p=3771459",
-  "tg:shamshyan_com/55575",
-  "tg:twentyfournews/324816",
-  "News.am:https://news.am/hy/news/1069626",
-  "Hetq:https://hetq.am/hy/article/184896",
-  "Factor.am:https://factor.am/?p=1072960",
-  "168.am:https://168.am/?p=2502380",
-  "tg:twentyfournews/324815",
-  "News.am:https://news.am/hy/news/1069618",
-  "168.am:https://168.am/?p=2502376",
   "tg:twentyfournews/324814",
   "News.am:https://news.am/hy/news/1069623",
   "168.am:https://168.am/?p=2502369",
@@ -2999,11 +2983,25 @@
   "Aravot.am:https://www.aravot.am/?p=1589093",
   "168.am:https://168.am/?p=2503916",
   "tg:twentyfournews/325323",
-  "News.am:https://news.am/hy/news/1070201"
+  "News.am:https://news.am/hy/news/1070201",
+  "tg:shamshyan_com/55749",
+  "tg:twentyfournews/325326",
+  "News.am:https://news.am/hy/news/1070222",
+  "Factor.am:https://factor.am/?p=1073886",
+  "Aravot.am:https://www.aravot.am/?p=1589101",
+  "1in.am:https://www.1in.am/?p=3772514",
+  "tg:shamshyan_com/55748",
+  "tg:twentyfournews/325325",
+  "News.am:https://news.am/hy/news/1070202",
+  "Aravot.am:https://www.aravot.am/?p=1589097",
+  "tg:shamshyan_com/55747",
+  "tg:twentyfournews/325324",
+  "tg:shamshyan_com/55746",
+  "tg:shamshyan_com/55745",
+  "tg:fastsport_am/1697",
+  "Hetq:https://hetq.am/hy/article/184970"
  ],
  "titles": [
-  "Նարեկ Ապիտոնյանը և ԱՄՆ պետքարտուղարի փոխտեղակալը անդրադարձել են ՀՀ-ում նոր միջուկային էներգաբլոկի կառուցմանը",
-  "Ավստրիան հայտարարել է 4 ռուսաստանցի դիվանագետի արտաքսման մասին",
   "15 տոկոս գնաճ, ՀՆԱ-ի 15 տոկոս անկում․ ի՞նչ կարժենա ՀՀ-ին գազի թանկացումը",
   "Ընտրակաշառքի գործով ձերբակալվել է ևս 10 անձ․ մեղադրյալների թիվը հասել է 24-ի",
   "«Երեք տարի ֆռռացնում ես ու էսօր ասում ես մեղավոր չե՞մ». Ազատ գյուղի զինվորական կացարանում այրված զինվորների հարազատները վրդովվեցին",
@@ -3301,7 +3299,9 @@
   "Ձերբակալություններ Արթիկում՝ տարեց հարևանուհուն դեղ հասցնելու համար․ մանրամասնում է «Հայրենիք» կուսակցության համայնքապետի թեկնածուն",
   "Մեկ ծրարում՝ երկու քվեաթերթիկ",
   "Հրդեհ Աշխաբադի փողոցում․ այրվել են կենցաղային իրեր",
-  "Ալժիրի խորհրդարանը հավանություն է տվել էներգետիկ օբյեկտները պաշտպանելու համար Նիգեր զորքեր ուղարկելուն"
+  "Ալժիրի խորհրդարանը հավանություն է տվել էներգետիկ օբյեկտները պաշտպանելու համար Նիգեր զորքեր ուղարկելուն",
+  "Ջանլուկա Մանչինին ծաղրել է Մասիմիլիանո Ալեգրիին կարմիր քարտից հետո. Serie A",
+  "Հրազդանի 26/33 ընտրատեղամասում ոստիկանը առանց հրավերի մտել էր քվեասենյակ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,13 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1792940248.7350442,
+ "pending": {
+  "tg:fastsport_am/1696": {
+   "score": 5,
+   "since": 1792940894.6748602
+  }
+ },
+ "last_post": 1792941103.9929616,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
@@ -3328,5 +3333,5 @@
  "top_used": {
   "2026-10-25": 15
  },
- "last_sport": 1792938183.519073
+ "last_sport": 1792940908.1531732
 }
