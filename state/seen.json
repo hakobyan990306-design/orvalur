@@ -1,20 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1588505",
-  "168.am:https://168.am/?p=2502299",
-  "tg:twentyfournews/324789",
-  "News.am:https://news.am/hy/news/1069598",
-  "tg:twentyfournews/324788",
-  "News.am:https://news.am/hy/news/1069601",
-  "Armsport.am:https://armsport.am/?p=611291",
-  "Aravot.am:https://www.aravot.am/?p=1588506",
-  "1in.am:https://www.1in.am/?p=3771392",
-  "168.am:https://168.am/?p=2502294",
-  "tg:shamshyan_com/55569",
-  "tg:factoram/74631",
-  "Hetq:https://hetq.am/hy/article/184889",
-  "Factor.am:https://factor.am/?p=1072932",
-  "Aravot.am:https://www.aravot.am/?p=1588512",
   "168.am:https://168.am/?p=2502307",
   "1in.am:https://www.1in.am/?p=3771417",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sa-aveli-e-amrapndum-pashtpanakan-martavarutjan-himqy-pastabany-sarvojani-gvortsi-masin-108429059.html",
@@ -2999,11 +2984,24 @@
   "1in.am:https://www.1in.am/?p=3772554",
   "1in.am:https://www.1in.am/?p=3772545",
   "tg:shamshyan_com/55738",
-  "News.am:https://news.am/hy/news/1070176"
+  "News.am:https://news.am/hy/news/1070176",
+  "tg:twentyfournews/325301",
+  "tg:RadarARM/81814",
+  "tg:factoram/74687",
+  "Armsport.am:https://armsport.am/?p=611639",
+  "Hetq:https://hetq.am/hy/article/184960",
+  "Factor.am:https://factor.am/?p=1073842",
+  "168.am:https://168.am/?p=2503889",
+  "1in.am:https://www.1in.am/?p=3772534",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/amn-ic-hajastan-3-rd-artaqsman-chverty-teghi-e-unecel-hulisin-108527841.html",
+  "tg:twentyfournews/325298",
+  "News.am:https://news.am/hy/news/1070196",
+  "Factor.am:https://factor.am/?p=1073839",
+  "168.am:https://168.am/?p=2503887",
+  "News.am:https://news.am/hy/news/1070179",
+  "Aravot.am:https://www.aravot.am/?p=1589077"
  ],
  "titles": [
-  "«Ուժեղ Հայաստանի» ևս 10 անդամի տներ են խուզարկել. ահազանգում է Անդրանիկ Գևորգյանը",
-  "Գողացել էին մեքենայի կողային հայելիների ապակիները. 18 և 19-ամյա երիտասարդները ձերբակալվել են",
   "«Մանչեսթեր Յունայթեդը» որոշել է Բրունու Ֆերնանդեշի ճակատագիրը՝ հարցազրույցից հետո",
   "ԱՄՆ-ն 1,4 միլիոն ԱՄՆ դոլարի սարքավորումներ է նվիրաբերել Հայաստանի սահմանային անվտանգության ամրապնդման համար",
   "Սյունիքի անտառներում կորած անչափահաս երեխաները գտնվել են",
@@ -3301,7 +3299,9 @@
   "Ոտքի վրա ընդունած օրենքի պատճառով Մարտունիում 20 000 անձ չի քվեարկի. Մանուկյան",
   "Բելգորոդի վրա ԱԹՍ հարվածների հետևանքով կա 2 զոհ, 14 վիրավոր",
   "ՏԻՄ ընտրությունների ընթացքում ենթադրյալ իրավախախտումների վերաբերյալ ստացվել է 13 ահազանգ. ՆԳՆ",
-  "«Անառիկ ամրոց». Իրանը ԱՄՆ-ին զգուշացրել է սպասվածից ավելի ուժեղ հակահարված տալու պատրաստակամության մասին"
+  "«Անառիկ ամրոց». Իրանը ԱՄՆ-ին զգուշացրել է սպասվածից ավելի ուժեղ հակահարված տալու պատրաստակամության մասին",
+  "Հիտլերի նախկին նստավայրում կրկին հրդեհ է բռնկվել",
+  "Կիևյան փողոցում վիճաբանություն է եղել մի խումբ անձանց միջև․ ատրճանակ է գործադրվել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792933114.8582244,
+ "last_post": 1792933813.291253,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
