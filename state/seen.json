@@ -1,17 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771438",
-  "tg:shamshyan_com/55556",
-  "tg:twentyfournews/324767",
-  "News.am:https://news.am/hy/news/1069547",
-  "News.am:https://news.am/hy/news/1069565",
-  "tg:twentyfournews/324752",
-  "1in.am:https://www.1in.am/?p=3771426",
-  "tg:RadarARM/81718",
-  "tg:twentyfournews/324763",
-  "Factor.am:https://factor.am/?p=1072756",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/tenum-ein-mard-a-galis-krakein-pashinjany-sahmany-hatats-adrbejanci-hvovvi-masin-108421642.html",
-  "tg:twentyfournews/324776",
   "tg:RadarARM/81720",
   "tg:factoram/74630",
   "News.am:https://news.am/hy/news/1069578",
@@ -2999,11 +2987,21 @@
   "News.am:https://news.am/hy/news/1070153",
   "Aravot.am:https://www.aravot.am/?p=1589041",
   "tg:twentyfournews/325268",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/rd-n-patrast-e-versksel-banakcutjunnern-ukrainaji-shurj-nvojemberi-4-ic-hetvo-ushakvov-108523658.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/rd-n-patrast-e-versksel-banakcutjunnern-ukrainaji-shurj-nvojemberi-4-ic-hetvo-ushakvov-108523658.html",
+  "tg:twentyfournews/325273",
+  "tg:factoram/74683",
+  "News.am:https://news.am/hy/news/1070172",
+  "Hetq:https://hetq.am/hy/article/184956",
+  "168.am:https://168.am/?p=2503843",
+  "tg:twentyfournews/325272",
+  "168.am:https://168.am/?p=2503840",
+  "tg:twentyfournews/325271",
+  "tg:twentyfournews/325270",
+  "tg:twentyfournews/325269",
+  "tg:shamshyan_com/55730",
+  "News.am:https://news.am/hy/news/1070158"
  ],
  "titles": [
-  "Դնեպրոպետրովսկի և Սումիի վրա ռուսական հարձակումների հետևանքով չորս մարդ է տուժել",
-  "Ավստրիան չորս ռուս դիվանագետի հայտարարել է persona non grata. ԶԼՄ",
   "Ռուբիոն և Ռյուտեն քննարկել են ռուս-ուկրաինական հակամարտության կարգավորումը",
   "Գազատար է վնասվել. Եղվարդ քաղաքի մի շարք հասցեներում գազամատակարարումը դադարեցվել է",
   "Volvo Cars-ը վաճառքների անկման ֆոնին կկրճատի 2 500 աշխատատեղ",
@@ -3301,7 +3299,9 @@
   "Ավելի քան 100 առաջատար իսրայելացի տնտեսագետներ Նեթանյահուին նախազգուշացրել են բանկային պատժամիջոցների հետևանքների մասին",
   "Ոչ մի ձերբակալություն ու ապօրինություն չի կարող կանգնեցնել ուժեղ հայաստանցիների ընթացքը. Գևորգյան",
   "Հոսանքազրկումը եղել է քիչ առաջ, տևել է 1-2 րոպե, խնդիրը շուտ կարգավորվել է. 14/42 ՏԸՀ նախագահ",
-  "ՌԴ-ն պատրաստ է վերսկսել բանակցություններն Ուկրաինայի շուրջ նոյեմբերի 4-ից հետո. Ուշակով"
+  "ՌԴ-ն պատրաստ է վերսկսել բանակցություններն Ուկրաինայի շուրջ նոյեմբերի 4-ից հետո. Ուշակով",
+  "Նոր մանրամասներ՝ Արագածոտնի մարզում տեղի ունեցած ողբերգական ավտովթարից․ բախվել էին «ՄԱԶ» բեռնատարը և «Opel Zafira»-ն․ մահացածները ամուսիններ են, իսկ վիրավոր 5 անչափահասները՝ նրանց երեխաները․ ՖՈՏՈՌԵՊՈՐ",
+  "Քենիայում հուղարկավորությունից վերադարձող ուղևորներով ավտոբուսը բախվել է բեռնատարի. զոհվել է առնվազն 22 մարդ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792924890.3015997,
+ "last_post": 1792925625.9147322,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
  },
  "top_used": {
-  "2026-10-25": 13
+  "2026-10-25": 15
  },
  "last_sport": 1792921262.6093183
 }
