@@ -1,18 +1,5 @@
 {
  "seen": [
-  "tg:shamshyan_com/55555",
-  "tg:twentyfournews/324766",
-  "News.am:https://news.am/hy/news/1069568",
-  "Factor.am:https://factor.am/?p=1072860",
-  "Aravot.am:https://www.aravot.am/?p=1588452",
-  "168.am:https://168.am/?p=2502247",
-  "1in.am:https://www.1in.am/?p=3771420",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/kaprenq-ktesnenq-pashinjany-eatm-4-andamneri-erkrneri-zekujci-masin-108420994.html",
-  "News.am:https://news.am/hy/news/1069563",
-  "Aravot.am:https://www.aravot.am/?p=1588395",
-  "tg:twentyfournews/324764",
-  "News.am:https://news.am/hy/news/1069569",
-  "tg:twentyfournews/324762",
   "News.am:https://news.am/hy/news/1069553",
   "tg:twentyfournews/324761",
   "tg:twentyfournews/324760",
@@ -2999,11 +2986,22 @@
   "tg:twentyfournews/325263",
   "tg:twentyfournews/325262",
   "News.am:https://news.am/hy/news/1070146",
-  "168.am:https://168.am/?p=2503829"
+  "168.am:https://168.am/?p=2503829",
+  "tg:RadarARM/81811",
+  "News.am:https://news.am/hy/news/1070163",
+  "Factor.am:https://factor.am/?p=1073808",
+  "Aravot.am:https://www.aravot.am/?p=1589030",
+  "168.am:https://168.am/?p=2503833",
+  "1in.am:https://www.1in.am/?p=3772504",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/hajkakan-heqiatneri-linum-e-chi-linum-y-bacarik-banadzev-e-zrujc-alvard-jivanjani-het-108474786.html",
+  "Factor.am:https://factor.am/?p=1073804",
+  "Aravot.am:https://www.aravot.am/?p=1589029",
+  "1in.am:https://www.1in.am/?p=3772472",
+  "Aravot.am:https://www.aravot.am/?p=1589021",
+  "tg:twentyfournews/325264",
+  "News.am:https://news.am/hy/news/1070147"
  ],
  "titles": [
-  "Թուրքիայում լույս տեսած նոր դասագրքում ՀՀ տարածքը ներկայացվում է որպես թուրքական կամ ադրբեջանական բնակատեղի. «Ազգ»",
-  "Պուտինը հայտարարել է, թե ՌԴ-ն «չի ցանկանում պատերազմել» Ուկրաինայի հետ, և որ գենետիկ հետազոտությունների համաձայն՝ «ռուսներն ու ուկրաինացիները մեկ ժողովուրդ են»",
   "ՌԴ–ն հարվածներ է հասցրել Պոլտավայի մարզում և Օդեսայի մոտ գտնվող ռազմական թիրախներին",
   "Յամա՞լ, թե՞ Քեյն․ Marca-ն ներկայացրել է լավագույնին․ Սպերցյանը ցուցակում է",
   "NHK-ը հայտնել է ուկրաինական բեռնատար ինքնաթիռի բռնկման մասին Ճապոնիայում վայրէջք կատարելիս",
@@ -3301,7 +3299,9 @@
   "Գասպերինին գովեստի խոսքեր է շռայլել «Ռոմայի» քամբեքի մասին Նապոլիի հետ խաղում",
   "Հայերի ձերբակալություններ Գլենդելում՝ Թրամփի վարչակազմի խստացված ներգաղթային քաղաքականության ֆոնին։",
   "Թուրքիան պատրաստում է «Կապույտ հայրենիքի» մասին օրենք՝ ծովային գոտիների սահմանազատման նոր կանոններով",
-  "ՈՍՏԻԿԱՆՆԵՐԸ ՍՏԵՓԱՆԱՎԱՆՈՒՄ ԸՆՏՐԱԽԱԽՏՄԱՆ ԿԱՍԿԱԾՈՎ ՔԱՂԱՔԱՑԻ ԵՆ ԲԵՐՄԱՆ ԵՆԹԱՐԿՈՒՄ"
+  "ՈՍՏԻԿԱՆՆԵՐԸ ՍՏԵՓԱՆԱՎԱՆՈՒՄ ԸՆՏՐԱԽԱԽՏՄԱՆ ԿԱՍԿԱԾՈՎ ՔԱՂԱՔԱՑԻ ԵՆ ԲԵՐՄԱՆ ԵՆԹԱՐԿՈՒՄ",
+  "Զանգվածային անկարգություններ` Իսպանիայում:",
+  "Ավելի քան 100 առաջատար իսրայելացի տնտեսագետներ Նեթանյահուին նախազգուշացրել են բանկային պատժամիջոցների հետևանքների մասին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792922232.3988042,
+ "last_post": 1792922956.634951,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
