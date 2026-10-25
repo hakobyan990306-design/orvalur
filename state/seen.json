@@ -1,17 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069592",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rdn-ev-ukrainan-zinvvorakanneri-marminner-en-pvokhanakel-zlm-108426184.html",
-  "tg:RadarARM/81723",
-  "News.am:https://news.am/hy/news/1069602",
-  "Factor.am:https://factor.am/?p=1072881",
-  "168.am:https://168.am/?p=2502296",
-  "1in.am:https://www.1in.am/?p=3771385",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/kartsum-em-shutvov-amen-inch-klutsvi-eth-nakharary-hajastani-bvoghvoqi-masin-108428294.html",
-  "tg:twentyfournews/324790",
-  "tg:RadarARM/81722",
-  "News.am:https://news.am/hy/news/1069596",
-  "Factor.am:https://factor.am/?p=1072858",
   "Aravot.am:https://www.aravot.am/?p=1588505",
   "168.am:https://168.am/?p=2502299",
   "tg:twentyfournews/324789",
@@ -2999,12 +2987,21 @@
   "tg:twentyfournews/325292",
   "168.am:https://168.am/?p=2503570",
   "tg:RadarARM/81813",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/votqi-vra-yndunats-orenqi-pattsharvov-martunium-20-000-andz-chi-qvearki-manukjan-108527319.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/votqi-vra-yndunats-orenqi-pattsharvov-martunium-20-000-andz-chi-qvearki-manukjan-108527319.html",
+  "tg:twentyfournews/325297",
+  "tg:factoram/74686",
+  "Armsport.am:https://armsport.am/?p=611633",
+  "News.am:https://news.am/hy/news/1070195",
+  "Factor.am:https://factor.am/?p=1073836",
+  "Aravot.am:https://www.aravot.am/?p=1589076",
+  "168.am:https://168.am/?p=2503884",
+  "tg:twentyfournews/325296",
+  "1in.am:https://www.1in.am/?p=3772554",
+  "1in.am:https://www.1in.am/?p=3772545",
+  "tg:shamshyan_com/55738",
+  "News.am:https://news.am/hy/news/1070176"
  ],
  "titles": [
-  "Դատարանը առանց քննության է թողել Նոայի և Աննա Օհանյանի հայտնի հայցադիմումները",
-  "Ես իրավունք ունեմ առաջադրվելու նախագահական 3-րդ ժամկետի համար․ 2020-ի ընտրությունները կեղծ էին․Թրամփ",
-  "Սերբիայի ընդդիմադիր ուսանողական շարժման շուրջ 150 հազար աջակից հանրահավաք է անցկացրել Բելգրադում ընտրություններին ընդառաջ",
   "«Ուժեղ Հայաստանի» ևս 10 անդամի տներ են խուզարկել. ահազանգում է Անդրանիկ Գևորգյանը",
   "Գողացել էին մեքենայի կողային հայելիների ապակիները. 18 և 19-ամյա երիտասարդները ձերբակալվել են",
   "«Մանչեսթեր Յունայթեդը» որոշել է Բրունու Ֆերնանդեշի ճակատագիրը՝ հարցազրույցից հետո",
@@ -3301,7 +3298,10 @@
   "ԶԼՄ-ներ. Բելգրադում հարձակվել են Սերբիայի նախկին նախագահ Վուչիչի մոր վրա",
   "Մահացած մարդիկ համարվում են աշխատող, ԿԳՄՍՆ-ն փող է ստանում ու վերաբաշխում չգիտես՝ ինչ ուղղությամբ. աղմկոտ մանրամասներ",
   "🟨 Ավարտվել են Թուրքիայի և Հայաստանի սահմանին գտնվող պատմական Անիի կամրջի վերակառուցման ծրագրի մրցութային բոլոր ընթացակարգերը:",
-  "Ոտքի վրա ընդունած օրենքի պատճառով Մարտունիում 20 000 անձ չի քվեարկի. Մանուկյան"
+  "Ոտքի վրա ընդունած օրենքի պատճառով Մարտունիում 20 000 անձ չի քվեարկի. Մանուկյան",
+  "Բելգորոդի վրա ԱԹՍ հարվածների հետևանքով կա 2 զոհ, 14 վիրավոր",
+  "ՏԻՄ ընտրությունների ընթացքում ենթադրյալ իրավախախտումների վերաբերյալ ստացվել է 13 ահազանգ. ՆԳՆ",
+  "«Անառիկ ամրոց». Իրանը ԱՄՆ-ին զգուշացրել է սպասվածից ավելի ուժեղ հակահարված տալու պատրաստակամության մասին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792932228.5011303,
+ "last_post": 1792933114.8582244,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
