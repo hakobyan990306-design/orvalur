@@ -1,15 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2502307",
-  "1in.am:https://www.1in.am/?p=3771417",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/sa-aveli-e-amrapndum-pashtpanakan-martavarutjan-himqy-pastabany-sarvojani-gvortsi-masin-108429059.html",
-  "tg:shamshyan_com/55568",
-  "tg:twentyfournews/324794",
-  "News.am:https://news.am/hy/news/1069599",
-  "Factor.am:https://factor.am/?p=1072919",
-  "Aravot.am:https://www.aravot.am/?p=1588508",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/hajastani-sahmany-hatats-hvovivy-veradardzvel-e-adrbejanakan-zlm--108428830.html",
-  "tg:shamshyan_com/55567",
   "tg:twentyfournews/324793",
   "News.am:https://news.am/hy/news/1069603",
   "Factor.am:https://factor.am/?p=1072890",
@@ -2999,11 +2989,19 @@
   "Factor.am:https://factor.am/?p=1073839",
   "168.am:https://168.am/?p=2503887",
   "News.am:https://news.am/hy/news/1070179",
-  "Aravot.am:https://www.aravot.am/?p=1589077"
+  "Aravot.am:https://www.aravot.am/?p=1589077",
+  "tg:twentyfournews/325304",
+  "Hetq:https://hetq.am/hy/article/184961",
+  "Aravot.am:https://www.aravot.am/?p=1589078",
+  "168.am:https://168.am/?p=2503891",
+  "1in.am:https://www.1in.am/?p=3772566",
+  "tg:twentyfournews/325303",
+  "News.am:https://news.am/hy/news/1070183",
+  "tg:twentyfournews/325302",
+  "1in.am:https://www.1in.am/?p=3772487",
+  "News.am:https://news.am/hy/news/1070200"
  ],
  "titles": [
-  "«Մանչեսթեր Յունայթեդը» որոշել է Բրունու Ֆերնանդեշի ճակատագիրը՝ հարցազրույցից հետո",
-  "ԱՄՆ-ն 1,4 միլիոն ԱՄՆ դոլարի սարքավորումներ է նվիրաբերել Հայաստանի սահմանային անվտանգության ամրապնդման համար",
   "Սյունիքի անտառներում կորած անչափահաս երեխաները գտնվել են",
   "Հայաստանն ինքը արդեն փաստացի դուրս է եկել ՀԱՊԿ-ից. Թաալաթբեկ Մասադիկով",
   "Հնդկաստանը ողջունում է Հայաստանի և Ադրբեջանի միջև արձանագրված առաջընթացը․ ԱԳ նախարար",
@@ -3301,7 +3299,9 @@
   "ՏԻՄ ընտրությունների ընթացքում ենթադրյալ իրավախախտումների վերաբերյալ ստացվել է 13 ահազանգ. ՆԳՆ",
   "«Անառիկ ամրոց». Իրանը ԱՄՆ-ին զգուշացրել է սպասվածից ավելի ուժեղ հակահարված տալու պատրաստակամության մասին",
   "Հիտլերի նախկին նստավայրում կրկին հրդեհ է բռնկվել",
-  "Կիևյան փողոցում վիճաբանություն է եղել մի խումբ անձանց միջև․ ատրճանակ է գործադրվել"
+  "Կիևյան փողոցում վիճաբանություն է եղել մի խումբ անձանց միջև․ ատրճանակ է գործադրվել",
+  "Հիտլերի «Արծվի բույնը» հրդեհվել է․ ձերբակալվել է 33-ամյա տղամարդ",
+  "Դիլիջանի 38/08 ընտրատեղամասում ՔՊ վստահված անձը սպառնալիքներ է հնչեցրել հանձնաժողովի անդամների հասցեին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792933813.291253,
+ "last_post": 1792934703.6672754,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
