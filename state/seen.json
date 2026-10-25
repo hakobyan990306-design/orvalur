@@ -1,22 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/324791",
-  "tg:twentyfournews/324798",
-  "News.am:https://news.am/hy/news/1069604",
-  "Hetq:https://hetq.am/hy/article/184891",
-  "Factor.am:https://factor.am/?p=1072933",
-  "Aravot.am:https://www.aravot.am/?p=1588519",
-  "168.am:https://168.am/?p=2502317",
-  "1in.am:https://www.1in.am/?p=3771429",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/fransiajum-shamvondaji-virusic-mard-e-mahacel-108429525.html",
-  "tg:twentyfournews/324797",
-  "News.am:https://news.am/hy/news/1069607",
-  "Factor.am:https://factor.am/?p=1072929",
-  "Aravot.am:https://www.aravot.am/?p=1588518",
-  "168.am:https://168.am/?p=2502314",
-  "1in.am:https://www.1in.am/?p=3771432",
-  "tg:twentyfournews/324796",
-  "Factor.am:https://factor.am/?p=1072925",
   "Aravot.am:https://www.aravot.am/?p=1588513",
   "News.am:https://news.am/hy/news/1069606",
   "Aravot.am:https://www.aravot.am/?p=1588511",
@@ -2999,13 +2982,26 @@
   "tg:twentyfournews/325306",
   "tg:twentyfournews/325307",
   "Hetq:https://hetq.am/hy/article/184962",
-  "Factor.am:https://factor.am/?p=1073845"
+  "Factor.am:https://factor.am/?p=1073845",
+  "tg:shamshyan_com/55742",
+  "tg:twentyfournews/325310",
+  "Armsport.am:https://armsport.am/?p=611630",
+  "Hetq:https://hetq.am/hy/article/184964",
+  "168.am:https://168.am/?p=2503898",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/gmo-artadranqi-nkatmamb-verahskvoghutjun-eatm-um-derevs-dzevavvorvats-che-ghrghyz-pvordzaget-108446014.html",
+  "tg:shamshyan_com/55741",
+  "tg:twentyfournews/325309",
+  "Hetq:https://hetq.am/hy/article/184963",
+  "168.am:https://168.am/?p=2503896",
+  "1in.am:https://www.1in.am/?p=3772548",
+  "tg:twentyfournews/325308",
+  "News.am:https://news.am/hy/news/1070193",
+  "Factor.am:https://factor.am/?p=1073860",
+  "tg:shamshyan_com/55737",
+  "1in.am:https://www.1in.am/?p=3772563",
+  "Factor.am:https://factor.am/?p=1073853"
  ],
  "titles": [
-  "Երևանում հայտնաբերվել են սպանության փորձի և խուլիգանության համար հետախոզվող իջևանցի երիտասարդներ",
-  "Ռուսաստան – ԱՄՆ – Ուկրաինա բանակցությունները կկայանան նոյեմբերին Աբու Դաբիում. Պեսկով",
-  "Փարիզի մերձակայքում տղամարդը մեքենայից կրակ է բացել. մեկ մարդ զոհվել է, չորսը՝ վիրավորվել",
-  "Ստեփանավանում ևս 10 անձ է ձերբակալվել",
   "Փարիզի քաղաքապետարանի ներկայացուցիչները հարգանքի տուրք են մատուցել Հայոց ցեղասպանության զոհերի հիշատակին",
   "Ուկրաինան հարվածել է Նիժնի Նովգորոդի մարզի հարկային ծառայության տվյալների մշակման կենտրոնին և Պերմի պայթուցիկների բաղադրիչների գործարանին",
   "Զանգվածային ընտրախախտում Մարտունիում․ ԿԸՀ-ն մատնված է անգործության",
@@ -3301,7 +3297,11 @@
   "Ֆրանսիայում բախումների ընթացքում ձերբակալվածների թիվը գերազանցել է 1300-ը",
   "Քաղաքացին «Ազատ քվե» դիտորդական առաքելությանը հայտնել է, որ իր եղբորը թույլ չեն տվել քվեարկել։",
   "Մայիսյանի վարչական ղեկավարն ընտրողներին էր ուղղորդում, իսկ ՔՊ-ի վստահված անձը պնդում էր՝ նա տանն է",
-  "Ըմբշամարտի ԱԱ. Արթուր Սարգսյանը հաղթեց գործող օլիմպիական չեմպիոն Սարավիին"
+  "Ըմբշամարտի ԱԱ. Արթուր Սարգսյանը հաղթեց գործող օլիմպիական չեմպիոն Սարավիին",
+  "Նեթանյահուն ընտրություններից երկու օր առաջ Թել Ավիվում միջուկային պայթյունի պատկեր է հրապարակել",
+  "Արթուր Դավթյանը` մարմնամարզության աշխարհի կրկնակի չեմպիոն",
+  "Կիմ Չեն Ընը այցելել է Չինաստան",
+  "ՔՊ-ի վստահված անձն ուղղորդե՞լ է. խախտման ահազանգ Արթիկում, հանձնաժողովի նախագահը հակադարձում է. ՏԵՍԱՆՅՈՒԹ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792936018.8416991,
+ "last_post": 1792936930.4634764,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
