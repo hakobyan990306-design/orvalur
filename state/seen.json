@@ -1,20 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069579",
-  "168.am:https://168.am/?p=2502200",
-  "tg:twentyfournews/324772",
-  "News.am:https://news.am/hy/news/1069574",
-  "168.am:https://168.am/?p=2502257",
-  "News.am:https://news.am/hy/news/1069549",
-  "168.am:https://168.am/?p=2502254",
-  "tg:fastsport_am/1653",
-  "News.am:https://news.am/hy/news/1069580",
-  "tg:twentyfournews/324773",
-  "News.am:https://news.am/hy/news/1069567",
-  "tg:twentyfournews/324781",
-  "tg:RadarARM/81721",
-  "Armsport.am:https://armsport.am/?p=611287",
-  "News.am:https://news.am/hy/news/1069570",
   "168.am:https://168.am/?p=2502271",
   "1in.am:https://www.1in.am/?p=3771389",
   "tg:twentyfournews/324780",
@@ -2999,10 +2984,24 @@
   "Armsport.am:https://armsport.am/?p=611622",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/bvolvory-shvoki-mej-en-mahacel-e-reper-misha-mavashin-108524006.html",
   "News.am:https://news.am/hy/news/1070159",
-  "tg:twentyfournews/325275"
+  "tg:twentyfournews/325275",
+  "tg:twentyfournews/325280",
+  "News.am:https://news.am/hy/news/1070180",
+  "Factor.am:https://factor.am/?p=1073821",
+  "Aravot.am:https://www.aravot.am/?p=1589044",
+  "168.am:https://168.am/?p=2503847",
+  "tg:shamshyan_com/55731",
+  "tg:twentyfournews/325279",
+  "News.am:https://news.am/hy/news/1070177",
+  "Factor.am:https://factor.am/?p=1073817",
+  "168.am:https://168.am/?p=2503848",
+  "News.am:https://news.am/hy/news/1070164",
+  "tg:shamshyan_com/55733",
+  "1in.am:https://www.1in.am/?p=3772543",
+  "Armsport.am:https://armsport.am/?p=611605",
+  "News.am:https://news.am/hy/news/1070174"
  ],
  "titles": [
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում հոկտեմբերի 23-ին",
   "ՃՏՊ Աճառյան փողոցում, կան տուժածներ",
   "Ծառայողական թռիչքի ընթացքում տեղի ունեցած ավիավթարի հետևանքով զոհվել են փոխգնդապետ Անդրանիկ Սարգսյանը և լեյտենանտ Քվենտին Կլիզը",
   "Մեքսիկայում աղջիկը մահացել է՝ դուրս թռչելով «Ճոճանակ» ատրակցիոնից:",
@@ -3301,7 +3300,8 @@
   "Պատմությունը կերտված է. Մարմնամարզության միջազգային ֆեդերացիայի անդրադարձը Համլետ Մանուկյանի ոսկե մեդալին",
   "«Բոլորը շոկի մեջ են». մահացել է ռեփեր Միշա Մավաշին",
   "Դատապարտված նախկին նախագահի որդին ընդդեմ Լուլայի․ Բրազիլիայում ընթանում է ընտրությունների երկրորդ փուլը",
-  "«Ուժեղ Հայաստանը» տեսանյութեր է հրապարակել, որում 25/1 և 25/27 ԸԸՏ-ներում քաղաքացիները երկուսով են քվեախցիկում ընտրություն կատարում։"
+  "«Ուժեղ Հայաստանը» տեսանյութեր է հրապարակել, որում 25/1 և 25/27 ԸԸՏ-ներում քաղաքացիները երկուսով են քվեախցիկում ընտրություն կատարում։",
+  "75 ընտրատեղամասում արձանագրվել է 117 խնդիրների և հնարավոր ընտրախախտումների վերաբերյալ գրանցում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "News.am:https://news.am/hy/news/1070174": {
-   "score": 5,
-   "since": 1792926367.3415368
-  }
- },
- "last_post": 1792926889.6706982,
+ "pending": {},
+ "last_post": 1792927287.9406857,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
