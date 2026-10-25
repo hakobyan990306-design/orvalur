@@ -1,17 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rusakan-zinuzhy-verahskvoghutjan-tak-e-vercrel-mirvovka-bnakavajry-108425829.html",
-  "tg:shamshyan_com/55566",
-  "News.am:https://news.am/hy/news/1069595",
-  "Factor.am:https://factor.am/?p=1072867",
-  "168.am:https://168.am/?p=2502206",
-  "1in.am:https://www.1in.am/?p=3771414",
-  "tg:shamshyan_com/55565",
-  "Factor.am:https://factor.am/?p=1072913",
-  "Aravot.am:https://www.aravot.am/?p=1588498",
-  "168.am:https://168.am/?p=2502291",
-  "tg:shamshyan_com/55564",
-  "Aravot.am:https://www.aravot.am/?p=1588500",
   "News.am:https://news.am/hy/news/1069592",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/rdn-ev-ukrainan-zinvvorakanneri-marminner-en-pvokhanakel-zlm-108426184.html",
   "tg:RadarARM/81723",
@@ -2999,12 +2987,21 @@
   "Armsport.am:https://armsport.am/?p=611626",
   "tg:shamshyan_com/55736",
   "Aravot.am:https://www.aravot.am/?p=1589069",
-  "News.am:https://news.am/hy/news/1070190"
+  "News.am:https://news.am/hy/news/1070190",
+  "tg:twentyfournews/325295",
+  "News.am:https://news.am/hy/news/1070175",
+  "Factor.am:https://factor.am/?p=1073832",
+  "1in.am:https://www.1in.am/?p=3772540",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/erevanum-avtvovtari-zvoh-e-dardzel-ereq-erekhaneri-majry-aats-i-ashkhatakicy-dimel-e-pakhusti-108527526.html",
+  "tg:twentyfournews/325293",
+  "News.am:https://news.am/hy/news/1070189",
+  "168.am:https://168.am/?p=2503882",
+  "tg:twentyfournews/325292",
+  "168.am:https://168.am/?p=2503570",
+  "tg:RadarARM/81813",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/votqi-vra-yndunats-orenqi-pattsharvov-martunium-20-000-andz-chi-qvearki-manukjan-108527319.html"
  ],
  "titles": [
-  "Թրամփի փեսային Ադրբեջանի բանկից 750 մլն դոլար է փոխանցվել․ Vanity Fair-ի հրապարակումը Քուշների ֆինանսական գործարքների մասին",
-  "Վերին Լարսի ռուսական կողմում ավելի քան 200 բեռնատար է կուտակվել",
-  "Այսօր իշխանությունը էս գլխից է ձերբակալում, դա իրենց վախերն են. պատգամավոր",
   "Դատարանը առանց քննության է թողել Նոայի և Աննա Օհանյանի հայտնի հայցադիմումները",
   "Ես իրավունք ունեմ առաջադրվելու նախագահական 3-րդ ժամկետի համար․ 2020-ի ընտրությունները կեղծ էին․Թրամփ",
   "Սերբիայի ընդդիմադիր ուսանողական շարժման շուրջ 150 հազար աջակից հանրահավաք է անցկացրել Բելգրադում ընտրություններին ընդառաջ",
@@ -3301,7 +3298,10 @@
   "Հայտացուցակից դուրս մնացած Կուրտուան պատրաստ է մեկնել Բարսելոնա",
   "Խոշոր ավտովթար՝ Գեղարքունիքի մարզում․ Երևան-Սևան ավտոճանապարհին 34-ամյա վարորդը «Chevrolet»-ով դուրս է եկել երթևեկելի գոտուց և գլխիվայր շրջվելով բախվել է գազատար խողովակին․ կա վիրավոր․ ՖՈՏՈՌԵՊՈՐՌԱԺ, Տ",
   "«Անկախ դիտորդը» ՏԻՄ ընտրություններում արձանագրել է մի շարք խախտումներ․ տեղամասերի 37%-ի մուտքերում խոչընդոտներ են եղել",
-  "ԶԼՄ-ներ. Բելգրադում հարձակվել են Սերբիայի նախկին նախագահ Վուչիչի մոր վրա"
+  "ԶԼՄ-ներ. Բելգրադում հարձակվել են Սերբիայի նախկին նախագահ Վուչիչի մոր վրա",
+  "Մահացած մարդիկ համարվում են աշխատող, ԿԳՄՍՆ-ն փող է ստանում ու վերաբաշխում չգիտես՝ ինչ ուղղությամբ. աղմկոտ մանրամասներ",
+  "🟨 Ավարտվել են Թուրքիայի և Հայաստանի սահմանին գտնվող պատմական Անիի կամրջի վերակառուցման ծրագրի մրցութային բոլոր ընթացակարգերը:",
+  "Ոտքի վրա ընդունած օրենքի պատճառով Մարտունիում 20 000 անձ չի քվեարկի. Մանուկյան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "News.am:https://news.am/hy/news/1070189": {
-   "score": 5,
-   "since": 1792930903.433543
-  }
- },
- "last_post": 1792931404.344141,
+ "pending": {},
+ "last_post": 1792932228.5011303,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
