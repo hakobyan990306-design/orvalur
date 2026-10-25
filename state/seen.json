@@ -1,21 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2502271",
-  "1in.am:https://www.1in.am/?p=3771389",
-  "tg:twentyfournews/324780",
-  "News.am:https://news.am/hy/news/1069566",
-  "Aravot.am:https://www.aravot.am/?p=1588468",
-  "168.am:https://168.am/?p=2502265",
-  "tg:twentyfournews/324779",
-  "Aravot.am:https://www.aravot.am/?p=1588466",
-  "168.am:https://168.am/?p=2502250",
-  "1in.am:https://www.1in.am/?p=3771395",
-  "tg:twentyfournews/324777",
-  "tg:twentyfournews/324778",
-  "1in.am:https://www.1in.am/?p=3771447",
-  "tg:fastsport_am/1654",
-  "Factor.am:https://factor.am/?p=1072838",
-  "Aravot.am:https://www.aravot.am/?p=1588471",
   "Factor.am:https://factor.am/?p=1072879",
   "1in.am:https://www.1in.am/?p=3771376",
   "Aravot.am:https://www.aravot.am/?p=1588467",
@@ -2999,10 +2983,25 @@
   "tg:shamshyan_com/55733",
   "1in.am:https://www.1in.am/?p=3772543",
   "Armsport.am:https://armsport.am/?p=611605",
-  "News.am:https://news.am/hy/news/1070174"
+  "News.am:https://news.am/hy/news/1070174",
+  "tg:twentyfournews/325282",
+  "Hetq:https://hetq.am/hy/article/184957",
+  "Factor.am:https://factor.am/?p=1073829",
+  "Aravot.am:https://www.aravot.am/?p=1589051",
+  "168.am:https://168.am/?p=2503870",
+  "1in.am:https://www.1in.am/?p=3772475",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/yntrutjunneri-hamar-e-arvum-erevangvoris-anvtshar-avtvobus-e-gvortsum-qaghaqacineri-hamar-108525508.html",
+  "tg:twentyfournews/325281",
+  "News.am:https://news.am/hy/news/1070181",
+  "Factor.am:https://factor.am/?p=1073824",
+  "Aravot.am:https://www.aravot.am/?p=1589050",
+  "168.am:https://168.am/?p=2503642",
+  "1in.am:https://www.1in.am/?p=3772511",
+  "Aravot.am:https://www.aravot.am/?p=1589049",
+  "168.am:https://168.am/?p=2503855",
+  "News.am:https://news.am/hy/news/1070165"
  ],
  "titles": [
-  "ՃՏՊ Աճառյան փողոցում, կան տուժածներ",
   "Ծառայողական թռիչքի ընթացքում տեղի ունեցած ավիավթարի հետևանքով զոհվել են փոխգնդապետ Անդրանիկ Սարգսյանը և լեյտենանտ Քվենտին Կլիզը",
   "Մեքսիկայում աղջիկը մահացել է՝ դուրս թռչելով «Ճոճանակ» ատրակցիոնից:",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Նորք Մարաշ վարչական շրջանում հոկտեմբերի 23-ին",
@@ -3301,7 +3300,8 @@
   "«Բոլորը շոկի մեջ են». մահացել է ռեփեր Միշա Մավաշին",
   "Դատապարտված նախկին նախագահի որդին ընդդեմ Լուլայի․ Բրազիլիայում ընթանում է ընտրությունների երկրորդ փուլը",
   "«Ուժեղ Հայաստանը» տեսանյութեր է հրապարակել, որում 25/1 և 25/27 ԸԸՏ-ներում քաղաքացիները երկուսով են քվեախցիկում ընտրություն կատարում։",
-  "75 ընտրատեղամասում արձանագրվել է 117 խնդիրների և հնարավոր ընտրախախտումների վերաբերյալ գրանցում"
+  "75 ընտրատեղամասում արձանագրվել է 117 խնդիրների և հնարավոր ընտրախախտումների վերաբերյալ գրանցում",
+  "Իրանի ԱԳ նախարարը կոչ է արել Մերձավոր Արևելքում օտարերկրյա զինվորականների ներկայությունը հասցնել զրոյի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792927287.9406857,
+ "last_post": 1792928195.1941679,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
