@@ -1,12 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069587",
-  "168.am:https://168.am/?p=2502273",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261022/19982007tt-hashmandamutjun-stacats-zintsarajvoghnery-dramajin-nvor-ajakcutjun-kstanan-108425010.html",
-  "tg:shamshyan_com/55561",
-  "tg:twentyfournews/324783",
-  "Factor.am:https://factor.am/?p=1072857",
-  "News.am:https://news.am/hy/news/1069586",
   "Aravot.am:https://www.aravot.am/?p=1588473",
   "News.am:https://news.am/hy/news/1069583",
   "tg:twentyfournews/324787",
@@ -2999,10 +2992,16 @@
   "News.am:https://news.am/hy/news/1070182",
   "tg:twentyfournews/325283",
   "News.am:https://news.am/hy/news/1070167",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/turqian-avartel-e-hajastani-het-sahmanin-gtnvvogh-anii-kamrji-verakangnman-mrcujty-108526154.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/turqian-avartel-e-hajastani-het-sahmanin-gtnvvogh-anii-kamrji-verakangnman-mrcujty-108526154.html",
+  "tg:twentyfournews/325285",
+  "Aravot.am:https://www.aravot.am/?p=1589061",
+  "168.am:https://168.am/?p=2503745",
+  "1in.am:https://www.1in.am/?p=3772185",
+  "News.am:https://news.am/hy/news/1070168",
+  "168.am:https://168.am/?p=2503878",
+  "News.am:https://news.am/hy/news/1070185"
  ],
  "titles": [
-  "Թուրքիայում երկու մարդ զոհվել է հանքավայրում պայթյունի հետևանքով",
   "Ջովանին նախազգուշացրել է «Ռոմային». «Նապոլին ուժեղ է և կարող է հաղթել»",
   "Իրանի ծովային շրջափակման 100 օրվա ընթացքում ԱՄՆ ուժերը կանխել են 25 մլրդ դոլարի նավթի արտահանումը. CENTCOM",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզի Մեղրի քաղաքում հոկտեմբերի 23-ին; Վթարային ջրանջատում Շիրակի մարզի Արթիկ քաղաքում հոկտեմբերի 23-ին; Վթարային ջրանջատում Կոտայքի մարզի Հրազդան քաղաքում հոկտեմբերի 23-ին",
@@ -3301,7 +3300,8 @@
   "Իրանի ԱԳ նախարարը կոչ է արել Մերձավոր Արևելքում օտարերկրյա զինվորականների ներկայությունը հասցնել զրոյի",
   "Ողբերգական ավտովթար՝ Երևանում. բախվել են «BYD»-ն ու «Kia»-ն. 4 վիրավորներից մեկը հիվանդանոցում մահացել է. «Kia»-ի վարորդը, ով ԱԱԾ աշխատակից է, դեպքի վայրից ճողոպրել էր. համայնքային ոստիկանները լուսաբա",
   "Գոհար Մելոյան. Քաղաքացին քվեախցիկում լուսանկարել է ՔՊ-ի քվեաթերթիկը",
-  "Կրեմլ. Մոսկվան, Պեկինը և Վաշինգտոնը սկսել են նախապատրաստվել ԱԽՏՀ-ի շրջանակներում եռակողմ գագաթնաժողովին"
+  "Կրեմլ. Մոսկվան, Պեկինը և Վաշինգտոնը սկսել են նախապատրաստվել ԱԽՏՀ-ի շրջանակներում եռակողմ գագաթնաժողովին",
+  "Ողբերգական վթար Աջափնյակում. 3 երեխաների մայրը հիվանդանոցում մահացել է"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1792929454.9701345,
+ "last_post": 1792930008.559437,
  "digest_last": {
   "ՀԷՑ": 1792677446.266967,
   "Վեոլիա Ջուր": 1792920935.4278984
