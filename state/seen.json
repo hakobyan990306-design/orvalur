@@ -1,19 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/81768",
-  "News.am:https://news.am/hy/news/1069890",
-  "Hetq:https://hetq.am/hy/article/184926",
-  "Factor.am:https://factor.am/?p=1073428",
-  "Aravot.am:https://www.aravot.am/?p=1588779",
-  "168.am:https://168.am/?p=2503000",
-  "1in.am:https://www.1in.am/?p=3771844",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/mvoskvaji-sheremetevvo-odanavakajanum-odajin-tagnap-e-hajtararvel-108476504.html",
-  "tg:twentyfournews/325031",
-  "Factor.am:https://factor.am/?p=1073436",
-  "Aravot.am:https://www.aravot.am/?p=1588781",
-  "168.am:https://168.am/?p=2502997",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/kievn-ajlevs-sepakan-elektraenergiaji-artadrutjun-chi-apahvovum-qaghaqapet-108475761.html",
-  "News.am:https://news.am/hy/news/1069888",
   "Aravot.am:https://www.aravot.am/?p=1588777",
   "168.am:https://168.am/?p=2502993",
   "168.am:https://168.am/?p=2502988",
@@ -2999,10 +2985,23 @@
   "Factor.am:https://factor.am/?p=1074321",
   "168.am:https://168.am/?p=2504385",
   "1in.am:https://www.1in.am/?p=3772783",
-  "168.am:https://168.am/?p=2504360"
+  "168.am:https://168.am/?p=2504360",
+  "tg:twentyfournews/325590",
+  "tg:RadarARM/81867",
+  "News.am:https://news.am/hy/news/1070461",
+  "Factor.am:https://factor.am/?p=1074348",
+  "Aravot.am:https://www.aravot.am/?p=1589412",
+  "1in.am:https://www.1in.am/?p=3772823",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/lghic-teghahanvatsneri-bnakapahvovman-tsragrum-pvopvokhutjuner-klinen-tvorvosjan-108555443.html",
+  "tg:twentyfournews/325589",
+  "Factor.am:https://factor.am/?p=1074369",
+  "1in.am:https://www.1in.am/?p=3772881",
+  "Factor.am:https://factor.am/?p=1074365",
+  "Factor.am:https://factor.am/?p=1074362",
+  "168.am:https://168.am/?p=2504316",
+  "168.am:https://168.am/?p=2504351"
  ],
  "titles": [
-  "Թուրքիայում ներդրումային ֆոնդերի հետաքննության շրջանակում ավելի քան 110 մարդ է ձերբակալվել",
   "«Բավական է, մենք այլևս չենք կարող շնչել». Թուրքիայում հազարավոր մարդիկ դուրս են եկել բողոքի ցույցերի",
   "🟩 Հայ մարմնամարզիկ Համլետ Մանուկյանը Նիդերլանդներում հռչակվել է աշխարհի չեմպիոն։",
   "ՌԴ Հրեական ինքնավար մարզում միկրոավտոբուսը դուրս է եկել երկաթգծի վրա և բախվել գնացին. զոհվել է վեց մարդ",
@@ -3301,7 +3300,8 @@
   "Հունվար-սեպտեմբերին ՀՀ պետական բյուջեն կատարվել է 27.8 մլրդ դրամ հավելուրդով",
   "Վերաքննիչն ինձ արդարացրեց այն հոդվածով, որով ես կալանավորված էի 2 տարի 7 ամիս. Մամիկոն Ասլանյան",
   "Բանկերը 334 մլրդ դրամի շահույթ են ստացել. ի՞նչ են շահել պետությունն ու քաղաքացին",
-  "Վրաստանի ընդդիմությունը բողոքի նոր ալիք է սկսում"
+  "Վրաստանի ընդդիմությունը բողոքի նոր ալիք է սկսում",
+  "Իրանի նախագահը կմեկնի Ռուսաստան՝ էներգետիկ համագործակցությունը քննարկելու համար"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3323,13 +3323,9 @@
   "1in.am:https://www.1in.am/?p=3772801": {
    "score": 5,
    "since": 1793016534.6338325
-  },
-  "168.am:https://168.am/?p=2504351": {
-   "score": 5,
-   "since": 1793021998.7883015
   }
  },
- "last_post": 1793024220.7125301,
+ "last_post": 1793024757.3049061,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
