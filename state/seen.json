@@ -1,27 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1588793",
-  "168.am:https://168.am/?p=2503050",
-  "1in.am:https://www.1in.am/?p=3771859",
-  "tg:twentyfournews/325036",
-  "News.am:https://news.am/hy/news/1069905",
-  "168.am:https://168.am/?p=2502911",
-  "tg:fastsportstv/27162",
-  "168.am:https://168.am/?p=2503041",
-  "tg:fastsportstv/27159",
-  "168.am:https://168.am/?p=2503037",
-  "tg:fastsportstv/27158",
-  "168.am:https://168.am/?p=2503032",
-  "168.am:https://168.am/?p=2503026",
-  "tg:fastsportstv/27154",
-  "tg:fastsportstv/27156",
-  "168.am:https://168.am/?p=2503044",
-  "tg:shamshyan_com/55632",
-  "tg:factoram/74661",
-  "Aravot.am:https://www.aravot.am/?p=1588805",
-  "168.am:https://168.am/?p=2502925",
-  "1in.am:https://www.1in.am/?p=3771789",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/vorqan-arzhutajin-pahust-uni-irany-kb-nakhagahi-pataskhany-108479522.html",
   "tg:shamshyan_com/55631",
   "Armsport.am:https://armsport.am/?p=611443",
   "News.am:https://news.am/hy/news/1069913",
@@ -2999,10 +2977,31 @@
   "Hetq:https://hetq.am/hy/article/185002",
   "News.am:https://news.am/hy/news/1070465",
   "Factor.am:https://factor.am/?p=1074298",
-  "tg:shamshyan_com/55813"
+  "tg:shamshyan_com/55813",
+  "tg:shamshyan_com/55815",
+  "tg:fastsport_am/1720",
+  "tg:twentyfournews/325600",
+  "tg:fastsportstv/27168",
+  "Factor.am:https://factor.am/?p=1074308",
+  "Aravot.am:https://www.aravot.am/?p=1589427",
+  "168.am:https://168.am/?p=2504434",
+  "1in.am:https://www.1in.am/?p=3772866",
+  "tg:fastsport_am/1719",
+  "tg:twentyfournews/325599",
+  "tg:fastsportstv/27167",
+  "News.am:https://news.am/hy/news/1070473",
+  "168.am:https://168.am/?p=2504397",
+  "1in.am:https://www.1in.am/?p=3772905",
+  "tg:fastsport_am/1718",
+  "tg:fastsportstv/27153",
+  "168.am:https://168.am/?p=2504431",
+  "tg:fastsport_am/1717",
+  "tg:fastsportstv/27148",
+  "168.am:https://168.am/?p=2504429",
+  "Armsport.am:https://armsport.am/?p=611494",
+  "News.am:https://news.am/hy/news/1070476"
  ],
  "titles": [
-  "Ֆրանսիայում ռազմական ինքնաթիռի կործանման հետևանքով հայազգի օդաչու է զոհվել",
   "Ադրբեջանին՝ հրետանային համակարգեր և համատեղ գործարան, Հայաստանին՝ Skyfox-ներ․ Չեխիայի ռազմական «խաղը» Երևանի և Բաքվի միջև",
   "🎥 Չեմպիոնական մրցավազքը թեժանում է. Արսենալը վստահ հաղթանակ տարավ Էվերթոնի նկատմամբ",
   "Օմսկում Ozon-ի լոգիստիկ կենտրոնը բռնկվել է անօդաչուի գրոհից հետո",
@@ -3301,7 +3300,8 @@
   "Մակրոնը խոստովանել է, որ իշխանությունները պատրաստ չէին Ֆրանսիայում տեղի ունեցած բողոքի ակցիաներին",
   "6.9% տնտեսական աճ՝ շինարարության բարձր աճի և գյուղատնտեսության անկման ֆոնին",
   "Մոսկվայի ՀՕՊ համակարգի վրա հարձակումներ նախապատրաստելու համար Անդրկովկասից եկած անձինք են ձերբակալվել",
-  "Պրահայում հազարավոր մարդիկ բողոքի ցույց են անցկացրել՝ ընդդեմ հանրային լրատվամիջոցների վճարները վերացնելու ծրագրերի"
+  "Պրահայում հազարավոր մարդիկ բողոքի ցույց են անցկացրել՝ ընդդեմ հանրային լրատվամիջոցների վճարները վերացնելու ծրագրերի",
+  "Ո՛չ Ֆաբրեգասը, ո՛չ էլ Էնրիկեն. Դեկուն Ֆլիկին ապագայում փոխարինելու նոր թեկնածու է ընտրել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793027836.779071,
+ "last_post": 1793028380.605397,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793021399.5169015
+ "last_sport": 1793028380.6054015
 }
