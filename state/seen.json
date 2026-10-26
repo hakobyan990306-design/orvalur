@@ -1,21 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2503074",
-  "tg:shamshyan_com/55639",
-  "tg:twentyfournews/325053",
-  "tg:twentyfournews/325055",
-  "Armsport.am:https://armsport.am/?p=611455",
-  "Hetq:https://hetq.am/hy/article/184928",
-  "Aravot.am:https://www.aravot.am/?p=1588816",
-  "168.am:https://168.am/?p=2503158",
-  "tg:twentyfournews/325054",
-  "News.am:https://news.am/hy/news/1069934",
-  "Aravot.am:https://www.aravot.am/?p=1588815",
-  "168.am:https://168.am/?p=2503143",
-  "News.am:https://news.am/hy/news/1069927",
-  "168.am:https://168.am/?p=2503140",
-  "168.am:https://168.am/?p=2502964",
-  "tg:shamshyan_com/55640",
   "tg:RadarARM/81775",
   "News.am:https://news.am/hy/news/1069933",
   "1in.am:https://www.1in.am/?p=3771820",
@@ -2999,13 +2983,25 @@
   "tg:fastsport_am/1724",
   "tg:fastsport_am/1722",
   "tg:fastsport_am/1727",
-  "News.am:https://news.am/hy/news/1070454"
+  "News.am:https://news.am/hy/news/1070454",
+  "tg:twentyfournews/325621",
+  "tg:RadarARM/81872",
+  "Aravot.am:https://www.aravot.am/?p=1589441",
+  "1in.am:https://www.1in.am/?p=3772941",
+  "tg:twentyfournews/325620",
+  "168.am:https://168.am/?p=2504404",
+  "1in.am:https://www.1in.am/?p=3772960",
+  "168.am:https://168.am/?p=2504496",
+  "1in.am:https://www.1in.am/?p=3772957",
+  "1in.am:https://www.1in.am/?p=3772954",
+  "1in.am:https://www.1in.am/?p=3772951",
+  "tg:fastsport_am/1726",
+  "tg:shamshyan_com/55825",
+  "News.am:https://news.am/hy/news/1070451",
+  "Factor.am:https://factor.am/?p=1074375",
+  "168.am:https://168.am/?p=2504501"
  ],
  "titles": [
-  "🎥 Խելահեղ 3:3՝ Մարադոնայի անվան մարզադաշտում. Ալեգրին հեռացվեց խաղադաշտից",
-  "Աճող տնտեսության աղքատ քաղաքացիները. Համաշխարհային բանկի անհարմար թվերը",
-  "Եղեգնաձորի համայնքապետը, փոխհամայնքապետը և ավագանու 3 թեկնածուներն ազատ են արձակվել",
-  "🎥 Ինքնագոլ, հեռացում և 0:2. Չելսին սեփական հարկի տակ զիջեց Տոտենհեմին",
   "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր",
   "Իսրայելը և Հունաստանը Թուրքիայի հետ լարվածության ֆոնին համատեղ ռազմածովային զորավարժություններ են անցկացրել",
   "Սամվել Թադևոսյանն արժանացել է «Ոսկե գլոբուսի» Beacon Award մրցանակին",
@@ -3301,7 +3297,11 @@
   "Կանանց Հայաստանի Մ-17 հավաքականը խոշոր հաշվով պարտություն է կրել",
   "«Առևանգում» են ընդդիմադիր թեկնածուներին, պարալիզացնում աշխատանքը, հաղթում, սա՞ է ժողովրդավարությունը",
   "🟨 Բիրմինգհեմի օդանավակայանում փոթորկային քամին վայրէջքի պահին ինքնաթիռը դուրս է մղել թռիչքուղուց։",
-  "⚽ FC Barcelona 1–2 Real Madrid CF"
+  "⚽ FC Barcelona 1–2 Real Madrid CF",
+  "⚽ Real Sociedad de Fútbol 2–1 Levante UD",
+  "Որոնք են Հայաստանում արդյունաբերական արտադրության ծավալի աճի տեմպերը՝ ԵԱՏՄ մյուս երկրների համեմատ",
+  "Մակրոնը զգուշացնում է՝ Ֆրանսիայում շաբաթ օրը կայանալիք ցույցերը կարող են «վտանգավոր» դառնալ",
+  "Փեզեշքիան․ Իրանը կշարունակի զարգացնել միջուկային ծրագիրը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1726": {
-   "score": 7,
-   "since": 1793034724.1866643
-  },
   "tg:fastsport_am/1723": {
    "score": 7,
    "since": 1793034724.1866643
@@ -3331,9 +3327,17 @@
   "tg:fastsport_am/1721": {
    "score": 7,
    "since": 1793034724.1866643
+  },
+  "Armsport.am:https://armsport.am/?p=611797": {
+   "score": 7,
+   "since": 1793035640.3870745
+  },
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelenskin-stvoragrel-e-razmakan-drutjuny-ev-zvorahavaqy-erkaradzgelu-masin-orenqnery-108560389.html": {
+   "score": 5,
+   "since": 1793035640.3870745
   }
  },
- "last_post": 1793034737.2818315,
+ "last_post": 1793036123.865961,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3341,5 +3345,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793034737.2818365
+ "last_sport": 1793035653.3905272
 }
