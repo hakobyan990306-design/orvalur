@@ -1,26 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771723",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/menq-patrast-enq-narek-karapetjany-artahert-yntrutjunneri-masin-108454470.html",
-  "tg:twentyfournews/324952",
-  "News.am:https://news.am/hy/news/1069781",
-  "Aravot.am:https://www.aravot.am/?p=1588661",
-  "168.am:https://168.am/?p=2502765",
-  "News.am:https://news.am/hy/news/1069780",
-  "168.am:https://168.am/?p=2502762",
-  "tg:twentyfournews/324950",
-  "News.am:https://news.am/hy/news/1069779",
-  "tg:twentyfournews/324949",
-  "News.am:https://news.am/hy/news/1069776",
-  "News.am:https://news.am/hy/news/1069775",
-  "digest:veolia:cc67fe72d9ab",
-  "veolia:cc67fe72d9ab",
-  "tg:shamshyan_com/55606",
-  "Factor.am:https://factor.am/?p=1073212",
-  "tg:twentyfournews/324951",
-  "tg:shamshyan_com/55608",
-  "tg:twentyfournews/324955",
-  "News.am:https://news.am/hy/news/1069763",
   "Aravot.am:https://www.aravot.am/?p=1588664",
   "168.am:https://168.am/?p=2502738",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/evramiutjunum-bvoghvoqi-cujceri-aliqy-dzmran-mvotenalun-zugaher-miajn-katshi-politico-108455088.html",
@@ -2999,7 +2978,28 @@
   "Armsport.am:https://armsport.am/?p=611745",
   "tg:twentyfournews/325517",
   "168.am:https://168.am/?p=2504081",
-  "Aravot.am:https://www.aravot.am/?p=1589265"
+  "Aravot.am:https://www.aravot.am/?p=1589265",
+  "tg:shamshyan_com/55786",
+  "tg:twentyfournews/325520",
+  "tg:RadarARM/81853",
+  "News.am:https://news.am/hy/news/1070349",
+  "Factor.am:https://factor.am/?p=1074110",
+  "Aravot.am:https://www.aravot.am/?p=1589272",
+  "1in.am:https://www.1in.am/?p=3772734",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/rusastany-patrast-e-bnapahpanakan-volvortum-dzerq-berats-pvordzy-pvokhancel-hajastanin-despan-108542969.html",
+  "tg:shamshyan_com/55785",
+  "tg:twentyfournews/325519",
+  "News.am:https://news.am/hy/news/1070301",
+  "Factor.am:https://factor.am/?p=1074052",
+  "168.am:https://168.am/?p=2504087",
+  "1in.am:https://www.1in.am/?p=3772713",
+  "tg:shamshyan_com/55783",
+  "tg:twentyfournews/325518",
+  "News.am:https://news.am/hy/news/1070348",
+  "tg:twentyfournews/325510",
+  "News.am:https://news.am/hy/news/1070344",
+  "News.am:https://news.am/hy/news/1070339",
+  "168.am:https://168.am/?p=2504090"
  ],
  "titles": [
   "Երևանում բախվել են «Honda» ավտոմեքենան ու մոպեդը, վերջինը կողաշրջվել է․ Երևանի 1-03 շտապօգնության և «Էրեբունի» բժշկական կենտրոնի բժիշկների շնորհիվ հնարավոր է եղել մոպեդավարի կյանքը փրկել․ ՖՈՏՈՌԵՊՈՐՏԱԺ",
@@ -3319,16 +3319,7 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:twentyfournews/325510": {
-   "score": 5,
-   "since": 1793003577.8521693
-  },
-  "News.am:https://news.am/hy/news/1070339": {
-   "score": 5,
-   "since": 1793004479.3810718
-  }
- },
+ "pending": {},
  "last_post": 1793005072.5210488,
  "digest_last": {
   "ՀԷՑ": 1792992678.3151057,
