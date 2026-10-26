@@ -1,26 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1588694",
-  "Factor.am:https://factor.am/?p=1073281",
-  "tg:twentyfournews/324976",
-  "tg:twentyfournews/324980",
-  "Hetq:https://hetq.am/hy/article/184920",
-  "Factor.am:https://factor.am/?p=1073257",
-  "Aravot.am:https://www.aravot.am/?p=1588700",
-  "168.am:https://168.am/?p=2502824",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/erevanum-kvoghashrjvats-avtvobusi-ughevvorneri-mi-masy-hndikner-en-inch-vitshakum-en-nranq-108462172.html",
-  "tg:twentyfournews/324979",
-  "News.am:https://news.am/hy/news/1069818",
-  "Factor.am:https://factor.am/?p=1073262",
-  "Aravot.am:https://www.aravot.am/?p=1588458",
-  "News.am:https://news.am/hy/news/1069816",
-  "Factor.am:https://factor.am/?p=1073306",
-  "Aravot.am:https://www.aravot.am/?p=1588698",
-  "168.am:https://168.am/?p=2502830",
-  "News.am:https://news.am/hy/news/1069815",
-  "digest:veolia:f26dd62890ec",
-  "veolia:f26dd62890ec",
-  "168.am:https://168.am/?p=2502835",
   "News.am:https://news.am/hy/news/1069812",
   "tg:fastsport_am/1670",
   "News.am:https://news.am/hy/news/1069802",
@@ -2999,10 +2978,30 @@
   "News.am:https://news.am/hy/news/1070384",
   "Factor.am:https://factor.am/?p=1074155",
   "Aravot.am:https://www.aravot.am/?p=1589309",
-  "tg:twentyfournews/325541"
+  "tg:twentyfournews/325541",
+  "tg:twentyfournews/325548",
+  "tg:factoram/74776",
+  "News.am:https://news.am/hy/news/1070343",
+  "Hetq:https://hetq.am/hy/article/184995",
+  "Factor.am:https://factor.am/?p=1074171",
+  "168.am:https://168.am/?p=2504216",
+  "1in.am:https://www.1in.am/?p=3772780",
+  "tg:twentyfournews/325547",
+  "tg:factoram/74775",
+  "News.am:https://news.am/hy/news/1070388",
+  "Hetq:https://hetq.am/hy/article/184994",
+  "Aravot.am:https://www.aravot.am/?p=1589317",
+  "tg:twentyfournews/325546",
+  "News.am:https://news.am/hy/news/1070385",
+  "Aravot.am:https://www.aravot.am/?p=1589314",
+  "tg:twentyfournews/325545",
+  "News.am:https://news.am/hy/news/1070387",
+  "Aravot.am:https://www.aravot.am/?p=1589311",
+  "tg:twentyfournews/325544",
+  "Aravot.am:https://www.aravot.am/?p=1589316",
+  "168.am:https://168.am/?p=2504189"
  ],
  "titles": [
-  "Գազի թանկացման սպառնալիքի տակ թաքնված տնտեսական հարցերը",
   "«Մենք չենք կարող մեզ նման բան թույլ տալ». Բրիտանիայի ԱԳ նախարարը՝ Իրանի հետ պատերազմը դադարեցնելու ջանքերն ակտիվացնելու մասին",
   "Ես ստիպված էի հարձակվել Իրանի վրա․ Թրամփ",
   "«Սերունդը մեկ անգամ». ԱՄՆ-ի հարավ-արևմուտքում զանգվածային ջրհեղեղների պատճառով տարհանում են հայտարարել",
@@ -3301,7 +3300,8 @@
   "Հոկեյի Հայաստանի հավաքականը հաղթել է ընկերական խաղում. ՏԵՍԱՆՅՈՒԹ",
   "Ադրբեջանի ԱԳ նախարարը խոսել է Հայաստանի հետ խաղաղության համաձայնագրի ստորագրման ժամկետներից",
   "«Այս տարի ավտոճանապարհներին 7 զոհ ու 40 վիրավոր պակաս ունենք»․ Արփինե Սարգսյան",
-  "Կոնգոյի Դեմոկրատական Հանրապետությունում աճել է էբոլա վիրուսով վարակման դեպքերի թիվը"
+  "Կոնգոյի Դեմոկրատական Հանրապետությունում աճել է էբոլա վիրուսով վարակման դեպքերի թիվը",
+  "Հայաստան կժամանի Նիդերլանդների Թագավորության արտաքին գործերի նախարար Թոմ Բերենդսենը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793012086.2838082,
+ "last_post": 1793012693.771533,
  "digest_last": {
   "ՀԷՑ": 1792992678.3151057,
   "Վեոլիա Ջուր": 1793009964.0833232
