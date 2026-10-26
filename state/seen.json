@@ -1,27 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hraparakvel-e-1000-khvoshvor-harkatuneri-canky-vov-e-arajin-hvorizvonakanum-108481893.html",
-  "tg:shamshyan_com/55628",
-  "tg:twentyfournews/325049",
-  "tg:factoram/74663",
-  "Factor.am:https://factor.am/?p=1073500",
-  "168.am:https://168.am/?p=2503129",
-  "tg:shamshyan_com/55637",
-  "1in.am:https://www.1in.am/?p=3771897",
-  "tg:RadarARM/81774",
-  "News.am:https://news.am/hy/news/1069929",
-  "Hetq:https://hetq.am/hy/article/184873",
-  "168.am:https://168.am/?p=2503152",
-  "1in.am:https://www.1in.am/?p=3771902",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hh-erkrvord-nakhagah-rvobert-qvocharjani-kalanqi-zhamkety-erkaracvec-evs-2-amsvov-108433961.html",
-  "tg:shamshyan_com/55638",
-  "tg:twentyfournews/325052",
-  "News.am:https://news.am/hy/news/1069902",
-  "168.am:https://168.am/?p=2503146",
-  "1in.am:https://www.1in.am/?p=3771887",
-  "tg:twentyfournews/325051",
-  "News.am:https://news.am/hy/news/1069926",
-  "168.am:https://168.am/?p=2503145",
   "168.am:https://168.am/?p=2503074",
   "tg:shamshyan_com/55639",
   "tg:twentyfournews/325053",
@@ -2999,10 +2977,31 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/glvobal-bnapahpanakan-himnadrami-bjujen-khasni-44-mlrd-dvolari-hh-n-karvogh-e-ogtvel-dranic-108559483.html",
   "tg:twentyfournews/325614",
   "168.am:https://168.am/?p=2504442",
-  "tg:RadarARM/81871"
+  "tg:RadarARM/81871",
+  "tg:shamshyan_com/55824",
+  "tg:fastsport_am/1729",
+  "tg:twentyfournews/325619",
+  "Armsport.am:https://armsport.am/?p=611793",
+  "News.am:https://news.am/hy/news/1070485",
+  "Factor.am:https://factor.am/?p=1074323",
+  "Aravot.am:https://www.aravot.am/?p=1589436",
+  "168.am:https://168.am/?p=2504354",
+  "1in.am:https://www.1in.am/?p=3772948",
+  "tg:shamshyan_com/55823",
+  "tg:fastsport_am/1728",
+  "tg:twentyfournews/325618",
+  "Armsport.am:https://armsport.am/?p=611796",
+  "168.am:https://168.am/?p=2504479",
+  "tg:shamshyan_com/55822",
+  "tg:twentyfournews/325617",
+  "News.am:https://news.am/hy/news/1070463",
+  "tg:fastsport_am/1725",
+  "tg:fastsport_am/1724",
+  "tg:fastsport_am/1722",
+  "tg:fastsport_am/1727",
+  "News.am:https://news.am/hy/news/1070454"
  ],
  "titles": [
-  "Թրամփը հակված է Իրանի դեմ ռազմական գործողությունները վերսկսելուն",
   "🎥 Խելահեղ 3:3՝ Մարադոնայի անվան մարզադաշտում. Ալեգրին հեռացվեց խաղադաշտից",
   "Աճող տնտեսության աղքատ քաղաքացիները. Համաշխարհային բանկի անհարմար թվերը",
   "Եղեգնաձորի համայնքապետը, փոխհամայնքապետը և ավագանու 3 թեկնածուներն ազատ են արձակվել",
@@ -3301,7 +3300,8 @@
   "Ապագայում Ադրբեջանի հետ համատեղ ծրագրեր կարող ենք իրականացնել. ՇՄ նախարար",
   "Կանանց Հայաստանի Մ-17 հավաքականը խոշոր հաշվով պարտություն է կրել",
   "«Առևանգում» են ընդդիմադիր թեկնածուներին, պարալիզացնում աշխատանքը, հաղթում, սա՞ է ժողովրդավարությունը",
-  "🟨 Բիրմինգհեմի օդանավակայանում փոթորկային քամին վայրէջքի պահին ինքնաթիռը դուրս է մղել թռիչքուղուց։"
+  "🟨 Բիրմինգհեմի օդանավակայանում փոթորկային քամին վայրէջքի պահին ինքնաթիռը դուրս է մղել թռիչքուղուց։",
+  "⚽ FC Barcelona 1–2 Real Madrid CF"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,21 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1793033832.900665,
+ "pending": {
+  "tg:fastsport_am/1726": {
+   "score": 7,
+   "since": 1793034724.1866643
+  },
+  "tg:fastsport_am/1723": {
+   "score": 7,
+   "since": 1793034724.1866643
+  },
+  "tg:fastsport_am/1721": {
+   "score": 7,
+   "since": 1793034724.1866643
+  }
+ },
+ "last_post": 1793034737.2818315,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3328,5 +3341,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793032239.101731
+ "last_sport": 1793034737.2818365
 }
