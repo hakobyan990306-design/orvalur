@@ -1,17 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1073532",
-  "168.am:https://168.am/?p=2503163",
-  "1in.am:https://www.1in.am/?p=3771880",
-  "tg:twentyfournews/325056",
-  "News.am:https://news.am/hy/news/1069900",
-  "168.am:https://168.am/?p=2503155",
-  "Factor.am:https://factor.am/?p=1073492",
-  "tg:twentyfournews/325058",
-  "1in.am:https://www.1in.am/?p=3771877",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/ukrainaji-zinvats-uzhery-orjvoli-marzum-qaghaqaciakan-dzernarkutjun-en-hrtirakvotsel-108483948.html",
-  "tg:twentyfournews/325057",
-  "tg:shamshyan_com/55642",
   "tg:twentyfournews/325060",
   "News.am:https://news.am/hy/news/1069937",
   "Hetq:https://hetq.am/hy/article/184932",
@@ -2999,12 +2987,21 @@
   "168.am:https://168.am/?p=2504348",
   "1in.am:https://www.1in.am/?p=3772963",
   "tg:fastsport_am/1723",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelenskin-stvoragrel-e-razmakan-drutjuny-ev-zvorahavaqy-erkaradzgelu-masin-orenqnery-108560389.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelenskin-stvoragrel-e-razmakan-drutjuny-ev-zvorahavaqy-erkaradzgelu-masin-orenqnery-108560389.html",
+  "tg:twentyfournews/325626",
+  "Aravot.am:https://www.aravot.am/?p=1589445",
+  "1in.am:https://www.1in.am/?p=3772966",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/nebenzjan-mak-um-patmel-e-ukrainaji-kvoghmic-rus-erekhanerin-sparnacvogh-vtangneri-masin-108560973.html",
+  "tg:twentyfournews/325625",
+  "168.am:https://168.am/?p=2504506",
+  "168.am:https://168.am/?p=2504455",
+  "tg:fastsport_am/1721",
+  "Factor.am:https://factor.am/?p=1074416",
+  "News.am:https://news.am/hy/news/1070486",
+  "News.am:https://news.am/hy/news/1070487",
+  "168.am:https://168.am/?p=2504510"
  ],
  "titles": [
-  "Սամվել Թադևոսյանն արժանացել է «Ոսկե գլոբուսի» Beacon Award մրցանակին",
-  "Նա հիանալի ֆուտբոլիստ է, իսկ մեծերին հարգում են․ Ժոզե Մոուրինյու",
-  "Հայաստանը հաղթեց «Մանկական Եվրատեսիլ 2026»–ում",
   "Հայաստանի 21 համայնքում այսօր ՏԻՄ ընտրություններ են",
   "Անհետացած տեսակների վերստեղծմամբ զբաղվող ընկերությունը կստեղծի շներ ԱՄՆ բանակի համար",
   "Խստորեն դատապարտում եմ Տրապում և Լա Վերիերում տեղի ունեցած ահաբեկչական ակտը. Նիկոլ Փաշինյան",
@@ -3301,7 +3298,10 @@
   "Մակրոնը զգուշացնում է՝ Ֆրանսիայում շաբաթ օրը կայանալիք ցույցերը կարող են «վտանգավոր» դառնալ",
   "Փեզեշքիան․ Իրանը կշարունակի զարգացնել միջուկային ծրագիրը",
   "⚽ Manchester United FC 0–3 AFC Bournemouth",
-  "Զելենսկին ստորագրել է ռազմական դրությունը և զորահավաքը երկարաձգելու մասին օրենքները"
+  "Զելենսկին ստորագրել է ռազմական դրությունը և զորահավաքը երկարաձգելու մասին օրենքները",
+  "⚽ Liverpool FC 2–0 Brighton & Hove Albion FC",
+  "ԿԲ-ն բարձրացնում է բանկերի կապիտալի հակացիկլիկ բուֆերը․ նոր չափը կգործի 2027-ից",
+  "«Ականատեսը» ՏԻՄ ընտրությունների ընթացքում արձանագրել է 217 խնդիր և հնարավոր ընտրախախտում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,16 +3320,12 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1721": {
-   "score": 7,
-   "since": 1793034724.1866643
-  },
   "Armsport.am:https://armsport.am/?p=611797": {
    "score": 7,
    "since": 1793035640.3870745
   }
  },
- "last_post": 1793036706.4831421,
+ "last_post": 1793037914.767671,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3337,5 +3333,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793036577.8812728
+ "last_sport": 1793037473.0247345
 }
