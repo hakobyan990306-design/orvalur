@@ -1,20 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771955",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hh-ishkhanutjuny-primitiv-hujs-e-unecel-vor-kkarvoghana-tsheghqum-mtcnel-eatmum-qaghaqaget-108480249.html",
-  "tg:twentyfournews/325044",
-  "News.am:https://news.am/hy/news/1069915",
-  "168.am:https://168.am/?p=2503124",
-  "News.am:https://news.am/hy/news/1069921",
-  "News.am:https://news.am/hy/news/1069920",
-  "News.am:https://news.am/hy/news/1069923",
-  "Factor.am:https://factor.am/?p=1073289",
-  "Factor.am:https://factor.am/?p=1073496",
-  "168.am:https://168.am/?p=2503100",
-  "168.am:https://168.am/?p=2503121",
-  "tg:shamshyan_com/55636",
-  "tg:fastsport_am/1676",
-  "tg:twentyfournews/325048",
   "Factor.am:https://factor.am/?p=1073360",
   "168.am:https://168.am/?p=2503131",
   "1in.am:https://www.1in.am/?p=3771810",
@@ -2999,11 +2984,24 @@
   "tg:shamshyan_com/55819",
   "tg:fastsportstv/27163",
   "168.am:https://168.am/?p=2504326",
-  "168.am:https://168.am/?p=2504461"
+  "168.am:https://168.am/?p=2504461",
+  "tg:shamshyan_com/55820",
+  "tg:twentyfournews/325611",
+  "Armsport.am:https://armsport.am/?p=611771",
+  "News.am:https://news.am/hy/news/1070481",
+  "Hetq:https://hetq.am/hy/article/185006",
+  "1in.am:https://www.1in.am/?p=3772869",
+  "tg:twentyfournews/325610",
+  "News.am:https://news.am/hy/news/1070480",
+  "Hetq:https://hetq.am/hy/article/185005",
+  "168.am:https://168.am/?p=2504466",
+  "Hetq:https://hetq.am/hy/article/185004",
+  "Factor.am:https://factor.am/?p=1074405",
+  "168.am:https://168.am/?p=2504469",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/apagajum-adrbejani-het-hamategh-tsragrer-karvogh-enq-irakanacnel-shm-nakharar--108559216.html",
+  "Armsport.am:https://armsport.am/?p=611781"
  ],
  "titles": [
-  "6:2, թե՞ 5:0. Չավին ընտրել է Ռեալի նկատմամբ Բարսելոնայի լավագույն հաղթանակը",
-  "Երևան-Աշտարակ ավտոճանապարհին տեղի է ունեցել ՃՏՊ․ կան զոհեր և տուժածներ",
   "Միացյալ Նահանգները Մերձավոր Արևելքի երկրներից շտապ տարհանում է դիվանագետներին և նրանց ընտանիքի անդամներին՝ տարածաշրջանում իրավիճակի սրման սպառնալիքի ֆոնին, գրում է CNN-ը։",
   "Իրանը կորցնում է ցամաքային առևտրային ուղիները. Իրաքը և Պակիստանը փակում են առանցքային սահմանային անցակետերը․ ԶԼՄ",
   "Թրամփը հակված է Իրանի դեմ ռազմական գործողությունները վերսկսելուն",
@@ -3301,7 +3299,9 @@
   "Անտառի «վերքերը». ադրբեջանցիները զավթել են Շիկահողի արգելոցի մոտ 1/6 մասը",
   "Խոշոր ավտովթար՝ Արագածոտնի մարզում․ Երևան-Գյումրի ավտոճանապարհին բախվել են քարով բարձված «Զիլ» բեռնատարը և «Toyota Camry»-ն․ վերջինը գլխիվայր հայտնվել է երթևեկելի գոտում․ կա վիրավոր․ ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍ",
   "✅ Ազգերի լիգայի նոր մրցաշրջանն ընթացքի մեջ է: Այսօր պայքարի մեջ է մտնում նաև Հայաստանի հավաքականը:🇦🇲",
-  "ՄԱԿ գլխավոր քարտուղարի տեղակալը COP17-ում զգուշացրել է գլոբալ տաքացման հետևանքների մասին"
+  "ՄԱԿ գլխավոր քարտուղարի տեղակալը COP17-ում զգուշացրել է գլոբալ տաքացման հետևանքների մասին",
+  "Ապագայում Ադրբեջանի հետ համատեղ ծրագրեր կարող ենք իրականացնել. ՇՄ նախարար",
+  "Կանանց Հայաստանի Մ-17 հավաքականը խոշոր հաշվով պարտություն է կրել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Armsport.am:https://armsport.am/?p=611781": {
-   "score": 5,
-   "since": 1793031101.7207935
-  }
- },
- "last_post": 1793031716.193362,
+ "pending": {},
+ "last_post": 1793032239.1017263,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3333,5 +3328,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793031533.429465
+ "last_sport": 1793032239.101731
 }
