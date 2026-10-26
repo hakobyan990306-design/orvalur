@@ -1,17 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069924",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/navery-dadarecrel-en-hvormuzi-neghucvov-ancnelu-pvordzery-108481782.html",
-  "tg:RadarARM/81773",
-  "News.am:https://news.am/hy/news/1069906",
-  "tg:fastsport_am/1673",
-  "tg:twentyfournews/325050",
-  "tg:factoram/74664",
-  "News.am:https://news.am/hy/news/1069925",
-  "Factor.am:https://factor.am/?p=1073473",
-  "Aravot.am:https://www.aravot.am/?p=1588812",
-  "168.am:https://168.am/?p=2503139",
-  "1in.am:https://www.1in.am/?p=3771968",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/hraparakvel-e-1000-khvoshvor-harkatuneri-canky-vov-e-arajin-hvorizvonakanum-108481893.html",
   "tg:shamshyan_com/55628",
   "tg:twentyfournews/325049",
@@ -2999,10 +2987,21 @@
   "168.am:https://168.am/?p=2504471",
   "News.am:https://news.am/hy/news/1070482",
   "168.am:https://168.am/?p=2504210",
-  "tg:twentyfournews/325612"
+  "tg:twentyfournews/325612",
+  "tg:twentyfournews/325616",
+  "Factor.am:https://factor.am/?p=1074188",
+  "Aravot.am:https://www.aravot.am/?p=1589443",
+  "168.am:https://168.am/?p=2504493",
+  "1in.am:https://www.1in.am/?p=3772872",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/haravajin-kvorean-ev-amn-n-erkshabatja-razmaodajin-zvoravarzhutjunner-en-sksel-108559918.html",
+  "tg:twentyfournews/325615",
+  "168.am:https://168.am/?p=2504480",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/glvobal-bnapahpanakan-himnadrami-bjujen-khasni-44-mlrd-dvolari-hh-n-karvogh-e-ogtvel-dranic-108559483.html",
+  "tg:twentyfournews/325614",
+  "168.am:https://168.am/?p=2504442",
+  "tg:RadarARM/81871"
  ],
  "titles": [
-  "Իրանը կորցնում է ցամաքային առևտրային ուղիները. Իրաքը և Պակիստանը փակում են առանցքային սահմանային անցակետերը․ ԶԼՄ",
   "Թրամփը հակված է Իրանի դեմ ռազմական գործողությունները վերսկսելուն",
   "🎥 Խելահեղ 3:3՝ Մարադոնայի անվան մարզադաշտում. Ալեգրին հեռացվեց խաղադաշտից",
   "Աճող տնտեսության աղքատ քաղաքացիները. Համաշխարհային բանկի անհարմար թվերը",
@@ -3301,7 +3300,8 @@
   "ՄԱԿ գլխավոր քարտուղարի տեղակալը COP17-ում զգուշացրել է գլոբալ տաքացման հետևանքների մասին",
   "Ապագայում Ադրբեջանի հետ համատեղ ծրագրեր կարող ենք իրականացնել. ՇՄ նախարար",
   "Կանանց Հայաստանի Մ-17 հավաքականը խոշոր հաշվով պարտություն է կրել",
-  "«Առևանգում» են ընդդիմադիր թեկնածուներին, պարալիզացնում աշխատանքը, հաղթում, սա՞ է ժողովրդավարությունը"
+  "«Առևանգում» են ընդդիմադիր թեկնածուներին, պարալիզացնում աշխատանքը, հաղթում, սա՞ է ժողովրդավարությունը",
+  "🟨 Բիրմինգհեմի օդանավակայանում փոթորկային քամին վայրէջքի պահին ինքնաթիռը դուրս է մղել թռիչքուղուց։"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793032918.495635,
+ "last_post": 1793033832.900665,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
