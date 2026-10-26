@@ -1,22 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/325060",
-  "News.am:https://news.am/hy/news/1069937",
-  "Hetq:https://hetq.am/hy/article/184932",
-  "Factor.am:https://factor.am/?p=1073501",
-  "Aravot.am:https://www.aravot.am/?p=1588817",
-  "168.am:https://168.am/?p=2503171",
-  "1in.am:https://www.1in.am/?p=3771981",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/rd-masnagetnery-karvogh-en-ognel-hajastanin-verakangnel-vagri-pvopuljacian-108484343.html",
-  "tg:twentyfournews/325059",
-  "News.am:https://news.am/hy/news/1069928",
-  "Factor.am:https://factor.am/?p=1073511",
-  "168.am:https://168.am/?p=2503165",
-  "1in.am:https://www.1in.am/?p=3771987",
-  "Armsport.am:https://armsport.am/?p=611465",
-  "Factor.am:https://factor.am/?p=1073507",
-  "168.am:https://168.am/?p=2503168",
-  "tg:shamshyan_com/55643",
   "tg:twentyfournews/325063",
   "Factor.am:https://factor.am/?p=1073515",
   "168.am:https://168.am/?p=2503173",
@@ -2999,13 +2982,26 @@
   "Factor.am:https://factor.am/?p=1074416",
   "News.am:https://news.am/hy/news/1070486",
   "News.am:https://news.am/hy/news/1070487",
-  "168.am:https://168.am/?p=2504510"
+  "168.am:https://168.am/?p=2504510",
+  "tg:twentyfournews/325630",
+  "tg:RadarARM/81873",
+  "Armsport.am:https://armsport.am/?p=611808",
+  "News.am:https://news.am/hy/news/1070489",
+  "Aravot.am:https://www.aravot.am/?p=1589446",
+  "168.am:https://168.am/?p=2504328",
+  "1in.am:https://www.1in.am/?p=3772999",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelensku-ev-nra-khuntaji-khndirn-e-radivoaktiv-varakman-gvoti-steghtsel-zapvorvozhieum-rd-agn-108561156.html",
+  "tg:twentyfournews/325629",
+  "News.am:https://news.am/hy/news/1070488",
+  "168.am:https://168.am/?p=2504512",
+  "1in.am:https://www.1in.am/?p=3772992",
+  "tg:twentyfournews/325627",
+  "Armsport.am:https://armsport.am/?p=611797",
+  "Factor.am:https://factor.am/?p=1074278",
+  "tg:twentyfournews/325628",
+  "News.am:https://news.am/hy/news/1070449"
  ],
  "titles": [
-  "Հայաստանի 21 համայնքում այսօր ՏԻՄ ընտրություններ են",
-  "Անհետացած տեսակների վերստեղծմամբ զբաղվող ընկերությունը կստեղծի շներ ԱՄՆ բանակի համար",
-  "Խստորեն դատապարտում եմ Տրապում և Լա Վերիերում տեղի ունեցած ահաբեկչական ակտը. Նիկոլ Փաշինյան",
-  "Թբիլիսիում ձերբակալել են երկու 14-ամյա դեռահասի՝ դպրոցի վրա զինված հարձակման նախապատրաստման գործով",
   "Վիճաբանություն Կիեւյան փողոցում. ոստիկանները հայտնաբերել են միջադեպի մասնակիցների",
   "ՀՀ տարածքում ավտոճանապարհներն անցանելի են",
   "Վարորդը դուրս է բերվել հատուկ տեխնիկայի միջոցով",
@@ -3301,7 +3297,11 @@
   "Զելենսկին ստորագրել է ռազմական դրությունը և զորահավաքը երկարաձգելու մասին օրենքները",
   "⚽ Liverpool FC 2–0 Brighton & Hove Albion FC",
   "ԿԲ-ն բարձրացնում է բանկերի կապիտալի հակացիկլիկ բուֆերը․ նոր չափը կգործի 2027-ից",
-  "«Ականատեսը» ՏԻՄ ընտրությունների ընթացքում արձանագրել է 217 խնդիր և հնարավոր ընտրախախտում"
+  "«Ականատեսը» ՏԻՄ ընտրությունների ընթացքում արձանագրել է 217 խնդիր և հնարավոր ընտրախախտում",
+  "ՀՊԼ․ Մրցաշարային աղյուսակը 11-րդ տուրից հետո",
+  "Ովքեր են իշխանության գալիս մարզերում․ ՏԻՄ ընտրությունների նախնական արդյունքները 21 համայնքում. ՏԵՍԱՆՅՈՒԹ",
+  "Ուկրաինայի քաղաքները կսկսեն նախապատրաստել շրջանաձև պաշտպանության։ Համապատասխան հրամանագիրը ստորագրել է Ուկրաինայի նախագահ Վոլոդիմիր Զելենսկին։",
+  "Պուտինը կպահանջի ՆԱՏՕ-ի զորքերը դուրս բերել Լեհաստանից, Էստոնիայից, Լատվիայից, Լիտվայից և Ֆինլանդիայից. The Telegraph"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,12 +3320,16 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "Armsport.am:https://armsport.am/?p=611797": {
-   "score": 7,
-   "since": 1793035640.3870745
+  "Armsport.am:https://armsport.am/?p=611801": {
+   "score": 5,
+   "since": 1793038362.5149457
+  },
+  "Armsport.am:https://armsport.am/?p=611805": {
+   "score": 5,
+   "since": 1793038362.5149457
   }
  },
- "last_post": 1793037914.767671,
+ "last_post": 1793038974.5950263,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3333,5 +3337,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793037473.0247345
+ "last_sport": 1793038382.7671204
 }
