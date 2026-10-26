@@ -1,16 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/81775",
-  "News.am:https://news.am/hy/news/1069933",
-  "1in.am:https://www.1in.am/?p=3771820",
-  "1in.am:https://www.1in.am/?p=3771847",
-  "tg:shamshyan_com/55641",
-  "tg:RadarARM/81776",
-  "News.am:https://news.am/hy/news/1069936",
-  "Hetq:https://hetq.am/hy/article/184931",
-  "Factor.am:https://factor.am/?p=1073377",
-  "168.am:https://168.am/?p=2503160",
-  "News.am:https://news.am/hy/news/1069935",
   "Factor.am:https://factor.am/?p=1073532",
   "168.am:https://168.am/?p=2503163",
   "1in.am:https://www.1in.am/?p=3771880",
@@ -2999,11 +2988,20 @@
   "tg:shamshyan_com/55825",
   "News.am:https://news.am/hy/news/1070451",
   "Factor.am:https://factor.am/?p=1074375",
-  "168.am:https://168.am/?p=2504501"
+  "168.am:https://168.am/?p=2504501",
+  "tg:twentyfournews/325624",
+  "Hetq:https://hetq.am/hy/article/185007",
+  "Factor.am:https://factor.am/?p=1074426",
+  "168.am:https://168.am/?p=2504503",
+  "1in.am:https://www.1in.am/?p=3772933",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/inchu-ynddimutjuny-grete-chmasnakcec-yntrutjunnerin-kam-kzhdhin-bnvorvosh-ardjunqner-108559030.html",
+  "tg:twentyfournews/325622",
+  "168.am:https://168.am/?p=2504348",
+  "1in.am:https://www.1in.am/?p=3772963",
+  "tg:fastsport_am/1723",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelenskin-stvoragrel-e-razmakan-drutjuny-ev-zvorahavaqy-erkaradzgelu-masin-orenqnery-108560389.html"
  ],
  "titles": [
-  "Երևանում մեքենան բախվել է երկաթե էլեկտրասյանը. կա վիրավոր",
-  "Իսրայելը և Հունաստանը Թուրքիայի հետ լարվածության ֆոնին համատեղ ռազմածովային զորավարժություններ են անցկացրել",
   "Սամվել Թադևոսյանն արժանացել է «Ոսկե գլոբուսի» Beacon Award մրցանակին",
   "Նա հիանալի ֆուտբոլիստ է, իսկ մեծերին հարգում են․ Ժոզե Մոուրինյու",
   "Հայաստանը հաղթեց «Մանկական Եվրատեսիլ 2026»–ում",
@@ -3301,7 +3299,9 @@
   "⚽ Real Sociedad de Fútbol 2–1 Levante UD",
   "Որոնք են Հայաստանում արդյունաբերական արտադրության ծավալի աճի տեմպերը՝ ԵԱՏՄ մյուս երկրների համեմատ",
   "Մակրոնը զգուշացնում է՝ Ֆրանսիայում շաբաթ օրը կայանալիք ցույցերը կարող են «վտանգավոր» դառնալ",
-  "Փեզեշքիան․ Իրանը կշարունակի զարգացնել միջուկային ծրագիրը"
+  "Փեզեշքիան․ Իրանը կշարունակի զարգացնել միջուկային ծրագիրը",
+  "⚽ Manchester United FC 0–3 AFC Bournemouth",
+  "Զելենսկին ստորագրել է ռազմական դրությունը և զորահավաքը երկարաձգելու մասին օրենքները"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1723": {
-   "score": 7,
-   "since": 1793034724.1866643
-  },
   "tg:fastsport_am/1721": {
    "score": 7,
    "since": 1793034724.1866643
@@ -3331,13 +3327,9 @@
   "Armsport.am:https://armsport.am/?p=611797": {
    "score": 7,
    "since": 1793035640.3870745
-  },
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/zelenskin-stvoragrel-e-razmakan-drutjuny-ev-zvorahavaqy-erkaradzgelu-masin-orenqnery-108560389.html": {
-   "score": 5,
-   "since": 1793035640.3870745
   }
  },
- "last_post": 1793036123.865961,
+ "last_post": 1793036706.4831421,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
@@ -3345,5 +3337,5 @@
  "top_used": {
   "2026-10-26": 15
  },
- "last_sport": 1793035653.3905272
+ "last_sport": 1793036577.8812728
 }
