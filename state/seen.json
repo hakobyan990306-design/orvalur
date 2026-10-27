@@ -1,22 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1589101",
-  "1in.am:https://www.1in.am/?p=3772514",
-  "tg:shamshyan_com/55748",
-  "tg:twentyfournews/325325",
-  "News.am:https://news.am/hy/news/1070202",
-  "Aravot.am:https://www.aravot.am/?p=1589097",
-  "tg:shamshyan_com/55747",
-  "tg:twentyfournews/325324",
-  "tg:shamshyan_com/55746",
-  "tg:shamshyan_com/55745",
-  "tg:fastsport_am/1697",
-  "Hetq:https://hetq.am/hy/article/184970",
-  "tg:shamshyan_com/55750",
-  "tg:fastsport_am/1699",
-  "News.am:https://news.am/hy/news/1070206",
-  "Hetq:https://hetq.am/hy/article/184972",
-  "Factor.am:https://factor.am/?p=1073879",
   "Aravot.am:https://www.aravot.am/?p=1589106",
   "168.am:https://168.am/?p=2503921",
   "1in.am:https://www.1in.am/?p=3772577",
@@ -2999,10 +2982,26 @@
   "1in.am:https://www.1in.am/?p=3773431",
   "1in.am:https://www.1in.am/?p=3773080",
   "1in.am:https://www.1in.am/?p=3773340",
-  "Hetq:https://hetq.am/hy/article/185044"
+  "Hetq:https://hetq.am/hy/article/185044",
+  "tg:twentyfournews/325921",
+  "tg:RadarARM/81923",
+  "Armsport.am:https://armsport.am/?p=611915",
+  "News.am:https://news.am/hy/news/1070770",
+  "Factor.am:https://factor.am/?p=1074925",
+  "168.am:https://168.am/?p=2505371",
+  "1in.am:https://www.1in.am/?p=3773443",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/adrbejanin-handznelu-en-mijancq-aranc-partavvorecnvogh-pastatghti-qaghaqagety-trippi-masin-108595239.html",
+  "tg:twentyfournews/325920",
+  "Aravot.am:https://www.aravot.am/?p=1589731",
+  "168.am:https://168.am/?p=2505321",
+  "1in.am:https://www.1in.am/?p=3773353",
+  "tg:twentyfournews/325919",
+  "1in.am:https://www.1in.am/?p=3773440",
+  "1in.am:https://www.1in.am/?p=3773437",
+  "1in.am:https://www.1in.am/?p=3773434",
+  "Aravot.am:https://www.aravot.am/?p=1589733"
  ],
  "titles": [
-  "Ալեքսանդր Վուչիչի կուսակցությունը պարտվել է Սերբիայի խորհրդարանական ընտրություններում",
   "ԱՄՆ ՌԾՈւ-ն կես տարվա ընթացքում Հորմուզի նեղուցով ավելի քան 3 հազար առևտրային նավի տարանցում է իրականացրել․ CENTCOM",
   "Մեր աշխատողը ճիշտ է վարել պրոցեսը, դրանից ավելի արագ հնարավոր չէր հասնել. ՆԳ նախարարը՝ Շաքիի դեպքի մասին (վիդեո)",
   "🟨 Բաշկիրիայում մայրը առևանգել և գերության մեջ է պահել իր 18-ամյա դստերը, որպեսզի տիրանա գումարին, որ աղջիկը ստացել էր հատուկ ռազմական գործողության ընթացքում իր հոր մահվան կապակցությամբ։",
@@ -3301,7 +3300,8 @@
   "«Անկախ դիտորդը» ներկայացրել է ՏԻՄ ընտրությունների նախնական գնահատականը",
   "ԱՄՆ-ում ցմահ ազատազրկված մարդասպանը փախել է բանտից՝ ագարակից փիքափ առևանգելով",
   "«Զատիկ» կենտրոնի դաստիարակը բազմաթիվ հարվածներ է հասցրել անչափահաս սանին",
-  "Լիլիթ Ստեփանյանը վայր է դնում պատգամավորական մանդատը․ նա կնշանակվի Կոտայքի մարզպետ"
+  "Լիլիթ Ստեփանյանը վայր է դնում պատգամավորական մանդատը․ նա կնշանակվի Կոտայքի մարզպետ",
+  "ՔՊ-ականները քննարկել են նոր Սահմանադրության նախագծին առնչվող հարցեր"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793126743.456307,
+ "last_post": 1793127448.0923138,
  "digest_last": {
   "ՀԷՑ": 1793106525.8310742,
   "Վեոլիա Ջուր": 1793116525.4710395
