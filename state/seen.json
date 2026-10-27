@@ -1,18 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1589095",
-  "168.am:https://168.am/?p=2503919",
-  "1in.am:https://www.1in.am/?p=3772348",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/irani-pvokhnakhagahy-hijabvov-adrbejanci-usanvoghnerin-arajarkel-e-iranakan-buherum-svovvorel-108529923.html",
-  "tg:twentyfournews/325322",
-  "Aravot.am:https://www.aravot.am/?p=1589093",
-  "168.am:https://168.am/?p=2503916",
-  "tg:twentyfournews/325323",
-  "News.am:https://news.am/hy/news/1070201",
-  "tg:shamshyan_com/55749",
-  "tg:twentyfournews/325326",
-  "News.am:https://news.am/hy/news/1070222",
-  "Factor.am:https://factor.am/?p=1073886",
   "Aravot.am:https://www.aravot.am/?p=1589101",
   "1in.am:https://www.1in.am/?p=3772514",
   "tg:shamshyan_com/55748",
@@ -2999,11 +2986,22 @@
   "168.am:https://168.am/?p=2505364",
   "168.am:https://168.am/?p=2505119",
   "News.am:https://news.am/hy/news/1070765",
-  "1in.am:https://www.1in.am/?p=3773288"
+  "1in.am:https://www.1in.am/?p=3773288",
+  "tg:twentyfournews/325918",
+  "News.am:https://news.am/hy/news/1070769",
+  "Factor.am:https://factor.am/?p=1074903",
+  "Aravot.am:https://www.aravot.am/?p=1589719",
+  "168.am:https://168.am/?p=2505369",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/rvosatvomy-kavelacni-ir-andznakazmi-tivy-busher-aekum-likhachvov-108597998.html",
+  "tg:twentyfournews/325917",
+  "News.am:https://news.am/hy/news/1070780",
+  "168.am:https://168.am/?p=2504808",
+  "1in.am:https://www.1in.am/?p=3773431",
+  "1in.am:https://www.1in.am/?p=3773080",
+  "1in.am:https://www.1in.am/?p=3773340",
+  "Hetq:https://hetq.am/hy/article/185044"
  ],
  "titles": [
-  "Յուվենտուսը հաղթեց Լեչեին, Ինտերը՝ ուշ գոլով. Ա Սերիա",
-  "Լուլա դա Սիլվան վերընտրվել է Բրազիլիայի նախագահի պաշտոնում",
   "Ալեքսանդր Վուչիչի կուսակցությունը պարտվել է Սերբիայի խորհրդարանական ընտրություններում",
   "ԱՄՆ ՌԾՈւ-ն կես տարվա ընթացքում Հորմուզի նեղուցով ավելի քան 3 հազար առևտրային նավի տարանցում է իրականացրել․ CENTCOM",
   "Մեր աշխատողը ճիշտ է վարել պրոցեսը, դրանից ավելի արագ հնարավոր չէր հասնել. ՆԳ նախարարը՝ Շաքիի դեպքի մասին (վիդեո)",
@@ -3301,7 +3299,9 @@
   "ՌԴ ԶՈւ-ն էլեկտրոնային արդյունաբերության ձեռնարկություն է խոցել Խարկովի մարզում. ՊՆ",
   "«Առջևում միլիարդավոր բարելներ են». Թրամփը հայտարարել է Վենեսուելայից նավթի առաջին մատակարարման մասին",
   "«Անկախ դիտորդը» ներկայացրել է ՏԻՄ ընտրությունների նախնական գնահատականը",
-  "ԱՄՆ-ում ցմահ ազատազրկված մարդասպանը փախել է բանտից՝ ագարակից փիքափ առևանգելով"
+  "ԱՄՆ-ում ցմահ ազատազրկված մարդասպանը փախել է բանտից՝ ագարակից փիքափ առևանգելով",
+  "«Զատիկ» կենտրոնի դաստիարակը բազմաթիվ հարվածներ է հասցրել անչափահաս սանին",
+  "Լիլիթ Ստեփանյանը վայր է դնում պատգամավորական մանդատը․ նա կնշանակվի Կոտայքի մարզպետ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793125629.7727478,
+ "last_post": 1793126743.456307,
  "digest_last": {
   "ՀԷՑ": 1793106525.8310742,
   "Վեոլիա Ջուր": 1793116525.4710395
