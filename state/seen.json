@@ -1,14 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1069885",
-  "News.am:https://news.am/hy/news/1069889",
-  "News.am:https://news.am/hy/news/1069886",
-  "News.am:https://news.am/hy/news/1069891",
-  "News.am:https://news.am/hy/news/1069887",
-  "News.am:https://news.am/hy/news/1069960",
-  "News.am:https://news.am/hy/news/1069952",
-  "News.am:https://news.am/hy/news/1069959",
-  "News.am:https://news.am/hy/news/1069884",
   "News.am:https://news.am/hy/news/1069958",
   "News.am:https://news.am/hy/news/1069957",
   "News.am:https://news.am/hy/news/1069955",
@@ -2999,11 +2990,18 @@
   "tg:twentyfournews/325658",
   "tg:twentyfournews/325657",
   "News.am:https://news.am/hy/news/1070503",
-  "News.am:https://news.am/hy/news/1070515"
+  "News.am:https://news.am/hy/news/1070515",
+  "News.am:https://news.am/hy/news/1070522",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/zvartnvoc-odanavakajanum-zurna-dhvolvov-dimavvorecin-chempivonnerin-108562783.html",
+  "tg:twentyfournews/325659",
+  "News.am:https://news.am/hy/news/1070514",
+  "News.am:https://news.am/hy/news/1070512",
+  "News.am:https://news.am/hy/news/1070431",
+  "tg:twentyfournews/325660",
+  "1in.am:https://www.1in.am/?p=3772977",
+  "News.am:https://news.am/hy/news/1070510"
  ],
  "titles": [
-  "Ընտրական տեղամասերից ահազանգեր ենք ստացել, որ տպագրված դրոշմանիշերը պատշաճ որակի չեն. Մելոյան",
-  "Այցելած 222 տեղամասերում արձանագրվել է թվով 53 խախտում, կոնֆլիկտային իրավիճակի 2 դեպք․ «Անկախ դիտորդ» ",
   "Խուլիան Ալվարեսը ներողություն է խնդրել Ատլետիկոյի երկրպագուներից",
   "Իրանը հերքել է Հորմուզի նեղուցի վերաբերյալ նոր առաջարկներ փոխանցելու մասին տեղեկությունը",
   "Ողբերգական վթարից ամուսինների մահվան և տուժած 5 երեխաների դեպքով հարուցվեց քրեական գործ. ArmLur.am",
@@ -3301,7 +3299,9 @@
   "Զենքի ազատ վաճառքը կխստացվի՞․ կրակոցներն ու զինված միջադեպերը չեն դադարում․ «Ժողովուրդ»",
   "ՔՊ-ն փակ նիստերում քննարկում է Արցախի, ՀՀ անկախության Հռչակագրի և եկեղեցու հարցերը․ «Ժողովուրդ»",
   "Թրամփը Իրանին է մեղադրել ԱՄՆ-ի հետ հակամարտությունը սկսելու համար",
-  "«Հրապարակ»․ Պապիկյանի երկրորդ դեղին քարտը"
+  "«Հրապարակ»․ Պապիկյանի երկրորդ դեղին քարտը",
+  "Առնո Ավետիսյանը՝ Europe Junior Masters -ի բրոնզե մեդալակիր",
+  "«Հրապարակ»․ Թաթոյանն ընդհատակ է անցել. ո՞րն է պասիվության պատճառը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,17 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/zvartnvoc-odanavakajanum-zurna-dhvolvov-dimavvorecin-chempivonnerin-108562783.html": {
-   "score": 5,
-   "since": 1793074708.6903908
-  },
-  "News.am:https://news.am/hy/news/1070510": {
-   "score": 5,
-   "since": 1793074708.6903908
-  }
- },
- "last_post": 1793075280.1650395,
+ "pending": {},
+ "last_post": 1793075851.4864144,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
