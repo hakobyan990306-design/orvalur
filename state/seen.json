@@ -1,18 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/325317",
-  "News.am:https://news.am/hy/news/1070218",
-  "Hetq:https://hetq.am/hy/article/184968",
-  "tg:shamshyan_com/55739",
-  "tg:twentyfournews/325316",
-  "Aravot.am:https://www.aravot.am/?p=1589089",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/erevanashtarak-tshanaparhi-voghbergakan-avtvovtari-hetevanqvov-mahacel-e-naev-erekhaneric-meky-108529235.html",
-  "Factor.am:https://factor.am/?p=1073872",
-  "tg:shamshyan_com/55744",
-  "Aravot.am:https://www.aravot.am/?p=1589092",
-  "Aravot.am:https://www.aravot.am/?p=1589090",
-  "tg:factoram/74693",
-  "Factor.am:https://factor.am/?p=1073875",
   "Aravot.am:https://www.aravot.am/?p=1589095",
   "168.am:https://168.am/?p=2503919",
   "1in.am:https://www.1in.am/?p=3772348",
@@ -2999,10 +2986,22 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/rd-zu-n-elektrvonajin-ardjunaberutjan-dzernarkutjun-e-khvocel-kharkvovi-marzum-pn-108597824.html",
   "News.am:https://news.am/hy/news/1070776",
   "Factor.am:https://factor.am/?p=1074918",
-  "News.am:https://news.am/hy/news/1070757"
+  "News.am:https://news.am/hy/news/1070757",
+  "tg:shamshyan_com/55895",
+  "tg:twentyfournews/325916",
+  "tg:RadarARM/81922",
+  "Hetq:https://hetq.am/hy/article/185043",
+  "Factor.am:https://factor.am/?p=1074860",
+  "Aravot.am:https://www.aravot.am/?p=1589727",
+  "168.am:https://168.am/?p=2505366",
+  "tg:twentyfournews/325914",
+  "News.am:https://news.am/hy/news/1070777",
+  "168.am:https://168.am/?p=2505364",
+  "168.am:https://168.am/?p=2505119",
+  "News.am:https://news.am/hy/news/1070765",
+  "1in.am:https://www.1in.am/?p=3773288"
  ],
  "titles": [
-  "Արցախից բռնի տեղահանվածներ, զորացրվածներ, գործազուրկ երիտասարդներ․ ինչ աջակցություն է նախատեսվում 2027թ հունվարի 1-ից",
   "Յուվենտուսը հաղթեց Լեչեին, Ինտերը՝ ուշ գոլով. Ա Սերիա",
   "Լուլա դա Սիլվան վերընտրվել է Բրազիլիայի նախագահի պաշտոնում",
   "Ալեքսանդր Վուչիչի կուսակցությունը պարտվել է Սերբիայի խորհրդարանական ընտրություններում",
@@ -3301,7 +3300,8 @@
   "Սաուդյան Արաբիայի հակաօդային պաշտպանության ուժերն Էր Ռիադի ուղղությամբ արձակված հրթիռներ են խոցել",
   "ՌԴ ԶՈւ-ն էլեկտրոնային արդյունաբերության ձեռնարկություն է խոցել Խարկովի մարզում. ՊՆ",
   "«Առջևում միլիարդավոր բարելներ են». Թրամփը հայտարարել է Վենեսուելայից նավթի առաջին մատակարարման մասին",
-  "«Անկախ դիտորդը» ներկայացրել է ՏԻՄ ընտրությունների նախնական գնահատականը"
+  "«Անկախ դիտորդը» ներկայացրել է ՏԻՄ ընտրությունների նախնական գնահատականը",
+  "ԱՄՆ-ում ցմահ ազատազրկված մարդասպանը փախել է բանտից՝ ագարակից փիքափ առևանգելով"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793125030.7242827,
+ "last_post": 1793125629.7727478,
  "digest_last": {
   "ՀԷՑ": 1793106525.8310742,
   "Վեոլիա Ջուր": 1793116525.4710395
