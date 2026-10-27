@@ -1,17 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2503135",
-  "tg:twentyfournews/325093",
-  "tg:twentyfournews/325092",
-  "tg:twentyfournews/325091",
-  "tg:twentyfournews/325090",
-  "tg:twentyfournews/325089",
-  "tg:twentyfournews/325088",
-  "News.am:https://news.am/hy/news/1069965",
-  "News.am:https://news.am/hy/news/1069964",
-  "News.am:https://news.am/hy/news/1069962",
-  "News.am:https://news.am/hy/news/1069961",
-  "News.am:https://news.am/hy/news/1069880",
   "News.am:https://news.am/hy/news/1069885",
   "News.am:https://news.am/hy/news/1069889",
   "News.am:https://news.am/hy/news/1069886",
@@ -2999,13 +2987,21 @@
   "tg:factoram/74785",
   "tg:fastsportstv/27171",
   "News.am:https://news.am/hy/news/1070504",
-  "Hetq:https://hetq.am/hy/article/185009"
+  "Hetq:https://hetq.am/hy/article/185009",
+  "tg:mil_armenia/19708",
+  "Armsport.am:https://armsport.am/?p=611852",
+  "Factor.am:https://factor.am/?p=1074454",
+  "Aravot.am:https://www.aravot.am/?p=1589457",
+  "168.am:https://168.am/?p=2504574",
+  "1in.am:https://www.1in.am/?p=3772786",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/hajastanum-2-or-andzrev-chi-ga-eghanaki-tesutjun-108549690.html",
+  "News.am:https://news.am/hy/news/1070506",
+  "tg:twentyfournews/325658",
+  "tg:twentyfournews/325657",
+  "News.am:https://news.am/hy/news/1070503",
+  "News.am:https://news.am/hy/news/1070515"
  ],
  "titles": [
-  "Գերմանական Audi-ն ԱՄՆ-ում կկառուցի ամենագնացի գործարան՝ 4 մլրդ դոլարով",
-  "Ջրանջատում՝ Երևանում և Արմավիրում",
-  "ԱՄՆ-ի կործանիչները Ֆլորիդայում՝ Թրամփի նստավայրի մոտ, քաղաքացիական ինքնաթիռ են կանգնեցրել",
-  "🎥 Մեսսին չփրկեց, Կազեմիրոն գրավեց սեփական դարպասը. Ինտեր Մայամին պարտվել է Նյու Յորք Ռեդ Բուլզին",
   "Ընտրական տեղամասերից ահազանգեր ենք ստացել, որ տպագրված դրոշմանիշերը պատշաճ որակի չեն. Մելոյան",
   "Այցելած 222 տեղամասերում արձանագրվել է թվով 53 խախտում, կոնֆլիկտային իրավիճակի 2 դեպք․ «Անկախ դիտորդ» ",
   "Խուլիան Ալվարեսը ներողություն է խնդրել Ատլետիկոյի երկրպագուներից",
@@ -3301,7 +3297,11 @@
   "🟩 «Ոսկե գնդակը 2026» մրցանակաբաշխությունը կանցկացվի Լոնդոնի London Palladium թատրոնում։ ▫️Մրցանակաբաշխության 70 տարվա պատմության մեջ առաջին անգամ արարողությունը կանցկացվի Ֆրանսիայի սահմաններից դուրս։ ",
   "Ստեփանավանում «Գործարար»-ի թեկնածուն ՔՊ կուսակցության անդամ է․ Վահագն Ալեքսանյան. ՏԵՍԱՆՅՈՒԹ",
   "Հարի Քեյնը՝ «Ոսկե գնդակի» դափնեկիր 😍 ",
-  "Հողի ուժն ու Ալեքսեյ Մանուկյանի կենդանի աշխարհները"
+  "Հողի ուժն ու Ալեքսեյ Մանուկյանի կենդանի աշխարհները",
+  "Զենքի ազատ վաճառքը կխստացվի՞․ կրակոցներն ու զինված միջադեպերը չեն դադարում․ «Ժողովուրդ»",
+  "ՔՊ-ն փակ նիստերում քննարկում է Արցախի, ՀՀ անկախության Հռչակագրի և եկեղեցու հարցերը․ «Ժողովուրդ»",
+  "Թրամփը Իրանին է մեղադրել ԱՄՆ-ի հետ հակամարտությունը սկսելու համար",
+  "«Հրապարակ»․ Պապիկյանի երկրորդ դեղին քարտը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,17 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1793074513.0734415,
+ "pending": {
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/zvartnvoc-odanavakajanum-zurna-dhvolvov-dimavvorecin-chempivonnerin-108562783.html": {
+   "score": 5,
+   "since": 1793074708.6903908
+  },
+  "News.am:https://news.am/hy/news/1070510": {
+   "score": 5,
+   "since": 1793074708.6903908
+  }
+ },
+ "last_post": 1793075280.1650395,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
