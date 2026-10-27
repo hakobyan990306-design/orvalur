@@ -1,25 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1070113",
-  "Hetq:https://hetq.am/hy/article/184942",
-  "1in.am:https://www.1in.am/?p=3772127",
-  "Hetq:https://hetq.am/hy/article/184943",
-  "tg:twentyfournews/325223",
-  "News.am:https://news.am/hy/news/1070111",
-  "tg:shamshyan_com/55720",
-  "tg:twentyfournews/325225",
-  "News.am:https://news.am/hy/news/1070121",
-  "Aravot.am:https://www.aravot.am/?p=1588982",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/ukrainaji-zu-zangvatsajin-hardzakumy-belgvorvodi-vra-ka-mek-zvoh-14-viravvor-108516985.html",
-  "tg:shamshyan_com/55719",
-  "Aravot.am:https://www.aravot.am/?p=1588980",
-  "168.am:https://168.am/?p=2503768",
-  "1in.am:https://www.1in.am/?p=3772130",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261025/kyh-um-steghtsvel-e-iravitshakajin-verlutsutjunneri-kentrvon--108516878.html",
-  "tg:shamshyan_com/55718",
-  "1in.am:https://www.1in.am/?p=3772423",
-  "1in.am:https://www.1in.am/?p=3772176",
-  "News.am:https://news.am/hy/news/1070114",
   "168.am:https://168.am/?p=2503770",
   "News.am:https://news.am/hy/news/1070115",
   "tg:twentyfournews/325228",
@@ -2999,11 +2979,29 @@
   "digest:veolia:4959c0d1d95d",
   "veolia:4959c0d1d95d",
   "News.am:https://news.am/hy/news/1070674",
-  "168.am:https://168.am/?p=2505028"
+  "168.am:https://168.am/?p=2505028",
+  "tg:shamshyan_com/55871",
+  "tg:RadarARM/81909",
+  "tg:factoram/74813",
+  "News.am:https://news.am/hy/news/1070659",
+  "Factor.am:https://factor.am/?p=1074750",
+  "Aravot.am:https://www.aravot.am/?p=1589652",
+  "168.am:https://168.am/?p=2504760",
+  "tg:twentyfournews/325823",
+  "News.am:https://news.am/hy/news/1070688",
+  "Factor.am:https://factor.am/?p=1074784",
+  "Aravot.am:https://www.aravot.am/?p=1589653",
+  "168.am:https://168.am/?p=2505102",
+  "tg:twentyfournews/325822",
+  "Aravot.am:https://www.aravot.am/?p=1589648",
+  "Factor.am:https://factor.am/?p=1074781",
+  "Aravot.am:https://www.aravot.am/?p=1589650",
+  "Factor.am:https://factor.am/?p=1074776",
+  "tg:twentyfournews/325824",
+  "1in.am:https://www.1in.am/?p=3773238",
+  "Factor.am:https://factor.am/?p=1074662"
  ],
  "titles": [
-  "Թրամփ․ Ուկրաինայի վերաբերյալ եռակողմ բանակցությունները կանցկացվեն մոտ ժամանակում",
-  "⚽ Valencia CF 1–2 Villarreal CF",
   "Կուտակումներից մինչեւ ուղղորդումներ. ՏԻՄ ընտրություններին գրանցված խախտումները",
   "Բաքվի նոր շանտաժը. խաղաղության ճանապարհին՝ հին անցակետերը",
   "Ֆրանսիայի Տրապում և Լա-Վերրիերում մահաբեր հրաձգության մեջ կասկածվողին ուղարկել են հոգեբուժական հսկողության տակ",
@@ -3301,7 +3299,9 @@
   "Դեմ ենք քվեարկելու TRIPP-ի վավերացման նախագծին։",
   "Նիդերլանդների արտգործնախարարը հարգանքի տուրք է մատուցել Հայոց ցեղասպանության զոհերի հիշատակին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 27-ին",
-  "Գագիկ Խաչատրյանի առողջական վիճակն ավելի է վատացել. փաստաբանը մանրամասներ է հայտնում"
+  "Գագիկ Խաչատրյանի առողջական վիճակն ավելի է վատացել. փաստաբանը մանրամասներ է հայտնում",
+  "Եմենից արձակված հրթիռները հարվածել են Սաուդյան Արաբիայի խոշորագույն նավթահանքերից մեկին",
+  "Թուրքիայում Բաքվի կողմից անցանկալի անձ հայտարարված ևս մեկ գործիչ է ձերբակալվել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793103924.963435,
+ "last_post": 1793104887.8082933,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793101977.4537377
