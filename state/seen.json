@@ -1,17 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3771798",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261024/arandzin-shrjannerum-kandzrevi-majraqaghaqum-voch-eghanaki-tesutjun-108471742.html",
-  "tg:twentyfournews/325102",
-  "tg:factoram/74671",
-  "Armsport.am:https://armsport.am/?p=611447",
-  "News.am:https://news.am/hy/news/1069971",
-  "Hetq:https://hetq.am/hy/article/184934",
-  "Aravot.am:https://www.aravot.am/?p=1588836",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261023/mvoskvajum-chen-sirum-tshambarapvokhnerin-ev-harcn-ajnqan-el-emn-che-vigen-hakvobjan-108478289.html",
-  "tg:twentyfournews/325101",
-  "tg:factoram/74670",
-  "News.am:https://news.am/hy/news/1069972",
   "Aravot.am:https://www.aravot.am/?p=1588834",
   "1in.am:https://www.1in.am/?p=3772004",
   "tg:twentyfournews/325100",
@@ -2999,13 +2987,21 @@
   "tg:twentyfournews/325663",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/ararvoghakargajin-vripum-te-shpvotmunq-pashinjany-skhal-mardu-e-azatel-pashtvonic-108548984.html",
   "News.am:https://news.am/hy/news/1070527",
-  "1in.am:https://www.1in.am/?p=3773012"
+  "1in.am:https://www.1in.am/?p=3773012",
+  "tg:shamshyan_com/55829",
+  "tg:twentyfournews/325668",
+  "News.am:https://news.am/hy/news/1070532",
+  "168.am:https://168.am/?p=2504577",
+  "1in.am:https://www.1in.am/?p=3773029",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/kalanavvorvel-e-vajvoc-dzvori-zinvvorakan-kvomisary-hraparak-108564499.html",
+  "tg:RadarARM/81879",
+  "tg:twentyfournews/325666",
+  "tg:twentyfournews/325667",
+  "News.am:https://news.am/hy/news/1070508",
+  "tg:RadarARM/81880",
+  "News.am:https://news.am/hy/news/1070530"
  ],
  "titles": [
-  "Առաջին մեդալը՝ բռնցքամարտի երիտասարդների աշխարհի առաջնությունում",
-  "Հազարավոր իսրայելցիներ ընտրություններից երեք օր առաջ դուրս են եկել Նեթանյահուի դեմ ցույցի",
-  "Հունահռոմեական ըմբշամարտի ԱԱ. Հայ ըմբիշների արդյունքները մրցումային երկրորդ օրը",
-  "Սարյան փողոցում «Ռենջ Ռովերի» սրահից պայուսակներ գողանալու կասկածանքով տղամարդ է ձերբակալվել",
   "Գվարդիայի ծառայողները մեքենայից գողություն կատարելու պահին ձերբակալել են 28-ամյա երիտասարդի",
   "Գերմանիայում ձերբակալել են 18-ամյա կասկածյալի, որին կասկածում են 14-ամյա ամերիկուհուն ինքնասպանության հասցնելու մեջ",
   "ԱՄՆ-ն դիտարկում է Իրանին նոր հարվածներ հասցնելու հնարավորությունը․ WSJ",
@@ -3301,7 +3297,11 @@
   "Մոնակոյի իշխան Ալբեր II-ի զարմիկի որդուն մահացած են գտել",
   "Արարողակարգային վրիպո՞ւմ, թե՞ շփոթմունք. Փաշինյանը «սխալ» մարդո՞ւ է ազատել պաշտոնից",
   "«Ժողովուրդ». 210 մլն դրամ, 300 հազար դոլար, 100 հազար եվրո․ ի՞նչ ունեցվածքով վերընտրվեց Առուշ Առուշանյանը",
-  "Հրադադարը պարզապես ժամանակի կորուստ էր. Թրամփ"
+  "Հրադադարը պարզապես ժամանակի կորուստ էր. Թրամփ",
+  "«ՈՒԺԵՂ ՀԱՅԱՍՏԱՆԸ» ԱԺ ԲԱԿՈՒՄ ՀԱՐԳԱՆՔԻ ՏՈՒՐՔ Է ՄԱՏՈՒՑՈՒՄ ՀՈԿՏԵՄԲԵՐԻ 27-Ի ԶՈՀԵՐԻ ՀԻՇԱՏԱԿԻՆ",
+  "Իրանը նախազգուշացրել է Հորմուզում նավերի համար հետևանքների մասին՝ անվտանգության կարգը խախտելու դեպքում",
+  "⬜️ Այսօր 1999թ․ հոկտեմբերի 27-ի ահաբեկչության 27-րդ տարելիցն է, երբ մի խումբ զինված անձինք ԱԺ դահլիճում սպանեցին վարչապետին, ԱԺ նախագահին, փոխնախագահներին, ևս 4 պետական գործիչների։",
+  "Հալաբյան փողոցում թիթեղների տակ հայտնաբերված նորածինը դեռ չի որդեգրվել. նախարարությունը մանրամասնել է"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793077807.197938,
+ "last_post": 1793078938.1938903,
  "digest_last": {
   "ՀԷՑ": 1793021104.6228845,
   "Վեոլիա Ջուր": 1793017466.056433
