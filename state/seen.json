@@ -1,25 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2503947",
-  "1in.am:https://www.1in.am/?p=3772593",
-  "tg:twentyfournews/325409",
-  "tg:factoram/74727",
-  "168.am:https://168.am/?p=2503709",
-  "tg:factoram/74726",
-  "tg:twentyfournews/325407",
-  "tg:twentyfournews/325406",
-  "digest:ena:69fc8256bbf5",
-  "ena:40c5211647f6",
-  "ena:ed72a8348fc2",
-  "ena:9e87ae3991f1",
-  "ena:69fc8256bbf5",
-  "ena:705d54592c64",
-  "ena:c9ba2b378103",
-  "ena:5b221ae88cdd",
-  "ena:2dd491a4dbb4",
-  "ena:1cacc75dbb39",
-  "News.am:https://news.am/hy/news/1070250",
-  "tg:twentyfournews/325408",
   "tg:twentyfournews/325414",
   "tg:RadarARM/81825",
   "tg:factoram/74731",
@@ -2999,11 +2979,29 @@
   "tg:twentyfournews/325958",
   "tg:twentyfournews/325954",
   "News.am:https://news.am/hy/news/1070811",
-  "News.am:https://news.am/hy/news/1070810"
+  "News.am:https://news.am/hy/news/1070810",
+  "tg:twentyfournews/325963",
+  "News.am:https://news.am/hy/news/1070836",
+  "Aravot.am:https://www.aravot.am/?p=1589765",
+  "168.am:https://168.am/?p=2505459",
+  "1in.am:https://www.1in.am/?p=3773499",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/natoi-andam-em-erkrnery-kvorcrel-en-irenc-dirqvorvoshumy-kievin-ajakcelu-pattsharvov-zakharvova-108605087.html",
+  "tg:twentyfournews/325962",
+  "News.am:https://news.am/hy/news/1070813",
+  "Aravot.am:https://www.aravot.am/?p=1589766",
+  "168.am:https://168.am/?p=2505432",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/ekeq-nervoghutjun-khndreq-narek-karapetjanic-vardevanjany-qaghaqaciutjan-masin--108604598.html",
+  "News.am:https://news.am/hy/news/1070834",
+  "168.am:https://168.am/?p=2505457",
+  "tg:twentyfournews/325960",
+  "News.am:https://news.am/hy/news/1070835",
+  "168.am:https://168.am/?p=2505422",
+  "tg:twentyfournews/325959",
+  "1in.am:https://www.1in.am/?p=3773538",
+  "tg:twentyfournews/325961",
+  "tg:shamshyan_com/55906"
  ],
  "titles": [
-  "Բաքուն Իրանին մեղադրել է երկրի ներքին գործերին միջամտելու մեջ՝ դպրոցներում հիջաբի արգելքի ֆոնին",
-  "14 գոլ՝ 11 խաղում․ միայն մեկ թիմի է Մբապեն ավելի շատ գոլ խփել, քան Բարսելոնային",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզի Գորիս քաղաքում հոկտեմբերի 26-ին",
   "ԱՄՆ–ն Իսրայելին հայտնել է, որ դեռ պատրաստ չէ նոր հարվածներ հասցնել Իրանին. ԶԼՄ",
   "Էբոլայով վարակված կինը բժշկական տարհանմամբ հատուկ չվերթով Նիգերիայից տեղափոխվել է Շվեյցարիա",
@@ -3301,7 +3299,9 @@
   "Իրանի դեմ ԱՄՆ պատերազմի ծախսերը գերազանցել են 47 միլիարդ դոլարը․ Reuters",
   "Աննա Հակոբյանի՝ ընտանեկան բռնության մասին օրինագիծը՝ ԱԺ-ում. «Զոհակենտրոն քննություն պիտի լինի»",
   "Կիմ Չեն Ընը պահանջել է ապահովել բանակի լիակատար պատրաստվածությունը պատերազմին",
-  "ԱՄՆ-ն կարող է վերսկսել Իրանի դեմ հարվածները միջանկյալ ընտրություններից հետո"
+  "ԱՄՆ-ն կարող է վերսկսել Իրանի դեմ հարվածները միջանկյալ ընտրություններից հետո",
+  "Թրամփը հայտարարել է Պուտինի և Զելենսկու հետ առաջիկա հնարավոր հանդիպման մասին",
+  "Երևանի Ավան վարչական շրջանում դիմակավորված անձինք թալանել են բանկերից մեկի վճարային տերմինալը՝ գողանալով դրամապահոցը, որում եղել է մի քանի միլիոն դրամ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793170512.3681161,
+ "last_post": 1793171273.9746118,
  "digest_last": {
   "ՀԷՑ": 1793106525.8310742,
   "Վեոլիա Ջուր": 1793166492.0588527
