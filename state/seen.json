@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74722",
-  "tg:twentyfournews/325401",
-  "tg:factoram/74721",
-  "tg:twentyfournews/325400",
-  "tg:factoram/74720",
-  "tg:twentyfournews/325399",
-  "tg:twentyfournews/325398",
-  "tg:twentyfournews/325397",
-  "tg:twentyfournews/325396",
-  "News.am:https://news.am/hy/news/1070236",
-  "168.am:https://168.am/?p=2503943",
-  "tg:twentyfournews/325410",
-  "tg:RadarARM/81824",
-  "tg:factoram/74728",
-  "Armsport.am:https://armsport.am/?p=611667",
-  "News.am:https://news.am/hy/news/1070239",
-  "Hetq:https://hetq.am/hy/article/184978",
-  "Aravot.am:https://www.aravot.am/?p=1589169",
   "168.am:https://168.am/?p=2503947",
   "1in.am:https://www.1in.am/?p=3772593",
   "tg:twentyfournews/325409",
@@ -2999,12 +2981,27 @@
   "veolia:0b8690575a6d",
   "tg:shamshyan_com/55903",
   "tg:shamshyan_com/55905",
-  "1in.am:https://www.1in.am/?p=3773511"
+  "1in.am:https://www.1in.am/?p=3773511",
+  "News.am:https://news.am/hy/news/1070833",
+  "Factor.am:https://factor.am/?p=1074958",
+  "168.am:https://168.am/?p=2505437",
+  "1in.am:https://www.1in.am/?p=3773490",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/hh-um-ruserenvov-dasavandvogh-usucichneri-varpetutjan-zargacman-dasyntac-e-meknarkel-108603951.html",
+  "tg:twentyfournews/325957",
+  "News.am:https://news.am/hy/news/1070812",
+  "Factor.am:https://factor.am/?p=1074959",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/qp-n-pvordzum-e-hasnel-nran-vor-edgar-shatirjany-charajadrvi-sd-nakhagahi-teknatsu-zlm-108603807.html",
+  "tg:twentyfournews/325956",
+  "Factor.am:https://factor.am/?p=1074974",
+  "News.am:https://news.am/hy/news/1070830",
+  "News.am:https://news.am/hy/news/1070832",
+  "News.am:https://news.am/hy/news/1070831",
+  "tg:twentyfournews/325958",
+  "tg:twentyfournews/325954",
+  "News.am:https://news.am/hy/news/1070811",
+  "News.am:https://news.am/hy/news/1070810"
  ],
  "titles": [
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 26-ին",
-  "«ՏԻՄ ընտրությունները նախկինում կայացված ընտրություններն էին հիշեցնում։ Բայց մի պարզ տարբերությամբ, որ նախկինում իշխանությունները ընդդիմադիր թեկնածուներին չէին ձերբակալում». Տիգրան Աբրահամյան",
-  "Արմավիրի դատարանից կալանավոր է փախել",
   "Բաքուն Իրանին մեղադրել է երկրի ներքին գործերին միջամտելու մեջ՝ դպրոցներում հիջաբի արգելքի ֆոնին",
   "14 գոլ՝ 11 խաղում․ միայն մեկ թիմի է Մբապեն ավելի շատ գոլ խփել, քան Բարսելոնային",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզի Գորիս քաղաքում հոկտեմբերի 26-ին",
@@ -3301,7 +3298,10 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում հոկտեմբերի 28-ին",
   "«Ադրբեջանի ճնշումների ֆոնին նոր քրեական գործ՝ Սերժ Սարգսյանի դեմ»․ Տիգրան Աբրահամյան",
   "Խուլիգանություն՝ Սյունիքի մարզում․ Գորիսի դատարանում դատական նիստից հետո վիճաբանություն և ծեծկռտուք է տեղի ունեցել․ կան տուժածներ․ միջամտել են դատարանի կարգադրիչները",
-  "Իրանի դեմ ԱՄՆ պատերազմի ծախսերը գերազանցել են 47 միլիարդ դոլարը․ Reuters"
+  "Իրանի դեմ ԱՄՆ պատերազմի ծախսերը գերազանցել են 47 միլիարդ դոլարը․ Reuters",
+  "Աննա Հակոբյանի՝ ընտանեկան բռնության մասին օրինագիծը՝ ԱԺ-ում. «Զոհակենտրոն քննություն պիտի լինի»",
+  "Կիմ Չեն Ընը պահանջել է ապահովել բանակի լիակատար պատրաստվածությունը պատերազմին",
+  "ԱՄՆ-ն կարող է վերսկսել Իրանի դեմ հարվածները միջանկյալ ընտրություններից հետո"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,21 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/qp-n-pvordzum-e-hasnel-nran-vor-edgar-shatirjany-charajadrvi-sd-nakhagahi-teknatsu-zlm-108603807.html": {
-   "score": 6,
-   "since": 1793169226.7944167
-  },
-  "tg:twentyfournews/325954": {
-   "score": 6,
-   "since": 1793169226.7944167
-  },
-  "News.am:https://news.am/hy/news/1070810": {
-   "score": 5,
-   "since": 1793169226.7944167
-  }
- },
- "last_post": 1793169843.9365084,
+ "pending": {},
+ "last_post": 1793170512.3681161,
  "digest_last": {
   "ՀԷՑ": 1793106525.8310742,
   "Վեոլիա Ջուր": 1793166492.0588527
