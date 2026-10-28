@@ -1,15 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2504286",
-  "News.am:https://news.am/hy/news/1070443",
-  "168.am:https://168.am/?p=2504380",
-  "News.am:https://news.am/hy/news/1070424",
-  "tg:shamshyan_com/55810",
-  "tg:twentyfournews/325588",
-  "tg:RadarARM/81866",
-  "Armsport.am:https://armsport.am/?p=611759",
-  "News.am:https://news.am/hy/news/1070460",
-  "Aravot.am:https://www.aravot.am/?p=1589410",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261026/veraqnnich-datarann-ardaracman-vorvoshum-e-kajacrel-mamikvon-aslanjani-nkatmamb-108554938.html",
   "tg:shamshyan_com/55809",
   "tg:twentyfournews/325587",
@@ -2999,10 +2989,19 @@
   "News.am:https://news.am/hy/news/1071036",
   "Armsport.am:https://armsport.am/?p=611976",
   "Aravot.am:https://www.aravot.am/?p=1589944",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/keghts-liazvoragrer-en-hh-kentrvonakan-banky-zgushacnum-e-nvor-khardakhutjan-masin-108633768.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/keghts-liazvoragrer-en-hh-kentrvonakan-banky-zgushacnum-e-nvor-khardakhutjan-masin-108633768.html",
+  "tg:shamshyan_com/55960",
+  "News.am:https://news.am/hy/news/1071038",
+  "Hetq:https://hetq.am/hy/article/185078",
+  "Factor.am:https://factor.am/?p=1075348",
+  "168.am:https://168.am/?p=2506023",
+  "tg:shamshyan_com/55959",
+  "168.am:https://168.am/?p=2505694",
+  "tg:twentyfournews/326143",
+  "Aravot.am:https://www.aravot.am/?p=1589945",
+  "168.am:https://168.am/?p=2505945"
  ],
  "titles": [
-  "Գազանջատումներ կլինեն Երևանի, Սյունիքի և Լոռու մարզերի մի շարք հասցեներում",
   "Ավտովթար՝ Երևանում․ Րաֆֆու փողոցում բախվել են «Zhongtong» ավտոբուսը, «Jeep Compass»-ը և «Toyota Corolla»-ն․ վերջինը հայտնվել է կանաչ խոտածածկույթի վրա․ ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւԹ",
   "ԹՐԻՓՓ-ը կդառնա խոշոր հանգույց՝ կապելով Հայաստանին ու Ադրբեջանին. 1-2 փաստաթուղթ կա համաձայնեցնելու. Արարատ Միրզոյան",
   "Շիրակի փողոցում ազգականների միջև վիճաբանությունը վերածվել է ծեծկռտուքի. 4 անձ ձերբակալվել է",
@@ -3301,7 +3300,8 @@
   "Գերմանիայում պայթյունը քանդել է բնակելի շենքի մի մասը. չորս մարդ տուժել է, երեքն անհետ կորել են",
   "Goal-ը հրապարակել է 2027 թվականի Ոսկե գնդակի գլխավոր հավակնորդների ցանկը",
   "«Ես այս հարցը վերցնում եմ․ կարծում եմ, առաջարկ կանեմ, որից ընդդիմությունը չի կարող հրաժարվել»․ Նիկոլ Փաշինյան",
-  "Կեղծ լիազորագրեր են. ՀՀ կենտրոնական բանկը զգուշացնում է նոր խարդախության մասին"
+  "Կեղծ լիազորագրեր են. ՀՀ կենտրոնական բանկը զգուշացնում է նոր խարդախության մասին",
+  "Վթարային ջրանջատում Արագածոտնի մարզում. հասցեներ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,17 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "168.am:https://168.am/?p=2505945": {
-   "score": 5,
-   "since": 1793206496.1640792
-  },
-  "Aravot.am:https://www.aravot.am/?p=1589945": {
-   "score": 5,
-   "since": 1793208314.1426716
-  }
- },
- "last_post": 1793208903.874458,
+ "pending": {},
+ "last_post": 1793209232.7624383,
  "digest_last": {
   "ՀԷՑ": 1793193796.182053,
   "Վեոլիա Ջուր": 1793195606.1486642
