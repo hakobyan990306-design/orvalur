@@ -1,22 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/325828",
-  "Aravot.am:https://www.aravot.am/?p=1589658",
-  "tg:twentyfournews/325827",
-  "News.am:https://news.am/hy/news/1070669",
-  "Aravot.am:https://www.aravot.am/?p=1589656",
-  "168.am:https://168.am/?p=2505014",
-  "tg:twentyfournews/325825",
-  "Factor.am:https://factor.am/?p=1074737",
-  "1in.am:https://www.1in.am/?p=3773083",
-  "168.am:https://168.am/?p=2505109",
-  "tg:shamshyan_com/55872",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/hhum-hunvarseptemberin-gjughatntesutjan-tsavaly-nvazel-e-48-vov-vitshakagrutjun-108584264.html",
-  "Factor.am:https://factor.am/?p=1074795",
-  "News.am:https://news.am/hy/news/1070689",
-  "tg:twentyfournews/325836",
-  "tg:RadarARM/81911",
-  "News.am:https://news.am/hy/news/1070683",
   "Hetq:https://hetq.am/hy/article/185030",
   "Factor.am:https://factor.am/?p=1074753",
   "Aravot.am:https://www.aravot.am/?p=1589666",
@@ -2999,12 +2982,26 @@
   "tg:factoram/74904",
   "News.am:https://news.am/hy/news/1071305",
   "News.am:https://news.am/hy/news/1071289",
-  "tg:twentyfournews/326368"
+  "tg:twentyfournews/326368",
+  "tg:shamshyan_com/56020",
+  "tg:twentyfournews/326374",
+  "News.am:https://news.am/hy/news/1071310",
+  "Factor.am:https://factor.am/?p=1075790",
+  "168.am:https://168.am/?p=2506743",
+  "1in.am:https://www.1in.am/?p=3774160",
+  "tg:shamshyan_com/56019",
+  "168.am:https://168.am/?p=2506741",
+  "1in.am:https://www.1in.am/?p=3774178",
+  "tg:shamshyan_com/56018",
+  "News.am:https://news.am/hy/news/1071309",
+  "168.am:https://168.am/?p=2506749",
+  "tg:twentyfournews/326373",
+  "News.am:https://news.am/hy/news/1071307",
+  "Armsport.am:https://armsport.am/?p=612067",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/hajastanic-em-minch-ors-dzuk-chi-artahanvel-turqian-khvostacel-e-bacel-tranzity-108661115.html",
+  "News.am:https://news.am/hy/news/1071290"
  ],
  "titles": [
-  "Ավտովթար՝ Գեղարքունիքի մարզում․ բախվել են «ՎԱԶ 2114»-ն ու մարդատար «Գազել»-ը․ կա 10 վիրավոր",
-  "Թուրքիայում ևս մեկ մարդ է ձերբակալվել Ադրբեջանի հասցեին հնչեցրած արտահայտությունների համար",
-  "Փաշինյանի որոշմամբ՝ Իրանի հետ սահմանանշանների չափագրման համար աշխատանքային խումբ է ստեղծվել",
   "Եթե նույնիսկ բռնության զոհ եմ, ի՞նչ կա դրա մեջ, ուզում եք ամոթանք տա՞լ ինձ․ Բաթոյանը՝ Ղազարյանին․ ՏԵՍԱՆՅՈՒԹ",
   "Վարդան Այվազյանի նկատմամբ կիրառվել է կալանք, իսկ Էդիկ Մինասյանի նկատմամբ՝ տնային կալանք",
   "«Աշտարակ միլկ»-ի երկու արտադրատեսակի արտադրությունը կասեցվել է, հայտնում են ՍԱՏՄ-ից",
@@ -3301,7 +3298,10 @@
   "Արամ Սարգսյանը դիմել է դատախազին՝ «Հարավկովկասյան երկաթուղու» գործունեության առնչությամբ քրեական վարույթ հարուցելու պահանջով",
   "Տղամարդը փորձել է Հայաստան–Վրաստան սահմանով ավելի քան 222 հազար դոլարի ոսկի տեղափոխել",
   "Ի՞նչ է տեղի ունեցել փոքրիկ Եվայի հետ․երեք ամիս՝ առանց պատասխանների․ ՏԵՍԱՆՅՈՒԹ",
-  "Կատարը հերքել է Իսրայելի ընտրություններին միջամտելու մեղադրանքները և կոչ արել Դոհային «քավության նոխազ» չդարձնել"
+  "Կատարը հերքել է Իսրայելի ընտրություններին միջամտելու մեղադրանքները և կոչ արել Դոհային «քավության նոխազ» չդարձնել",
+  "Ընտրություններ՝ առանց հաղթողի. Նեթանյահուի դաշինքը Իսրայելի խորհրդարանում 120 տեղից ստացել է 53-ը",
+  "Բարսելոնան ձմռանը կարող է վարձակալել Չելսիի հինգ ամենաթանկարժեք խաղացողներից մեկին",
+  "Ֆլավիո Բոլսոնարուն ԱՄՆ մեկնելուց հետո իրեն Բրազիլիայի օրինական առաջնորդ է հռչակել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793290317.3181705,
+ "last_post": 1793291493.9794886,
  "digest_last": {
   "ՀԷՑ": 1793280117.7371175,
   "Վեոլիա Ջուր": 1793281931.7085874
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-29": 15
  },
- "last_sport": 1793288725.8317466
+ "last_sport": 1793291261.265694
 }
