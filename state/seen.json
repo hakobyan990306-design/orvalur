@@ -1,20 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3773131",
-  "tg:shamshyan_com/55869",
-  "tg:twentyfournews/325817",
-  "tg:RadarARM/81907",
-  "News.am:https://news.am/hy/news/1070680",
-  "168.am:https://168.am/?p=2505045",
-  "tg:shamshyan_com/55855",
-  "tg:twentyfournews/325816",
-  "tg:RadarARM/81906",
-  "tg:factoram/74810",
-  "News.am:https://news.am/hy/news/1070678",
-  "168.am:https://168.am/?p=2505035",
-  "tg:shamshyan_com/55854",
-  "tg:twentyfournews/325815",
-  "News.am:https://news.am/hy/news/1070679",
   "tg:shamshyan_com/55853",
   "tg:twentyfournews/325814",
   "News.am:https://news.am/hy/news/1070675",
@@ -2999,10 +2984,24 @@
   "1in.am:https://www.1in.am/?p=3774230",
   "tg:shamshyan_com/56013",
   "1in.am:https://www.1in.am/?p=3774202",
-  "Factor.am:https://factor.am/?p=1075288"
+  "Factor.am:https://factor.am/?p=1075288",
+  "tg:shamshyan_com/56015",
+  "tg:twentyfournews/326356",
+  "Factor.am:https://factor.am/?p=1075763",
+  "Aravot.am:https://www.aravot.am/?p=1590159",
+  "168.am:https://168.am/?p=2506573",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/turqiajum-zhajr-e-pluzvel-kan-zvoher-ev-tuzhatsner-108666607.html",
+  "tg:shamshyan_com/56014",
+  "tg:twentyfournews/326355",
+  "News.am:https://news.am/hy/news/1071291",
+  "168.am:https://168.am/?p=2506662",
+  "1in.am:https://www.1in.am/?p=3774226",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/arkadi-hambardzumjani-ev--pvokhkapakcvats-22-andzi-gujqi-nkatmamb-sahmanapakumner-en-kirarvel-108666353.html",
+  "tg:twentyfournews/326354",
+  "1in.am:https://www.1in.am/?p=3774190",
+  "News.am:https://news.am/hy/news/1071273"
  ],
  "titles": [
-  "ԱՄՆ-ը նախազգուշացրել է Իրանի դեմ ռազմական գործողություններիմասին. WSJ",
   "ԱՄՆ-ը Patriot համալիրներ է տեղափոխում Մերձավոր Արևելք",
   "🌍📈 Համաշխարհային օդերևութաբանական կազմակերպության (ՀՕԿ) նոր զեկույցի համաձայն՝ 2025 թվականին մթնոլորտում ածխածնի երկօքսիդի (CO₂) և մյուս հիմնական ջերմոցային գազերի կոնցենտրացիաները հասել են աննախադեպ ",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում հոկտեմբերի 28-ին",
@@ -3301,7 +3300,8 @@
   "🎥 Վրիպած 11-մետրանոց, համառ դիմադրություն և հանգուցալուծում լրացուցիչ ժամանակում․ Արարատ-Արմենիան քառորդ եզրափակիչում է",
   "Դնեպրի երկաթուղային կայարանին ռուսական հարվածների հետևանքով 14 մարդ է զոհվել",
   "Պենտագոնը հետաքննում է ԱՄՆ ռազմակայանների սառցախցիկների վրա կիբերհարձակման կասկածները. Reuters",
-  "Աշխատակիցները մնացել են հողազանգվածի տակ. 1 հոգի մահացել է, մյուսը՝ հոսպիտալացվել"
+  "Աշխատակիցները մնացել են հողազանգվածի տակ. 1 հոգի մահացել է, մյուսը՝ հոսպիտալացվել",
+  "ԱՀԿ-ն հայտնել է, որ Եմենում հակամարտության սրումից ի վեր զոհերի թիվը հասել է 1677-ի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793284671.7775319,
+ "last_post": 1793285577.8965423,
  "digest_last": {
   "ՀԷՑ": 1793280117.7371175,
   "Վեոլիա Ջուր": 1793281931.7085874
