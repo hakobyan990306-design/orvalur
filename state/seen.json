@@ -1,22 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1070731",
-  "News.am:https://news.am/hy/news/1070730",
-  "168.am:https://168.am/?p=2505199",
-  "News.am:https://news.am/hy/news/1070727",
-  "168.am:https://168.am/?p=2505125",
-  "News.am:https://news.am/hy/news/1070723",
-  "168.am:https://168.am/?p=2505189",
-  "168.am:https://168.am/?p=2505182",
-  "168.am:https://168.am/?p=2505184",
-  "168.am:https://168.am/?p=2505010",
-  "168.am:https://168.am/?p=2505202",
-  "Factor.am:https://factor.am/?p=1074822",
-  "168.am:https://168.am/?p=2505197",
-  "tg:twentyfournews/325854",
-  "tg:twentyfournews/325853",
-  "News.am:https://news.am/hy/news/1070706",
-  "tg:shamshyan_com/55878",
   "tg:twentyfournews/325859",
   "Armsport.am:https://armsport.am/?p=611888",
   "Hetq:https://hetq.am/hy/article/185034",
@@ -2999,11 +2982,26 @@
   "tg:twentyfournews/326401",
   "tg:fastsportstv/27170",
   "News.am:https://news.am/hy/news/1071308",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/qanaqeravanum-2-andz-e-dzerbakalvel-aporini-zenqi-unenalu-kaskatsanqvov-108673666.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/qanaqeravanum-2-andz-e-dzerbakalvel-aporini-zenqi-unenalu-kaskatsanqvov-108673666.html",
+  "tg:shamshyan_com/56028",
+  "tg:twentyfournews/326404",
+  "News.am:https://news.am/hy/news/1071311",
+  "Factor.am:https://factor.am/?p=1075818",
+  "Aravot.am:https://www.aravot.am/?p=1590195",
+  "168.am:https://168.am/?p=2506811",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/papuk-bardz-en-dnum-hanraqven-cankacats-depqum-vtangavvor-e-hhi-hamar-surenjanc-108668867.html",
+  "tg:twentyfournews/326403",
+  "News.am:https://news.am/hy/news/1071328",
+  "Factor.am:https://factor.am/?p=1075781",
+  "168.am:https://168.am/?p=2506577",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/putinn-ampvopel-e-rusastan-afrika-gagatnazhvoghvovi-ardjunqnery-108673997.html",
+  "tg:twentyfournews/326400",
+  "News.am:https://news.am/hy/news/1071326",
+  "168.am:https://168.am/?p=2506809",
+  "168.am:https://168.am/?p=2506668",
+  "Armsport.am:https://armsport.am/?p=612085"
  ],
  "titles": [
-  "Առողջության համընդհանուր ապահովագրության համակարգում ընդգրկվող շահառուների շրջանակը կընդլայնվի",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Արարատի մարզում հոկտեմբերի 28-ին; Վթարային ջրանջատում Արմավիրի մարզի Էջմիածին քաղաքում հոկտեմբերի 28-ին; Վթարային ջրանջատում Շիրակի մարզում հոկտեմբերի 28-ին",
   "🟧 Իսպանիայում 2 գնացք է բախվել, նախնական տվյալներով՝ կա 39 զոհ։",
   "Արմեն Իսախանյանը Ֆիզուլիի Ղարղաբազար կոչվող վայրում որովայնի հատվածում ստացել է բեկորային վնասվածք և ընկել է հերոսի մահով",
   "🇦🇲🇨🇿Չեխիա կատարած պաշտոնական այցի շրջանակում պաշտպանության նախարար Սուրեն Պապիկյանն այցելել է Չեխիայի Հանրապետությունում Հայաստանի Հանրապետության դեսպանություն։",
@@ -3301,7 +3299,9 @@
   "Էսօր ԱԺ-ում իրար ծեծում էին ոչ թե էս տղերքը, այլ Արևելքն ու Արևմուտքը, սրան հասավ Նիկոլը. Մանուկյան",
   "🔥 Նախորդ Կլասիկոյում տարած հաղթանակի շնորհիվ «Բարսելոնան» կարողացավ ամրագրել Իսպանիայի չեմպիոնությունը:",
   "Ֆրանսիայի ներքին գործերի նախարարը նախազգուշացրել է հոկտեմբերի 31-ին նոր անկարգությունների վտանգի մասին",
-  "Քանաքեռավանում 2 անձ է ձերբակալվել` ապօրինի զենքի ունենալու կասկածանքով"
+  "Քանաքեռավանում 2 անձ է ձերբակալվել` ապօրինի զենքի ունենալու կասկածանքով",
+  "Գազ չի լինելու",
+  "Ինչո՞ւ չխաղացի այդ ակումբում. որովհետև ցանկանում էի տիտղոսներ նվաճել. Լևանդովսկի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,21 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Armsport.am:https://armsport.am/?p=612085": {
-   "score": 5,
-   "since": 1793298294.6425588
-  },
-  "tg:twentyfournews/326400": {
-   "score": 6,
-   "since": 1793298294.6425588
-  },
-  "168.am:https://168.am/?p=2506668": {
-   "score": 5,
-   "since": 1793298294.6425588
-  }
- },
- "last_post": 1793298934.0145452,
+ "pending": {},
+ "last_post": 1793299395.360557,
  "digest_last": {
   "ՀԷՑ": 1793280117.7371175,
   "Վեոլիա Ջուր": 1793281931.7085874
@@ -3341,5 +3328,5 @@
  "top_used": {
   "2026-10-29": 15
  },
- "last_sport": 1793298459.7940953
+ "last_sport": 1793299395.360562
 }
