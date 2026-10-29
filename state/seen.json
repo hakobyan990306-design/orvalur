@@ -1,22 +1,5 @@
 {
  "seen": [
-  "tg:shamshyan_com/55870",
-  "Factor.am:https://factor.am/?p=1074185",
-  "tg:factoram/74811",
-  "Aravot.am:https://www.aravot.am/?p=1589637",
-  "tg:twentyfournews/325821",
-  "Armsport.am:https://armsport.am/?p=611875",
-  "News.am:https://news.am/hy/news/1070681",
-  "Hetq:https://hetq.am/hy/article/185028",
-  "Factor.am:https://factor.am/?p=1074758",
-  "Aravot.am:https://www.aravot.am/?p=1589644",
-  "168.am:https://168.am/?p=2505090",
-  "1in.am:https://www.1in.am/?p=3773291",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/eph-ambivonneri-varichner-en-dzerbakalvel-hh-hakakvorupcivon-kvomite-108583717.html",
-  "tg:twentyfournews/325820",
-  "News.am:https://news.am/hy/news/1070657",
-  "Hetq:https://hetq.am/hy/article/185027",
-  "Factor.am:https://factor.am/?p=1074770",
   "Aravot.am:https://www.aravot.am/?p=1589643",
   "168.am:https://168.am/?p=2505077",
   "1in.am:https://www.1in.am/?p=3773231",
@@ -2999,11 +2982,26 @@
   "168.am:https://168.am/?p=2506693",
   "News.am:https://news.am/hy/news/1071278",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/erevanum-tmramijvocner-en-hajtnabervel-taqstvocnerum-3-dzerbakalvats-ka-108666728.html",
-  "168.am:https://168.am/?p=2506696"
+  "168.am:https://168.am/?p=2506696",
+  "tg:twentyfournews/326361",
+  "Factor.am:https://factor.am/?p=1075775",
+  "Aravot.am:https://www.aravot.am/?p=1590171",
+  "168.am:https://168.am/?p=2506701",
+  "1in.am:https://www.1in.am/?p=3774157",
+  "tg:twentyfournews/326360",
+  "Factor.am:https://factor.am/?p=1075727",
+  "Aravot.am:https://www.aravot.am/?p=1590162",
+  "168.am:https://168.am/?p=2506699",
+  "tg:fastsport_am/1760",
+  "tg:twentyfournews/326359",
+  "News.am:https://news.am/hy/news/1071296",
+  "tg:fastsport_am/1759",
+  "tg:fastsport_am/1762",
+  "News.am:https://news.am/hy/news/1071280",
+  "News.am:https://news.am/hy/news/1071298",
+  "1in.am:https://www.1in.am/?p=3774196"
  ],
  "titles": [
-  "«Ադրբեջանի ճնշումների ֆոնին նոր քրեական գործ՝ Սերժ Սարգսյանի դեմ»․ Տիգրան Աբրահամյան",
-  "Խուլիգանություն՝ Սյունիքի մարզում․ Գորիսի դատարանում դատական նիստից հետո վիճաբանություն և ծեծկռտուք է տեղի ունեցել․ կան տուժածներ․ միջամտել են դատարանի կարգադրիչները",
   "Իրանի դեմ ԱՄՆ պատերազմի ծախսերը գերազանցել են 47 միլիարդ դոլարը․ Reuters",
   "Աննա Հակոբյանի՝ ընտանեկան բռնության մասին օրինագիծը՝ ԱԺ-ում. «Զոհակենտրոն քննություն պիտի լինի»",
   "Կիմ Չեն Ընը պահանջել է ապահովել բանակի լիակատար պատրաստվածությունը պատերազմին",
@@ -3301,7 +3299,9 @@
   "ԱՀԿ-ն հայտնել է, որ Եմենում հակամարտության սրումից ի վեր զոհերի թիվը հասել է 1677-ի",
   "Ռուսաստանն առաջարկել է միջնորդել Իրանի և ԱՄՆ-ի միջև և պատրաստ է ընդունել իրանական ուրանը",
   "Երևանում թմրամիջոցներ են հայտնաբերվել թաքստոցներում. 3 ձերբակալված կա",
-  "Լիտվան 2032 թվականից համընդհանուր զորակոչ կներդնի"
+  "Լիտվան 2032 թվականից համընդհանուր զորակոչ կներդնի",
+  "Վենսան Կոմպանին դուրս է գրվել հիվանդանոցից՝ ուշաթափությունից հետո. թարմացում",
+  "Իտալիայում ձերբակալել են սինագոգում և մզկիթում ահաբեկչություններ նախապատրաստելու մեջ կասկածվող 22-ամյա երիտասարդի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,17 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1793286840.1619253,
+ "pending": {
+  "Armsport.am:https://armsport.am/?p=612057": {
+   "score": 5,
+   "since": 1793287386.709462
+  },
+  "tg:fastsport_am/1761": {
+   "score": 5,
+   "since": 1793287386.709462
+  }
+ },
+ "last_post": 1793287644.3311121,
  "digest_last": {
   "ՀԷՑ": 1793280117.7371175,
   "Վեոլիա Ջուր": 1793281931.7085874
@@ -3328,5 +3337,5 @@
  "top_used": {
   "2026-10-29": 15
  },
- "last_sport": 1793283767.6371124
+ "last_sport": 1793287400.8695385
 }
