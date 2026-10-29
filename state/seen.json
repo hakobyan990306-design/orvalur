@@ -1,30 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2504707",
-  "tg:twentyfournews/325722",
-  "News.am:https://news.am/hy/news/1070524",
-  "tg:shamshyan_com/55849",
-  "tg:twentyfournews/325727",
-  "tg:RadarARM/81890",
-  "tg:factoram/74798",
-  "Armsport.am:https://armsport.am/?p=611865",
-  "News.am:https://news.am/hy/news/1070591",
-  "Hetq:https://hetq.am/hy/article/185021",
-  "Factor.am:https://factor.am/?p=1074596",
-  "Aravot.am:https://www.aravot.am/?p=1589528",
-  "168.am:https://168.am/?p=2504729",
-  "1in.am:https://www.1in.am/?p=3773089",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/niderlandnery-kajakci-anhet-kvorats-hajeri-ev-adrbejancineri-tshakatagiry-parzelu-hamar-108575438.html",
-  "tg:twentyfournews/325726",
-  "tg:factoram/74797",
-  "Hetq:https://hetq.am/hy/article/185019",
-  "Aravot.am:https://www.aravot.am/?p=1589527",
-  "168.am:https://168.am/?p=2504724",
-  "1in.am:https://www.1in.am/?p=3773119",
-  "tg:shamshyan_com/55846",
-  "tg:factoram/74796",
-  "News.am:https://news.am/hy/news/1070594",
-  "Aravot.am:https://www.aravot.am/?p=1589526",
   "168.am:https://168.am/?p=2504716",
   "tg:factoram/74795",
   "News.am:https://news.am/hy/news/1070592",
@@ -2999,13 +2974,34 @@
   "Armsport.am:https://armsport.am/?p=612051",
   "Aravot.am:https://www.aravot.am/?p=1590067",
   "tg:RadarARM/81994",
-  "News.am:https://news.am/hy/news/1071203"
+  "News.am:https://news.am/hy/news/1071203",
+  "tg:twentyfournews/326294",
+  "tg:RadarARM/81998",
+  "Factor.am:https://factor.am/?p=1075596",
+  "Aravot.am:https://www.aravot.am/?p=1590081",
+  "1in.am:https://www.1in.am/?p=3774040",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/rdn-ev-afrikan-bnakan-dashnakicner-en-bazmabever-ashkharhi-karucman-gvortsum-putin-108655577.html",
+  "tg:twentyfournews/326292",
+  "tg:RadarARM/81997",
+  "News.am:https://news.am/hy/news/1071209",
+  "Factor.am:https://factor.am/?p=1075568",
+  "Aravot.am:https://www.aravot.am/?p=1590070",
+  "168.am:https://168.am/?p=2506360",
+  "News.am:https://news.am/hy/news/1071201",
+  "Factor.am:https://factor.am/?p=1075548",
+  "Aravot.am:https://www.aravot.am/?p=1590077",
+  "tg:twentyfournews/326290",
+  "News.am:https://news.am/hy/news/1071207",
+  "Aravot.am:https://www.aravot.am/?p=1590065",
+  "News.am:https://news.am/hy/news/1071205",
+  "digest:veolia:0a00a203af79",
+  "veolia:0a00a203af79",
+  "tg:shamshyan_com/55994",
+  "tg:twentyfournews/326291",
+  "News.am:https://news.am/hy/news/1071193",
+  "News.am:https://news.am/hy/news/1071206"
  ],
  "titles": [
-  "Համատարած մեղադրանքներ․ Ինչո՞ւ են Շիրակի մարզի տարբեր բնակավայրերի տղամարդիկ հայտնվել իրավապահների ուշադրության կենտրոնում",
-  "Քասախ գյուղում գnղություններ կատարած տղամարդը կալանավորվել է",
-  "Թրամփին մեղադրել են բռնաբարության մեջ",
-  "Կոնգոյում ավելի քան 10 000 մարդ է վարակվել էբոլայով, նրանց գրեթե կեսը մահացել է",
   "Հոկտեմբերի 27-ից 27 տարի անց․ Ջհանգիրյանը կոչով դիմում է գլխավոր դատախազին․ ՏԵՍԱՆՅՈՒԹ",
   "ՀՀ ընտրություններին ընդառաջ՝ հայկական տեղեկատվական դաշտը թիրախավորվել է ՌԴ-ի հետ կապ ունեցող պետական կառույցների կողմից․ զեկույց",
   "ԱՄՆ Կոնգրեսում ցանկանում են հեշտացնել երրորդ երկրների միջոցով Ուկրաինային ամերիկյան զենքի փոխանցումը",
@@ -3301,7 +3297,11 @@
   "🎥 Վերջին 4 վայրկյանի դրաման. ինչպես Վազգեն Թևանյանը տապալեց աշխարհի կրկնակի չեմպիոնին ու մտավ ԱԱ-ի կիսաեզրափակիչ",
   "Մահացել է ռեժիսոր Հրանտ Հակոբյանը",
   "🟨 Խստորեն դատապարտում եմ «Ուժեղ Հայաստան» խմբակցության ղեկավարի պահվածքը։ Նա ամբիոնի մոտ ելույթ ունեցող պատգամավորին վիրավորել է, ապա տեղից վեր է կացել, որ հարվածի նրան։",
-  "Փաշինյանը թեժացնում է կրքերը՝ սպառնում է կոտրել ընդդիմադիրների ձեռքերը I ԼՈՒՐԵՐ I 14:00"
+  "Փաշինյանը թեժացնում է կրքերը՝ սպառնում է կոտրել ընդդիմադիրների ձեռքերը I ԼՈՒՐԵՐ I 14:00",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 29-ին",
+  "Ոստիկաններն առգրավել են կես կիլոգրամից ավելի հերոին, 3,3 կգ կրիստալ ու մարիխուանա. կա 3 ձերբակալված",
+  "Իմ նպատակն է գործունեությունս ավարտել կնքված խաղաղության պայմանագրի պայմաններում․ Փաշինյան",
+  "Քրիստին Լագարդը 2027 թվականի փետրվարին կհեռանա ԵԿԲ ղեկավարի պաշտոնից"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,14 +3320,6 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "News.am:https://news.am/hy/news/1071201": {
-   "score": 5,
-   "since": 1793269218.8762407
-  },
-  "Aravot.am:https://www.aravot.am/?p=1590065": {
-   "score": 5,
-   "since": 1793269218.8762407
-  },
   "News.am:https://news.am/hy/news/1071191": {
    "score": 5,
    "since": 1793269218.8762407
@@ -3336,12 +3328,16 @@
    "score": 5,
    "since": 1793269218.8762407
   },
-  "News.am:https://news.am/hy/news/1071193": {
-   "score": 6,
-   "since": 1793269218.8762407
+  "168.am:https://168.am/?p=2506363": {
+   "score": 5,
+   "since": 1793270116.6448119
+  },
+  "1in.am:https://www.1in.am/?p=3774037": {
+   "score": 5,
+   "since": 1793270116.6448119
   }
  },
- "last_post": 1793269870.7211542,
+ "last_post": 1793270791.1083288,
  "digest_last": {
   "ՀԷՑ": 1793193796.182053,
   "Վեոլիա Ջուր": 1793267403.3099802
