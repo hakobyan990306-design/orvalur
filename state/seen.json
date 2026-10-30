@@ -1,15 +1,5 @@
 {
  "seen": [
-  "digest:veolia:f189497a3ad1",
-  "veolia:f189497a3ad1",
-  "News.am:https://news.am/hy/news/1070738",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/orlvoji-gvortsaranin-hascvats-hrtirajin-harvatsi-zvoheri-tivy-hasel-e-5i-marzpet-108591486.html",
-  "168.am:https://168.am/?p=2505172",
-  "tg:twentyfournews/325884",
-  "tg:RadarARM/81917",
-  "News.am:https://news.am/hy/news/1070739",
-  "Factor.am:https://factor.am/?p=1074765",
-  "168.am:https://168.am/?p=2505295",
   "1in.am:https://www.1in.am/?p=3773428",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261027/shat-bvovandakalickremly-putini-ev-stubi-u-stjvorei-zrujci-masin-108594770.html",
   "News.am:https://news.am/hy/news/1070755",
@@ -2999,10 +2989,19 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/2-ughghatirneri-bakhum-amnum-zvohvel-e-3-mard-108679567.html",
   "News.am:https://news.am/hy/news/1071350",
   "Armsport.am:https://armsport.am/?p=612093",
-  "News.am:https://news.am/hy/news/1071349"
+  "News.am:https://news.am/hy/news/1071349",
+  "tg:RadarARM/82025",
+  "Aravot.am:https://www.aravot.am/?p=1590223",
+  "168.am:https://168.am/?p=2506868",
+  "tg:twentyfournews/326427",
+  "168.am:https://168.am/?p=2506862",
+  "tg:twentyfournews/326426",
+  "168.am:https://168.am/?p=2506859",
+  "digest:veolia:797421b62ace",
+  "veolia:797421b62ace",
+  "tg:twentyfournews/326428"
  ],
  "titles": [
-  "Ռուս փոխգնդապետը դատապարտվել է 21 տարվա ազատազրկման՝ շինծու մարտական «սխրանքների» տեսանյութերի ու փող կորզելու նպատակով դիտավորյալ վիրավորումներ բեմադրելու համար",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Աջափնյակ վարչական շրջանում հոկտեմբերի 28-ին",
   "Ծավի ջուրը անվտանգ է՝ խմելու և կենցաղային նպատակներով օգտագործման համար",
   "Գորիսի դատարանում նիստից հետո ծեծկռտուք է տեղի ունեցել․ կան տուժածներ․ Shamshyan.com",
@@ -3301,7 +3300,8 @@
   "ԿԱՐԵՆ ԱՍԼԱՆՅԱՆԸ՝ ԸՄԲՇԱՄԱՐՏԻ ՀՈՒՆԱՀՌՈՄԵԱԿԱՆ ՈՃԻ ԱՇԽԱՐՀԻ ՉԵՄՊԻՈՆ 🥇🇦🇲",
   "🟧 Համաշխարհային կրիպտոարժույթի շուկաներից Binance-ը ենթարկվել է հաքերային հարձակման։ Ըստ տարածվող լուրերի՝ հարթակից արդեն դուրս է հանվել 1.8-2-5 մլրդ դոլար։ Հասցված վնասը նախնական գնահատմամբ կարող է կ",
   "ԱՄՆ–ում ուղղաթիռներ են բախվել. կա 3 զոհ",
-  "UFC-ն թարմացրել է վարկանիշային աղյուսակը. ովքեր են առաջատարներն ու ինչ դիրք ունի Արման Ծառուկյանը"
+  "UFC-ն թարմացրել է վարկանիշային աղյուսակը. ովքեր են առաջատարներն ու ինչ դիրք ունի Արման Ծառուկյանը",
+  "Ջրանջատումներ՝ Պլանային ջրանջատում Երևանում և  Կոտայքի մարզում նոյեմբերի  3/4-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793336872.6087961,
+ "last_post": 1793337362.4665434,
  "digest_last": {
   "ՀԷՑ": 1793280117.7371175,
   "Վեոլիա Ջուր": 1793281931.7085874
