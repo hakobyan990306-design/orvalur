@@ -1,25 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326015",
-  "News.am:https://news.am/hy/news/1070826",
-  "168.am:https://168.am/?p=2505573",
-  "tg:twentyfournews/326014",
-  "168.am:https://168.am/?p=2505552",
-  "168.am:https://168.am/?p=2505568",
-  "tg:RadarARM/81939",
-  "Factor.am:https://factor.am/?p=1075033",
-  "tg:twentyfournews/326017",
-  "Aravot.am:https://www.aravot.am/?p=1589801",
-  "tg:shamshyan_com/55915",
-  "tg:twentyfournews/326029",
-  "tg:RadarARM/81940",
-  "Factor.am:https://factor.am/?p=1075108",
-  "Aravot.am:https://www.aravot.am/?p=1589808",
-  "168.am:https://168.am/?p=2505612",
-  "1in.am:https://www.1in.am/?p=3773591",
-  "tg:twentyfournews/326028",
-  "News.am:https://news.am/hy/news/1070859",
-  "Factor.am:https://factor.am/?p=1075075",
   "168.am:https://168.am/?p=2505610",
   "1in.am:https://www.1in.am/?p=3773574",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/yntanekan-brnutjan-dem-anna-hakvobjani-nakhagitsy-azhn-yndunec-1in-yntercmamb--108610056.html",
@@ -2999,10 +2979,29 @@
   "ena:2280fbb1abd4",
   "tg:twentyfournews/326534",
   "tg:twentyfournews/326535",
-  "Aravot.am:https://www.aravot.am/?p=1590367"
+  "Aravot.am:https://www.aravot.am/?p=1590367",
+  "tg:shamshyan_com/56066",
+  "tg:twentyfournews/326541",
+  "Hetq:https://hetq.am/hy/article/185126",
+  "Factor.am:https://factor.am/?p=1076110",
+  "Aravot.am:https://www.aravot.am/?p=1590385",
+  "168.am:https://168.am/?p=2507273",
+  "1in.am:https://www.1in.am/?p=3774526",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/hh-mipy-pahanjum-e-hanrajin-khvosqum-bacarel-etnik-khmberin-pitakavvorvogh-dzevakerpumnery-108699648.html",
+  "tg:shamshyan_com/56065",
+  "tg:twentyfournews/326540",
+  "Factor.am:https://factor.am/?p=1076122",
+  "Aravot.am:https://www.aravot.am/?p=1590386",
+  "168.am:https://168.am/?p=2507276",
+  "tg:twentyfournews/326539",
+  "Aravot.am:https://www.aravot.am/?p=1590379",
+  "168.am:https://168.am/?p=2507249",
+  "tg:twentyfournews/326538",
+  "Aravot.am:https://www.aravot.am/?p=1590381",
+  "tg:twentyfournews/326537",
+  "168.am:https://168.am/?p=2507125"
  ],
  "titles": [
-  "Ինչ է բացահայտվել ԵՊՀ-ում ձերբակալությունների գործով․ «Ժողովուրդ»",
   "🎥 Անգլիայի Լիգայի գավաթ․ Մանչեսթեր Սիթին լարված պայքարում հաղթեց Բրայթոնին և նվաճեց հաջորդ փուլի ուղեգիր",
   "Իրավապաշտպան կազմակերպությունները դատի են տվել Թրամփի վարչակազմին՝ ձերբակալված ներգաղթյալների պահման վայրը թաքցնելու համար",
   "Իրանը միջնորդների հետ քննարկում է Հորմուզի բացման ծրագրի ժամկետի կրճատումը․ Արաղչի",
@@ -3301,7 +3300,8 @@
   "Օլեշկիում սկսվել է բնակիչների տարհանումն ու մարդասիրական օգնության բաշխումը",
   "Լույսի անջատումներ՝ Երևանի Մալաթիա Սեբաստիա վարչական շրջան, նոյեմբերի 3-ին; Երևանի Շենգավիթ վարչական շրջան, նոյեմբերի 3-ին; Երևանի Աջափնյակ վարչական շրջան",
   "Հայաստանը պետք է անհրաժեշտ քայլեր ձեռնարկի խաղաղության համաձայնագրի ստորագրման համար․ Բայրամով",
-  "Հայաստանն առաջին մեդալն է նվաճում Չինաստանում ընթացող ծանրամարտի աշխարհի առաջնությունում"
+  "Հայաստանն առաջին մեդալն է նվաճում Չինաստանում ընթացող ծանրամարտի աշխարհի առաջնությունում",
+  "«Վա՛յր դրեք զենքերը, բարձրացրե՛ք աշխատավարձերը»․ Իտալիայում զանգվածային ցույցեր են"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793365918.0970457,
+ "last_post": 1793366452.5098498,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793361907.1174948
