@@ -1,26 +1,5 @@
 {
  "seen": [
-  "Hetq:https://hetq.am/hy/article/185056",
-  "Factor.am:https://factor.am/?p=1075034",
-  "Factor.am:https://factor.am/?p=1075117",
-  "Factor.am:https://factor.am/?p=1075133",
-  "Factor.am:https://factor.am/?p=1075123",
-  "tg:twentyfournews/326033",
-  "News.am:https://news.am/hy/news/1070868",
-  "Aravot.am:https://www.aravot.am/?p=1589817",
-  "168.am:https://168.am/?p=2505634",
-  "tg:twentyfournews/326022",
-  "168.am:https://168.am/?p=2505616",
-  "Hetq:https://hetq.am/hy/article/185061",
-  "Factor.am:https://factor.am/?p=1075130",
-  "Aravot.am:https://www.aravot.am/?p=1589828",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/oeki-himnadir-artur-baghdasarjani-ansharzh-sharzhakan-gujqy-ev-gumarnery-argelanqi-tak-en--108616236.html",
-  "tg:twentyfournews/326041",
-  "tg:RadarARM/81943",
-  "168.am:https://168.am/?p=2505658",
-  "1in.am:https://www.1in.am/?p=3773588",
-  "tg:twentyfournews/326040",
-  "News.am:https://news.am/hy/news/1070917",
   "Aravot.am:https://www.aravot.am/?p=1589822",
   "tg:twentyfournews/326039",
   "News.am:https://news.am/hy/news/1070916",
@@ -2999,10 +2978,30 @@
   "tg:mil_armenia/19704",
   "tg:twentyfournews/326553",
   "News.am:https://news.am/hy/news/1071517",
-  "Hetq:https://hetq.am/hy/article/185135"
+  "Hetq:https://hetq.am/hy/article/185135",
+  "tg:shamshyan_com/56073",
+  "tg:twentyfournews/326557",
+  "tg:RadarARM/82052",
+  "Armsport.am:https://armsport.am/?p=612158",
+  "Factor.am:https://factor.am/?p=1076186",
+  "Aravot.am:https://www.aravot.am/?p=1590415",
+  "168.am:https://168.am/?p=2507309",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/artsvik-minasjany-heracav-hjdic-ev-mrcakcutjan-handznazhvoghvovi-andam-yntrvec-108703139.html",
+  "tg:twentyfournews/326556",
+  "tg:factoram/74948",
+  "News.am:https://news.am/hy/news/1071512",
+  "Factor.am:https://factor.am/?p=1076126",
+  "168.am:https://168.am/?p=2507038",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/azat-votshi-ymbish-vazgen-tevanjany-dardzav-ymbshamarti-ashkharhi-pvokhchempivon--108704611.html",
+  "tg:twentyfournews/326555",
+  "News.am:https://news.am/hy/news/1071520",
+  "tg:twentyfournews/326554",
+  "News.am:https://news.am/hy/news/1071519",
+  "News.am:https://news.am/hy/news/1071518",
+  "tg:factoram/74949",
+  "News.am:https://news.am/hy/news/1071509"
  ],
  "titles": [
-  "Քվեարկություն ԹՐԻՓՓ-ի դեմ. Հայաստանի շահերի և ռուսական ազդեցության բախումը",
   "Ուկրաինայի հարցով եռակողմ բանակցությունները տեղի կունենան նոյեմբերի 4–ից հետո. Ուշակով",
   "ԿԺԴՀ-ն չպարզված տեսակի արկ է արձակել Ճապոնական ծովի ուղղությամբ",
   "Առեղծվածային ու ողբերգական դեպք՝ Երևանում. շտապօգնության բժիշկները, ժամանելով կանչի վայր, արձանագրել են 1 ամսական երեխայի մահը",
@@ -3301,7 +3300,8 @@
   "«Նովայա գազետա»-ն հայտարարել է փակման մասին",
   "🇦🇲🇨🇿Չեխիա կատարած պաշտոնական այցի շրջանակում պաշտպանության նախարար Սուրեն Պապիկյանն այցելել է Չեխիայի Հանրապետությունում Հայաստանի Հանրապետության դեսպանություն։",
   "Աբովյան 10 հասցեում գտնվող գույքի բռնագանձման վերաբերյալ Դատախազության հայցով Վերաքննիչ հակակոռուպցիոն դատարանը բեկանել է Հակակոռուպցիոն դատարանի վճիռը. գործն ուղարկվել է նոր քննության",
-  "«Էներգաչափ»-ի մասնավորեցման մրցույթում արձանագրվել են խախտումներ․ 1.34 մլրդ դրամի ներդրում առաջարկած մասնակիցը չի հաղթել"
+  "«Էներգաչափ»-ի մասնավորեցման մրցույթում արձանագրվել են խախտումներ․ 1.34 մլրդ դրամի ներդրում առաջարկած մասնակիցը չի հաղթել",
+  "Ըմբիշ Վազգեն Թևանյանը` աշխարհի փոխչեմպիոն"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793371404.7493794,
+ "last_post": 1793371913.0748963,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
