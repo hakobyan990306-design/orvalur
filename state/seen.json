@@ -1,21 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/hh-azhn-hamadzajnutjun-tvec-ame-het-arevtri-ev-nerdrumneri-hamadzajnagrin-108612379.html",
-  "tg:twentyfournews/326034",
-  "News.am:https://news.am/hy/news/1070899",
-  "Factor.am:https://factor.am/?p=1075074",
-  "168.am:https://168.am/?p=2505632",
-  "tg:twentyfournews/326031",
-  "168.am:https://168.am/?p=2505626",
-  "tg:twentyfournews/326030",
-  "168.am:https://168.am/?p=2505623",
-  "168.am:https://168.am/?p=2505602",
-  "digest:veolia:dc1e2a09509b",
-  "veolia:dc1e2a09509b",
-  "veolia:5ce2dde131cc",
-  "veolia:5711aa23bc9f",
-  "tg:RadarARM/81941",
-  "Aravot.am:https://www.aravot.am/?p=1589809",
   "tg:mil_armenia/19704",
   "tg:shamshyan_com/55917",
   "tg:twentyfournews/326037",
@@ -2999,10 +2983,25 @@
   "tg:twentyfournews/326548",
   "Aravot.am:https://www.aravot.am/?p=1590400",
   "tg:RadarARM/82050",
-  "1in.am:https://www.1in.am/?p=3774556"
+  "1in.am:https://www.1in.am/?p=3774556",
+  "tg:twentyfournews/326549",
+  "News.am:https://news.am/hy/news/1071515",
+  "Factor.am:https://factor.am/?p=1076145",
+  "Aravot.am:https://www.aravot.am/?p=1590408",
+  "168.am:https://168.am/?p=2507235",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/gegharquniqi-marzum-18-vochkhar-en-vraerti-entarkel-bvolvory-satkel-en-108701544.html",
+  "tg:shamshyan_com/56069",
+  "News.am:https://news.am/hy/news/1071502",
+  "Aravot.am:https://www.aravot.am/?p=1590403",
+  "168.am:https://168.am/?p=2507271",
+  "News.am:https://news.am/hy/news/1071513",
+  "Aravot.am:https://www.aravot.am/?p=1590395",
+  "168.am:https://168.am/?p=2507301",
+  "digest:veolia:36db7c828311",
+  "veolia:36db7c828311",
+  "tg:shamshyan_com/56070"
  ],
  "titles": [
-  "Մարտի 1-ի քրեական գործով Փաշինյանի շահերը պաշտպանած Գիվի Հովհաննիսյանը դիմում է ներկայացրել Մարդու իրավունքների եվրոպական դատարան՝ ընդդեմ Փաշինյանի․ «Ժողովուրդ»",
   "🏴󠁧󠁢󠁥󠁮󠁧󠁿🌹 ԱՊԼ-ում այսօր կայանալու է «Վարդերի» դերբին, իսկ գործող չեմպիոնը հյուր է գնալու «Սիթի Գրաունդ», որտեղ նախորդ 2 այցերն ավարտել է գոլազուրկ ոչ-ոքիով:",
   "✅ Ազգերի լիգայի նոր մրցաշրջանն ընթացքի մեջ է: Այսօր պայքարի մեջ է մտնում նաև Հայաստանի հավաքականը:🇦🇲",
   "Ավտովթար՝ Շիրակի մարզում․ Ազատանում բախվել են «Infinty»-ն և «Լադա»-ն․ կա վիրավոր․ ՖՈՏՈՌԵՊՈՐՏԱԺ",
@@ -3301,7 +3300,8 @@
   "Գևորգ Թամամյանը կարող է հայտնվել ԱՀԿ գլխավոր տնօրենի ընտրության եզրափակիչ եռյակում",
   "Կանադայի բնության հարցերով պետքարտուղարի պատվիրակությունն այցելել է Հայոց ցեղասպանության թանգարան",
   "🟨 Հռոմի Լեւոն XIV պապը փոստով քվեաթերթիկ է ուղարկել Չիկագոյից ԱՄՆ միջանկյալ ընտրությունների համար՝ դառնալով առաջին պապը, որ մասնակցում է ԱՄՆ ընտրություններին։",
-  "Վրաստանն ու Ադրբեջանը պայմանավորվել են արագացնել սահմանազատման և սահմանագծման գործընթացը"
+  "Վրաստանն ու Ադրբեջանը պայմանավորվել են արագացնել սահմանազատման և սահմանագծման գործընթացը",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Արմավիրի մարզի Նորապատ գյուղում հոկտեմբերի 30-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793368750.3229253,
+ "last_post": 1793369167.492266,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
-  "Վեոլիա Ջուր": 1793361907.1174948
+  "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
   "2026-10-30": 15
