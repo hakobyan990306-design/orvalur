@@ -1,19 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326051",
-  "Hetq:https://hetq.am/hy/article/185065",
-  "Factor.am:https://factor.am/?p=1075063",
-  "Aravot.am:https://www.aravot.am/?p=1589846",
-  "1in.am:https://www.1in.am/?p=3773517",
-  "tg:fastsport_am/1744",
-  "tg:twentyfournews/326050",
-  "News.am:https://news.am/hy/news/1070924",
-  "Factor.am:https://factor.am/?p=1075140",
-  "Aravot.am:https://www.aravot.am/?p=1589848",
-  "168.am:https://168.am/?p=2505670",
-  "tg:twentyfournews/326049",
-  "News.am:https://news.am/hy/news/1070925",
-  "168.am:https://168.am/?p=2505671",
   "tg:twentyfournews/326048",
   "News.am:https://news.am/hy/news/1070923",
   "Aravot.am:https://www.aravot.am/?p=1589841",
@@ -2999,11 +2985,23 @@
   "News.am:https://news.am/hy/news/1071510",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/ara-zvohrabjany-azh-qnnich-handznazhvoghvovi-harcvov-dimel-e-hh-mipin-23-or-anc-ardzaganq-chka-108686199.html",
   "tg:twentyfournews/326561",
-  "News.am:https://news.am/hy/news/1071524"
+  "News.am:https://news.am/hy/news/1071524",
+  "tg:shamshyan_com/56080",
+  "tg:twentyfournews/326565",
+  "News.am:https://news.am/hy/news/1071528",
+  "Factor.am:https://factor.am/?p=1076116",
+  "Aravot.am:https://www.aravot.am/?p=1590420",
+  "168.am:https://168.am/?p=2507326",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/rdn-ev-chinastann-ajs-tari-apranqashrjanarutjan-nvor-rekvord-ksahmanen-dakhnvovski-108707301.html",
+  "tg:shamshyan_com/56079",
+  "News.am:https://news.am/hy/news/1071525",
+  "Factor.am:https://factor.am/?p=1076209",
+  "168.am:https://168.am/?p=2507339",
+  "168.am:https://168.am/?p=2507312",
+  "Armsport.am:https://armsport.am/?p=612080",
+  "1in.am:https://www.1in.am/?p=3774577"
  ],
  "titles": [
-  "ՌԴ-ն հեշտացնում է միգրանտների արտաքսման պայմանները․ ինչ է սպասվում մեր հայրենակիցներին",
-  "Սահմանադրության նոր նախագիծը պատրաստ կլինենք ներկայացնել նոյեմբերի կեսին. Գալյան",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ Զեյթուն վարչական շրջանում հոկտեմբերի 29-ին",
   "Ծեծել են, պահել են մութ տեղում, հասցրել են ինքնասպանության. «Հրապարակ»",
   "ԱՄՆ-ի միջուկային օբյեկտում հրդեհի պատճառով ռադիոակտիվ արտանետում է տեղի ունեցել",
@@ -3301,7 +3299,9 @@
   "Ըմբիշ Վազգեն Թևանյանը` աշխարհի փոխչեմպիոն",
   "ԱՄՆ-ը կարող է հաջորդ շաբաթ վերսկսել Իրանի դեմ ռազմական գործողությունները. Associated Press",
   "Արա Զոհրաբյանը ԱԺ քննիչ հանձնաժողովի հարցով դիմել է ՀՀ ՄԻՊ–ին. 23 օր անց արձագանք չկա",
-  "Զելենսկին կմեկնի Էրդողանի մոտ"
+  "Զելենսկին կմեկնի Էրդողանի մոտ",
+  "Դիդիե Դեշամը կարող է եվրոպական հեղինակավոր ակումբ գլխավորել",
+  "Ուշակովը չի բացառել, որ Աբու Դաբիում եվրոպացիների հնարավոր ներկայությունը կբարդացնի Ուկրաինայի շուրջ բանակցությունները"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793374142.72734,
+ "last_post": 1793374797.4971063,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-30": 15
  },
- "last_sport": 1793363128.9917438
+ "last_sport": 1793374634.5402608
 }
