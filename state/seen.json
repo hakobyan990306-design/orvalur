@@ -1,20 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326048",
-  "News.am:https://news.am/hy/news/1070923",
-  "Aravot.am:https://www.aravot.am/?p=1589841",
-  "tg:twentyfournews/326047",
-  "News.am:https://news.am/hy/news/1070922",
-  "tg:twentyfournews/326042",
-  "News.am:https://news.am/hy/news/1070878",
-  "tg:twentyfournews/326038",
-  "News.am:https://news.am/hy/news/1070918",
-  "digest:veolia:bf3c9e2928ac",
-  "veolia:bf3c9e2928ac",
-  "tg:fastsport_am/1745",
-  "tg:shamshyan_com/55923",
-  "Hetq:https://hetq.am/hy/article/185064",
-  "tg:shamshyan_com/55924",
   "News.am:https://news.am/hy/news/1070928",
   "Hetq:https://hetq.am/hy/article/185066",
   "Factor.am:https://factor.am/?p=1075181",
@@ -2999,10 +2984,24 @@
   "168.am:https://168.am/?p=2507339",
   "168.am:https://168.am/?p=2507312",
   "Armsport.am:https://armsport.am/?p=612080",
-  "1in.am:https://www.1in.am/?p=3774577"
+  "1in.am:https://www.1in.am/?p=3774577",
+  "tg:shamshyan_com/56081",
+  "tg:twentyfournews/326568",
+  "tg:RadarARM/82054",
+  "News.am:https://news.am/hy/news/1071529",
+  "Factor.am:https://factor.am/?p=1076222",
+  "Aravot.am:https://www.aravot.am/?p=1590423",
+  "168.am:https://168.am/?p=2507314",
+  "1in.am:https://www.1in.am/?p=3774583",
+  "tg:twentyfournews/326567",
+  "News.am:https://news.am/hy/news/1071530",
+  "Factor.am:https://factor.am/?p=1076217",
+  "168.am:https://168.am/?p=2507322",
+  "tg:twentyfournews/326566",
+  "168.am:https://168.am/?p=2507334",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261030/ukrainakan-ats-neri-harvatsneri-zvoh-e-dardzel-dvonecki-erkatughu-glkhavvor-tnoreny-108707473.html"
  ],
  "titles": [
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ Զեյթուն վարչական շրջանում հոկտեմբերի 29-ին",
   "Ծեծել են, պահել են մութ տեղում, հասցրել են ինքնասպանության. «Հրապարակ»",
   "ԱՄՆ-ի միջուկային օբյեկտում հրդեհի պատճառով ռադիոակտիվ արտանետում է տեղի ունեցել",
   "Ջեյ Դի Վենսը Իրանի Անվտանգության խորհրդի ղեկավարին գաղտնի առաջարկ է արել. ԶԼՄ",
@@ -3301,7 +3300,8 @@
   "Արա Զոհրաբյանը ԱԺ քննիչ հանձնաժողովի հարցով դիմել է ՀՀ ՄԻՊ–ին. 23 օր անց արձագանք չկա",
   "Զելենսկին կմեկնի Էրդողանի մոտ",
   "Դիդիե Դեշամը կարող է եվրոպական հեղինակավոր ակումբ գլխավորել",
-  "Ուշակովը չի բացառել, որ Աբու Դաբիում եվրոպացիների հնարավոր ներկայությունը կբարդացնի Ուկրաինայի շուրջ բանակցությունները"
+  "Ուշակովը չի բացառել, որ Աբու Դաբիում եվրոպացիների հնարավոր ներկայությունը կբարդացնի Ուկրաինայի շուրջ բանակցությունները",
+  "Ուկրաինական ԱԹՍ-ների հարվածների զոհ է դարձել Դոնեցկի երկաթուղու գլխավոր տնօրենը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793374797.4971063,
+ "last_post": 1793375552.7601476,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
