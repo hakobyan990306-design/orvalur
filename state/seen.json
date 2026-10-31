@@ -1,16 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/81964",
-  "News.am:https://news.am/hy/news/1071039",
-  "168.am:https://168.am/?p=2506029",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/afrikjan-erkrnery-erevanum-nerkajacrel-en-kakavoji-ekvolvogiapes-maqur-atshecman-pvordzy-108583141.html",
-  "tg:RadarARM/81962",
-  "News.am:https://news.am/hy/news/1071044",
-  "168.am:https://168.am/?p=2505854",
-  "News.am:https://news.am/hy/news/1071042",
-  "tg:shamshyan_com/55961",
-  "tg:twentyfournews/326145",
-  "Armsport.am:https://armsport.am/?p=611990",
   "Factor.am:https://factor.am/?p=1075295",
   "News.am:https://news.am/hy/news/1071040",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/hndkastanum-pvotvorik-e-mvolegnum-tarerqi-zvoh-e-dardzel-7-mard-180-hazar-tarhanvats-ka-108634730.html",
@@ -2999,10 +2988,20 @@
   "Aravot.am:https://www.aravot.am/?p=1590535",
   "1in.am:https://www.1in.am/?p=3774897",
   "Factor.am:https://factor.am/?p=1076311",
-  "168.am:https://168.am/?p=2507570"
+  "168.am:https://168.am/?p=2507570",
+  "tg:twentyfournews/326658",
+  "News.am:https://news.am/hy/news/1071637",
+  "Aravot.am:https://www.aravot.am/?p=1590537",
+  "168.am:https://168.am/?p=2507626",
+  "1in.am:https://www.1in.am/?p=3774900",
+  "tg:shamshyan_com/56119",
+  "News.am:https://news.am/hy/news/1071636",
+  "168.am:https://168.am/?p=2507565",
+  "168.am:https://168.am/?p=2507615",
+  "tg:shamshyan_com/56120",
+  "Armsport.am:https://armsport.am/?p=612251"
  ],
  "titles": [
-  "ԱՄՆ փոխնախագահը կապ է հաստատել Իրանի ղեկավարության հետ",
   "ԻՀՊԿ-ն հայտնել է անվնաս վիճակում ամերիկյան MQM-170 հետախուզական ԱԹՍ որսալու մասին",
   "Հայաստանում սպասվում են անձրևներ և ամպրոպ․ հոկտեմբերի 30-ին տեղումները որոշ շրջաններում հորդառատ կլինեն",
   "Պատրաստ եմ վճարել՝ նրա խաղը դիտելու համար. Թիերի Անրի",
@@ -3301,7 +3300,8 @@
   "Ֆիդանն ու Ռուբիոն քննարկել են Ուկրաինայում պատերազմը և ԱՄՆ-Իրան բանակցությունները",
   "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները",
   "Տիեզերքում պայթյուն է գրանցվել, որի ակտիվությունը տևել է 27 օր",
-  "Հայաստանից՝ Էկվադոր. COP18-ը հյուրընկալող երկիրն ընտրված է"
+  "Հայաստանից՝ Էկվադոր. COP18-ը հյուրընկալող երկիրն ընտրված է",
+  "Ռեալը պատրաստ է Լիվերպուլի կիսապաշտպանի դիմաց առաջարկել իր երեք խաղացողներից որևէ մեկին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793441210.840754,
+ "last_post": 1793441959.579548,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-10-31": 11
+  "2026-10-31": 12
  },
- "last_sport": 1793439237.2655315
+ "last_sport": 1793441959.5795531
 }
