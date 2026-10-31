@@ -1,16 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2505946",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/sparman-atshi-pattsharvov-erevany-nvor-jratarneri-kariq-uni-hh-pvokhvarchapet-108632259.html",
-  "tg:shamshyan_com/55952",
-  "News.am:https://news.am/hy/news/1071028",
-  "Aravot.am:https://www.aravot.am/?p=1589933",
-  "168.am:https://168.am/?p=2505999",
-  "News.am:https://news.am/hy/news/1071029",
-  "168.am:https://168.am/?p=2505827",
-  "News.am:https://news.am/hy/news/1071027",
-  "tg:twentyfournews/326134",
-  "Factor.am:https://factor.am/?p=1075329",
   "Aravot.am:https://www.aravot.am/?p=1589932",
   "tg:twentyfournews/326137",
   "News.am:https://news.am/hy/news/1071011",
@@ -2999,11 +2988,20 @@
   "168.am:https://168.am/?p=2507551",
   "1in.am:https://www.1in.am/?p=3774716",
   "Aravot.am:https://www.aravot.am/?p=1590516",
-  "tg:twentyfournews/326647"
+  "tg:twentyfournews/326647",
+  "tg:shamshyan_com/56114",
+  "tg:twentyfournews/326649",
+  "News.am:https://news.am/hy/news/1071590",
+  "Aravot.am:https://www.aravot.am/?p=1590522",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/erevanjan-mvoleric-mekum-bacvel-e-kensachapakan-pastatghteri-tramadrman-hajpas-grasenjaky-108719581.html",
+  "News.am:https://news.am/hy/news/1071617",
+  "Aravot.am:https://www.aravot.am/?p=1590518",
+  "1in.am:https://www.1in.am/?p=3774719",
+  "tg:RadarARM/82069",
+  "Factor.am:https://factor.am/?p=1076293",
+  "168.am:https://168.am/?p=2507553"
  ],
  "titles": [
-  "⚽ Venezia FC 0–2 FC Internazionale Milano",
-  "ԱԺ-ում ծեծկռտուքի դեպքով Դատախազությունում նախաձեռնված քրվարույթի վերաբերյալ տեղեկություն առկա չէ",
   "⚽ AC Milan 2–4 Bologna FC 1909",
   "Հորմուզի նեղուցում երեք լցանավ է պայթել ականների վրա․ ԻՀՊԿ",
   "Փաշինյանն աջակցել է ՔՊ-ականներին ԱԺ-ում ծեծկռտուքի հետ կապված // Գագիկ Խաչատրյանը կմնա կալանքի տակ․ ԼՈՒՐԵՐ",
@@ -3301,7 +3299,9 @@
   "Լավրովը բացառել է Պուտինի և Զելենսկու միջև հեռախոսազրույցի հնարավորությունը",
   "Զելենսկին այսօր Ստամբուլում կհանդիպի Էրդողանի հետ",
   "Դժվար է աշակերտին բացատրել, թե ինչու է դպրոցում ծեծկռտուքը, բուլինգը, դասարանցու վրա շիշ նետելը վարմունքի կոպիտ խախտում, իսկ խորհրդարանում՝ քաղաքական պայքարի մեթոդ. Տիգրան Հակոբյան",
-  "Կասեցվել է «ՆՈՐ ԶՈՎՔ» ընկերության հացի և հացաբուլկեղենի արտադրամասի արտադրական գործունեությունը"
+  "Կասեցվել է «ՆՈՐ ԶՈՎՔ» ընկերության հացի և հացաբուլկեղենի արտադրամասի արտադրական գործունեությունը",
+  "🟨 Մալիում 2022-ին հայտնաբերված երկնաքարը կարող է Երկրի վրա երբևէ գտնված ամենահին մարսյան նմուշը լինել՝ ձևավորված Մարսի ընդերքում առնվազն 4,1 միլիարդ տարի առաջ։",
+  "Կյանքի թանկացման դեմ բողոքի ցույցերը տարածվում են Եվրոպայում․ ակցիաներ են եղել նաև Իտալիայի ավելի քան 60 քաղաքում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793435801.089333,
+ "last_post": 1793436721.0509672,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
