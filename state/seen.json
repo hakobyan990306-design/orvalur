@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/amnn-ev-israjely-irani-dem-razmakan-nvor-gvortsvoghutjan-tsragir-en-mshakel-zlm-108640553.html",
-  "tg:twentyfournews/326178",
-  "News.am:https://news.am/hy/news/1071087",
-  "168.am:https://168.am/?p=2506088",
-  "168.am:https://168.am/?p=2506086",
-  "News.am:https://news.am/hy/news/1071083",
-  "digest:veolia:178feac41a30",
-  "veolia:178feac41a30",
-  "veolia:06d1d3f9ebbc",
-  "1in.am:https://www.1in.am/?p=3773758",
-  "168.am:https://168.am/?p=2506091",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/ukrainaji-harcvov-erakvoghm-banakcutjunnery-teghi-kunenan-nvojemberi-4ic-hetvo-ushakvov-108640246.html",
   "News.am:https://news.am/hy/news/1071084",
   "tg:twentyfournews/326183",
@@ -2999,11 +2988,20 @@
   "168.am:https://168.am/?p=2507797",
   "tg:twentyfournews/326680",
   "tg:fastsportstv/27163",
-  "1in.am:https://www.1in.am/?p=3774853"
+  "1in.am:https://www.1in.am/?p=3774853",
+  "tg:twentyfournews/326681",
+  "tg:RadarARM/82077",
+  "tg:factoram/74981",
+  "News.am:https://news.am/hy/news/1071683",
+  "168.am:https://168.am/?p=2507805",
+  "1in.am:https://www.1in.am/?p=3774975",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/qpakan-patgamavvor-sergej-bagratjann-yntrvel-e-erevani-shakhmati-federaciaji-nakhagah-108730257.html",
+  "News.am:https://news.am/hy/news/1071659",
+  "1in.am:https://www.1in.am/?p=3774799",
+  "News.am:https://news.am/hy/news/1071673",
+  "News.am:https://news.am/hy/news/1071674"
  ],
  "titles": [
-  "Աշխատակիցները մնացել են հողազանգվածի տակ. 1 հոգի մահացել է, մյուսը՝ հոսպիտալացվել",
-  "ԱՀԿ-ն հայտնել է, որ Եմենում հակամարտության սրումից ի վեր զոհերի թիվը հասել է 1677-ի",
   "Ռուսաստանն առաջարկել է միջնորդել Իրանի և ԱՄՆ-ի միջև և պատրաստ է ընդունել իրանական ուրանը",
   "Երևանում թմրամիջոցներ են հայտնաբերվել թաքստոցներում. 3 ձերբակալված կա",
   "Լիտվան 2032 թվականից համընդհանուր զորակոչ կներդնի",
@@ -3301,7 +3299,9 @@
   "Թրամփը՝ Ուկրաինայում պատերազմի ավարտի մասին. «Կարծում եմ՝ արդեն մոտ ենք համաձայնության հասնելուն»",
   "Իրանը պահանջում է վերացնել նավթի արտահանման սահմանափակումները և կրճատել տարածաշրջանում ԱՄՆ-ի զինված ներկայությունը․ Արաղչի ",
   "✅ Ազգերի լիգայի նոր մրցաշրջանն ընթացքի մեջ է: Այսօր պայքարի մեջ է մտնում նաև Հայաստանի հավաքականը:🇦🇲",
-  "Ադրբեջան-Թուրքիա լարվածությունը հասավ ՄԱԿ. Բաքուն մերժում է Անկարայի թեկնածուին"
+  "Ադրբեջան-Թուրքիա լարվածությունը հասավ ՄԱԿ. Բաքուն մերժում է Անկարայի թեկնածուին",
+  "Իրանն առաջարկել է երկու օրում բացել Հորմուզի նեղուցը՝ Թեհրանի պայմանների կատարման դեպքում",
+  "Էրդողանը Ստամբուլում հանդիպել է Զելենսկու հետ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793457969.3138165,
+ "last_post": 1793458528.7455719,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
