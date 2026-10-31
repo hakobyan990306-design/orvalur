@@ -1,18 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1071034",
-  "News.am:https://news.am/hy/news/1071033",
-  "tg:shamshyan_com/55958",
-  "tg:twentyfournews/326142",
-  "Factor.am:https://factor.am/?p=1075237",
-  "168.am:https://168.am/?p=2506011",
-  "tg:shamshyan_com/55954",
-  "tg:twentyfournews/326141",
-  "News.am:https://news.am/hy/news/1071037",
-  "Factor.am:https://factor.am/?p=1075176",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/aljvoshkium-mardasirakan-gvortsvoghutjan-khapanman-masin-teghekutjunner-der-chkanpeskvov-108633616.html",
-  "News.am:https://news.am/hy/news/1071035",
-  "Aravot.am:https://www.aravot.am/?p=1589942",
   "News.am:https://news.am/hy/news/1071036",
   "Armsport.am:https://armsport.am/?p=611976",
   "Aravot.am:https://www.aravot.am/?p=1589944",
@@ -2999,11 +2986,22 @@
   "News.am:https://news.am/hy/news/1071621",
   "168.am:https://168.am/?p=2507593",
   "1in.am:https://www.1in.am/?p=3774725",
-  "tg:fastsport_am/1773"
+  "tg:fastsport_am/1773",
+  "tg:shamshyan_com/56117",
+  "tg:twentyfournews/326654",
+  "Hetq:https://hetq.am/hy/article/185140",
+  "Factor.am:https://factor.am/?p=1076289",
+  "Aravot.am:https://www.aravot.am/?p=1590533",
+  "1in.am:https://www.1in.am/?p=3774728",
+  "tg:twentyfournews/326653",
+  "News.am:https://news.am/hy/news/1071632",
+  "News.am:https://news.am/hy/news/1071623",
+  "Armsport.am:https://armsport.am/?p=612256",
+  "News.am:https://news.am/hy/news/1071615",
+  "168.am:https://168.am/?p=2507599",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/erevanum-kajacats-cop17-um-shurj-50-vorvoshum-e-yndunvel-matevvosjann-ampvopel-e-ardjunqnery-108720890.html"
  ],
  "titles": [
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Մրգաշեն գյուղում հոկտեմբերի 29-ին; Վթարային ջրանջատում Վայոձ Ձորի մարզի Վայք քաղաքում հոկտեմբերի 29-ին",
-  "Մինչև 200 հազար դրամ աշխատավարձ ստացողները ևս կընդգրկվեն Առողջության համընդհանուր ապահովագրության համակարգում",
   "Նոյեմբերի 1-ից ՀՀ-ում գործարկվելու է բիոմետրիկ նոր համակարգը",
   "Ուսումն ավարտելուց հետո 3 տարի ՀՀ-ում աշխատելը՝ պարտադիր զինվորական ծառայությունից ազատվելու պայման",
   "ԱՄՆ փոխնախագահը կապ է հաստատել Իրանի ղեկավարության հետ",
@@ -3301,7 +3299,9 @@
   "ԱՄՆ-ն Պարսից ծոցի երկրներին զգուշացրել է Իրանի դեմ հնարավոր հարվածների վերսկսման մասին. լրատվամիջոց",
   "Ռուսաստանում ավելի քան երկու անգամ կընդլայնեն օտարերկրացիներին երկրից վտարելու հիմքերի ցանկը",
   "ԱՄՆ-ն, Հարավային Կորեան և Ճապոնիան վերահաստատել են ԿԺԴՀ-ի ապամիջուկայնացման իրենց կուրսը",
-  "Քրիստիան Պուլիշիչը մինչև 2031 թվականը երկարաձգել է պայմանագիրը «Միլանի» հետ"
+  "Քրիստիան Պուլիշիչը մինչև 2031 թվականը երկարաձգել է պայմանագիրը «Միլանի» հետ",
+  "Ֆիդանն ու Ռուբիոն քննարկել են Ուկրաինայում պատերազմը և ԱՄՆ-Իրան բանակցությունները",
+  "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793439237.2655272,
+ "last_post": 1793440380.0207937,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
