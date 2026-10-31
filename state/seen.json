@@ -1,17 +1,5 @@
 {
  "seen": [
-  "digest:veolia:88c9123a9304",
-  "veolia:88c9123a9304",
-  "Aravot.am:https://www.aravot.am/?p=1590004",
-  "News.am:https://news.am/hy/news/1071085",
-  "1in.am:https://www.1in.am/?p=3773818",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/jej-di-vensy-irani-anvtangutjan-khvorhrdi-ghekavarin-gaghtni-arajark-e-arel-zlm-108642117.html",
-  "tg:shamshyan_com/55974",
-  "Factor.am:https://factor.am/?p=1075405",
-  "Aravot.am:https://www.aravot.am/?p=1590009",
-  "168.am:https://168.am/?p=2506111",
-  "1in.am:https://www.1in.am/?p=3773868",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/megamvoly-kartses-cankanum-en-khlel-samvel-aleqsanjanic-hraparak-108642457.html",
   "tg:twentyfournews/326196",
   "News.am:https://news.am/hy/news/1071109",
   "Factor.am:https://factor.am/?p=1075394",
@@ -2999,10 +2987,21 @@
   "168.am:https://168.am/?p=2507642",
   "tg:twentyfournews/326687",
   "News.am:https://news.am/hy/news/1071654",
-  "168.am:https://168.am/?p=2507815"
+  "168.am:https://168.am/?p=2507815",
+  "tg:shamshyan_com/56137",
+  "tg:twentyfournews/326689",
+  "Aravot.am:https://www.aravot.am/?p=1590573",
+  "168.am:https://168.am/?p=2507848",
+  "1in.am:https://www.1in.am/?p=3774984",
+  "tg:twentyfournews/326688",
+  "News.am:https://news.am/hy/news/1071691",
+  "168.am:https://168.am/?p=2507845",
+  "1in.am:https://www.1in.am/?p=3774948",
+  "News.am:https://news.am/hy/news/1071690",
+  "168.am:https://168.am/?p=2507225",
+  "News.am:https://news.am/hy/news/1071665"
  ],
  "titles": [
-  "Արամ Սարգսյանը դիմել է դատախազին՝ «Հարավկովկասյան երկաթուղու» գործունեության առնչությամբ քրեական վարույթ հարուցելու պահանջով",
   "Տղամարդը փորձել է Հայաստան–Վրաստան սահմանով ավելի քան 222 հազար դոլարի ոսկի տեղափոխել",
   "Ի՞նչ է տեղի ունեցել փոքրիկ Եվայի հետ․երեք ամիս՝ առանց պատասխանների․ ՏԵՍԱՆՅՈՒԹ",
   "Կատարը հերքել է Իսրայելի ընտրություններին միջամտելու մեղադրանքները և կոչ արել Դոհային «քավության նոխազ» չդարձնել",
@@ -3301,7 +3300,8 @@
   "Մարկուս Թյուրամը նպատակ ունի վերադառնալ հավաքական և հաղթել Միլանյան դերբիում",
   "Ադրբեջանի ԶՈւ-ն ամրապնդել է դիրքերը նաև Սև լճի հատվածում",
   "Սիրիան դիտարկում է Թուրքիայի, Սաուդյան Արաբիայի և Պակիստանի պաշտպանական դաշինքին միանալու հնարավորությունը",
-  "ԱՄՆ դեսպանատունը Մոսկվայում ահաբեկչության սպառնալիքի մասին է զգուշացրել"
+  "ԱՄՆ դեսպանատունը Մոսկվայում ահաբեկչության սպառնալիքի մասին է զգուշացրել",
+  "Իրանը քննարկել է ԱՄՆ փոխնախագահ Վենսի նամակը, սակայն Վաշինգտոնի հետ ուղիղ բանակցություններ չի նախատեսում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793461389.6818511,
+ "last_post": 1793461955.133929,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
