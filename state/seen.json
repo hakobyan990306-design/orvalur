@@ -1,18 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326131",
-  "News.am:https://news.am/hy/news/1071023",
-  "Factor.am:https://factor.am/?p=1075303",
-  "168.am:https://168.am/?p=2505989",
-  "News.am:https://news.am/hy/news/1071018",
-  "Factor.am:https://factor.am/?p=1075307",
-  "tg:shamshyan_com/55951",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/na-nakhevaraj-haj-zhvoghvovrdin-e-viravvorel-zakharvovan-shiraki-marzpeti-hajtararutjan-masin-108632086.html",
-  "Hetq:https://hetq.am/hy/article/185075",
-  "News.am:https://news.am/hy/news/1071005",
-  "tg:shamshyan_com/55953",
-  "Armsport.am:https://armsport.am/?p=611993",
-  "News.am:https://news.am/hy/news/1071006",
   "168.am:https://168.am/?p=2505946",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/sparman-atshi-pattsharvov-erevany-nvor-jratarneri-kariq-uni-hh-pvokhvarchapet-108632259.html",
   "tg:shamshyan_com/55952",
@@ -2999,11 +2986,22 @@
   "168.am:https://168.am/?p=2507603",
   "1in.am:https://www.1in.am/?p=3774832",
   "News.am:https://news.am/hy/news/1071610",
-  "168.am:https://168.am/?p=2507596"
+  "168.am:https://168.am/?p=2507596",
+  "tg:shamshyan_com/56112",
+  "tg:twentyfournews/326648",
+  "News.am:https://news.am/hy/news/1071597",
+  "Factor.am:https://factor.am/?p=1076300",
+  "Aravot.am:https://www.aravot.am/?p=1590407",
+  "168.am:https://168.am/?p=2507496",
+  "1in.am:https://www.1in.am/?p=3774835",
+  "Factor.am:https://factor.am/?p=1076284",
+  "Aravot.am:https://www.aravot.am/?p=1590517",
+  "168.am:https://168.am/?p=2507551",
+  "1in.am:https://www.1in.am/?p=3774716",
+  "Aravot.am:https://www.aravot.am/?p=1590516",
+  "tg:twentyfournews/326647"
  ],
  "titles": [
-  "Իսպանիայում գնացքների բախման հետևանքով 69 մարդ է զոհվել",
-  "ՌԴ-ն Դնեպրում էլեկտրագնացքի է հարվածել․ զոհվել է 13 մարդ",
   "⚽ Venezia FC 0–2 FC Internazionale Milano",
   "ԱԺ-ում ծեծկռտուքի դեպքով Դատախազությունում նախաձեռնված քրվարույթի վերաբերյալ տեղեկություն առկա չէ",
   "⚽ AC Milan 2–4 Bologna FC 1909",
@@ -3301,7 +3299,9 @@
   "ՀՀ մի քանի քաղաքներում փոշու պարունակությունը գերազանցել է սահմանային թույլատրելի կոնցենտրացիան",
   "Ըմբշամարտի ԱԱ. Նարեկ Հարությունյանն ու Հրայր Ալիխանյանը պարտվեցին մեկնարկում",
   "Լավրովը բացառել է Պուտինի և Զելենսկու միջև հեռախոսազրույցի հնարավորությունը",
-  "Զելենսկին այսօր Ստամբուլում կհանդիպի Էրդողանի հետ"
+  "Զելենսկին այսօր Ստամբուլում կհանդիպի Էրդողանի հետ",
+  "Դժվար է աշակերտին բացատրել, թե ինչու է դպրոցում ծեծկռտուքը, բուլինգը, դասարանցու վրա շիշ նետելը վարմունքի կոպիտ խախտում, իսկ խորհրդարանում՝ քաղաքական պայքարի մեթոդ. Տիգրան Հակոբյան",
+  "Կասեցվել է «ՆՈՐ ԶՈՎՔ» ընկերության հացի և հացաբուլկեղենի արտադրամասի արտադրական գործունեությունը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793434683.4974597,
+ "last_post": 1793435801.089333,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
