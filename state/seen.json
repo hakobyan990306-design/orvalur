@@ -1,18 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326194",
-  "News.am:https://news.am/hy/news/1071106",
-  "tg:twentyfournews/326193",
-  "News.am:https://news.am/hy/news/1071104",
-  "tg:twentyfournews/326192",
-  "News.am:https://news.am/hy/news/1071098",
-  "tg:twentyfournews/326197",
-  "News.am:https://news.am/hy/news/1071089",
-  "News.am:https://news.am/hy/news/1071091",
-  "tg:shamshyan_com/55973",
-  "1in.am:https://www.1in.am/?p=3773809",
-  "Factor.am:https://factor.am/?p=1075380",
-  "News.am:https://news.am/hy/news/1071094",
   "tg:twentyfournews/326205",
   "tg:RadarARM/81971",
   "tg:factoram/74863",
@@ -2999,10 +2986,22 @@
   "1in.am:https://www.1in.am/?p=3774954",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/amnn-rusastanin-hajtnel-e-vor-mvoskvajum-ahabekchutjun-e--nakhapatrasvum-adts-108732136.html",
   "168.am:https://168.am/?p=2507852",
-  "tg:twentyfournews/326690"
+  "tg:twentyfournews/326690",
+  "tg:shamshyan_com/56139",
+  "tg:twentyfournews/326692",
+  "tg:RadarARM/82080",
+  "News.am:https://news.am/hy/news/1071668",
+  "168.am:https://168.am/?p=2507759",
+  "1in.am:https://www.1in.am/?p=3774957",
+  "tg:shamshyan_com/56138",
+  "tg:twentyfournews/326691",
+  "News.am:https://news.am/hy/news/1071696",
+  "1in.am:https://www.1in.am/?p=3775027",
+  "tg:shamshyan_com/56135",
+  "News.am:https://news.am/hy/news/1071695",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/rusakan-zvorqy-odesajic-37-km-harav-harvatsel-e-ukrainakan-bernatar-navi-rd-pn-108732625.html"
  ],
  "titles": [
-  "Ի՞նչ է տեղի ունեցել փոքրիկ Եվայի հետ․երեք ամիս՝ առանց պատասխանների․ ՏԵՍԱՆՅՈՒԹ",
   "Կատարը հերքել է Իսրայելի ընտրություններին միջամտելու մեղադրանքները և կոչ արել Դոհային «քավության նոխազ» չդարձնել",
   "Ընտրություններ՝ առանց հաղթողի. Նեթանյահուի դաշինքը Իսրայելի խորհրդարանում 120 տեղից ստացել է 53-ը",
   "Բարսելոնան ձմռանը կարող է վարձակալել Չելսիի հինգ ամենաթանկարժեք խաղացողներից մեկին",
@@ -3301,7 +3300,8 @@
   "Սիրիան դիտարկում է Թուրքիայի, Սաուդյան Արաբիայի և Պակիստանի պաշտպանական դաշինքին միանալու հնարավորությունը",
   "ԱՄՆ դեսպանատունը Մոսկվայում ահաբեկչության սպառնալիքի մասին է զգուշացրել",
   "Իրանը քննարկել է ԱՄՆ փոխնախագահ Վենսի նամակը, սակայն Վաշինգտոնի հետ ուղիղ բանակցություններ չի նախատեսում",
-  "Լարված իրավիճակ Լեհաստանում. երկրի նախագահը խորհրդակցություններ է սկսել խորհրդարանական խմբակցությունների հետ"
+  "Լարված իրավիճակ Լեհաստանում. երկրի նախագահը խորհրդակցություններ է սկսել խորհրդարանական խմբակցությունների հետ",
+  "Ռուսական զորքը Օդեսայից 37 կմ հարավ հարվածել է ուկրաինական բեռնատար նավի. ՌԴ ՊՆ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793462865.8607128,
+ "last_post": 1793463779.4543517,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
