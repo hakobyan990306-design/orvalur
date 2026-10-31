@@ -1,21 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326126",
-  "News.am:https://news.am/hy/news/1071016",
-  "Factor.am:https://factor.am/?p=1075321",
-  "168.am:https://168.am/?p=2505972",
-  "tg:shamshyan_com/55945",
-  "tg:twentyfournews/326125",
-  "News.am:https://news.am/hy/news/1071015",
-  "168.am:https://168.am/?p=2505943",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/evrvopacinerin-chen-hraviri-ukrainaji-harcvov-erakvoghm-banakcutjunneri-seghani-mvot-ushakvov-108629806.html",
-  "tg:twentyfournews/326124",
-  "News.am:https://news.am/hy/news/1071014",
-  "168.am:https://168.am/?p=2505896",
-  "tg:twentyfournews/326123",
-  "168.am:https://168.am/?p=2505967",
-  "tg:twentyfournews/326122",
-  "168.am:https://168.am/?p=2505948",
   "News.am:https://news.am/hy/news/1070981",
   "tg:twentyfournews/326111",
   "tg:shamshyan_com/55947",
@@ -2999,11 +2983,25 @@
   "News.am:https://news.am/hy/news/1071595",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/aleqsandra-grigvorjany-hajastani-arajin-medaln-e-nvatshel-tsanramarti-aa-um-108716381.html",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/belgvorvodi-marzum-1-mard-zvohvel-e-4-y-viravvorvel-ukrainaji-zui-harvatsneric-marzpet-108716172.html",
-  "168.am:https://168.am/?p=2507499"
+  "168.am:https://168.am/?p=2507499",
+  "tg:shamshyan_com/56109",
+  "tg:twentyfournews/326642",
+  "tg:RadarARM/82067",
+  "News.am:https://news.am/hy/news/1071587",
+  "Aravot.am:https://www.aravot.am/?p=1590502",
+  "168.am:https://168.am/?p=2507584",
+  "1in.am:https://www.1in.am/?p=3774779",
+  "tg:shamshyan_com/56108",
+  "tg:factoram/74973",
+  "News.am:https://news.am/hy/news/1071598",
+  "Aravot.am:https://www.aravot.am/?p=1590501",
+  "168.am:https://168.am/?p=2507576",
+  "tg:shamshyan_com/56107",
+  "168.am:https://168.am/?p=2507546",
+  "Armsport.am:https://armsport.am/?p=612232",
+  "tg:factoram/74974"
  ],
  "titles": [
-  "Մահացել է ռեժիսոր Հրանտ Հակոբյանը",
-  "🟨 Խստորեն դատապարտում եմ «Ուժեղ Հայաստան» խմբակցության ղեկավարի պահվածքը։ Նա ամբիոնի մոտ ելույթ ունեցող պատգամավորին վիրավորել է, ապա տեղից վեր է կացել, որ հարվածի նրան։",
   "Փաշինյանը թեժացնում է կրքերը՝ սպառնում է կոտրել ընդդիմադիրների ձեռքերը I ԼՈՒՐԵՐ I 14:00",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 29-ին",
   "Ոստիկաններն առգրավել են կես կիլոգրամից ավելի հերոին, 3,3 կգ կրիստալ ու մարիխուանա. կա 3 ձերբակալված",
@@ -3301,7 +3299,9 @@
   "ԱՄՆ-ը ծրագրում է արտաքսել թալիբների՝ իշխանության վերադառնալուց հետո փախուստի դիմած ավելի քան 150 աֆղանցու",
   "Ալեքսանդրա Գրիգորյանը Հայաստանի առաջին մեդալն է նվաճել ծանրամարտի ԱԱ-ում",
   "Բելգորոդի մարզում 1 մարդ զոհվել է, 4-ը՝ վիրավորվել Ուկրաինայի ԶՈւ–ի հարվածներից. մարզպետ",
-  "«Մեծ քսանյակի» երկրների նախարարները հրաժարվել են համատեղ լուսանկարից՝ Լավրովի ներկայության պատճառով"
+  "«Մեծ քսանյակի» երկրների նախարարները հրաժարվել են համատեղ լուսանկարից՝ Լավրովի ներկայության պատճառով",
+  "Ո՛չ եզրափակիչը, ո՛չ էլ կիսաեզրափակիչը․ Սիմոնը նշել է ԱԱ-2026-ում Իսպանիայի ամենադժվար խաղը",
+  "Պետք չի հայոց հարց սարքել ԱԺ-ի միջադեպը, ծեծկռտուքներ լինում են բազմաթիվ երկրներում․ Վիլեն Գաբրիելյան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793431470.9644883,
+ "last_post": 1793432165.880238,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-10-31": 6
+  "2026-10-31": 7
  },
- "last_sport": 1793427430.332294
+ "last_sport": 1793431969.564898
 }
