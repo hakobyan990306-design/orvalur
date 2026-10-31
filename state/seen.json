@@ -1,22 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1071072",
-  "tg:fastsportstv/27158",
-  "News.am:https://news.am/hy/news/1071069",
-  "Armsport.am:https://armsport.am/?p=612020",
-  "tg:twentyfournews/326162",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/amnn-u-israjely-hamadzajnecrel-en-irani-ughghutjamb-harvatsnery-verskselu-tsragiry-zlm-108636652.html",
-  "tg:twentyfournews/326163",
-  "tg:factoram/74861",
-  "News.am:https://news.am/hy/news/1071075",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/revanshy-stacvats-e-gishery-zvartnvocum-tsapervov-dimavvorecin--haj-ymbishnerin-108639169.html",
-  "tg:fastsportstv/27154",
-  "News.am:https://news.am/hy/news/1071073",
-  "Armsport.am:https://armsport.am/?p=612014",
-  "168.am:https://168.am/?p=2506084",
-  "168.am:https://168.am/?p=2505176",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/irany-mijnvordneri-het-qnnarkum-e-hvormuzi-bacman-tsragri-zhamketi-krtshatumy-araghchi-108635890.html",
-  "News.am:https://news.am/hy/news/1071074",
   "tg:twentyfournews/326168",
   "News.am:https://news.am/hy/news/1071077",
   "tg:twentyfournews/326166",
@@ -2999,10 +2982,26 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/vanadzvorum-bakhvel-en-shtapognutjan-avtvomeqenan-u-kamazy-buzharun-mahacel-e-108728624.html",
   "tg:twentyfournews/326674",
   "News.am:https://news.am/hy/news/1071641",
-  "News.am:https://news.am/hy/news/1071652"
+  "News.am:https://news.am/hy/news/1071652",
+  "tg:shamshyan_com/56131",
+  "tg:twentyfournews/326675",
+  "tg:fastsportstv/27168",
+  "News.am:https://news.am/hy/news/1071663",
+  "Factor.am:https://factor.am/?p=1076349",
+  "Aravot.am:https://www.aravot.am/?p=1590564",
+  "168.am:https://168.am/?p=2507752",
+  "tg:fastsportstv/27167",
+  "News.am:https://news.am/hy/news/1071662",
+  "168.am:https://168.am/?p=2507749",
+  "1in.am:https://www.1in.am/?p=3774933",
+  "tg:fastsportstv/27162",
+  "News.am:https://news.am/hy/news/1071660",
+  "168.am:https://168.am/?p=2507723",
+  "tg:fastsportstv/27159",
+  "168.am:https://168.am/?p=2507727",
+  "1in.am:https://www.1in.am/?p=3774936"
  ],
  "titles": [
-  "Բախումներ Պակիստան-Աֆղանստան սահմանին․ կան զոհեր և վիրավորներ",
   "Վենսը նամակ է ուղարկել Իրանի ԱԽ քարտուղարին՝ կոչ անելով վերսկսել բանակցությունները՝ կանխելու Թրամփի նոր հարվածները",
   "Սլովենիայի արտաքին և եվրոպական գործերի նախարարը այցելել է Հայոց ցեղասպանության հուշահամալիր",
   "Ողբերգական դեպք՝ Կոտայքի մարզի Բջնի գյուղում․ 71-ամյա վարորդը «Nissan»-ը վարելիս հանկարծամահ է եղել և բախվել է քարե պատնեշին․ ՖՈՏՈՌԵՊՈՐՏԱԺ",
@@ -3301,7 +3300,8 @@
   "Ջերմուկ-Վայք ճանապարհին վնшսվել է գազատարը. ճանապարհը փակ է",
   "4 մարդ մահացել է, ևս 2-ը վնասվածքներ են ստացել Դելիի կոշիկի ֆաբրիկայի նկուղում բռնկված հրդեհի հետևանքով, հայտնում է Times of India-ն։",
   "Սաուդյան Արաբիան և Թուրքիան Թրամփին խնդրում են ժամանակ տալ Իրանի հետ դիվանագիտությանը, իսկ Նեթանյահուն կողմ է հարվածներին․ Axios",
-  "Փարիզում թանկության դեմ բողոքի ակցիայի պատճառով մետրոյի ավելի քան 40 կայան է ապրել"
+  "Փարիզում թանկության դեմ բողոքի ակցիայի պատճառով մետրոյի ավելի քան 40 կայան է ապրել",
+  "ՄԱԿ-ի Անվտանգության խորհրդին չի հաջողվել երկարաձգել Արևմտյան Սահարայում առաքելության գործունեության ժամկետը. լրատվամիջոցներ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793453228.1446834,
+ "last_post": 1793453770.1397724,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
