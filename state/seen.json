@@ -1,21 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326205",
-  "tg:RadarARM/81971",
-  "tg:factoram/74863",
-  "News.am:https://news.am/hy/news/1071092",
-  "Hetq:https://hetq.am/hy/article/185083",
-  "Factor.am:https://factor.am/?p=1075401",
-  "Aravot.am:https://www.aravot.am/?p=1590011",
-  "168.am:https://168.am/?p=2506131",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/ankanvon-marter-azhum-tarvon-chakhvojani-elujti-zhamanak-tsetskrtuq-sksvec-108643343.html",
-  "tg:shamshyan_com/55975",
-  "tg:twentyfournews/326204",
-  "tg:RadarARM/81970",
-  "News.am:https://news.am/hy/news/1071110",
-  "Hetq:https://hetq.am/hy/article/185084",
-  "168.am:https://168.am/?p=2506147",
-  "168.am:https://168.am/?p=2506116",
   "tg:twentyfournews/326202",
   "News.am:https://news.am/hy/news/1071105",
   "168.am:https://168.am/?p=2506129",
@@ -2999,12 +2983,25 @@
   "1in.am:https://www.1in.am/?p=3775027",
   "tg:shamshyan_com/56135",
   "News.am:https://news.am/hy/news/1071695",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/rusakan-zvorqy-odesajic-37-km-harav-harvatsel-e-ukrainakan-bernatar-navi-rd-pn-108732625.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/rusakan-zvorqy-odesajic-37-km-harav-harvatsel-e-ukrainakan-bernatar-navi-rd-pn-108732625.html",
+  "tg:shamshyan_com/56142",
+  "tg:twentyfournews/326694",
+  "News.am:https://news.am/hy/news/1071669",
+  "Aravot.am:https://www.aravot.am/?p=1590575",
+  "1in.am:https://www.1in.am/?p=3775033",
+  "tg:shamshyan_com/56141",
+  "tg:twentyfournews/326693",
+  "Armsport.am:https://armsport.am/?p=612290",
+  "News.am:https://news.am/hy/news/1071699",
+  "168.am:https://168.am/?p=2507879",
+  "tg:shamshyan_com/56140",
+  "News.am:https://news.am/hy/news/1071698",
+  "168.am:https://168.am/?p=2507873",
+  "Armsport.am:https://armsport.am/?p=612276",
+  "168.am:https://168.am/?p=2507657",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/trampy-hraparakel-e-grenlandiaji-qartezy-amn-razmaodajin-bazaji-tesqvov-108732776.html"
  ],
  "titles": [
-  "Կատարը հերքել է Իսրայելի ընտրություններին միջամտելու մեղադրանքները և կոչ արել Դոհային «քավության նոխազ» չդարձնել",
-  "Ընտրություններ՝ առանց հաղթողի. Նեթանյահուի դաշինքը Իսրայելի խորհրդարանում 120 տեղից ստացել է 53-ը",
-  "Բարսելոնան ձմռանը կարող է վարձակալել Չելսիի հինգ ամենաթանկարժեք խաղացողներից մեկին",
   "Ֆլավիո Բոլսոնարուն ԱՄՆ մեկնելուց հետո իրեն Բրազիլիայի օրինական առաջնորդ է հռչակել",
   "Նարեկ Կարապետյանը հետևից ինձ հարվածում ու փախչում է․ Նարեկ Գրիգորյան. ՏԵՍԱՆՅՈՒԹ",
   "Ռուսական զորքերը գիշերը հարվածել են Օդեսայի նավահանգիստ ռազմական բեռներ տեղափոխող չորաբեռնատար նավին",
@@ -3301,7 +3298,10 @@
   "ԱՄՆ դեսպանատունը Մոսկվայում ահաբեկչության սպառնալիքի մասին է զգուշացրել",
   "Իրանը քննարկել է ԱՄՆ փոխնախագահ Վենսի նամակը, սակայն Վաշինգտոնի հետ ուղիղ բանակցություններ չի նախատեսում",
   "Լարված իրավիճակ Լեհաստանում. երկրի նախագահը խորհրդակցություններ է սկսել խորհրդարանական խմբակցությունների հետ",
-  "Ռուսական զորքը Օդեսայից 37 կմ հարավ հարվածել է ուկրաինական բեռնատար նավի. ՌԴ ՊՆ"
+  "Ռուսական զորքը Օդեսայից 37 կմ հարավ հարվածել է ուկրաինական բեռնատար նավի. ՌԴ ՊՆ",
+  "🎥 Շտուտգարտը գոլառատ խաղում հաղթեց Բայերին, Ֆրայբուրգն ամրապնդվեց լավագույն եռյակում",
+  "Նոյեմբերի 1-ից շատրվանների աշխատանքը կդադարեցվի մինչև հաջորդ տարվա մայիս",
+  "Թրամփը հրապարակել է Գրենլանդիայի քարտեզը՝ ԱՄՆ ռազմաօդային բազայի տեսքով"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793463779.4543517,
+ "last_post": 1793464983.6507697,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
@@ -3328,5 +3328,5 @@
  "top_used": {
   "2026-10-31": 15
  },
- "last_sport": 1793460708.3702393
+ "last_sport": 1793464697.5783393
 }
