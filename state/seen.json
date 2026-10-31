@@ -1,18 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2505762",
-  "168.am:https://168.am/?p=2506064",
-  "168.am:https://168.am/?p=2506063",
-  "168.am:https://168.am/?p=2505781",
-  "168.am:https://168.am/?p=2506059",
-  "168.am:https://168.am/?p=2505779",
-  "168.am:https://168.am/?p=2506057",
-  "168.am:https://168.am/?p=2506051",
-  "tg:RadarARM/81966",
-  "News.am:https://news.am/hy/news/1071070",
-  "Factor.am:https://factor.am/?p=1075366",
-  "Aravot.am:https://www.aravot.am/?p=1589968",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/eatmi-ev-afrikaji-erkrneri-mijev-apranqashrjanarutjuny-10-tarum-atshel-e-aveli-qan-2-angam-108636444.html",
   "tg:twentyfournews/326160",
   "tg:RadarARM/81965",
   "Hetq:https://hetq.am/hy/article/185080",
@@ -2999,10 +2986,22 @@
   "1in.am:https://www.1in.am/?p=3774877",
   "Aravot.am:https://www.aravot.am/?p=1590548",
   "168.am:https://168.am/?p=2507645",
-  "tg:twentyfournews/326666"
+  "tg:twentyfournews/326666",
+  "tg:shamshyan_com/56126",
+  "tg:twentyfournews/326667",
+  "tg:RadarARM/82073",
+  "Factor.am:https://factor.am/?p=1076331",
+  "Aravot.am:https://www.aravot.am/?p=1590557",
+  "168.am:https://168.am/?p=2507660",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/gvor-sahakjany-vnasvatsqi-pattsharvov-chi-sharunaki-pajqary-tsanramarti-aa-um-108725152.html",
+  "News.am:https://news.am/hy/news/1071651",
+  "168.am:https://168.am/?p=2507663",
+  "1in.am:https://www.1in.am/?p=3774915",
+  "News.am:https://news.am/hy/news/1071649",
+  "News.am:https://news.am/hy/news/1071643",
+  "1in.am:https://www.1in.am/?p=3774874"
  ],
  "titles": [
-  "Ֆրանսիայի իշխանությունները բողոքի ցույցերից հետո 1 մլրդ եվրո կհատկացնեն կրթության ոլորտին․ Լըկորնյու",
   "Լույսի անջատումներ՝ Երևանի Քանաքեռ Զեյթուն վարչական շրջան, հոկտեմբերի 30-ին; Երևանի Աջափնյակ վարչական շրջան, հոկտեմբերի 30-ին; Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 2-ին",
   "Թուրքիայի զբոսաշրջային Կապադովկիա շրջանում ժայռի փլուզման հետևանքով կան զոհեր և վիրավորներ։",
   "4 անընդմեջ հաղթանակ. Վազգեն Թևանյանը դուրս եկավ ԱԱ–ի եզրափակիչ",
@@ -3301,7 +3300,8 @@
   "⚽ Villarreal CF 0–1 RCD Espanyol de Barcelona",
   "Արսենալի ավագը կարող է կարիերան շարունակել եվրոպական մեկ այլ գրանդում",
   "Խամենեին կարգադրել է պատասխանել ցանկացած սպառնալիքի՝ առանց աշխարհագրական սահմանափակումների",
-  "«Շերեմետևո» օդանավակայանի մոտ ԱԹՍ-ի բեկորներն են ընկել, հրդեհ է սկսվել"
+  "«Շերեմետևո» օդանավակայանի մոտ ԱԹՍ-ի բեկորներն են ընկել, հրդեհ է սկսվել",
+  "Վանաձորում 6–ամյա երեխայի մահվան դեպքով մեղադրանք է առաջադրվել մորը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793447416.2015967,
+ "last_post": 1793448321.2479284,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
