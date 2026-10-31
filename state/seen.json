@@ -1,17 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326207",
-  "News.am:https://news.am/hy/news/1071114",
-  "tg:twentyfournews/326206",
-  "Armsport.am:https://armsport.am/?p=612036",
-  "tg:twentyfournews/326213",
-  "News.am:https://news.am/hy/news/1071093",
-  "tg:factoram/74865",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/arcakhic-teghahanvatsneri-ajakcutjuny-kerkaradzgvi-sakajn-gumari-chapn-ajl-klini-108642544.html",
-  "tg:twentyfournews/326214",
-  "News.am:https://news.am/hy/news/1071120",
-  "News.am:https://news.am/hy/news/1071119",
-  "News.am:https://news.am/hy/news/1071118",
   "News.am:https://news.am/hy/news/1071117",
   "tg:twentyfournews/326224",
   "tg:factoram/74869",
@@ -2999,10 +2987,21 @@
   "1in.am:https://www.1in.am/?p=3774996",
   "Hetq:https://hetq.am/hy/article/185143",
   "tg:twentyfournews/326699",
-  "1in.am:https://www.1in.am/?p=3774862"
+  "1in.am:https://www.1in.am/?p=3774862",
+  "tg:shamshyan_com/56145",
+  "tg:twentyfournews/326701",
+  "tg:RadarARM/82084",
+  "Armsport.am:https://armsport.am/?p=612307",
+  "News.am:https://news.am/hy/news/1071666",
+  "168.am:https://168.am/?p=2507269",
+  "1in.am:https://www.1in.am/?p=3775052",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/nvor-kensachapakan-andznagreri-hamar-arden-1300-amragrum-ka-nakharar-108733572.html",
+  "tg:RadarARM/82083",
+  "News.am:https://news.am/hy/news/1071706",
+  "News.am:https://news.am/hy/news/1071705",
+  "Aravot.am:https://www.aravot.am/?p=1590584"
  ],
  "titles": [
-  "Իսպանիայում հաստատել են աշխատանքի նախկին նախարար Ֆատիմա Բանյեսի մահը երկաթուղային աղետում",
   "Բաքվի դպրոցում աշակերտուհին ընկել է պատուհանից ու մահացել․ դպրոցականները հարձակվել են տեղում աշխատող լրագրողների վրա",
   "Ռեալի չորս անձեռնմխելիները. AS-ը հայտնել է, թե ովքեր են Մոուրինյուի սիրելիները",
   "Իսպանիայում երկաթուղային վթարի կապակցությամբ եռօրյա սուգ կհայտարարվի, հայտարարել է Իսպանիայի վարչապետ Պեդրո Սանչեսը:",
@@ -3301,7 +3300,8 @@
   "🎥 Լեմպարդի Քովենթրին հաղթեց Սանդերլենդին, Բրենտֆորդն ու Բորնմութը հաղթանակներ տոնեցին",
   "«Եթե դիմեք արկածախնդրության, մենք կընդլայնենք պատերազմի աշխարհագրությունը». Իրանը նախազգուշացրել է ԱՄՆ-ին",
   "Թրամփը դեռևս որոշում չի կայացրել Իրանի դեմ ռազմական գործողությունները վերսկսելու վերաբերյալ․ Ռուբիո",
-  "«Նոր Զովքի» հերթական կասեցումը. կեղտի կուտակումներ արտադրամասում և կրկնվող խախտումներ"
+  "«Նոր Զովքի» հերթական կասեցումը. կեղտի կուտակումներ արտադրամասում և կրկնվող խախտումներ",
+  "Ավարտեցինք COP17-ը՝ Հայաստանի և աշխարհի համար պատմական նշանակություն ունեցող արդյունքներով. Համբարձում Մաթևոսյան"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793467598.5994408,
+ "last_post": 1793468319.8655593,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
