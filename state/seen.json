@@ -1,14 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2506046",
-  "Factor.am:https://factor.am/?p=1075361",
-  "tg:twentyfournews/326154",
-  "News.am:https://news.am/hy/news/1071064",
-  "News.am:https://news.am/hy/news/1071063",
-  "News.am:https://news.am/hy/news/1071058",
-  "News.am:https://news.am/hy/news/1071057",
-  "News.am:https://news.am/hy/news/1071056",
-  "News.am:https://news.am/hy/news/1071062",
   "News.am:https://news.am/hy/news/1071054",
   "News.am:https://news.am/hy/news/1071061",
   "News.am:https://news.am/hy/news/1071052",
@@ -2999,10 +2990,18 @@
   "tg:twentyfournews/326663",
   "168.am:https://168.am/?p=2507654",
   "168.am:https://168.am/?p=2507636",
-  "Armsport.am:https://armsport.am/?p=612242"
+  "Armsport.am:https://armsport.am/?p=612242",
+  "tg:shamshyan_com/56124",
+  "tg:twentyfournews/326665",
+  "News.am:https://news.am/hy/news/1071638",
+  "1in.am:https://www.1in.am/?p=3774912",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/svona-mnacakanjani-vraerti-gvortsvov-datapartjaly-kkri-patizhy-pastabany-kaskatsner-uni-108722943.html",
+  "1in.am:https://www.1in.am/?p=3774796",
+  "News.am:https://news.am/hy/news/1071646",
+  "News.am:https://news.am/hy/news/1071647",
+  "168.am:https://168.am/?p=2507568"
  ],
  "titles": [
-  "Խոշոր ավտովթար՝ Նոր Գեղի-Աշտարակ ճանապարհին. «Nissan»-ը բախվել է հողաթմբերին ու քարերին, մի քանի պտույտ շրջվել և հայտնվել դաշտում. կա վիրավոր. օպերատիվ են գործել Բյուրեղավանի շտապօգնության բժիշկներն ո",
   "Նորվեգիայի վարչապետը պահանջել է FT-ից հեռացնել այն հոդվածը, թե Պուտինը հեռախոսազրույցում պատմության դասախոսություն է կարդացել",
   "Ֆրանսիայի իշխանությունները բողոքի ցույցերից հետո 1 մլրդ եվրո կհատկացնեն կրթության ոլորտին․ Լըկորնյու",
   "Լույսի անջատումներ՝ Երևանի Քանաքեռ Զեյթուն վարչական շրջան, հոկտեմբերի 30-ին; Երևանի Աջափնյակ վարչական շրջան, հոկտեմբերի 30-ին; Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 2-ին",
@@ -3301,7 +3300,8 @@
   "Լեհաստանի Սահմանադրական տրիբունալի մոտ դանակով տղամարդ է ձերբակալվել",
   "Իրանը ռազմական ագրեսիայի դեպքում գործողությունների օպերատիվ ծրագիր է պատրաստել",
   "⚽ Villarreal CF 0–1 RCD Espanyol de Barcelona",
-  "Արսենալի ավագը կարող է կարիերան շարունակել եվրոպական մեկ այլ գրանդում"
+  "Արսենալի ավագը կարող է կարիերան շարունակել եվրոպական մեկ այլ գրանդում",
+  "Խամենեին կարգադրել է պատասխանել ցանկացած սպառնալիքի՝ առանց աշխարհագրական սահմանափակումների"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793445602.234816,
+ "last_post": 1793446499.1569772,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
