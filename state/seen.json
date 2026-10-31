@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1075295",
-  "News.am:https://news.am/hy/news/1071040",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261028/hndkastanum-pvotvorik-e-mvolegnum-tarerqi-zvoh-e-dardzel-7-mard-180-hazar-tarhanvats-ka-108634730.html",
-  "tg:twentyfournews/326146",
-  "168.am:https://168.am/?p=2505900",
-  "tg:twentyfournews/326147",
-  "168.am:https://168.am/?p=2505676",
-  "1in.am:https://www.1in.am/?p=3773642",
-  "News.am:https://news.am/hy/news/1071048",
-  "tg:twentyfournews/326144",
-  "News.am:https://news.am/hy/news/1071041",
   "Factor.am:https://factor.am/?p=1075359",
   "Aravot.am:https://www.aravot.am/?p=1589947",
   "168.am:https://168.am/?p=2506025",
@@ -2999,11 +2988,20 @@
   "168.am:https://168.am/?p=2507565",
   "168.am:https://168.am/?p=2507615",
   "tg:shamshyan_com/56120",
-  "Armsport.am:https://armsport.am/?p=612251"
+  "Armsport.am:https://armsport.am/?p=612251",
+  "tg:twentyfournews/326660",
+  "News.am:https://news.am/hy/news/1071624",
+  "Factor.am:https://factor.am/?p=1076314",
+  "Aravot.am:https://www.aravot.am/?p=1590544",
+  "168.am:https://168.am/?p=2507503",
+  "1in.am:https://www.1in.am/?p=3774903",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261031/pavel-priluchnin-pahanjum-e-vochnchacnel-ir-patkervov-apranqnery-6-hajc-e-nerkajacrel-108721950.html",
+  "168.am:https://168.am/?p=2507609",
+  "1in.am:https://www.1in.am/?p=3774891",
+  "tg:shamshyan_com/56121",
+  "tg:twentyfournews/326659"
  ],
  "titles": [
-  "ԻՀՊԿ-ն հայտնել է անվնաս վիճակում ամերիկյան MQM-170 հետախուզական ԱԹՍ որսալու մասին",
-  "Հայաստանում սպասվում են անձրևներ և ամպրոպ․ հոկտեմբերի 30-ին տեղումները որոշ շրջաններում հորդառատ կլինեն",
   "Պատրաստ եմ վճարել՝ նրա խաղը դիտելու համար. Թիերի Անրի",
   "Ալիևը չի մասնակցի Անկարայում Թյուրքական պետությունների կազմակերպության գագաթնաժողովին․ Report",
   "Այսօրվանից արգելվել է Լևոն Քոչարյանի օգնականի մուտքը ԱԺ․ Ռուբեն Ռուբինյան",
@@ -3301,7 +3299,9 @@
   "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները",
   "Տիեզերքում պայթյուն է գրանցվել, որի ակտիվությունը տևել է 27 օր",
   "Հայաստանից՝ Էկվադոր. COP18-ը հյուրընկալող երկիրն ընտրված է",
-  "Ռեալը պատրաստ է Լիվերպուլի կիսապաշտպանի դիմաց առաջարկել իր երեք խաղացողներից որևէ մեկին"
+  "Ռեալը պատրաստ է Լիվերպուլի կիսապաշտպանի դիմաց առաջարկել իր երեք խաղացողներից որևէ մեկին",
+  "Խուլիգանություն՝ Երևանում․ Փարիզ-Երևան չվերթի օդանավում ուղևորը ալկոհոլային խմիչք չստանալու և իր խմիչքը վերցնելու համար սեռական բնույթի հայհոյանքներ է հնչեցրել ուղեկցորդուհու հասցեին ու ձեռքով դիպել ն",
+  "Իրանի ափերի մոտ նավ է գնդակոծվել և բռնկվել. UKMTO"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793441959.579548,
+ "last_post": 1793443086.5984004,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
