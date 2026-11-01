@@ -1,17 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1071207",
-  "Aravot.am:https://www.aravot.am/?p=1590065",
-  "News.am:https://news.am/hy/news/1071205",
-  "digest:veolia:0a00a203af79",
-  "veolia:0a00a203af79",
-  "tg:shamshyan_com/55994",
-  "tg:twentyfournews/326291",
-  "News.am:https://news.am/hy/news/1071193",
-  "News.am:https://news.am/hy/news/1071206",
-  "tg:twentyfournews/326295",
-  "tg:factoram/74886",
-  "News.am:https://news.am/hy/news/1071214",
   "Hetq:https://hetq.am/hy/article/185096",
   "Factor.am:https://factor.am/?p=1075578",
   "Aravot.am:https://www.aravot.am/?p=1590086",
@@ -2999,11 +2987,21 @@
   "News.am:https://news.am/hy/news/1071778",
   "News.am:https://news.am/hy/news/1071777",
   "tg:fastsport_am/1791",
-  "tg:shamshyan_com/56183"
+  "tg:shamshyan_com/56183",
+  "tg:twentyfournews/326783",
+  "News.am:https://news.am/hy/news/1071764",
+  "Factor.am:https://factor.am/?p=1076425",
+  "Aravot.am:https://www.aravot.am/?p=1590627",
+  "168.am:https://168.am/?p=2508062",
+  "1in.am:https://www.1in.am/?p=3775150",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/rd-n-khstvoren-datapartum-e-niderlandnerum-khvorhrdajin-hushahamaliri-pghtsumy-despan-108749254.html",
+  "News.am:https://news.am/hy/news/1071757",
+  "168.am:https://168.am/?p=2508066",
+  "168.am:https://168.am/?p=2508059",
+  "Armsport.am:https://armsport.am/?p=612390",
+  "tg:twentyfournews/326782"
  ],
  "titles": [
-  "Ռուսական հարձակման հետևանքով Դնեպրը մնացել է առանց էլեկտրականության․ Կիևում զոհ կա",
-  "Սևակ Միքայելյանն ընտրվեց Կենտրոնական բանկի խորհրդի անդամ",
   "Ֆուտզալի Հայաստանի ազգային հավաքականը նոյեմբերի 1-5-ը մարզական հավաք կանցկացնի",
   "Reuters. Իրանն ստեղծել է ռազմական գերատեսչությունների գաղտնի ցանց սպառազինության մատակարարման համար",
   "Արագածոտնի մարզի որոշ բնակավայրերում գազանջատում է",
@@ -3301,7 +3299,9 @@
   "ՀՀ–ում բացահայտել է սպանության նախապատրաստության դեպք, 3 անձ կալանավորվել է. ՆԳՆ",
   "Գերմանիայի խոշորագույն արհմիությունը գործադուլներ է սկսել՝ աշխատավարձերի և զբաղվածության երաշխիքների պահանջով",
   "⚽ Brentford FC 2–0 Nottingham Forest FC",
-  "Շղթայական ավտովթար՝ Երևանում․ Իսակովի պողոտայում բախվել են «Lexus»-ը, «Toyota Camry»-ն,  «Kia Optima»-ն, «Nissan X-Trail»-ը, «Ford»-ը և «Լադա»-ն․ ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւԹ"
+  "Շղթայական ավտովթար՝ Երևանում․ Իսակովի պողոտայում բախվել են «Lexus»-ը, «Toyota Camry»-ն,  «Kia Optima»-ն, «Nissan X-Trail»-ը, «Ford»-ը և «Լադա»-ն․ ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւԹ",
+  "Դադարե՛ք ինձ Յամալ անվանել․ Բարսելոնայի աստղի հայրը պարզաբանում է տվել",
+  "«Աշխարհը ճանաչեց նաև Հայաստանը»․ Մաթևոսյանը ամփոփում է COP17-ը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Armsport.am:https://armsport.am/?p=612390": {
-   "score": 5,
-   "since": 1793531873.2644093
-  }
- },
- "last_post": 1793533933.776739,
+ "pending": {},
+ "last_post": 1793534812.4706683,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
@@ -3333,5 +3328,5 @@
  "top_used": {
   "2026-11-01": 15
  },
- "last_sport": 1793533713.7797868
+ "last_sport": 1793534602.840794
 }
