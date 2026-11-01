@@ -1,19 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1590102",
-  "168.am:https://168.am/?p=2506438",
-  "1in.am:https://www.1in.am/?p=3774055",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/azh-um-teghi-unecats-tsetskrtuqi-depqvov-qreakan-varujt-chi-nakhadzernvel-datakhazutjun-108658783.html",
-  "tg:twentyfournews/326313",
-  "tg:RadarARM/82003",
-  "News.am:https://news.am/hy/news/1071233",
-  "Hetq:https://hetq.am/hy/article/185100",
-  "Factor.am:https://factor.am/?p=1075629",
-  "168.am:https://168.am/?p=2506434",
-  "tg:twentyfournews/326312",
-  "News.am:https://news.am/hy/news/1071234",
-  "Factor.am:https://factor.am/?p=1075592",
-  "168.am:https://168.am/?p=2506431",
   "News.am:https://news.am/hy/news/1071231",
   "Factor.am:https://factor.am/?p=1075633",
   "168.am:https://168.am/?p=2506428",
@@ -2999,10 +2985,23 @@
   "168.am:https://168.am/?p=2508101",
   "168.am:https://168.am/?p=2508120",
   "1in.am:https://www.1in.am/?p=3775139",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/pataskhan-harvats-emencinery-hardzakvel-en-damami-navtajin-ynkerutjan-vra-108753047.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/pataskhan-harvats-emencinery-hardzakvel-en-damami-navtajin-ynkerutjan-vra-108753047.html",
+  "tg:twentyfournews/326808",
+  "News.am:https://news.am/hy/news/1071782",
+  "Hetq:https://hetq.am/hy/article/185101",
+  "Aravot.am:https://www.aravot.am/?p=1590634",
+  "168.am:https://168.am/?p=2508094",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/mvoskvajum-ahabekchutjan-nakhapatrastman-kaskatsanqvov-anchapahas-e-dzerbakalvel-adts-108754382.html",
+  "tg:twentyfournews/326807",
+  "168.am:https://168.am/?p=2508130",
+  "168.am:https://168.am/?p=2508127",
+  "168.am:https://168.am/?p=2508091",
+  "168.am:https://168.am/?p=2508123",
+  "tg:shamshyan_com/56195",
+  "Factor.am:https://factor.am/?p=1076450",
+  "1in.am:https://www.1in.am/?p=3774820"
  ],
  "titles": [
-  "Մոսկվայի ուղղությամբ արձակվել են ամենամեծ թվով ԱԹՍ-ները վերջին երկու տարվա ընթացքում",
   "ՀՀ–ում 10 արտադրողի կաթնաշոռում խախտումներ են արձանագրվել. Պիպոյան",
   "Գրոսին անընդունելի է համարել Զապորոժիեի ԱԷԿ-ի վրա հարձակումը, որի հետևանքով կա զոհ",
   "Առևանգել են Bugatti ընկերության ղեկավարի 1 500 ձիաուժ հզորությամբ հիպերմեքենան",
@@ -3301,7 +3300,8 @@
   "Հալանդի հայրը խախտել է լռությունը. ի՞նչ է սպասվում նորվեգացուն Մանչեսթեր Սիթիի սկանդալի ֆոնին",
   "Մահացել է մանկագիր Սամվել Կոսյանը",
   "Մանրէներ՝ կաթնամթերքի մեջ, հարցեր՝ պետությանը",
-  "Պատասխան հարված. եմենցիները հարձակվել են Դամամի նավթային ընկերության վրա"
+  "Պատասխան հարված. եմենցիները հարձակվել են Դամամի նավթային ընկերության վրա",
+  "Թայվանի հյուսիսարևելյան ափերի մոտ 5,6 մագնիտուդով երկրաշարժ է տեղի ունեցել"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793544054.6442463,
+ "last_post": 1793544595.1948454,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
