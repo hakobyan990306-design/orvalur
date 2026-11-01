@@ -1,20 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1071191",
-  "tg:fastsport_am/1754",
-  "News.am:https://news.am/hy/news/1071215",
-  "Factor.am:https://factor.am/?p=1075613",
-  "1in.am:https://www.1in.am/?p=3774067",
-  "tg:twentyfournews/326309",
-  "tg:factoram/74892",
-  "Factor.am:https://factor.am/?p=1075538",
-  "Aravot.am:https://www.aravot.am/?p=1590098",
-  "168.am:https://168.am/?p=2506414",
-  "1in.am:https://www.1in.am/?p=3774058",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/erevanmineralnie-vvodi-chvertn-irakanacnvogh-inqnatiry-shrjvel-u-veradardzel-e-zvartnvoc-108658650.html",
-  "tg:twentyfournews/326308",
-  "tg:RadarARM/82001",
-  "News.am:https://news.am/hy/news/1071230",
   "Factor.am:https://factor.am/?p=1075540",
   "Aravot.am:https://www.aravot.am/?p=1590099",
   "168.am:https://168.am/?p=2506411",
@@ -2999,10 +2984,24 @@
   "tg:shamshyan_com/56190",
   "tg:RadarARM/82096",
   "News.am:https://news.am/hy/news/1071776",
-  "Aravot.am:https://www.aravot.am/?p=1590631"
+  "Aravot.am:https://www.aravot.am/?p=1590631",
+  "tg:twentyfournews/326802",
+  "Armsport.am:https://armsport.am/?p=612384",
+  "News.am:https://news.am/hy/news/1071794",
+  "Factor.am:https://factor.am/?p=1076442",
+  "Aravot.am:https://www.aravot.am/?p=1590633",
+  "168.am:https://168.am/?p=2508085",
+  "1in.am:https://www.1in.am/?p=3775142",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/mahacel-e-banasteghts-dramaturg-mankagir-samvel-kvosjany-108752747.html",
+  "tg:shamshyan_com/56191",
+  "tg:twentyfournews/326801",
+  "News.am:https://news.am/hy/news/1071779",
+  "168.am:https://168.am/?p=2508083",
+  "News.am:https://news.am/hy/news/1071791",
+  "tg:shamshyan_com/56192",
+  "tg:twentyfournews/326800"
  ],
  "titles": [
-  "Մանչեսթեր Սիթին ոչ-ոքի է խաղացել ՊՍԺ-ի հետ Չեմպիոնների լիգայում",
   "Թուրքիայի և Ադրբեջանի տարաձայնությունները նոր երանգ են ստացել ՄԱԿ-ի գլխավոր քարտուղարի ընտրության համատեքստում",
   "Ռուսաստանը, Ուկրաինան և ԱՄՆ-ն պայմանավորվել են վերսկսել եռակողմ բանակցությունները։",
   "Երկու մարզադաշտ, մեկ ընկերություն՝ առանց բաց մրցույթի․ ինչպես է Կառավարությունը կազմակերպել միլիոնավոր եվրոների գնումները",
@@ -3301,7 +3300,8 @@
   "Զելենսկի․ Ուկրաինան մտադիր չէ հրաժարվել Ռուսաստանի վերահսկողության տակ գտնվող տարածքներից",
   "🟨 Եվրոպայում բողոքի ցույցերը շարունակվում են։ ▫️Ցույցեր են անցկացվել նաև Գերմանիայում և Շվեյցարիայում, որոնք ուղեկցվել են ոստիկանության հետ բախումներով։ ՄԱՆՐԱՄԱՍՆԵՐ",
   "Գերմանիայի ՆԳՆ ղեկավարը ձախ արմատականներին և միգրանտներին է մեղադրել տեղի ունեցած անկարգությունների համար",
-  "ԱՄՆ-ում բժիշկ Վիոլետա Մայիլյանը դատապարտվել է 15 տարվա ազատազրկման՝ 45 միլիոն դոլարի խարդախության համար"
+  "ԱՄՆ-ում բժիշկ Վիոլետա Մայիլյանը դատապարտվել է 15 տարվա ազատազրկման՝ 45 միլիոն դոլարի խարդախության համար",
+  "Իրանական լրատվամիջոցները հրապարակել են «Զրոյական ժամ» (Час ноль) անվանումով քարտեզներ, որոնցում նշված են ութ երկրում գտնվող օբյեկտներ, որոնք կարող են դառնալ հարվածների թիրախ՝ ԱՄՆ-ի կամ Իսրայելի կողմից"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793541345.1271186,
+ "last_post": 1793541867.0498345,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
