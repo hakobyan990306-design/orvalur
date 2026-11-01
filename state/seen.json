@@ -1,18 +1,5 @@
 {
  "seen": [
-  "1in.am:https://www.1in.am/?p=3774002",
-  "tg:twentyfournews/326282",
-  "tg:factoram/74882",
-  "News.am:https://news.am/hy/news/1071186",
-  "Factor.am:https://factor.am/?p=1075542",
-  "Aravot.am:https://www.aravot.am/?p=1590055",
-  "1in.am:https://www.1in.am/?p=3774073",
-  "tg:twentyfournews/326281",
-  "tg:factoram/74881",
-  "Aravot.am:https://www.aravot.am/?p=1590052",
-  "tg:twentyfournews/326280",
-  "News.am:https://news.am/hy/news/1071192",
-  "Aravot.am:https://www.aravot.am/?p=1590051",
   "tg:twentyfournews/326279",
   "tg:twentyfournews/326278",
   "digest:veolia:a19809b3c4aa",
@@ -2999,11 +2986,22 @@
   "tg:twentyfournews/326766",
   "Hetq:https://hetq.am/hy/article/185082",
   "168.am:https://168.am/?p=2508032",
-  "tg:twentyfournews/326765"
+  "tg:twentyfournews/326765",
+  "tg:twentyfournews/326769",
+  "News.am:https://news.am/hy/news/1071767",
+  "Factor.am:https://factor.am/?p=1076413",
+  "Aravot.am:https://www.aravot.am/?p=1590623",
+  "168.am:https://168.am/?p=2508037",
+  "1in.am:https://www.1in.am/?p=3775160",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/ukrainaji-harcvov-banakcutjany-masnakcelu-hamar-evrvopajin-ajl-mvotecum-e-petq-peskvov-108745582.html",
+  "tg:twentyfournews/326768",
+  "168.am:https://168.am/?p=2508035",
+  "tg:twentyfournews/326767",
+  "168.am:https://168.am/?p=2508024",
+  "News.am:https://news.am/hy/news/1071766",
+  "News.am:https://news.am/hy/news/1071749"
  ],
  "titles": [
-  "Հայ դատի կենտրոնական խորհուրդը հրապարակել է Ադրբեջանում պահվող 20 հայ պատանդների մասին թղթածրար",
-  "Պենտագոնը պատրաստվում է կրճատել Թրամփի առաջարկած «ռեկորդային» ռազմական բյուջեն․ Politico",
   "📷 Հայտնի է դարձել Ինտերի և Միլանի նոր մարզադաշտի անվանումը",
   "Ալյոշկիում ճանապարհի ականազերծման ժամանակ 2 մարդ է զոհվել, այդ թվում՝ սակրավոր. Լանտրատովա",
   "Վեհափառի գործով ինքնաբացարկ հայտնած դատավորի նկատմամբ կարգապահական վարույթ է հարուցվել",
@@ -3301,7 +3299,9 @@
   "Երեկ Ֆրանսիայում բողոքի ցույցերի ժամանակ ձերբակալվածների թիվը գերազանցել է 560-ը",
   "Հայաստանն արդեն ՅՈՒՆԵՍԿՕ-ի Համաշխարհային ժառանգության կոմիտեի անդամ է։",
   "ՀԴԲ-ն Binance-ի՝ 6.3 միլիարդ դոլարի կրիպտոարժույթի գողության համար մեղադրում է Հյուսիսային Կորեային",
-  "Հյուսիսային Կորեան բալիստիկ հրթիռների համար կասետային մարտագլխիկ է փորձարկել"
+  "Հյուսիսային Կորեան բալիստիկ հրթիռների համար կասետային մարտագլխիկ է փորձարկել",
+  "Կյանքով լի տղա էր մեր Տիգրանը. մահացած հայտնաբերված զինծառայողը Սևանից էր",
+  "Բոլիվիան արտակարգ դրություն է հայտարարել գերհզոր Էլ Նինյոյի հետևանքով երաշտի և ջրհեղեղների սպառնալիքի պատճառով"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793527613.066081,
+ "last_post": 1793528409.2441168,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-11-01": 9
+  "2026-11-01": 10
  },
  "last_sport": 1793525521.9899616
 }
