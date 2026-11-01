@@ -1,16 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1071219",
-  "News.am:https://news.am/hy/news/1071194",
-  "News.am:https://news.am/hy/news/1071208",
-  "tg:factoram/74887",
-  "tg:fastsport_am/1755",
-  "tg:twentyfournews/326296",
-  "tg:shamshyan_com/55998",
-  "tg:twentyfournews/326303",
-  "tg:mil_armenia/19721",
-  "Aravot.am:https://www.aravot.am/?p=1590094",
-  "168.am:https://168.am/?p=2506405",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/kievn-aghet-er-steghtsum-putiny-aljvoshkium-spasvvogh-mardasirakan-gvortsvoghutjan-masin-108657250.html",
   "tg:twentyfournews/326302",
   "tg:RadarARM/82000",
@@ -2999,10 +2988,20 @@
   "Hetq:https://hetq.am/hy/article/185153",
   "tg:twentyfournews/326793",
   "News.am:https://news.am/hy/news/1071773",
-  "Armsport.am:https://armsport.am/?p=612403"
+  "Armsport.am:https://armsport.am/?p=612403",
+  "tg:shamshyan_com/56188",
+  "tg:twentyfournews/326795",
+  "News.am:https://news.am/hy/news/1071775",
+  "Aravot.am:https://www.aravot.am/?p=1590629",
+  "168.am:https://168.am/?p=2507702",
+  "1in.am:https://www.1in.am/?p=3775166",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/chnajats-argelqin-rusakan-dizvareliqy-erbemn-hajtnvum-e-evrvopajum-nvovak-108752213.html",
+  "tg:shamshyan_com/56187",
+  "168.am:https://168.am/?p=2507706",
+  "Factor.am:https://factor.am/?p=1076439",
+  "tg:twentyfournews/326794"
  ],
  "titles": [
-  "Անկարայի և Բաքվի միջև ճգնաժամը շարունակվում և խորանում է",
   "Ռուսական «Նովայա գազետա»-ն հայտարարել է նոյեմբերի 9-ից գործունեությունը դադարեցնելու մասին",
   "Բրյանսկի մարզի տներից մեկի վրա ուկրաինական ԱԹՍ–ի հարձակման հետևանքով 19-ամյա տղա է զոհվել",
   "Կատարցի միջնորդները վերադարձել են Թեհրան՝ ԱՄՆ-Իրան բանակցությունները խթանելու նպատակով. Reuters",
@@ -3301,7 +3300,8 @@
   "‼️Ռուսաստանի արտաքին գործերի նախարարությունը հերքել է այն տեղեկությունները, թե Մոսկվան հրաժարվել է համաձայնեցնել Հայաստանում Ռուսաստանի նոր դեսպանի թեկնածությունը։ Այս մասին հայտնում է РБК-ն։",
   "Թրամփը Նեթանյահուի հետ քննարկել է Իրանի ուղղությամբ հարվածները վերսկսելու հնարավորությունը",
   "Լոնդոնում ԱՄՆ դեսպանատան մոտ Palestine Action շարժմանն աջակցող ցույցի ժամանակ ավելի քան 300 մարդ է ձերբակալվել",
-  "Ես շատ եմ սիրում Վինիին, բայց… Մոուրինյուն պատասխանել է՝ արդյոք Վինիսիուսը խնդիր է Ռեալի համար"
+  "Ես շատ եմ սիրում Վինիին, բայց… Մոուրինյուն պատասխանել է՝ արդյոք Վինիսիուսը խնդիր է Ռեալի համար",
+  "Զելենսկի․ Ուկրաինան մտադիր չէ հրաժարվել Ռուսաստանի վերահսկողության տակ գտնվող տարածքներից"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793539558.6905293,
+ "last_post": 1793540050.5775855,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
