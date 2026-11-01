@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74896",
-  "News.am:https://news.am/hy/news/1071232",
-  "Factor.am:https://factor.am/?p=1075661",
-  "Aravot.am:https://www.aravot.am/?p=1590110",
-  "tg:shamshyan_com/56003",
-  "tg:twentyfournews/326324",
-  "News.am:https://news.am/hy/news/1071243",
-  "Factor.am:https://factor.am/?p=1075650",
-  "Aravot.am:https://www.aravot.am/?p=1590109",
-  "tg:twentyfournews/326323",
-  "News.am:https://news.am/hy/news/1071240",
-  "Factor.am:https://factor.am/?p=1075653",
-  "Aravot.am:https://www.aravot.am/?p=1590107",
-  "168.am:https://168.am/?p=2506455",
-  "tg:twentyfournews/326322",
-  "News.am:https://news.am/hy/news/1071242",
-  "Aravot.am:https://www.aravot.am/?p=1590106",
-  "168.am:https://168.am/?p=2506452",
   "168.am:https://168.am/?p=2506449",
   "168.am:https://168.am/?p=2506446",
   "168.am:https://168.am/?p=2506443",
@@ -2999,13 +2981,27 @@
   "1in.am:https://www.1in.am/?p=3775014",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/aram-a-n-haj-rusakan-haraberutjunnern-e-qnnarkel-rusastani-nakhkin-varchapeti-het-108756400.html",
   "tg:twentyfournews/326815",
-  "News.am:https://news.am/hy/news/1071788"
+  "News.am:https://news.am/hy/news/1071788",
+  "tg:twentyfournews/326820",
+  "Armsport.am:https://armsport.am/?p=612420",
+  "News.am:https://news.am/hy/news/1071811",
+  "Hetq:https://hetq.am/hy/article/185157",
+  "Factor.am:https://factor.am/?p=1076144",
+  "168.am:https://168.am/?p=2508139",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/sargis-stepanjany-5-rd-angam-dardzel-e-parabazkamarti-ashkharhi-chempivon--108757285.html",
+  "tg:twentyfournews/326819",
+  "News.am:https://news.am/hy/news/1071789",
+  "168.am:https://168.am/?p=2508134",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/inchpes-yntrel-dzmerajin-anvadvogher-karevvor-khvorhurdner-varvordnerin-108700646.html",
+  "tg:twentyfournews/326818",
+  "tg:twentyfournews/326817",
+  "tg:twentyfournews/326816",
+  "Hetq:https://hetq.am/hy/article/185102",
+  "Aravot.am:https://www.aravot.am/?p=1590647",
+  "1in.am:https://www.1in.am/?p=3774966",
+  "Hetq:https://hetq.am/hy/article/185105"
  ],
  "titles": [
-  "ԱՄՆ պետդեպարտամենտը ժամանակավորապես կկրճատի Մերձավոր Արևելքում դեսպանատների աշխատակիցների թիվը",
-  "Էրդողանը խոսել է Հայաստան-Ադրբեջան խաղաղության գործընթացից",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 30-ին",
-  "Ծանրամարտի ԱԱ-ում Ալեքսանդրա Գրիգորյանը նվաճել է փոքր բրոնզե մեդալ",
   "Հիմալայներում ուղղաթիռ է կործանվել",
   "Ադրբեջանն ու Վրաստանը համատեղ անցակետի գործունեության վերաբերյալ փաստաթղթեր են ստորագրել",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 30-ին",
@@ -3301,7 +3297,11 @@
   "NASA-ի 1,5 տ աստղադիտակը կորցնում է ուղեծիրը․ փրկելու փորձը ձախողվել է",
   "Ֆրանսիայում բախումների հետևանքով տուժել է 159 ոստիկան և 60 ցուցարար, նրանցից չորսի վիճակը ծանր է։",
   "Գաղտնի հյուսիսային ճակատ. «Իսրայելն» օգտագործում է Ադրբեջանին Իրանի դեմ պատերազմում",
-  "🇦🇲 Սարգիս Ստեփանյանը՝ հինգերորդ անգամ Աշխարհի չեմպիոն 🏆"
+  "🇦🇲 Սարգիս Ստեփանյանը՝ հինգերորդ անգամ Աշխարհի չեմպիոն 🏆",
+  "ԱՄՆ փոխնախագահը կապ է հաստատել Իրանի ղեկավարության հետ",
+  "Չորս տարվա աշխատանքից հետո՝ նախարարության հեղինակած Սահմանադրություն",
+  "Էլեկտրաէներգիայի պլանային անջատումներ",
+  "Ուսումն ավարտելուց հետո 3 տարի ՀՀ-ում աշխատելը՝ պարտադիր զինվորական ծառայությունից ազատվելու պայման"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,8 +3319,13 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1793548246.3502738,
+ "pending": {
+  "tg:RadarARM/82098": {
+   "score": 5,
+   "since": 1793549135.803197
+  }
+ },
+ "last_post": 1793549683.9442487,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
