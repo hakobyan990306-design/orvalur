@@ -1,20 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2506449",
-  "168.am:https://168.am/?p=2506446",
-  "168.am:https://168.am/?p=2506443",
-  "168.am:https://168.am/?p=2506403",
-  "168.am:https://168.am/?p=2506458",
-  "Factor.am:https://factor.am/?p=1075663",
-  "Armsport.am:https://armsport.am/?p=612045",
-  "168.am:https://168.am/?p=2506463",
-  "tg:shamshyan_com/56002",
-  "News.am:https://news.am/hy/news/1071236",
-  "News.am:https://news.am/hy/news/1071247",
-  "Factor.am:https://factor.am/?p=1075624",
-  "Aravot.am:https://www.aravot.am/?p=1590115",
-  "168.am:https://168.am/?p=2506483",
-  "1in.am:https://www.1in.am/?p=3774088",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/juneskoi-kentrvonakajanum-teghi-e-unecel-atsharjani-tsnndjan-150amjakin-nvirvats-gitazhvoghvov-108660671.html",
   "tg:twentyfournews/326329",
   "News.am:https://news.am/hy/news/1071246",
@@ -2999,11 +2984,24 @@
   "Hetq:https://hetq.am/hy/article/185102",
   "Aravot.am:https://www.aravot.am/?p=1590647",
   "1in.am:https://www.1in.am/?p=3774966",
-  "Hetq:https://hetq.am/hy/article/185105"
+  "Hetq:https://hetq.am/hy/article/185105",
+  "tg:shamshyan_com/56199",
+  "tg:twentyfournews/326821",
+  "Armsport.am:https://armsport.am/?p=612426",
+  "News.am:https://news.am/hy/news/1071790",
+  "Aravot.am:https://www.aravot.am/?p=1590650",
+  "168.am:https://168.am/?p=2508151",
+  "1in.am:https://www.1in.am/?p=3775017",
+  "168.am:https://168.am/?p=2508152",
+  "168.am:https://168.am/?p=2508148",
+  "168.am:https://168.am/?p=2508137",
+  "168.am:https://168.am/?p=2508145",
+  "168.am:https://168.am/?p=2508140",
+  "News.am:https://news.am/hy/news/1071813",
+  "tg:RadarARM/82098",
+  "Aravot.am:https://www.aravot.am/?p=1590648"
  ],
  "titles": [
-  "Հիմալայներում ուղղաթիռ է կործանվել",
-  "Ադրբեջանն ու Վրաստանը համատեղ անցակետի գործունեության վերաբերյալ փաստաթղթեր են ստորագրել",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 30-ին",
   "🤝 ACF Fiorentina 2–2 Atalanta BC",
   "Ուսուցիչների դրույքաչափը կարող է բարձրացվել մինչև 300 հազար դրամ․ նախագիծ",
@@ -3301,7 +3299,9 @@
   "ԱՄՆ փոխնախագահը կապ է հաստատել Իրանի ղեկավարության հետ",
   "Չորս տարվա աշխատանքից հետո՝ նախարարության հեղինակած Սահմանադրություն",
   "Էլեկտրաէներգիայի պլանային անջատումներ",
-  "Ուսումն ավարտելուց հետո 3 տարի ՀՀ-ում աշխատելը՝ պարտադիր զինվորական ծառայությունից ազատվելու պայման"
+  "Ուսումն ավարտելուց հետո 3 տարի ՀՀ-ում աշխատելը՝ պարտադիր զինվորական ծառայությունից ազատվելու պայման",
+  "🟨 Ըստ ադրբեջանական ԶԼՄ-ների՝ Դոնալդ Թրամփն Իլհամ Ալիևին հրավիրել է Մայամիում կայանալիք G20-ի գագաթնաժողովին։",
+  "Հայաստանի ըմբիշները ընդամենը մեկ մեդալ նվաճեցին աշխարհի առաջնությունում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:RadarARM/82098": {
-   "score": 5,
-   "since": 1793549135.803197
-  }
- },
- "last_post": 1793549683.9442487,
+ "pending": {},
+ "last_post": 1793550190.537898,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
