@@ -1,20 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/326319",
-  "tg:factoram/74894",
-  "News.am:https://news.am/hy/news/1071229",
-  "Aravot.am:https://www.aravot.am/?p=1590101",
-  "168.am:https://168.am/?p=2506141",
-  "tg:shamshyan_com/55999",
-  "tg:twentyfournews/326318",
-  "tg:factoram/74893",
-  "News.am:https://news.am/hy/news/1071235",
-  "Factor.am:https://factor.am/?p=1075643",
-  "tg:twentyfournews/326317",
-  "Hetq:https://hetq.am/hy/article/185103",
-  "tg:twentyfournews/326316",
-  "tg:twentyfournews/326315",
-  "Aravot.am:https://www.aravot.am/?p=1590104",
   "Hetq:https://hetq.am/hy/article/185105",
   "Hetq:https://hetq.am/hy/article/185102",
   "168.am:https://168.am/?p=2506400",
@@ -2999,11 +2984,24 @@
   "tg:shamshyan_com/56197",
   "News.am:https://news.am/hy/news/1071785",
   "168.am:https://168.am/?p=2508097",
-  "1in.am:https://www.1in.am/?p=3775185"
+  "1in.am:https://www.1in.am/?p=3775185",
+  "Armsport.am:https://armsport.am/?p=612387",
+  "News.am:https://news.am/hy/news/1071787",
+  "Hetq:https://hetq.am/hy/article/185156",
+  "Factor.am:https://factor.am/?p=1076453",
+  "Aravot.am:https://www.aravot.am/?p=1590644",
+  "1in.am:https://www.1in.am/?p=3775200",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/aragatsvotni-temy-datapartum-e-kargalujts-hvogevvorakani-kvoghmic-matucvats-keghts-patarag-108756063.html",
+  "tg:twentyfournews/326813",
+  "Hetq:https://hetq.am/hy/article/185104",
+  "1in.am:https://www.1in.am/?p=3775197",
+  "1in.am:https://www.1in.am/?p=3775194",
+  "1in.am:https://www.1in.am/?p=3775191",
+  "1in.am:https://www.1in.am/?p=3775188",
+  "tg:twentyfournews/326814",
+  "168.am:https://168.am/?p=2507729"
  ],
  "titles": [
-  "Մբապեին հեռացնում են ֆուտբոլային տեսախաղերից․ Չինաստանում դադարեցրել են նաև Լա լիգայի հեռարձակումը",
-  "Իսպանիայի ընդդիմությունը պահանջել է նախարարի հրաժարականը՝ 69 զոհի պատճառ դարձած վթարից հետո",
   "Ողբերգական ու արտառոց դեպք՝ Սյունիքի մարզում. «Գորիս» բժշկական կենտրոնում 30-ամյա ծննդկանը երեխա է ունեցել․ բժիշկները հայտնել են, որ արական սեռի պտուղը մահացած է եղել. ամուսինը սպառնացել է հաշվեհարդար",
   "ԱՄՆ պետդեպարտամենտը ժամանակավորապես կկրճատի Մերձավոր Արևելքում դեսպանատների աշխատակիցների թիվը",
   "Էրդողանը խոսել է Հայաստան-Ադրբեջան խաղաղության գործընթացից",
@@ -3301,7 +3299,9 @@
   "Ֆրանսիայում շաբաթօրյա ցույցերի մոտ 780 մասնակից է ձերբակալվել",
   "Բաթումում ձերբակալել են մանկապղծության համար Ինտերպոլի կողմից հետախուզվող Թուրքիայի քաղաքացու",
   "Հարավային Կովկասի փորձը ցույց է տալիս ոչ միայն երկարատև առճակատման գինը, այլև այն հնարավորությունները, որոնք կարող է ստեղծել դիվանագիտությունը. Միրզոյան",
-  "NASA-ի 1,5 տ աստղադիտակը կորցնում է ուղեծիրը․ փրկելու փորձը ձախողվել է"
+  "NASA-ի 1,5 տ աստղադիտակը կորցնում է ուղեծիրը․ փրկելու փորձը ձախողվել է",
+  "Ֆրանսիայում բախումների հետևանքով տուժել է 159 ոստիկան և 60 ցուցարար, նրանցից չորսի վիճակը ծանր է։",
+  "Գաղտնի հյուսիսային ճակատ. «Իսրայելն» օգտագործում է Ադրբեջանին Իրանի դեմ պատերազմում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793546874.2094316,
+ "last_post": 1793547558.0528858,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
