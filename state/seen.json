@@ -1,20 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2506396",
-  "tg:twentyfournews/326305",
-  "News.am:https://news.am/hy/news/1071225",
-  "tg:twentyfournews/326304",
-  "News.am:https://news.am/hy/news/1071226",
-  "News.am:https://news.am/hy/news/1071210",
-  "tg:shamshyan_com/55997",
-  "tg:RadarARM/82002",
-  "Armsport.am:https://armsport.am/?p=612042",
-  "News.am:https://news.am/hy/news/1071223",
-  "tg:twentyfournews/326314",
-  "tg:RadarARM/82004",
-  "News.am:https://news.am/hy/news/1071224",
-  "Hetq:https://hetq.am/hy/article/185101",
-  "Factor.am:https://factor.am/?p=1075616",
   "Aravot.am:https://www.aravot.am/?p=1590102",
   "168.am:https://168.am/?p=2506438",
   "1in.am:https://www.1in.am/?p=3774055",
@@ -2999,12 +2984,24 @@
   "tg:shamshyan_com/56193",
   "News.am:https://news.am/hy/news/1071780",
   "News.am:https://news.am/hy/news/1071795",
-  "Armsport.am:https://armsport.am/?p=612401"
+  "Armsport.am:https://armsport.am/?p=612401",
+  "tg:shamshyan_com/56194",
+  "tg:twentyfournews/326806",
+  "News.am:https://news.am/hy/news/1071781",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/qaghaqakan-handznarutjuny-petq-e-ughekcvi-shvoshapeli-ardjunqnervov-mirzvojan-108753974.html",
+  "News.am:https://news.am/hy/news/1071797",
+  "168.am:https://168.am/?p=2508114",
+  "168.am:https://168.am/?p=2508116",
+  "168.am:https://168.am/?p=2508112",
+  "168.am:https://168.am/?p=2508090",
+  "168.am:https://168.am/?p=2508108",
+  "168.am:https://168.am/?p=2508104",
+  "168.am:https://168.am/?p=2508101",
+  "168.am:https://168.am/?p=2508120",
+  "1in.am:https://www.1in.am/?p=3775139",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/pataskhan-harvats-emencinery-hardzakvel-en-damami-navtajin-ynkerutjan-vra-108753047.html"
  ],
  "titles": [
-  "Կասեցվել է «Աշտարակ միլկ»-ի կաթի մթերման կետի գործունեությունը. սննդամթերքի հետ շփման մեջ են գտնվող սարքավորումները նորոգ վիճակում չեն պահվել",
-  "Խմորասնկեր, բորբոսասնկեր, աղիքային ցուպիկ՝ կաթնամթերքի շուկայում տագնապալի պատկեր է",
-  "Բացահայտում և չեղարկում ենք «ծննդաբերական զբոսաշրջության» նպատակով վիզաները․ ԱՄՆ դեսպանատուն",
   "Մոսկվայի ուղղությամբ արձակվել են ամենամեծ թվով ԱԹՍ-ները վերջին երկու տարվա ընթացքում",
   "ՀՀ–ում 10 արտադրողի կաթնաշոռում խախտումներ են արձանագրվել. Պիպոյան",
   "Գրոսին անընդունելի է համարել Զապորոժիեի ԱԷԿ-ի վրա հարձակումը, որի հետևանքով կա զոհ",
@@ -3301,7 +3298,10 @@
   "Արտառոց դեպք՝ Արմավիրի մարզում. գյուղերից մեկում ռազմագիտության ուսուցիչը դասաժամը խանգարելու համար մի քանի անգամ հարվածել է 9-րդ դասարանի 14-ամյա աշակերտին",
   "Հրաձգություն Ալաբամայում՝ ֆուտբոլային խաղից հետո մարզադաշտի մոտ. մեկ մարդ զոհվել է, ութը՝ վիրավորվել",
   "ԱԴԾ-ն դեռահասի է ձերբակալել «Ցարիցինոյում» ահաբեկչության սպառնալիքի մասին ԱՄՆ-ի նախազգուշացումից հետո",
-  "Հալանդի հայրը խախտել է լռությունը. ի՞նչ է սպասվում նորվեգացուն Մանչեսթեր Սիթիի սկանդալի ֆոնին"
+  "Հալանդի հայրը խախտել է լռությունը. ի՞նչ է սպասվում նորվեգացուն Մանչեսթեր Սիթիի սկանդալի ֆոնին",
+  "Մահացել է մանկագիր Սամվել Կոսյանը",
+  "Մանրէներ՝ կաթնամթերքի մեջ, հարցեր՝ պետությանը",
+  "Պատասխան հարված. եմենցիները հարձակվել են Դամամի նավթային ընկերության վրա"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/pataskhan-harvats-emencinery-hardzakvel-en-damami-navtajin-ynkerutjan-vra-108753047.html": {
-   "score": 5,
-   "since": 1793542760.7781174
-  }
- },
- "last_post": 1793543388.5500073,
+ "pending": {},
+ "last_post": 1793544054.6442463,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
