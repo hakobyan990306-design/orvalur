@@ -1,18 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1590032",
-  "168.am:https://168.am/?p=2506262",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/pastpvortseghannery-pakvum-en-bivometrik-andznagir-hnaravvor-e-stanal-inqnashkhat-eghanakvov-108649102.html",
-  "tg:twentyfournews/326257",
-  "tg:RadarARM/81985",
-  "News.am:https://news.am/hy/news/1071167",
-  "Factor.am:https://factor.am/?p=1075498",
-  "Aravot.am:https://www.aravot.am/?p=1590031",
-  "168.am:https://168.am/?p=2506259",
-  "tg:twentyfournews/326256",
-  "tg:RadarARM/81984",
-  "News.am:https://news.am/hy/news/1071166",
-  "168.am:https://168.am/?p=2506224",
   "tg:twentyfournews/326255",
   "168.am:https://168.am/?p=2506250",
   "tg:twentyfournews/326254",
@@ -2999,12 +2986,22 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/mahacel-e-ljube-khmbi-beq-vvokalisty-108739750.html",
   "News.am:https://news.am/hy/news/1071729",
   "tg:RadarARM/82090",
-  "News.am:https://news.am/hy/news/1071741"
+  "News.am:https://news.am/hy/news/1071741",
+  "Armsport.am:https://armsport.am/?p=612379",
+  "Aravot.am:https://www.aravot.am/?p=1590612",
+  "168.am:https://168.am/?p=2507987",
+  "1in.am:https://www.1in.am/?p=3775089",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/zhan-pvol-bvosnvojany-las-vegasi-mrcasharum-haghtel-e-adrbejanci-hasanvovin-108740260.html",
+  "tg:twentyfournews/326737",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hh-finansneri-karavarman-teghekatvakan-hamakargy-kvstahvi-kanadakan-ynkerutjany--108740015.html",
+  "tg:twentyfournews/326736",
+  "tg:twentyfournews/326735",
+  "tg:shamshyan_com/56162",
+  "News.am:https://news.am/hy/news/1071730",
+  "tg:twentyfournews/326738",
+  "Factor.am:https://factor.am/?p=1076380"
  ],
  "titles": [
-  "Պատժամիջոցների խստացման պատճառով Իրանը դժվարությամբ է վճարում զինվորականներին. ԱՄՆ ֆինանսների նախարար",
-  "Ուկրաինական զինուժի անօդաչուի հարձակման հետևանքով Զապորոժիեի ԱԷԿ–ի աշխատակից է զոհվել",
-  "Պենտագոնի վարչության նախկին պետը խոստովանել է Իրանի և Ուկրաինայի մասին գաղտնի տվյալներ փոխանցելու փաստը",
   "Լույս չի լինելու",
   "ՌԴ բանակը զանգվածային հարված է հասցրել Ուկրաինայի մի քանի օբյեկտների. ՊՆ",
   "#ՀԻՄԱ. ԱԺ-ՈՒՄ ՀՐԱՀՐՎԱԾ ԾԵԾԿՌՏՈՒՔԻՑ ՀԵՏՈ ՔԱՌՕՐՅԱ ՆԻՍՏԸ ՇԱՐՈՒՆԱԿՎՈՒՄ Է. #ՈՒՂԻՂ",
@@ -3301,7 +3298,10 @@
   "Իրանը հայտարարել է, որ Իսրայելը Իրանից հետո պատրաստվում է հարվածել Թուրքիային և Սաուդյան Արաբիային",
   "Մահացել է «Լյուբե» խմբի բեք-վոկալիստը",
   "Վրաստանում ավելի քան 60 անօրինական ներգաղթյալի են ձերբակալել․ նրանց թվում կան Ադրբեջանի, Թուրքիայի և Ռուսաստանի քաղաքացիներ",
-  "Ստորագրվել է կառավարության ֆինանսական կառավարման տեղեկատվական համակարգի ներդրման մեկնարկը ազդարարող պայմանագիրը կանադական Freebalance ընկերության հետ"
+  "Ստորագրվել է կառավարության ֆինանսական կառավարման տեղեկատվական համակարգի ներդրման մեկնարկը ազդարարող պայմանագիրը կանադական Freebalance ընկերության հետ",
+  "Եգիպտոսում միկրոավտոբուսի և բեռնատարի բախման հետևանքով 10 մարդ է զոհվել",
+  "Ժան-Պոլ Բոսնոյանը Լաս Վեգասում UFC-ի շրջանակում կայացած մենամարտի երրորդ ռաունդում տեխնիկական նոկաուտով հաղթել է ադրբեջանցի Ֆարման Հասանովին։",
+  "Ռուբիոն կասկածում է, որ Ուկրաինայում պատերազմը մոտ ապագայում կավարտվի"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793516903.0029535,
+ "last_post": 1793517709.3272085,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-11-01": 5
+  "2026-11-01": 6
  },
  "last_sport": 1793514879.9282727
 }
