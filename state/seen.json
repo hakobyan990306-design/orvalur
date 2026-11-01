@@ -1,16 +1,5 @@
 {
  "seen": [
-  "tg:shamshyan_com/56005",
-  "tg:twentyfournews/326336",
-  "News.am:https://news.am/hy/news/1071257",
-  "Aravot.am:https://www.aravot.am/?p=1590112",
-  "168.am:https://168.am/?p=2506522",
-  "News.am:https://news.am/hy/news/1071253",
-  "News.am:https://news.am/hy/news/1071256",
-  "News.am:https://news.am/hy/news/1071262",
-  "News.am:https://news.am/hy/news/1071259",
-  "tg:shamshyan_com/56006",
-  "1in.am:https://www.1in.am/?p=3774127",
   "Factor.am:https://factor.am/?p=1075518",
   "News.am:https://news.am/hy/news/1071245",
   "Factor.am:https://factor.am/?p=1075690",
@@ -2999,11 +2988,20 @@
   "News.am:https://news.am/hy/news/1071825",
   "tg:twentyfournews/326831",
   "Armsport.am:https://armsport.am/?p=611778",
-  "News.am:https://news.am/hy/news/1071801"
+  "News.am:https://news.am/hy/news/1071801",
+  "tg:twentyfournews/326834",
+  "Factor.am:https://factor.am/?p=1076464",
+  "Aravot.am:https://www.aravot.am/?p=1590655",
+  "168.am:https://168.am/?p=2508183",
+  "1in.am:https://www.1in.am/?p=3774828",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/uzhegh-hajastany-bvoghvoqarkel-e-stepanavani-yntrutjunneri-ardjunqnery-108758996.html",
+  "tg:twentyfournews/326833",
+  "168.am:https://168.am/?p=2508175",
+  "1in.am:https://www.1in.am/?p=3775002",
+  "News.am:https://news.am/hy/news/1071808",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/chinastany-cucadrel-e-amerikjan-aviakri-maketi-ughghutjamb-balistik-hrtiri-harvatsy-108758865.html"
  ],
  "titles": [
-  "Խոշոր ավտովթար՝ Արարատի մարզում. «Deepal»-ը Զանգակատուն գյուղի տարածքում բախվել է բետոնե սյանը, հողաթմբերին ու քարերին և հայտնվել ձորակում. ամուսինները տեղափոխվել են հիվանդանոց. ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւ",
-  "Բելառուսում արգելել են հայկական «Արամե» և վրացական «Շիոյի մառան» կոնյակների վաճառքը",
   "Հոկտեմբերի 31-ին COP17-ի պատճառով Երևանի կենտրոնում երթևեկությունը ժամանակավորապես կսահմանափակվի",
   "«Արևմտյան Ադրբեջանի» հորինված քարտեզի վտանգը «կախված» է պատմաբանների գլխին. ի՞նչ է կատարվում ԳԱԱ պատմության ինստիտուտում. aravot.am",
   "Փաշինյանն Ալեն Սիմոնյանին գործուղում է Մոսկվա",
@@ -3301,7 +3299,9 @@
   "Հայտնի են դարձել Կալինինգրադի մարզում ռուսական Су-30 կործանիչի կործանման մանրամասները։",
   "Ռուսաստանն ու Չինաստանը դեմ են արհեստական բանականության կարգավորման հարցում ԱՄՆ-ի մոտեցմանը",
   "«Պատրաստ եմ Թուրքիայում հանդիպել Պուտինի հետ։ Հուսով եմ՝ Էրդողանը կօգնի կազմակերպել այդ հանդիպումը»։",
-  "Էլի Կրուպին հայտարարել է՝ որ հավաքականն է ցանկանում ներկայացնել"
+  "Էլի Կրուպին հայտարարել է՝ որ հավաքականն է ցանկանում ներկայացնել",
+  "Հելոուինի գիշերը Դելավերի համալսարանի մոտ տեղի ունեցած հրաձգության հետևանքով վեց մարդ է վիրավորվել",
+  "Չինաստանը ցուցադրել է ամերիկյան ավիակրի մակետի ուղղությամբ բալիստիկ հրթիռի հարվածը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793555502.579653,
+ "last_post": 1793556663.7757423,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
