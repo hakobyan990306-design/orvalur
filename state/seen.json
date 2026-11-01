@@ -1,17 +1,5 @@
 {
  "seen": [
-  "tg:factoram/74876",
-  "News.am:https://news.am/hy/news/1071170",
-  "Factor.am:https://factor.am/?p=1075443",
-  "Aravot.am:https://www.aravot.am/?p=1590035",
-  "168.am:https://168.am/?p=2506264",
-  "1in.am:https://www.1in.am/?p=3773993",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/ete-uzum-eq-krknutjun-es-dem-chem-rubinjany-tsetskrtuqi-hamar-meghadrec-ynddimutjany-108649257.html",
-  "tg:twentyfournews/326258",
-  "tg:RadarARM/81986",
-  "tg:factoram/74875",
-  "News.am:https://news.am/hy/news/1071169",
-  "Factor.am:https://factor.am/?p=1075455",
   "Aravot.am:https://www.aravot.am/?p=1590032",
   "168.am:https://168.am/?p=2506262",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/pastpvortseghannery-pakvum-en-bivometrik-andznagir-hnaravvor-e-stanal-inqnashkhat-eghanakvov-108649102.html",
@@ -2999,12 +2987,21 @@
   "News.am:https://news.am/hy/news/1071737",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hradzgutjun-alabamaji-marzadashtum-ka-zvoh-ev-tuzhatsner-108739300.html",
   "tg:twentyfournews/326730",
-  "News.am:https://news.am/hy/news/1071724"
+  "News.am:https://news.am/hy/news/1071724",
+  "tg:shamshyan_com/56160",
+  "tg:twentyfournews/326734",
+  "168.am:https://168.am/?p=2507985",
+  "1in.am:https://www.1in.am/?p=3774999",
+  "tg:twentyfournews/326733",
+  "168.am:https://168.am/?p=2507983",
+  "1in.am:https://www.1in.am/?p=3775086",
+  "tg:twentyfournews/326732",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/mahacel-e-ljube-khmbi-beq-vvokalisty-108739750.html",
+  "News.am:https://news.am/hy/news/1071729",
+  "tg:RadarARM/82090",
+  "News.am:https://news.am/hy/news/1071741"
  ],
  "titles": [
-  "UFC-ն թարմացրել է վարկանիշային աղյուսակը. ովքեր են առաջատարներն ու ինչ դիրք ունի Արման Ծառուկյանը",
-  "Ջրանջատումներ՝ Պլանային ջրանջատում Երևանում և  Կոտայքի մարզում նոյեմբերի  3/4-ին",
-  "Ուկրաինական անօդաչու թռչող սարքերը հարձակվել են Սամարայի մարզում գտնվող Նովոկույբիշևսկի նավթավերամշակման գործարանի վրա։",
   "Պատժամիջոցների խստացման պատճառով Իրանը դժվարությամբ է վճարում զինվորականներին. ԱՄՆ ֆինանսների նախարար",
   "Ուկրաինական զինուժի անօդաչուի հարձակման հետևանքով Զապորոժիեի ԱԷԿ–ի աշխատակից է զոհվել",
   "Պենտագոնի վարչության նախկին պետը խոստովանել է Իրանի և Ուկրաինայի մասին գաղտնի տվյալներ փոխանցելու փաստը",
@@ -3301,7 +3298,10 @@
   "Իրանը Բրիտանիայի թագավորական նավատորմը և օդուժը ճանաչել է ահաբեկչական կազմակերպություններ",
   "WSJ. Թրամփը Նեթանյահուի հետ քննարկել է Իրանին նոր հարվածներ հասցնելու հարցը",
   "Հրաձգություն Ալաբամայի մարզադաշտում. կա զոհ և տուժածներ",
-  "Իրանը հայտարարել է, որ Իսրայելը Իրանից հետո պատրաստվում է հարվածել Թուրքիային և Սաուդյան Արաբիային"
+  "Իրանը հայտարարել է, որ Իսրայելը Իրանից հետո պատրաստվում է հարվածել Թուրքիային և Սաուդյան Արաբիային",
+  "Մահացել է «Լյուբե» խմբի բեք-վոկալիստը",
+  "Վրաստանում ավելի քան 60 անօրինական ներգաղթյալի են ձերբակալել․ նրանց թվում կան Ադրբեջանի, Թուրքիայի և Ռուսաստանի քաղաքացիներ",
+  "Ստորագրվել է կառավարության ֆինանսական կառավարման տեղեկատվական համակարգի ներդրման մեկնարկը ազդարարող պայմանագիրը կանադական Freebalance ընկերության հետ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793515951.5644114,
+ "last_post": 1793516903.0029535,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
