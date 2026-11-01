@@ -1,20 +1,5 @@
 {
  "seen": [
-  "veolia:378b99cf8d05",
-  "veolia:f89ab642290f",
-  "Aravot.am:https://www.aravot.am/?p=1590100",
-  "Hetq:https://hetq.am/hy/article/185098",
-  "tg:twentyfournews/326311",
-  "Hetq:https://hetq.am/hy/article/185099",
-  "tg:shamshyan_com/56001",
-  "tg:twentyfournews/326321",
-  "tg:factoram/74895",
-  "News.am:https://news.am/hy/news/1071239",
-  "Hetq:https://hetq.am/hy/article/185104",
-  "Factor.am:https://factor.am/?p=1075571",
-  "1in.am:https://www.1in.am/?p=3774017",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/valeri-matneric-brneci-haskaca-mahacel-e-inch-e-katarvel-aghi-ltshi-mvot-108659495.html",
-  "tg:shamshyan_com/56000",
   "tg:twentyfournews/326319",
   "tg:factoram/74894",
   "News.am:https://news.am/hy/news/1071229",
@@ -2999,12 +2984,24 @@
   "Aravot.am:https://www.aravot.am/?p=1590639",
   "168.am:https://168.am/?p=2508095",
   "tg:twentyfournews/326809",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/fransiajum-shabatorja-cujceri-mvot-780-masnakic-e-dzerbakalvel-108753492.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/fransiajum-shabatorja-cujceri-mvot-780-masnakic-e-dzerbakalvel-108753492.html",
+  "tg:fastsport_am/1804",
+  "tg:twentyfournews/326812",
+  "News.am:https://news.am/hy/news/1071807",
+  "Aravot.am:https://www.aravot.am/?p=1590642",
+  "tg:shamshyan_com/56196",
+  "tg:fastsport_am/1803",
+  "tg:twentyfournews/326811",
+  "1in.am:https://www.1in.am/?p=3775181",
+  "tg:fastsport_am/1802",
+  "1in.am:https://www.1in.am/?p=3775178",
+  "tg:fastsport_am/1801",
+  "tg:shamshyan_com/56197",
+  "News.am:https://news.am/hy/news/1071785",
+  "168.am:https://168.am/?p=2508097",
+  "1in.am:https://www.1in.am/?p=3775185"
  ],
  "titles": [
-  "Գրոսին անընդունելի է համարել Զապորոժիեի ԱԷԿ-ի վրա հարձակումը, որի հետևանքով կա զոհ",
-  "Առևանգել են Bugatti ընկերության ղեկավարի 1 500 ձիաուժ հզորությամբ հիպերմեքենան",
-  "CENTCOM-ի ղեկավարն անձամբ Թրամփին զեկուցել է Իրանի ուղղությամբ հնարավոր հարվածների տարբերակների մասին",
   "Մբապեին հեռացնում են ֆուտբոլային տեսախաղերից․ Չինաստանում դադարեցրել են նաև Լա լիգայի հեռարձակումը",
   "Իսպանիայի ընդդիմությունը պահանջել է նախարարի հրաժարականը՝ 69 զոհի պատճառ դարձած վթարից հետո",
   "Ողբերգական ու արտառոց դեպք՝ Սյունիքի մարզում. «Գորիս» բժշկական կենտրոնում 30-ամյա ծննդկանը երեխա է ունեցել․ բժիշկները հայտնել են, որ արական սեռի պտուղը մահացած է եղել. ամուսինը սպառնացել է հաշվեհարդար",
@@ -3301,7 +3298,10 @@
   "Մանրէներ՝ կաթնամթերքի մեջ, հարցեր՝ պետությանը",
   "Պատասխան հարված. եմենցիները հարձակվել են Դամամի նավթային ընկերության վրա",
   "Թայվանի հյուսիսարևելյան ափերի մոտ 5,6 մագնիտուդով երկրաշարժ է տեղի ունեցել",
-  "Ֆրանսիայում շաբաթօրյա ցույցերի մոտ 780 մասնակից է ձերբակալվել"
+  "Ֆրանսիայում շաբաթօրյա ցույցերի մոտ 780 մասնակից է ձերբակալվել",
+  "Բաթումում ձերբակալել են մանկապղծության համար Ինտերպոլի կողմից հետախուզվող Թուրքիայի քաղաքացու",
+  "Հարավային Կովկասի փորձը ցույց է տալիս ոչ միայն երկարատև առճակատման գինը, այլև այն հնարավորությունները, որոնք կարող է ստեղծել դիվանագիտությունը. Միրզոյան",
+  "NASA-ի 1,5 տ աստղադիտակը կորցնում է ուղեծիրը․ փրկելու փորձը ձախողվել է"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793545503.151826,
+ "last_post": 1793546874.2094316,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
