@@ -1,14 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/81997",
-  "News.am:https://news.am/hy/news/1071209",
-  "Factor.am:https://factor.am/?p=1075568",
-  "Aravot.am:https://www.aravot.am/?p=1590070",
-  "168.am:https://168.am/?p=2506360",
-  "News.am:https://news.am/hy/news/1071201",
-  "Factor.am:https://factor.am/?p=1075548",
-  "Aravot.am:https://www.aravot.am/?p=1590077",
-  "tg:twentyfournews/326290",
   "News.am:https://news.am/hy/news/1071207",
   "Aravot.am:https://www.aravot.am/?p=1590065",
   "News.am:https://news.am/hy/news/1071205",
@@ -2999,11 +2990,18 @@
   "tg:fastsport_am/1798",
   "tg:twentyfournews/326778",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hhum-bacahajtel-e-spanutjan-nakhapatrastutjan-depq-3-andz-kalanavvorvel-e-ngn-108747499.html",
-  "News.am:https://news.am/hy/news/1071759"
+  "News.am:https://news.am/hy/news/1071759",
+  "tg:fastsport_am/1797",
+  "tg:twentyfournews/326780",
+  "News.am:https://news.am/hy/news/1071762",
+  "168.am:https://168.am/?p=2508055",
+  "1in.am:https://www.1in.am/?p=3775169",
+  "News.am:https://news.am/hy/news/1071778",
+  "News.am:https://news.am/hy/news/1071777",
+  "tg:fastsport_am/1791",
+  "tg:shamshyan_com/56183"
  ],
  "titles": [
-  "Ըմբշամարտի ԱԱ. Արսեն Հարությունյանը պարտվեց 1/8 եզրափակիչում և կսպասի սփոփիչ գոտեմարտի հնարավորությանը",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Բյուրեղավան քաղաքում հոկտեմբերի 30-ին; Վթարային ջրանջատում Արագածոտնի մարզի Աշտարակ քաղաքում հոկտեմբերի 30-ին; Վթարային ջրանջատում Կոտայքի մարզի Նոր Հաճն քաղաքում հոկտեմբերի 30-ին",
   "Ռուսական հարձակման հետևանքով Դնեպրը մնացել է առանց էլեկտրականության․ Կիևում զոհ կա",
   "Սևակ Միքայելյանն ընտրվեց Կենտրոնական բանկի խորհրդի անդամ",
   "Ֆուտզալի Հայաստանի ազգային հավաքականը նոյեմբերի 1-5-ը մարզական հավաք կանցկացնի",
@@ -3301,7 +3299,9 @@
   "⚽ Bologna FC 1909 2–1 AC Monza",
   "Թրամփ․ ԱՄՆ-ն ոչնչացրել է Իրանի միջուկային ներուժը, սակայն դեռ մեկ-երկու օբյեկտի հարց կա լուծելու",
   "ՀՀ–ում բացահայտել է սպանության նախապատրաստության դեպք, 3 անձ կալանավորվել է. ՆԳՆ",
-  "Գերմանիայի խոշորագույն արհմիությունը գործադուլներ է սկսել՝ աշխատավարձերի և զբաղվածության երաշխիքների պահանջով"
+  "Գերմանիայի խոշորագույն արհմիությունը գործադուլներ է սկսել՝ աշխատավարձերի և զբաղվածության երաշխիքների պահանջով",
+  "⚽ Brentford FC 2–0 Nottingham Forest FC",
+  "Շղթայական ավտովթար՝ Երևանում․ Իսակովի պողոտայում բախվել են «Lexus»-ը, «Toyota Camry»-ն,  «Kia Optima»-ն, «Nissan X-Trail»-ը, «Ford»-ը և «Լադա»-ն․ ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւԹ"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,20 +3320,12 @@
   "Sputnik Արմենիա"
  ],
  "pending": {
-  "tg:fastsport_am/1797": {
-   "score": 7,
-   "since": 1793530969.8893728
-  },
-  "tg:fastsport_am/1791": {
-   "score": 7,
-   "since": 1793530969.8893728
-  },
   "Armsport.am:https://armsport.am/?p=612390": {
    "score": 5,
    "since": 1793531873.2644093
   }
  },
- "last_post": 1793533322.4242327,
+ "last_post": 1793533933.776739,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
@@ -3341,5 +3333,5 @@
  "top_used": {
   "2026-11-01": 15
  },
- "last_sport": 1793532787.7963762
+ "last_sport": 1793533713.7797868
 }
