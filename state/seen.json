@@ -1,20 +1,5 @@
 {
  "seen": [
-  "Hetq:https://hetq.am/hy/article/185093",
-  "tg:shamshyan_com/55990",
-  "tg:twentyfournews/326277",
-  "tg:factoram/74880",
-  "News.am:https://news.am/hy/news/1071190",
-  "Hetq:https://hetq.am/hy/article/185094",
-  "Factor.am:https://factor.am/?p=1075523",
-  "Aravot.am:https://www.aravot.am/?p=1589989",
-  "168.am:https://168.am/?p=2506342",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/shiraki-marzpety-kazatvi-pashtvonic-rdi-hascein-arats-grarman-hamar-pashinjani-pataskhany-108651389.html",
-  "tg:shamshyan_com/55989",
-  "tg:twentyfournews/326276",
-  "tg:factoram/74879",
-  "News.am:https://news.am/hy/news/1071189",
-  "Factor.am:https://factor.am/?p=1075527",
   "Aravot.am:https://www.aravot.am/?p=1590049",
   "168.am:https://168.am/?p=2506339",
   "1in.am:https://www.1in.am/?p=3773999",
@@ -2999,10 +2984,24 @@
   "News.am:https://news.am/hy/news/1071740",
   "Factor.am:https://factor.am/?p=1076397",
   "tg:twentyfournews/326754",
-  "News.am:https://news.am/hy/news/1071756"
+  "News.am:https://news.am/hy/news/1071756",
+  "tg:shamshyan_com/56171",
+  "tg:fastsport_am/1786",
+  "tg:twentyfournews/326758",
+  "Aravot.am:https://www.aravot.am/?p=1590617",
+  "168.am:https://168.am/?p=2508010",
+  "1in.am:https://www.1in.am/?p=3775109",
+  "tg:shamshyan_com/56170",
+  "tg:fastsport_am/1785",
+  "tg:twentyfournews/326757",
+  "News.am:https://news.am/hy/news/1071742",
+  "168.am:https://168.am/?p=2508008",
+  "Armsport.am:https://armsport.am/?p=612398",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hajtni-e-mahacats-zintsarajvoghi-inqnutjuny--na-mi-qani-amsic-kavarter-tsarajutjuny-108743565.html",
+  "News.am:https://news.am/hy/news/1071760",
+  "tg:fastsport_am/1784"
  ],
  "titles": [
-  "Խոշոր ավտովթար՝ Մուսալեռում. բախվել են «BMW»-ն, «Nissan X-Trail»-ը և «Toyota»-ն. մեքենաներից մեկն էլ բախվել է կայանված 2 ավտոցիստեռնի. «BMW»-ում եղած ոստիկանության 4 աշխատակիցներից մեկին տեղափոխել են ",
   "Ուկրաինան դադարեցրել է հարվածները ռուսական նավթավերամշակման գործարաններին․ WSJ",
   "Էլեկտրաէներգիայի պլանային անջատումներ",
   "Կաշառքի դեպքով ձերբակալվել են ՀԿԱԾ Շիրակի տարածքային ստորաբաժանման պետն ու ևս երկու պաշտոնյա",
@@ -3301,7 +3300,8 @@
   "Ուկրաինան հարվածել է Ռուսաստանի խոշորագույն նավթավերամշակման գործարաններից մեկին։",
   "Ֆլորիդայում ձերբակալել են մանկապղծության մեջ կասկածվող 281 անձի․ նրանց թվում են Disney-ի և Universal-ի 17 աշխատակիցներ",
   "Միչիգանում տղամարդու են ձերբակալել՝ ՀԴԲ ղեկավարին սպանության սպառնալիքներ հնչեցնելու մեղադրանքով",
-  "ԱԺ-ում կմեկնարկեն 2027 թվականի պետական բյուջեի նախնական քննարկումները․ ներկա կլինի Նիկոլ Փաշինյանը"
+  "ԱԺ-ում կմեկնարկեն 2027 թվականի պետական բյուջեի նախնական քննարկումները․ ներկա կլինի Նիկոլ Փաշինյանը",
+  "Միլանը պայմանավորվել է Մարկուս Կրյոշեի հետ՝ որպես մարզական տնօրեն"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,14 +3319,19 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {},
- "last_post": 1793522946.836835,
+ "pending": {
+  "tg:fastsport_am/1783": {
+   "score": 5,
+   "since": 1793524606.2208743
+  }
+ },
+ "last_post": 1793524628.036066,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-11-01": 7
+  "2026-11-01": 8
  },
- "last_sport": 1793514879.9282727
+ "last_sport": 1793524628.0360703
 }
