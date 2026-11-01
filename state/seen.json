@@ -1,14 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/juneskoi-kentrvonakajanum-teghi-e-unecel-atsharjani-tsnndjan-150amjakin-nvirvats-gitazhvoghvov-108660671.html",
-  "tg:twentyfournews/326329",
-  "News.am:https://news.am/hy/news/1071246",
-  "168.am:https://168.am/?p=2506471",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/inch-khndirner-uni-hajkakan-baletn-ajsor-zrujc-hkhsh-vastakavvor-artist-anna-marikjani-het-108659976.html",
-  "168.am:https://168.am/?p=2506467",
-  "tg:twentyfournews/326326",
-  "tg:twentyfournews/326330",
-  "tg:twentyfournews/326328",
   "tg:twentyfournews/326327",
   "tg:twentyfournews/326335",
   "tg:RadarARM/82006",
@@ -2999,11 +2990,18 @@
   "168.am:https://168.am/?p=2508140",
   "News.am:https://news.am/hy/news/1071813",
   "tg:RadarARM/82098",
-  "Aravot.am:https://www.aravot.am/?p=1590648"
+  "Aravot.am:https://www.aravot.am/?p=1590648",
+  "tg:twentyfournews/326823",
+  "Armsport.am:https://armsport.am/?p=612429",
+  "News.am:https://news.am/hy/news/1071792",
+  "1in.am:https://www.1in.am/?p=3775118",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/inchpes-pashtpanel-hh-sahmanamerdz-shrjannerum-aprvoghnerin-minchev-sahmanazatumy-azatkhanjan-108696397.html",
+  "tg:twentyfournews/326822",
+  "168.am:https://168.am/?p=2507681",
+  "Factor.am:https://factor.am/?p=1076458",
+  "168.am:https://168.am/?p=2508156"
  ],
  "titles": [
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում հոկտեմբերի 30-ին",
-  "🤝 ACF Fiorentina 2–2 Atalanta BC",
   "Ուսուցիչների դրույքաչափը կարող է բարձրացվել մինչև 300 հազար դրամ․ նախագիծ",
   "Europa Press. Իսպանական Գրանադա քաղաքում զինամթերքի գործարանում հզոր պայթյուն է որոտացել",
   "🗣«Հայաստան» խմբակցությունը չի պատրաստվում մասնակցել նոր Սահմանադրության ընդունմանն ուղղված որևէ գործընթացի և դեմ է քվեարկելու իշխանության առաջարկած սահմանադրական փոփոխություններին։",
@@ -3301,7 +3299,9 @@
   "Էլեկտրաէներգիայի պլանային անջատումներ",
   "Ուսումն ավարտելուց հետո 3 տարի ՀՀ-ում աշխատելը՝ պարտադիր զինվորական ծառայությունից ազատվելու պայման",
   "🟨 Ըստ ադրբեջանական ԶԼՄ-ների՝ Դոնալդ Թրամփն Իլհամ Ալիևին հրավիրել է Մայամիում կայանալիք G20-ի գագաթնաժողովին։",
-  "Հայաստանի ըմբիշները ընդամենը մեկ մեդալ նվաճեցին աշխարհի առաջնությունում"
+  "Հայաստանի ըմբիշները ընդամենը մեկ մեդալ նվաճեցին աշխարհի առաջնությունում",
+  "Նոր Նորքի 9 զանգվածներում և Կոտայքի մի քանի բնակավայրերում ջուր չի լինի",
+  "Ավանի պատանեկան շախմատի դպրոցում անցկացվեց Արցախյան պատերազմում զոհված Հայկազ Մկրտչյանի հիշատակին նվիրված շախմատի վեցերորդ ամենամյա հուշամրցաշարը"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793550190.537898,
+ "last_post": 1793551114.503273,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
