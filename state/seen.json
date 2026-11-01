@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1075411",
-  "tg:twentyfournews/326246",
-  "tg:twentyfournews/326245",
-  "tg:twentyfournews/326253",
-  "168.am:https://168.am/?p=2506240",
-  "tg:shamshyan_com/55982",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/ispaniajum-bvoghvoqi-cujcer-en-sksvel-tvoledvojum-gnacqneri-bakhumic-hetvo-kadrer-108646951.html",
-  "News.am:https://news.am/hy/news/1071141",
-  "tg:shamshyan_com/55985",
-  "tg:twentyfournews/326259",
-  "tg:RadarARM/81987",
   "tg:factoram/74876",
   "News.am:https://news.am/hy/news/1071170",
   "Factor.am:https://factor.am/?p=1075443",
@@ -2999,12 +2988,20 @@
   "Armsport.am:https://armsport.am/?p=612376",
   "News.am:https://news.am/hy/news/1071726",
   "Aravot.am:https://www.aravot.am/?p=1590609",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/irany-britaniaji-tagavvorakan-navatvormy-ev-oduzhy-tshanachel-e-ahabekchakan-kazmakerputjunner-108739056.html"
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/irany-britaniaji-tagavvorakan-navatvormy-ev-oduzhy-tshanachel-e-ahabekchakan-kazmakerputjunner-108739056.html",
+  "tg:shamshyan_com/56159",
+  "tg:twentyfournews/326731",
+  "Factor.am:https://factor.am/?p=1076378",
+  "Aravot.am:https://www.aravot.am/?p=1590610",
+  "168.am:https://168.am/?p=2507981",
+  "News.am:https://news.am/hy/news/1071728",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/erevanum-3-anchapahas-tghaneri-tsajrahegh-tsanr-vitshakum-teghapvokhel-en-hivandanvoc--108739183.html",
+  "News.am:https://news.am/hy/news/1071737",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hradzgutjun-alabamaji-marzadashtum-ka-zvoh-ev-tuzhatsner-108739300.html",
+  "tg:twentyfournews/326730",
+  "News.am:https://news.am/hy/news/1071724"
  ],
  "titles": [
-  "ԿԱՐԵՆ ԱՍԼԱՆՅԱՆԸ՝ ԸՄԲՇԱՄԱՐՏԻ ՀՈՒՆԱՀՌՈՄԵԱԿԱՆ ՈՃԻ ԱՇԽԱՐՀԻ ՉԵՄՊԻՈՆ 🥇🇦🇲",
-  "🟧 Համաշխարհային կրիպտոարժույթի շուկաներից Binance-ը ենթարկվել է հաքերային հարձակման։ Ըստ տարածվող լուրերի՝ հարթակից արդեն դուրս է հանվել 1.8-2-5 մլրդ դոլար։ Հասցված վնասը նախնական գնահատմամբ կարող է կ",
-  "ԱՄՆ–ում ուղղաթիռներ են բախվել. կա 3 զոհ",
   "UFC-ն թարմացրել է վարկանիշային աղյուսակը. ովքեր են առաջատարներն ու ինչ դիրք ունի Արման Ծառուկյանը",
   "Ջրանջատումներ՝ Պլանային ջրանջատում Երևանում և  Կոտայքի մարզում նոյեմբերի  3/4-ին",
   "Ուկրաինական անօդաչու թռչող սարքերը հարձակվել են Սամարայի մարզում գտնվող Նովոկույբիշևսկի նավթավերամշակման գործարանի վրա։",
@@ -3301,7 +3298,10 @@
   "Ռուսաստանի ԶՈւ-ն Սումիի մարզի երկաթուղային կայարանում օբյեկտներ է խոցել․ ՊՆ",
   "Ի՞նչ գնահատականներ է ստացել Մխիթարյանը Միլանի դեմ ծանր պարտությունից հետո",
   "Անկարգություններն ու կողոպուտները ստվեր են գցել Գերմանիայում երիտասարդների զանգվածային բողոքի ցույցերի վրա",
-  "Իրանը Բրիտանիայի թագավորական նավատորմը և օդուժը ճանաչել է ահաբեկչական կազմակերպություններ"
+  "Իրանը Բրիտանիայի թագավորական նավատորմը և օդուժը ճանաչել է ահաբեկչական կազմակերպություններ",
+  "WSJ. Թրամփը Նեթանյահուի հետ քննարկել է Իրանին նոր հարվածներ հասցնելու հարցը",
+  "Հրաձգություն Ալաբամայի մարզադաշտում. կա զոհ և տուժածներ",
+  "Իրանը հայտարարել է, որ Իսրայելը Իրանից հետո պատրաստվում է հարվածել Թուրքիային և Սաուդյան Արաբիային"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,13 +3319,8 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "News.am:https://news.am/hy/news/1071724": {
-   "score": 5,
-   "since": 1793514625.6243818
-  }
- },
- "last_post": 1793515254.9423234,
+ "pending": {},
+ "last_post": 1793515951.5644114,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
