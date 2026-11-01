@@ -1,18 +1,5 @@
 {
  "seen": [
-  "Aravot.am:https://www.aravot.am/?p=1590049",
-  "168.am:https://168.am/?p=2506339",
-  "1in.am:https://www.1in.am/?p=3773999",
-  "tg:shamshyan_com/55988",
-  "tg:twentyfournews/326275",
-  "News.am:https://news.am/hy/news/1071187",
-  "Factor.am:https://factor.am/?p=1075499",
-  "168.am:https://168.am/?p=2506333",
-  "tg:twentyfournews/326274",
-  "News.am:https://news.am/hy/news/1071181",
-  "168.am:https://168.am/?p=2506329",
-  "tg:twentyfournews/326273",
-  "News.am:https://news.am/hy/news/1071174",
   "168.am:https://168.am/?p=2506326",
   "tg:twentyfournews/326272",
   "News.am:https://news.am/hy/news/1071176",
@@ -2999,10 +2986,22 @@
   "Armsport.am:https://armsport.am/?p=612398",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261101/hajtni-e-mahacats-zintsarajvoghi-inqnutjuny--na-mi-qani-amsic-kavarter-tsarajutjuny-108743565.html",
   "News.am:https://news.am/hy/news/1071760",
-  "tg:fastsport_am/1784"
+  "tg:fastsport_am/1784",
+  "tg:shamshyan_com/56173",
+  "tg:twentyfournews/326762",
+  "tg:RadarARM/82092",
+  "tg:mil_armenia/19738",
+  "News.am:https://news.am/hy/news/1071744",
+  "Aravot.am:https://www.aravot.am/?p=1590622",
+  "168.am:https://168.am/?p=2507885",
+  "tg:twentyfournews/326761",
+  "168.am:https://168.am/?p=2508013",
+  "tg:twentyfournews/326760",
+  "tg:twentyfournews/326759",
+  "tg:shamshyan_com/56172",
+  "tg:fastsport_am/1783"
  ],
  "titles": [
-  "Ուկրաինան դադարեցրել է հարվածները ռուսական նավթավերամշակման գործարաններին․ WSJ",
   "Էլեկտրաէներգիայի պլանային անջատումներ",
   "Կաշառքի դեպքով ձերբակալվել են ՀԿԱԾ Շիրակի տարածքային ստորաբաժանման պետն ու ևս երկու պաշտոնյա",
   "Ավտովթար՝ Կոտայքի մարզում․ «Opel»-ը բախվել է բաժանարար գոտում եղած ծառերին ու հայտնվել հանդիպակաց երթևեկելի հատվածում. վթարային իրավիճակ ստեղծած վարորդը դիմել է փախուստի. ՖՈՏՈՌԵՊՈՐՏԱԺ, ՏԵՍԱՆՅՈւԹ",
@@ -3301,7 +3300,8 @@
   "Ֆլորիդայում ձերբակալել են մանկապղծության մեջ կասկածվող 281 անձի․ նրանց թվում են Disney-ի և Universal-ի 17 աշխատակիցներ",
   "Միչիգանում տղամարդու են ձերբակալել՝ ՀԴԲ ղեկավարին սպանության սպառնալիքներ հնչեցնելու մեղադրանքով",
   "ԱԺ-ում կմեկնարկեն 2027 թվականի պետական բյուջեի նախնական քննարկումները․ ներկա կլինի Նիկոլ Փաշինյանը",
-  "Միլանը պայմանավորվել է Մարկուս Կրյոշեի հետ՝ որպես մարզական տնօրեն"
+  "Միլանը պայմանավորվել է Մարկուս Կրյոշեի հետ՝ որպես մարզական տնօրեն",
+  "Գասպերինին գովեստի խոսքեր է հղել «Ռոմայի» հարձակմանը՝ Ուդինեզեի նկատմամբ հաղթանակից հետո"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3319,19 +3319,14 @@
   "1in.am",
   "Sputnik Արմենիա"
  ],
- "pending": {
-  "tg:fastsport_am/1783": {
-   "score": 5,
-   "since": 1793524606.2208743
-  }
- },
- "last_post": 1793524628.036066,
+ "pending": {},
+ "last_post": 1793525521.989957,
  "digest_last": {
   "ՀԷՑ": 1793365541.7090728,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-11-01": 8
+  "2026-11-01": 9
  },
- "last_sport": 1793524628.0360703
+ "last_sport": 1793525521.9899616
 }
