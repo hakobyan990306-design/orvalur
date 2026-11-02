@@ -1,23 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2506634",
-  "tg:shamshyan_com/56011",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/belgvorvodi-marzum-ukrainakan-atsi-pajtjuni-hetevanqvov-kin-e-mahacel-108664049.html",
-  "Aravot.am:https://www.aravot.am/?p=1590140",
-  "Factor.am:https://factor.am/?p=1075687",
-  "168.am:https://168.am/?p=2506551",
-  "168.am:https://168.am/?p=2506604",
-  "tg:twentyfournews/326351",
-  "tg:RadarARM/82009",
-  "Factor.am:https://factor.am/?p=1075658",
-  "Aravot.am:https://www.aravot.am/?p=1590156",
-  "1in.am:https://www.1in.am/?p=3774208",
-  "tg:twentyfournews/326350",
-  "Armsport.am:https://armsport.am/?p=612026",
-  "168.am:https://168.am/?p=2506663",
-  "1in.am:https://www.1in.am/?p=3774221",
-  "168.am:https://168.am/?p=2506613",
-  "Armsport.am:https://armsport.am/?p=612062",
   "168.am:https://168.am/?p=2506673",
   "tg:twentyfournews/326349",
   "168.am:https://168.am/?p=2506659",
@@ -2999,11 +2981,27 @@
   "1in.am:https://www.1in.am/?p=3775225",
   "1in.am:https://www.1in.am/?p=3775221",
   "tg:twentyfournews/326853",
-  "1in.am:https://www.1in.am/?p=3775231"
+  "1in.am:https://www.1in.am/?p=3775231",
+  "tg:twentyfournews/326857",
+  "tg:RadarARM/82103",
+  "Factor.am:https://factor.am/?p=1076490",
+  "Aravot.am:https://www.aravot.am/?p=1590581",
+  "168.am:https://168.am/?p=2508239",
+  "1in.am:https://www.1in.am/?p=3774824",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261102/rd-zun-odesaji-marzum-khvocel-e-neptun-hhh-neri-ardzakman-kajanqneri-pahman-vajry-pn-108763560.html",
+  "tg:shamshyan_com/56200",
+  "tg:twentyfournews/326856",
+  "News.am:https://news.am/hy/news/1071847",
+  "Factor.am:https://factor.am/?p=1076486",
+  "168.am:https://168.am/?p=2508242",
+  "1in.am:https://www.1in.am/?p=3775243",
+  "tg:twentyfournews/326855",
+  "1in.am:https://www.1in.am/?p=3775240",
+  "News.am:https://news.am/hy/news/1071848",
+  "tg:shamshyan_com/56201",
+  "1in.am:https://www.1in.am/?p=3775246"
  ],
  "titles": [
-  "Ուկրաինան վերսկսել է ռուսական նավթավերամշակման գործարանների վրա հարձակումները. Նովակ",
-  "Գևորգ Թամամյանը կարող է հայտնվել ԱՀԿ գլխավոր տնօրենի ընտրության եզրափակիչ եռյակում",
   "Կանադայի բնության հարցերով պետքարտուղարի պատվիրակությունն այցելել է Հայոց ցեղասպանության թանգարան",
   "🟨 Հռոմի Լեւոն XIV պապը փոստով քվեաթերթիկ է ուղարկել Չիկագոյից ԱՄՆ միջանկյալ ընտրությունների համար՝ դառնալով առաջին պապը, որ մասնակցում է ԱՄՆ ընտրություններին։",
   "Վրաստանն ու Ադրբեջանը պայմանավորվել են արագացնել սահմանազատման և սահմանագծման գործընթացը",
@@ -3301,7 +3299,9 @@
   "Բրիտանական անօդաչու թռչող սարքն առաջին անգամ օգտագործվել է Լա Մանշում ռուսաստանյան նավերին հետևելու համար",
   "Արարատ–Արմենիան հանդես է եկել հայտարարությամբ",
   "Ռուսաստանի զինվшծ ուժերը nչնչացրել են Ուկրաինայի ԶՈւ անօդաչու թռչող սարքերի բազաները Խարկովի մարզում",
-  "Լարսը բաց է"
+  "Լարսը բաց է",
+  "Բանակում մահվան հերթական դեպքը. Սևանում սգում են 19-ամյա Տիգրանի համար I ԼՈՒՐԵՐ I 09:30",
+  "Հայաստանի հրաձգության հավաքականը սկսում է պայքարն աշխարհի վարկանիշային առաջնությունում"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,13 +3320,13 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793597406.1405966,
+ "last_post": 1793598469.7456093,
  "digest_last": {
   "ՀԷՑ": 1793592732.4963472,
   "Վեոլիա Ջուր": 1793369167.4922686
  },
  "top_used": {
-  "2026-11-02": 6
+  "2026-11-02": 7
  },
  "last_sport": 1793596366.6326795
 }
