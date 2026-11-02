@@ -1,16 +1,5 @@
 {
  "seen": [
-  "Factor.am:https://factor.am/?p=1075713",
-  "Aravot.am:https://www.aravot.am/?p=1590149",
-  "168.am:https://168.am/?p=2506652",
-  "News.am:https://news.am/hy/news/1071281",
-  "Aravot.am:https://www.aravot.am/?p=1590147",
-  "168.am:https://168.am/?p=2506649",
-  "News.am:https://news.am/hy/news/1071282",
-  "168.am:https://168.am/?p=2506646",
-  "News.am:https://news.am/hy/news/1071277",
-  "168.am:https://168.am/?p=2506643",
-  "168.am:https://168.am/?p=2506637",
   "168.am:https://168.am/?p=2506634",
   "tg:shamshyan_com/56011",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261029/belgvorvodi-marzum-ukrainakan-atsi-pajtjuni-hetevanqvov-kin-e-mahacel-108664049.html",
@@ -2999,10 +2988,20 @@
   "1in.am:https://www.1in.am/?p=3774803",
   "tg:twentyfournews/326851",
   "Armsport.am:https://armsport.am/?p=612455",
-  "tg:twentyfournews/326850"
+  "tg:twentyfournews/326850",
+  "tg:twentyfournews/326854",
+  "News.am:https://news.am/hy/news/1071838",
+  "1in.am:https://www.1in.am/?p=3775237",
+  "News.am:https://news.am/hy/news/1071837",
+  "1in.am:https://www.1in.am/?p=3775234",
+  "1in.am:https://www.1in.am/?p=3775228",
+  "1in.am:https://www.1in.am/?p=3775218",
+  "1in.am:https://www.1in.am/?p=3775225",
+  "1in.am:https://www.1in.am/?p=3775221",
+  "tg:twentyfournews/326853",
+  "1in.am:https://www.1in.am/?p=3775231"
  ],
  "titles": [
-  "Վենսը Ռեզայիին ուղղված նամակում կոչ է արել որոշել միջուկային խնդրի շուրջ իրանցի բանակցողներին. WP",
   "Ուկրաինան վերսկսել է ռուսական նավթավերամշակման գործարանների վրա հարձակումները. Նովակ",
   "Գևորգ Թամամյանը կարող է հայտնվել ԱՀԿ գլխավոր տնօրենի ընտրության եզրափակիչ եռյակում",
   "Կանադայի բնության հարցերով պետքարտուղարի պատվիրակությունն այցելել է Հայոց ցեղասպանության թանգարան",
@@ -3301,7 +3300,8 @@
   "Գրիլիշը ժամանակավորապես հեռացվել է իր թիմի հիմնական կազմից",
   "Բրիտանական անօդաչու թռչող սարքն առաջին անգամ օգտագործվել է Լա Մանշում ռուսաստանյան նավերին հետևելու համար",
   "Արարատ–Արմենիան հանդես է եկել հայտարարությամբ",
-  "Ռուսաստանի զինվшծ ուժերը nչնչացրել են Ուկրաինայի ԶՈւ անօդաչու թռչող սարքերի բազաները Խարկովի մարզում"
+  "Ռուսաստանի զինվшծ ուժերը nչնչացրել են Ուկրաինայի ԶՈւ անօդաչու թռչող սարքերի բազաները Խարկովի մարզում",
+  "Լարսը բաց է"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1793596509.4253569,
+ "last_post": 1793597406.1405966,
  "digest_last": {
   "ՀԷՑ": 1793592732.4963472,
   "Վեոլիա Ջուր": 1793369167.4922686
