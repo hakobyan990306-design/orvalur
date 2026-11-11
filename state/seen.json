@@ -1,24 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1073563",
-  "Factor.am:https://factor.am/?p=1078781",
-  "168.am:https://168.am/?p=2512899",
-  "tg:twentyfournews/328241",
-  "News.am:https://news.am/hy/news/1073555",
-  "168.am:https://168.am/?p=2512936",
-  "tg:twentyfournews/328240",
-  "168.am:https://168.am/?p=2512928",
-  "tg:twentyfournews/328244",
-  "tg:RadarARM/82338",
-  "tg:factoram/75171",
-  "Armsport.am:https://armsport.am/?p=613169",
-  "News.am:https://news.am/hy/news/1073568",
-  "Factor.am:https://factor.am/?p=1078774",
-  "Aravot.am:https://www.aravot.am/?p=1592176",
-  "168.am:https://168.am/?p=2512860",
-  "1in.am:https://www.1in.am/?p=3777961",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261109/putiny-hajtararel-e-aph-um-anvtangutjan-amrapndman-karevvorutjan-masin-109103869.html",
-  "tg:twentyfournews/328243",
   "News.am:https://news.am/hy/news/1073566",
   "News.am:https://news.am/hy/news/1073538",
   "News.am:https://news.am/hy/news/1073536",
@@ -2999,10 +2980,28 @@
   "1in.am:https://www.1in.am/?p=3778807",
   "tg:shamshyan_com/56757",
   "tg:twentyfournews/328711",
-  "tg:RadarARM/82435"
+  "tg:RadarARM/82435",
+  "tg:twentyfournews/328714",
+  "News.am:https://news.am/hy/news/1074162",
+  "168.am:https://168.am/?p=2514556",
+  "tg:twentyfournews/328713",
+  "News.am:https://news.am/hy/news/1074161",
+  "tg:twentyfournews/328716",
+  "News.am:https://news.am/hy/news/1074164",
+  "Factor.am:https://factor.am/?p=1079688",
+  "Aravot.am:https://www.aravot.am/?p=1592897",
+  "168.am:https://168.am/?p=2514570",
+  "1in.am:https://www.1in.am/?p=3778770",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261111/qushnery-hajtararel-e-vor-vaghy-uitkvofi-het-kmekni-rd-handipelu-putini-het-109223279.html",
+  "digest:veolia:1a3da1b80a98",
+  "veolia:1a3da1b80a98",
+  "veolia:4bc889056dd8",
+  "tg:twentyfournews/328715",
+  "News.am:https://news.am/hy/news/1074163",
+  "Aravot.am:https://www.aravot.am/?p=1592896",
+  "168.am:https://168.am/?p=2514566"
  ],
  "titles": [
-  "Լուիս Էնրիկեն գերազանցել է ՊՍԺ-ի պատմական ռեկորդը",
   "Էբոլա հիվանդության հաստատված դեպքերը՝ ըստ երկրների",
   "Արա Աբրահամյանը գնում է թոշակի. ո՞վ կփոխարինի. «Հրապարակ»",
   "Մարտինեսը նշել է՝ ինչն է խանգարել Արգենտինային հաղթել ԱԱ-2026-ում",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում նոյեմբերի 11-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Սյունիքի մարզի Գորիս քաղաքում նոյեմբերի 11-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում նոյեմբերի 11-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Ավան վարչական շրջանում նոյեմբերի 11-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Էրեբունի վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Կոտայքի մարզի Հրազդան քաղաքում նոյեմբերի 11-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Էրեբունի վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Կոտայքի մարզի Հրազդան քաղաքում նոյեմբերի 11-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ-Զեյթուն վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Երևանի Աջափնյակ վարչական շրջանում նոյեմբերի 11-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794392588.8537319,
+ "last_post": 1794398966.3560052,
  "digest_last": {
   "ՀԷՑ": 1794316178.8907359,
   "Վեոլիա Ջուր": 1794392588.8537338
