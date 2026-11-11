@@ -1,23 +1,5 @@
 {
  "seen": [
-  "News.am:https://news.am/hy/news/1073431",
-  "Hetq:https://hetq.am/hy/article/185308",
-  "Factor.am:https://factor.am/?p=1078686",
-  "Aravot.am:https://www.aravot.am/?p=1592107",
-  "168.am:https://168.am/?p=2512697",
-  "1in.am:https://www.1in.am/?p=3777767",
-  "tg:twentyfournews/328147",
-  "News.am:https://news.am/hy/news/1073439",
-  "168.am:https://168.am/?p=2512694",
-  "tg:twentyfournews/328149",
-  "tg:factoram/75159",
-  "News.am:https://news.am/hy/news/1073441",
-  "Factor.am:https://factor.am/?p=1078690",
-  "Aravot.am:https://www.aravot.am/?p=1592108",
-  "168.am:https://168.am/?p=2512700",
-  "1in.am:https://www.1in.am/?p=3777737",
-  "tg:shamshyan_com/56575",
-  "tg:twentyfournews/328151",
   "tg:RadarARM/82314",
   "News.am:https://news.am/hy/news/1073436",
   "168.am:https://168.am/?p=2512702",
@@ -2999,10 +2981,27 @@
   "1in.am:https://www.1in.am/?p=3778497",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261111/zangvatsajin-hardzakum-rd-taratsashrjanneri-vra-erku-marzum-kan-zvoher-ev-tuzhatsner-109203477.html",
   "tg:twentyfournews/328605",
-  "News.am:https://news.am/hy/news/1074042"
+  "News.am:https://news.am/hy/news/1074042",
+  "News.am:https://news.am/hy/news/1074047",
+  "168.am:https://168.am/?p=2514268",
+  "tg:twentyfournews/328608",
+  "168.am:https://168.am/?p=2514251",
+  "tg:shamshyan_com/56733",
+  "tg:twentyfournews/328610",
+  "tg:RadarARM/82419",
+  "News.am:https://news.am/hy/news/1074046",
+  "Factor.am:https://factor.am/?p=1079514",
+  "Aravot.am:https://www.aravot.am/?p=1592752",
+  "168.am:https://168.am/?p=2514282",
+  "1in.am:https://www.1in.am/?p=3778659",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261111/irany-argentinaji-rtsu-n-ev-rou-n-tshanachel-e-ahabekchakan-kazmakerputjunner-zlm-109204765.html",
+  "digest:veolia:94d4970d33d9",
+  "veolia:94d4970d33d9",
+  "veolia:54707feed776",
+  "tg:shamshyan_com/56732",
+  "tg:twentyfournews/328609"
  ],
  "titles": [
-  "Նոյեմբերի 1-ից ուժի մեջ են մտնում օտարերկրացիներին կացության կարգավիճակ տրամադրելու նոր կարգավորումները",
   "Ուկրաինայի դեմ պատերազմում զոհված ռուս զինծառայողների թիվը կարող է գերազանցել 500 հազարը",
   "🟨 Լեհաստանի ՍԴ նախագահը մի խումբ պատգամավորների հետ մոտեցել է ՍԴ շենքի մուտքին, սակայն ոստիկանությունը թույլ չի տվել նրանց ներս մտնել։",
   "Էփշտեյնի գործը. Շոտլանդիայի ոստիկանությունը ստուգում է Բալմորալ թագավորական դղյակում կանանց թրաֆիքինգի մասին տեղեկությունները",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Լոռու մարզի Վանաձոր քաղաքում նոյեմբերի 10-ին; Վթարային ջրանջատում Կոտայքի մարզում նոյեմբերի 10-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 10-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ Զեյթուն վարչական շրջանում նոյեմբերի 10-ին",
-  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 11-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 11-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 11-ին"
+  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 11-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 11-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 11-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Վայոց Ձորի մարզի Վայք քաղաքում նոյեմբերի 11-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794316178.8907342,
+ "last_post": 1794378045.859565,
  "digest_last": {
   "ՀԷՑ": 1794316178.8907359,
-  "Վեոլիա Ջուր": 1794298008.8227067
+  "Վեոլիա Ջուր": 1794378045.859567
  },
  "top_used": {
   "2026-11-02": 8
