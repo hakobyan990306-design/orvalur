@@ -1,23 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2513099",
-  "tg:shamshyan_com/56625",
-  "tg:twentyfournews/328301",
-  "tg:RadarARM/82355",
-  "Hetq:https://hetq.am/hy/article/185320",
-  "Factor.am:https://factor.am/?p=1078916",
-  "Aravot.am:https://www.aravot.am/?p=1592304",
-  "168.am:https://168.am/?p=2513114",
-  "1in.am:https://www.1in.am/?p=3778031",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261109/erevani-erebunimuracan-khachmerukum-vraertic-mahacatsy-buzhqujr-er-109117523.html",
-  "tg:shamshyan_com/56624",
-  "tg:twentyfournews/328300",
-  "Hetq:https://hetq.am/hy/article/185318",
-  "Hetq:https://hetq.am/hy/article/185319",
-  "Factor.am:https://factor.am/?p=1078849",
-  "Aravot.am:https://www.aravot.am/?p=1592305",
-  "168.am:https://168.am/?p=2513134",
-  "1in.am:https://www.1in.am/?p=3778055",
   "Aravot.am:https://www.aravot.am/?p=1592295",
   "168.am:https://168.am/?p=2513141",
   "1in.am:https://www.1in.am/?p=3778047",
@@ -2999,10 +2981,27 @@
   "Aravot.am:https://www.aravot.am/?p=1592963",
   "168.am:https://168.am/?p=2514766",
   "1in.am:https://www.1in.am/?p=3778886",
-  "tg:shamshyan_com/56773"
+  "tg:shamshyan_com/56773",
+  "Hetq:https://hetq.am/hy/article/185390",
+  "168.am:https://168.am/?p=2514769",
+  "tg:twentyfournews/328760",
+  "Hetq:https://hetq.am/hy/article/185392",
+  "168.am:https://168.am/?p=2514682",
+  "tg:twentyfournews/328762",
+  "tg:RadarARM/82448",
+  "tg:fastsportstv/27186",
+  "Armsport.am:https://armsport.am/?p=613354",
+  "News.am:https://news.am/hy/news/1074223",
+  "Hetq:https://hetq.am/hy/article/185391",
+  "Factor.am:https://factor.am/?p=1079849",
+  "Aravot.am:https://www.aravot.am/?p=1592965",
+  "168.am:https://168.am/?p=2514777",
+  "1in.am:https://www.1in.am/?p=3778895",
+  "digest:veolia:8e60ac509f27",
+  "veolia:8e60ac509f27",
+  "tg:twentyfournews/328761"
  ],
  "titles": [
-  "Արա Աբրահամյանը գնում է թոշակի. ո՞վ կփոխարինի. «Հրապարակ»",
   "Մարտինեսը նշել է՝ ինչն է խանգարել Արգենտինային հաղթել ԱԱ-2026-ում",
   "ԱՄՆ դատարանն արգելել է Թրամփի վարչակազմին ահաբեկել ընտրական հանձնաժողովների աշխատակիցներին",
   "Ըմբշամարտի ԱԱ. Մրցումային նախավերջին օրը Հայաստանն ունի երեք ներկայացուցիչ",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Ավան վարչական շրջանում նոյեմբերի 11-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Էրեբունի վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Կոտայքի մարզի Հրազդան քաղաքում նոյեմբերի 11-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ-Զեյթուն վարչական շրջանում նոյեմբերի 11-ին; Վթարային ջրանջատում Երևանի Աջափնյակ վարչական շրջանում նոյեմբերի 11-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Լոռու մարզի Վանաձոր քաղաքում նոյեմբերի 11-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Լոռու մարզի Վանաձոր քաղաքում նոյեմբերի 11-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Տավուշի մարզի Բերդ քաղաքում նոյեմբերի 12-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794399878.3991027,
+ "last_post": 1794416207.3724709,
  "digest_last": {
   "ՀԷՑ": 1794316178.8907359,
-  "Վեոլիա Ջուր": 1794399878.3991048
+  "Վեոլիա Ջուր": 1794416207.3724723
  },
  "top_used": {
   "2026-11-02": 8
