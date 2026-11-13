@@ -1,24 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/82409",
-  "tg:mil_armenia/19821",
-  "Armsport.am:https://armsport.am/?p=613291",
-  "News.am:https://news.am/hy/news/1073993",
-  "Factor.am:https://factor.am/?p=1079482",
-  "Aravot.am:https://www.aravot.am/?p=1592724",
-  "168.am:https://168.am/?p=2514142",
-  "1in.am:https://www.1in.am/?p=3778538",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261110/hajastanem-ashkharhaqaghaqakan-khelagarutjan-qrvonikvon-109134302.html",
-  "News.am:https://news.am/hy/news/1074006",
-  "168.am:https://168.am/?p=2514133",
-  "tg:twentyfournews/328576",
-  "tg:factoram/75222",
-  "News.am:https://news.am/hy/news/1073997",
-  "Factor.am:https://factor.am/?p=1079250",
-  "Aravot.am:https://www.aravot.am/?p=1592727",
-  "168.am:https://168.am/?p=2514139",
-  "1in.am:https://www.1in.am/?p=3778544",
-  "tg:twentyfournews/328575",
   "Aravot.am:https://www.aravot.am/?p=1592725",
   "168.am:https://168.am/?p=2514153",
   "168.am:https://168.am/?p=2514136",
@@ -2999,10 +2980,28 @@
   "News.am:https://news.am/hy/news/1074681",
   "Factor.am:https://factor.am/?p=1080730",
   "tg:twentyfournews/329114",
-  "News.am:https://news.am/hy/news/1074692"
+  "News.am:https://news.am/hy/news/1074692",
+  "tg:fastsport_am/1957",
+  "Hetq:https://hetq.am/hy/article/185446",
+  "168.am:https://168.am/?p=2516053",
+  "1in.am:https://www.1in.am/?p=3779611",
+  "tg:fastsport_am/1956",
+  "168.am:https://168.am/?p=2516050",
+  "tg:shamshyan_com/56880",
+  "tg:fastsport_am/1958",
+  "tg:twentyfournews/329117",
+  "Armsport.am:https://armsport.am/?p=613534",
+  "News.am:https://news.am/hy/news/1074682",
+  "Hetq:https://hetq.am/hy/article/185447",
+  "Factor.am:https://factor.am/?p=1080762",
+  "Aravot.am:https://www.aravot.am/?p=1593477",
+  "168.am:https://168.am/?p=2516055",
+  "1in.am:https://www.1in.am/?p=3779600",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261113/orakargum-nman-harc-chunenq-patgamavvory-uzhegh-hajastani-bvojkvoti-masin-109325594.html",
+  "digest:veolia:d233d6c915cb",
+  "veolia:d233d6c915cb"
  ],
  "titles": [
-  "ԱՄՆ-ը ծրագրում է արտաքսել թալիբների՝ իշխանության վերադառնալուց հետո փախուստի դիմած ավելի քան 150 աֆղանցու",
   "Ալեքսանդրա Գրիգորյանը Հայաստանի առաջին մեդալն է նվաճել ծանրամարտի ԱԱ-ում",
   "Բելգորոդի մարզում 1 մարդ զոհվել է, 4-ը՝ վիրավորվել Ուկրաինայի ԶՈւ–ի հարվածներից. մարզպետ",
   "«Մեծ քսանյակի» երկրների նախարարները հրաժարվել են համատեղ լուսանկարից՝ Լավրովի ներկայության պատճառով",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 13-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Տավուշի մարզի Նոյեմբերյան քաղաքում նոյեմբերի 13-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում նոյեմբերի 13-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 13-ին",
-  "Լույսի անջատումներ՝ Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 16-ին; Երևանի Աջափնյակ վարչական շրջան, նոյեմբերի 16-ին; Երևանի Էրեբունի վարչական շրջան, նոյեմբերի 16-ին"
+  "Լույսի անջատումներ՝ Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 16-ին; Երևանի Աջափնյակ վարչական շրջան, նոյեմբերի 16-ին; Երևանի Էրեբունի վարչական շրջան, նոյեմբերի 16-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Եղվարդ  քաղաքում նոյեմբերի 13/14-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794575165.4026093,
+ "last_post": 1794583343.98578,
  "digest_last": {
   "ՀԷՑ": 1794575165.4026113,
-  "Վեոլիա Ջուր": 1794557889.5272121
+  "Վեոլիա Ջուր": 1794583343.9857817
  },
  "top_used": {
   "2026-11-02": 8
