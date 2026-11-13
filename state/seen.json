@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:twentyfournews/328500",
-  "tg:RadarARM/82393",
-  "tg:mil_armenia/19807",
-  "News.am:https://news.am/hy/news/1073911",
-  "Hetq:https://hetq.am/hy/article/185353",
-  "Factor.am:https://factor.am/?p=1079302",
-  "Aravot.am:https://www.aravot.am/?p=1592584",
-  "168.am:https://168.am/?p=2513678",
-  "1in.am:https://www.1in.am/?p=3778415",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261110/arsen-gevvorgjany-hertakan-zvohn-e-ynddimadir-uzheri-hamategh-hajtararutjuny-109170966.html",
-  "tg:twentyfournews/328499",
-  "News.am:https://news.am/hy/news/1073919",
-  "Hetq:https://hetq.am/hy/article/185355",
-  "Factor.am:https://factor.am/?p=1079337",
-  "Aravot.am:https://www.aravot.am/?p=1592589",
-  "168.am:https://168.am/?p=2513857",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261110/mip-y-handznararel-e-usumnasirel-arsen-gevvorgjani-mahvan-depqy-109171148.html",
-  "tg:twentyfournews/328506",
   "News.am:https://news.am/hy/news/1073918",
   "Hetq:https://hetq.am/hy/article/185354",
   "Aravot.am:https://www.aravot.am/?p=1592587",
@@ -2999,10 +2981,27 @@
   "tg:twentyfournews/329045",
   "tg:RadarARM/82528",
   "News.am:https://news.am/hy/news/1074592",
-  "Aravot.am:https://www.aravot.am/?p=1593327"
+  "Aravot.am:https://www.aravot.am/?p=1593327",
+  "Factor.am:https://factor.am/?p=1080488",
+  "168.am:https://168.am/?p=2515673",
+  "tg:twentyfournews/329047",
+  "News.am:https://news.am/hy/news/1074593",
+  "News.am:https://news.am/hy/news/1074597",
+  "tg:shamshyan_com/56855",
+  "tg:twentyfournews/329049",
+  "News.am:https://news.am/hy/news/1074596",
+  "Factor.am:https://factor.am/?p=1080482",
+  "Aravot.am:https://www.aravot.am/?p=1593326",
+  "168.am:https://168.am/?p=2515714",
+  "1in.am:https://www.1in.am/?p=3779481",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261113/emum-paraktum-e-arajacel-rusastani-het-banakcvoghi-yntrutjan-pattsharvov-109304599.html",
+  "digest:veolia:6194272204e6",
+  "veolia:6194272204e6",
+  "tg:shamshyan_com/56854",
+  "tg:twentyfournews/329048",
+  "News.am:https://news.am/hy/news/1074599"
  ],
  "titles": [
-  "Հորմուզի նեղուցում ծովային ականի բախվելու հետևանքով չորրորդ նավթային սուպերտանկերն է բռնկվել․ ԻՀՊԿ",
   "Շենքն արցախցիների տնօրինումից վերցնելու դեպքում «Արցախ TV»-ն կզրկվի եթեր ապահովելու վերջին հնարավորությունից․ «Փաստ»",
   "ԱՄՆ-ը ծրագրում է արտաքսել թալիբների՝ իշխանության վերադառնալուց հետո փախուստի դիմած ավելի քան 150 աֆղանցու",
   "Ալեքսանդրա Գրիգորյանը Հայաստանի առաջին մեդալն է նվաճել ծանրամարտի ԱԱ-ում",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 12/13-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում նոյեմբերի 12/13-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Վայոց Ձորի մարզի Վայք քաղաքում նոյեմբերի 13-ին; Վթարային ջրանջատում Գեղաքունիքի մարզի Սևան քաղաքում նոյեմբերի 13-ին; Վթարային ջրանջատում Կոտայքի մարզի Հրազդան քաղաքում նոյեմբերի 13-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 13-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Տավուշի մարզի Նոյեմբերյան քաղաքում նոյեմբերի 13-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում նոյեմբերի 13-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Տավուշի մարզի Նոյեմբերյան քաղաքում նոյեմբերի 13-ին; Վթարային ջրանջատում Արմավիրի մարզի Արմավիր քաղաքում նոյեմբերի 13-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 13-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794557889.5272107,
+ "last_post": 1794559704.1430004,
  "digest_last": {
   "ՀԷՑ": 1794489744.9254112,
   "Վեոլիա Ջուր": 1794557889.5272121
