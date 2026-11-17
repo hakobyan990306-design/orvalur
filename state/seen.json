@@ -1,22 +1,5 @@
 {
  "seen": [
-  "tg:factoram/75347",
-  "News.am:https://news.am/hy/news/1074870",
-  "Hetq:https://hetq.am/hy/article/185461",
-  "168.am:https://168.am/?p=2516542",
-  "1in.am:https://www.1in.am/?p=3780037",
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261114/bdkhn-kasecrec-datavvorner-masis-melqvonjani-ev-gevvorg-pvoghvosjani-liazvorutjunnery-109351339.html",
-  "tg:shamshyan_com/56937",
-  "News.am:https://news.am/hy/news/1074851",
-  "1in.am:https://www.1in.am/?p=3779956",
-  "tg:twentyfournews/329256",
-  "tg:RadarARM/82567",
-  "News.am:https://news.am/hy/news/1074872",
-  "Factor.am:https://factor.am/?p=1080962",
-  "Aravot.am:https://www.aravot.am/?p=1593619",
-  "168.am:https://168.am/?p=2516616",
-  "1in.am:https://www.1in.am/?p=3779959",
-  "News.am:https://news.am/hy/news/1074854",
   "Aravot.am:https://www.aravot.am/?p=1593617",
   "168.am:https://168.am/?p=2516278",
   "tg:twentyfournews/329258",
@@ -2999,10 +2982,26 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261117/hrdeh-e-brnkvel-erevani-tevvosjan-pvoghvocum-gtnvvogh-restvoranneric-mekum-109451162.html",
   "tg:fastsport_am/1986",
   "tg:twentyfournews/329781",
-  "168.am:https://168.am/?p=2518212"
+  "168.am:https://168.am/?p=2518212",
+  "1in.am:https://www.1in.am/?p=3780870",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261117/aprilic-ver-zapvorvozhiei-aeki-15-ashkhatakic-e-mahacel-rd-agn-109451567.html",
+  "168.am:https://168.am/?p=2518218",
+  "tg:shamshyan_com/57121",
+  "tg:twentyfournews/329783",
+  "News.am:https://news.am/hy/news/1075420",
+  "Factor.am:https://factor.am/?p=1081816",
+  "Aravot.am:https://www.aravot.am/?p=1594277",
+  "168.am:https://168.am/?p=2518230",
+  "1in.am:https://www.1in.am/?p=3780888",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261117/rdic-ekvogh-hvosqeri-yndhatman-depqum-hh-tntesutjany-zgali-ankum-e-sparnum-tavadjan-109408786.html",
+  "digest:veolia:489465b15993",
+  "veolia:489465b15993",
+  "veolia:ab9220cdeb97",
+  "News.am:https://news.am/hy/news/1075437",
+  "Aravot.am:https://www.aravot.am/?p=1594272",
+  "168.am:https://168.am/?p=2518014"
  ],
  "titles": [
-  "Քրիստիան Պուլիշիչը մինչև 2031 թվականը երկարաձգել է պայմանագիրը «Միլանի» հետ",
   "Ֆիդանն ու Ռուբիոն քննարկել են Ուկրաինայում պատերազմը և ԱՄՆ-Իրան բանակցությունները",
   "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները",
   "Տիեզերքում պայթյուն է գրանցվել, որի ակտիվությունը տևել է 27 օր",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզում նոյեմբերի 17-ին; Վթարային ջրանջատում Տավուշի մարզի Նոյեմբերյան քաղաքում նոյեմբերի 17-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 17-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Ծաղկաձոր քաղաքում նոյեմբերի 19-ին; Վթարային ջրանջատում Կոտայքի մարզի Չարենցավան քաղաքում նոյեմբերի 17-ին",
-  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 18-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 18-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 18-ին"
+  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 18-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 18-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 18-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզում նոյեմբերի 17/18-ին; Վթարային ջրանջատում Արմավիրի մարզի Լուկաշին գյուղում  նոյեմբերի 17/18-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794921447.7991836,
+ "last_post": 1794929643.5395808,
  "digest_last": {
   "ՀԷՑ": 1794921447.7991855,
-  "Վեոլիա Ջուր": 1794920528.0336013
+  "Վեոլիա Ջուր": 1794929643.5395823
  },
  "top_used": {
   "2026-11-02": 8
