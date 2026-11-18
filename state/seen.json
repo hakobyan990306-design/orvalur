@@ -1,23 +1,5 @@
 {
  "seen": [
-  "tg:RadarARM/82581",
-  "News.am:https://news.am/hy/news/1074934",
-  "168.am:https://168.am/?p=2516755",
-  "1in.am:https://www.1in.am/?p=3780173",
-  "tg:twentyfournews/329326",
-  "News.am:https://news.am/hy/news/1074947",
-  "tg:shamshyan_com/56972",
-  "tg:twentyfournews/329329",
-  "News.am:https://news.am/hy/news/1074936",
-  "Aravot.am:https://www.aravot.am/?p=1593719",
-  "168.am:https://168.am/?p=2516759",
-  "1in.am:https://www.1in.am/?p=3780076",
-  "tg:twentyfournews/329328",
-  "Aravot.am:https://www.aravot.am/?p=1593717",
-  "168.am:https://168.am/?p=2516757",
-  "1in.am:https://www.1in.am/?p=3780185",
-  "tg:shamshyan_com/56973",
-  "tg:twentyfournews/329331",
   "Armsport.am:https://armsport.am/?p=613705",
   "News.am:https://news.am/hy/news/1074938",
   "Hetq:https://hetq.am/hy/article/185468",
@@ -2999,10 +2981,27 @@
   "News.am:https://news.am/hy/news/1075317",
   "Factor.am:https://factor.am/?p=1081924",
   "168.am:https://168.am/?p=2518390",
-  "1in.am:https://www.1in.am/?p=3781062"
+  "1in.am:https://www.1in.am/?p=3781062",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261118/hajastanum-2-nvor-kvomite-ksteghtsvi-pashtvonjanery-hamvozvats-en-bjurvokratian-ktulana-109427403.html",
+  "tg:twentyfournews/329856",
+  "News.am:https://news.am/hy/news/1075513",
+  "tg:twentyfournews/329855",
+  "News.am:https://news.am/hy/news/1075494",
+  "tg:twentyfournews/329858",
+  "News.am:https://news.am/hy/news/1075496",
+  "Hetq:https://hetq.am/hy/article/185517",
+  "Factor.am:https://factor.am/?p=1081930",
+  "Aravot.am:https://www.aravot.am/?p=1594355",
+  "168.am:https://168.am/?p=2518384",
+  "1in.am:https://www.1in.am/?p=3781095",
+  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261118/ukrainaji-zinuzhi-hamar-erkaki-nshanakutjan-berner-teghapvokhvogh-bernanav-e-khvocvel-rd-pn-109464422.html",
+  "digest:veolia:7ca78c5d11b1",
+  "veolia:7ca78c5d11b1",
+  "tg:twentyfournews/329857",
+  "News.am:https://news.am/hy/news/1075514",
+  "Aravot.am:https://www.aravot.am/?p=1594353"
  ],
  "titles": [
-  "Ֆիդանն ու Ռուբիոն քննարկել են Ուկրաինայում պատերազմը և ԱՄՆ-Իրան բանակցությունները",
   "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները",
   "Տիեզերքում պայթյուն է գրանցվել, որի ակտիվությունը տևել է 27 օր",
   "Հայաստանից՝ Էկվադոր. COP18-ը հյուրընկալող երկիրն ընտրված է",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Շենգավիթ վարչական շրջանում նոյեմբերի 17-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Ծաղկաձոր քաղաքում նոյեմբերի 19-ին; Վթարային ջրանջատում Կոտայքի մարզի Չարենցավան քաղաքում նոյեմբերի 17-ին",
   "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 18-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 18-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 18-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզում նոյեմբերի 17/18-ին; Վթարային ջրանջատում Արմավիրի մարզի Լուկաշին գյուղում  նոյեմբերի 17/18-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզում նոյեմբերի 17/18-ին; Վթարային ջրանջատում Արմավիրի մարզի Լուկաշին գյուղում  նոյեմբերի 17/18-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Վայոց Ձորի մարզի Ջերմուկ քաղաքում նոյեմբերի 18-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,10 +3320,10 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794929643.5395808,
+ "last_post": 1794983270.462421,
  "digest_last": {
   "ՀԷՑ": 1794921447.7991855,
-  "Վեոլիա Ջուր": 1794929643.5395823
+  "Վեոլիա Ջուր": 1794983270.4624226
  },
  "top_used": {
   "2026-11-02": 8
