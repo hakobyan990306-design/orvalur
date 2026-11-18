@@ -1,26 +1,5 @@
 {
  "seen": [
-  "168.am:https://168.am/?p=2516762",
-  "tg:shamshyan_com/56976",
-  "tg:twentyfournews/329334",
-  "News.am:https://news.am/hy/news/1074943",
-  "Hetq:https://hetq.am/hy/article/185470",
-  "Factor.am:https://factor.am/?p=1081023",
-  "Aravot.am:https://www.aravot.am/?p=1593724",
-  "168.am:https://168.am/?p=2516766",
-  "1in.am:https://www.1in.am/?p=3780191",
-  "tg:twentyfournews/329333",
-  "168.am:https://168.am/?p=2516770",
-  "tg:shamshyan_com/56978",
-  "tg:twentyfournews/329335",
-  "Armsport.am:https://armsport.am/?p=613707",
-  "News.am:https://news.am/hy/news/1074944",
-  "Factor.am:https://factor.am/?p=1081026",
-  "168.am:https://168.am/?p=2516767",
-  "1in.am:https://www.1in.am/?p=3780126",
-  "tg:shamshyan_com/56977",
-  "168.am:https://168.am/?p=2516785",
-  "tg:shamshyan_com/56975",
   "168.am:https://168.am/?p=2516781",
   "168.am:https://168.am/?p=2516779",
   "tg:twentyfournews/329337",
@@ -2999,10 +2978,30 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261118/putini-ev-chinastani-nakhagahi-banakcutjunnery-sharunakvel-en-nakhatshashi-yntacqum-109465271.html",
   "tg:twentyfournews/329861",
   "News.am:https://news.am/hy/news/1075516",
-  "Aravot.am:https://www.aravot.am/?p=1594358"
+  "Aravot.am:https://www.aravot.am/?p=1594358",
+  "Hetq:https://hetq.am/hy/article/185468",
+  "Factor.am:https://factor.am/?p=1081966",
+  "168.am:https://168.am/?p=2518422",
+  "tg:twentyfournews/329863",
+  "News.am:https://news.am/hy/news/1075518",
+  "Hetq:https://hetq.am/hy/article/185467",
+  "168.am:https://168.am/?p=2518402",
+  "Hetq:https://hetq.am/hy/article/185466",
+  "tg:shamshyan_com/57139",
+  "tg:twentyfournews/329865",
+  "tg:RadarARM/82668",
+  "News.am:https://news.am/hy/news/1075499",
+  "Hetq:https://hetq.am/hy/article/185469",
+  "Factor.am:https://factor.am/?p=1081945",
+  "Aravot.am:https://www.aravot.am/?p=1594362",
+  "168.am:https://168.am/?p=2518425",
+  "1in.am:https://www.1in.am/?p=3781113",
+  "digest:veolia:e982ebac5b81",
+  "veolia:e982ebac5b81",
+  "tg:twentyfournews/329864",
+  "News.am:https://news.am/hy/news/1075520"
  ],
  "titles": [
-  "Երևանում կայացած COP17-ում շուրջ 50 որոշում է ընդունվել․ Մաթևոսյանն ամփոփել է արդյունքները",
   "Տիեզերքում պայթյուն է գրանցվել, որի ակտիվությունը տևել է 27 օր",
   "Հայաստանից՝ Էկվադոր. COP18-ը հյուրընկալող երկիրն ընտրված է",
   "Ռեալը պատրաստ է Լիվերպուլի կիսապաշտպանի դիմաց առաջարկել իր երեք խաղացողներից որևէ մեկին",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Կոտայքի մարզի Ծաղկաձոր քաղաքում նոյեմբերի 19-ին; Վթարային ջրանջատում Կոտայքի մարզի Չարենցավան քաղաքում նոյեմբերի 17-ին",
   "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 18-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 18-ին; Երևանի Քանաքեռ Զեյթուն վարչական շրջան, նոյեմբերի 18-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզում նոյեմբերի 17/18-ին; Վթարային ջրանջատում Արմավիրի մարզի Լուկաշին գյուղում  նոյեմբերի 17/18-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Վայոց Ձորի մարզի Ջերմուկ քաղաքում նոյեմբերի 18-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Վայոց Ձորի մարզի Ջերմուկ քաղաքում նոյեմբերի 18-ին",
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Քանաքեռ Զեյթուն վարչական շրջանում նոյեմբերի 18-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1794983270.462421,
+ "last_post": 1794985072.3204865,
  "digest_last": {
   "ՀԷՑ": 1794921447.7991855,
   "Վեոլիա Ջուր": 1794983270.4624226
