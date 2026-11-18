@@ -1,22 +1,5 @@
 {
  "seen": [
-  "Sputnik Արմենիա:https://arm.sputniknews.ru/20261116/21-orja-buzhumic-hetvo-khnamqi-institut-chka-avanesjany-hvogekan-khndirnervov-andzanc-masin-109387119.html",
-  "tg:shamshyan_com/57023",
-  "tg:twentyfournews/329488",
-  "News.am:https://news.am/hy/news/1075113",
-  "Factor.am:https://factor.am/?p=1081217",
-  "News.am:https://news.am/hy/news/1075119",
-  "Factor.am:https://factor.am/?p=1081245",
-  "Aravot.am:https://www.aravot.am/?p=1593871",
-  "168.am:https://168.am/?p=2517235",
-  "1in.am:https://www.1in.am/?p=3780410",
-  "tg:twentyfournews/329493",
-  "News.am:https://news.am/hy/news/1075117",
-  "Factor.am:https://factor.am/?p=1081219",
-  "Aravot.am:https://www.aravot.am/?p=1593896",
-  "168.am:https://168.am/?p=2517232",
-  "tg:twentyfournews/329492",
-  "News.am:https://news.am/hy/news/1075066",
   "Aravot.am:https://www.aravot.am/?p=1593891",
   "168.am:https://168.am/?p=2517160",
   "tg:twentyfournews/329491",
@@ -2999,10 +2982,26 @@
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261118/5-orva-yntacqum-rusastanum-inqnatirnerneri-akanapatman-masin-mi-qani-ahazang-e-eghel-109490045.html",
   "digest:veolia:1767bb04530c",
   "veolia:1767bb04530c",
-  "tg:shamshyan_com/57179"
+  "tg:shamshyan_com/57179",
+  "tg:twentyfournews/329997",
+  "168.am:https://168.am/?p=2519003",
+  "tg:twentyfournews/329996",
+  "168.am:https://168.am/?p=2519000",
+  "tg:shamshyan_com/57182",
+  "tg:twentyfournews/329999",
+  "tg:factoram/75430",
+  "News.am:https://news.am/hy/news/1075681",
+  "Factor.am:https://factor.am/?p=1082290",
+  "Aravot.am:https://www.aravot.am/?p=1594552",
+  "168.am:https://168.am/?p=2518989",
+  "1in.am:https://www.1in.am/?p=3781406",
+  "digest:ena:3615fd88ece6",
+  "ena:3615fd88ece6",
+  "tg:shamshyan_com/57181",
+  "tg:twentyfournews/329998",
+  "168.am:https://168.am/?p=2518970"
  ],
  "titles": [
-  "Արսենալի ավագը կարող է կարիերան շարունակել եվրոպական մեկ այլ գրանդում",
   "Խամենեին կարգադրել է պատասխանել ցանկացած սպառնալիքի՝ առանց աշխարհագրական սահմանափակումների",
   "«Շերեմետևո» օդանավակայանի մոտ ԱԹՍ-ի բեկորներն են ընկել, հրդեհ է սկսվել",
   "Վանաձորում 6–ամյա երեխայի մահվան դեպքով մեղադրանք է առաջադրվել մորը",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Արաբկիր վարչական շրջանում նոյեմբերի 18-ին; Վթարային ջրանջատում Տավուշի մարզի Նոյեմբերյան քաղաքում նոյեմբերի 18-ին; Վթարային ջրանջատում Լոռու մարզի Վանաձոր քաղաքում նոյեմբերի 18-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Մալաթիա Սեբաստիա վարչական շրջանում նոյեմբերի 18-ին; Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 18-ին",
   "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 19-ին",
-  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 18-ին"
+  "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Կենտրոն վարչական շրջանում նոյեմբերի 18-ին",
+  "Լույսի անջատումներ՝ Երևանի Էրեբունի վարչական շրջան, նոյեմբերի 19-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1795012477.922248,
+ "last_post": 1795013378.2285237,
  "digest_last": {
   "ՀԷՑ": 1794921447.7991855,
   "Վեոլիա Ջուր": 1795005083.4212713
