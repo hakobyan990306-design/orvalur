@@ -1,26 +1,5 @@
 {
  "seen": [
-  "ena:3b5693b625ee",
-  "ena:2ec2fb0af173",
-  "ena:bcf2f9f22668",
-  "ena:449b7d4ce076",
-  "ena:4d1a0cd09ba0",
-  "ena:630726ac0a40",
-  "ena:9b67cbcf13ca",
-  "ena:91a356baee54",
-  "ena:ec098beacebc",
-  "ena:796468a1b7d3",
-  "ena:ebc0d0218e40",
-  "ena:eff31a62f981",
-  "ena:5c4af4851335",
-  "ena:e5acffcb9ce5",
-  "tg:fastsport_am/1990",
-  "tg:shamshyan_com/57287",
-  "tg:twentyfournews/330406",
-  "Aravot.am:https://www.aravot.am/?p=1595034",
-  "Aravot.am:https://www.aravot.am/?p=1595014",
-  "tg:shamshyan_com/57289",
-  "tg:twentyfournews/330408",
   "News.am:https://news.am/hy/news/1076168",
   "Factor.am:https://factor.am/?p=1083062",
   "Aravot.am:https://www.aravot.am/?p=1595036",
@@ -2999,10 +2978,30 @@
   "168.am:https://168.am/?p=2522039",
   "1in.am:https://www.1in.am/?p=3783184",
   "Sputnik Արմենիա:https://arm.sputniknews.ru/20261124/armavirum-kiny-tsetsel-e-amusnun-qarsh-e-tvel-khvotatsatsk-taratsq-u-ajrel-nran-109695384.html",
-  "tg:twentyfournews/330922"
+  "tg:twentyfournews/330922",
+  "News.am:https://news.am/hy/news/1076798",
+  "Factor.am:https://factor.am/?p=1083905",
+  "Aravot.am:https://www.aravot.am/?p=1595685",
+  "168.am:https://168.am/?p=2522028",
+  "1in.am:https://www.1in.am/?p=3783190",
+  "tg:twentyfournews/330925",
+  "168.am:https://168.am/?p=2522025",
+  "tg:twentyfournews/330924",
+  "tg:shamshyan_com/57482",
+  "tg:twentyfournews/330927",
+  "tg:fastsportstv/27231",
+  "Armsport.am:https://armsport.am/?p=614423",
+  "News.am:https://news.am/hy/news/1076769",
+  "Hetq:https://hetq.am/hy/article/185666",
+  "Factor.am:https://factor.am/?p=1083910",
+  "Aravot.am:https://www.aravot.am/?p=1595686",
+  "168.am:https://168.am/?p=2522045",
+  "1in.am:https://www.1in.am/?p=3783193",
+  "digest:ena:a106ccbe527d",
+  "ena:a106ccbe527d",
+  "tg:twentyfournews/330926"
  ],
  "titles": [
-  "«Թանկ» ու թվային Հայաստան․ ինչ է փոխվում օտարերկրացիների համար նոյեմբերի 1-ից",
   "Ավտոճանապարհներն անցանելի են",
   "Ֆրանսիայի խորհրդարանը հավանություն է տվել Google-ի, Netflix-ի, Amazon-ի և այլ արտասահմանյան հարթակների համար ինտերնետային տրաֆիկի հարկ սահմանելուն",
   "Մարկուս Թյուրամը նպատակ ունի վերադառնալ հավաքական և հաղթել Միլանյան դերբիում",
@@ -3301,7 +3300,8 @@
   "Ջրանջատումներ՝ Վթարային ջրանջատում Երևանի Մալաթիա Սեբաստիա վարչական շրջանում նոյեմբերի 22-ին; Վթարային ջրանջատում Երևանի Էրեբունի վարչական շրջանում նոյեմբերի 22-ին; Վթարային ջրանջատում Երևանի Դավթաշեն  վարչական շրջանում նոյեմբերի 22-ին",
   "Ջրանջատումներ՝ Վթարային ջրանջատում Սյունիքի մարզի Գորիս քաղաքում  նոյեմբերի 22-ին",
   "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 23-ին; Երևանի Նորք-Մարաշ վարչական շրջան, նոյեմբերի 23-ին; Արագածոտնի մարզ, նոյեմբերի 23-ին",
-  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 24-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 24-ին; Երևանի Քանաքեռ-Զեյթուն վարչական շրջան, նոյեմբերի 24-ին"
+  "Լույսի անջատումներ՝ Երևանի Կենտրոն վարչական շրջան, նոյեմբերի 24-ին; Երևանի Արաբկիր վարչական շրջան, նոյեմբերի 24-ին; Երևանի Քանաքեռ-Զեյթուն վարչական շրջան, նոյեմբերի 24-ին",
+  "Լույսի անջատումներ՝ Երևանի Ավան վարչական շրջան, նոյեմբերի 24-ին"
  ],
  "bootstrapped": [
   "Shamshyan.com",
@@ -3320,7 +3320,7 @@
   "Sputnik Արմենիա"
  ],
  "pending": {},
- "last_post": 1795440513.9962642,
+ "last_post": 1795505660.4885979,
  "digest_last": {
   "ՀԷՑ": 1795440513.9962656,
   "Վեոլիա Ջուր": 1795366029.3648093
